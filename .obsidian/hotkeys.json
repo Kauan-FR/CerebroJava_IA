@@ -42,15 +42,6 @@
       "key": "A"
     }
   ],
-  "editor:rename-heading": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
