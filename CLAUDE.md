@@ -57,6 +57,7 @@ exercicios/
 revisao/          SUA área. Espelha o nome do arquivo revisado.
 index.md          catálogo. Você mantém.
 log.md            timeline append-only. Você mantém.
+sistema/          documentação da ferramenta. Você lê, não escreve.
 ```
 
 Nome de arquivo: `kebab-case.md`. Espelhamento: `resumos/livros/ddd-cap3.md`
