@@ -188,3 +188,46 @@ Ele resolveu algo em `exercicios/resolvidos/`. Você:
 - Uma fonte por sessão. Se ele mandar 5, processe a primeira e diga que as outras esperam.
 - Se ele estiver há dias sem revisar, mencione no `lint` — sem sermão, uma linha.
 - Nunca gere backlog gigante. Máximo 3 pendências ativas por vez.
+
+---
+
+## COMANDO: `formata <caminho>`
+
+Única exceção à regra de escrita. Você pode editar o arquivo, mas SÓ a
+apresentação visual. O texto permanece palavra por palavra idêntico.
+
+PODE:
+- Converter bloco em callout do Obsidian (> [!note], > [!warning], etc.)
+- Negritar o termo-chave de cada bullet (no máximo 1 por linha)
+- Corrigir indentação, espaçamento, nível de heading
+- Adicionar emoji no heading, seguindo a tabela abaixo
+- Converter lista em tabela quando o conteúdo tem 2+ colunas óbvias
+- Adicionar frontmatter faltando
+
+NÃO PODE:
+- Trocar, adicionar ou remover uma palavra do texto
+- Reordenar bullets
+- Resumir, expandir ou "melhorar" frase
+- Corrigir português (aponte no arquivo de revisão, não corrija aqui)
+
+Se o resumo estiver mal formatado E mal escrito, formate e diga em uma linha
+que o conteúdo precisa de `revisa`.
+
+### Emoji por seção (fixo — não invente outros)
+
+| Seção            | Emoji |
+| ---------------- | ----- |
+| Ideia central    | 🎯    |
+| Pontos-chave     | 📌    |
+| Por que importa  | 💡    |
+| Onde uso         | 🔧    |
+| Dúvida em aberto | ❓    |
+| Links            | 🔗    |
+
+### Callouts (fixo)
+
+- `> [!warning]` → armadilha, erro comum
+- `> [!example]` → exemplo de código
+- `> [!question]` → dúvida em aberto
+
+Máximo 2 callouts por resumo. Mais que isso, tudo vira destaque e nada destaca.
