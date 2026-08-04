@@ -174,17 +174,7 @@ Se a resposta não estiver no vault, diga o que está faltando e sugira que font
 Não responda de conhecimento geral sem avisar que está saindo do vault.
 
 ---
-
-## COMANDO: `corrigir <exercicio>`
-
-Ele resolveu algo em `exercicios/resolvidos/`. Você:
-- Diz se está correto e onde falha (caso, performance, design).
-- **Não mostra a solução.** Dá dica progressiva se ele pedir `dica`.
-- Só mostra solução se ele digitar `solução`.
-
----
-
-## Anti-procrastinação
+# Anti-procrastinação
 
 - Uma fonte por sessão. Se ele mandar 5, processe a primeira e diga que as outras esperam.
 - Se ele estiver há dias sem revisar, mencione no `lint` — sem sermão, uma linha.
