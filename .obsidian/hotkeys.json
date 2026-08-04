@@ -13,14 +13,6 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "1"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
       "key": "2"
     }
   ],
@@ -31,6 +23,14 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
     }
   ]
 }
