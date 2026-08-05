@@ -1,12 +1,12 @@
 ---
 Data: 2026-08-05
 Tags:
-  - Configurações
+  - Configuração
 Texto: Configurações do sistema o qual essa nota esta relacionada
 ---
 ---
 #### Para que eu possa ter uma maior produtividade com o Obsidian, optei por não usar tanto o mouse, mas sim o teclado com a ajuda dos atalhos.
-
+ 
 - **Ativar barra lateral à esquerda** - `Alt + 1`
 - **Ativar barra lateral à direita** - `Alt + 2`
 - **Abrir configuração** - `Ctrl + Shift + S`

@@ -8,5 +8,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-emoji-toolbar",
-  "url-into-selection"
+  "url-into-selection",
+  "omnisearch"
 ]
