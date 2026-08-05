@@ -3,5 +3,8 @@
   "baseFontSize": 14,
   "interfaceFontFamily": "Kode Mono",
   "textFontFamily": "Kode Mono",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "cursor-smooth-obsidian"
+  ]
 }
