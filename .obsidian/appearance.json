@@ -1,4 +1,7 @@
 {
   "showRibbon": true,
-  "baseFontSize": 16
+  "baseFontSize": 14,
+  "interfaceFontFamily": "Kode Mono",
+  "textFontFamily": "Kode Mono",
+  "baseFontSizeAction": true
 }
