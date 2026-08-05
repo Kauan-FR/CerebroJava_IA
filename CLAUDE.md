@@ -69,7 +69,7 @@ Nome de arquivo: `kebab-case.md`. Espelhamento: `resumos/livros/ddd-cap3.md`
 
 ## Template de resumo (o que você espera encontrar)
 
-Máximo ~15 linhas. Se o resumo dele estiver muito maior, verifique se as informações estõa .
+Máximo ~15 linhas. Se o resumo dele estiver muito maior, verifique se as informações estão coerentes e logo em seguida, caso tenha alguma forma de resumir, sugira um resumo e espere aprovação.
 
 ```markdown
 ---
@@ -146,7 +146,7 @@ Não invente problema pra parecer útil.
 ## COMANDO: `indexa`
 
 Atualize `index.md`: lista de todas as páginas, agrupadas por pasta, cada uma com
-link `[[wikilink]]` + resumo de uma linha.
+link `[[wikilink]]` + resumo.
 
 Adicione entrada em `log.md`, sempre no formato:
 `## [YYYY-MM-DD] <ação> | <alvo>`
@@ -161,7 +161,7 @@ Varra o vault e reporte (em `revisao/lint-YYYY-MM-DD.md`):
 - Conceitos citados que não têm página em `conceitos/`
 - Páginas órfãs (sem link entrando)
 - Resumos sem fonte correspondente em `raw/`
-- Resumos com mais de 20 linhas (sinal de não-digestão)
+- Resumo que são muitos extensos e redundantes
 - Exercícios em `pendentes/` parados há mais de 14 dias
 
 Máximo 10 itens por lint, ordenados por importância. Lista longa não é acionável.
