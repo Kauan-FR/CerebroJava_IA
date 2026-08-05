@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Data": "date",
-    "Te": "text"
+    "Te": "text",
+    "Data Inicial": "date",
+    "Data Final": "date"
   }
 }
