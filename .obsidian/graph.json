@@ -5,13 +5,13 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Configuração  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15236514
       }
     }
   ],
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.44444444444444386,
-  "close": false
+  "close": true
 }
