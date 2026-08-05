@@ -1,6 +1,5 @@
 ---
-Data Final:
-Data Inicial: 2026-08-05
+Data: 2026-08-05
 Status: Iniciado
 tags:
   - Configuração
@@ -30,3 +29,11 @@ Texto: Configurações do sistema o qual essa nota esta relacionada
 
 4. Comando: `pergunta <dúvida>`
 	- Responde perguntas baseando-se na base de conhecimento que já possuo, caso essa base ela não esteja aqui, ele sugere onde encontrar.
+
+5. Comando: `formata <caminho>`
+	1. Converte bloco em callout;
+	2. Negritar o termo-chave do bullet;
+	3. Corrigi indentação, espaçamento e nível de heading;
+	4. Adiciona emoji no heading;
+	5. Converte lista em tabela quando o conteúdo tem 2+ colunas;
+	6. Adiciona frontmatter faltando;
