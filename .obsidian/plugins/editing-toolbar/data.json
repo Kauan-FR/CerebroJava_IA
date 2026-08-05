@@ -1,7 +1,7 @@
 {
   "lastVersion": "4.0.11",
   "aestheticStyle": "default",
-  "positionStyle": "fixed",
+  "positionStyle": "top",
   "menuCommands": [
     {
       "id": "editing-toolbar:ai-tools",
@@ -431,7 +431,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 610,
+  "cMenuWidth": 57,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,

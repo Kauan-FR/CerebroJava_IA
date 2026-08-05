@@ -16,5 +16,5 @@
 
 Esses são todos os atalhos os quais eu achei uteis de se usar
 O vídeo em questão que me ajudou a fazer esses atalhos foi [⚡️Obsidian: Atalhos para Ser Mais Produtivo!](https://www.youtube.com/watch?v=w043LcLbv2I)
-
+ 
  
