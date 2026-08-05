@@ -33,15 +33,7 @@
       "key": "1"
     }
   ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "A"
-    }
-  ],
+  "switcher:open": [],
   "app:delete-file": [
     {
       "modifiers": [
@@ -89,7 +81,7 @@
   "workspace:previous-tab": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowLeft"
     }
@@ -97,9 +89,27 @@
   "workspace:next-tab": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
     }
   ]
 }
