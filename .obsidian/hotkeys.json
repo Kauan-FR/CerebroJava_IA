@@ -119,5 +119,13 @@
       ],
       "key": "J"
     }
+  ],
+  "templater-obsidian:create-templates/Configurações.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }
