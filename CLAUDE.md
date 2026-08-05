@@ -189,6 +189,7 @@ Não responda de conhecimento geral sem avisar que está saindo do vault.
 apresentação visual. O texto permanece palavra por palavra idêntico.
 
 PODE:
+- Antes de qualquer coisa, revise toda a formatação antes de realizar a modificação e informe o que sera mudado e pergunte se pode alterar
 - Converter bloco em callout do Obsidian (> [!note], > [!warning], etc.)
 - Negritar o termo-chave de cada bullet (no máximo 1 por linha)
 - Corrigir indentação, espaçamento, nível de heading
