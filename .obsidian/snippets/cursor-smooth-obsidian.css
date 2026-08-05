@@ -1,54 +1,5 @@
 /* ===== Ninja Cursor =====  */
 
-.theme-dark .x-cursor {
-  background: white;
-  width: 1px;
-  transition: all 100ms !important;
-  transition: opacity;
-  top: calc( -2.5px - var(--header-height));;
-  height: calc(2.5px + var(--cursor-height));
-}
-
-.theme-light .x-cursor {
-  background: black;
-  width: 1px;
-  transition: all 100ms !important;
-  transition: opacity;
-  top: calc( -2.5px - var(--header-height));;
-  height: calc(2.5px + var(--cursor-height));
-}
-
-/* Esconde o cursor nativo  */
-.cm-content {
-  caret-color: transparent;
-}
-
-/* Desativa o efeito de movimento */
-.cursorWrapper .x-cursor::after {
-  display: none;
-}
-
-/* Desativa a animação da camada de cursor nativa */
-.cm-cursorLayer {
-  animation: none !important;
-}
-
-/* ===== Piscar ===== */
-
-.cursorWrapper .x-cursor0,
-.cursorWrapper .x-cursor1 {
-  animation: cursor-blink 1s 1s both infinite;
-}
-
-/* @keyframes cursor-blink {
-  0%   { opacity: 0.85; }
-  40%  { opacity: 0.85; }
-  50%  { opacity: 0.25; }
-  90%  { opacity: 0.25; }
-  100% { opacity: 0.85; }
-} */
-
-/* Styling for the Ninja Cursor */
 /* .theme-dark .x-cursor {
   background: white;
   width: 1px;
@@ -67,10 +18,28 @@
   height: calc(2.5px + var(--cursor-height));
 } */
 
-/* Hides Regular Cursor when Highlighting Text*/
-/* body:has(.x-cursor) .cm-editor * {
+/* Esconde o cursor nativo  */
+/* .cm-content {
   caret-color: transparent;
 } */
+
+/* Desativa o efeito de movimento */
+.cursorWrapper .x-cursor::after {
+  display: none;
+}
+
+/* Desativa a animação da camada de cursor nativa */
+.cm-cursorLayer {
+  animation: none !important;
+}
+
+@keyframes cursor-blink {
+  0%   { opacity: 0.85; }
+  40%  { opacity: 0.85; }
+  50%  { opacity: 0.25; }
+  90%  { opacity: 0.25; }
+  100% { opacity: 0.85; }
+}
 
 /* Disable movement effect */
 .cursorWrapper .x-cursor::after {
