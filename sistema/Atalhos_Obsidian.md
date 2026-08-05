@@ -5,26 +5,43 @@ Tags:
 Texto: Configurações do sistema o qual essa nota esta relacionada
 ---
 ---
-#### Para que eu possa ter uma maior produtividade com o Obsidian, optei por não usar tanto o mouse, mas sim o teclado com a ajuda dos atalhos.
- 
-- **Ativar barra lateral à esquerda** - `Alt + 1`
-- **Ativar barra lateral à direita** - `Alt + 2`
-- **Abrir configuração** - `Ctrl + Shift + S`
-- Navegação rápida: Abrir a troca rápida - `Ctrl + Shift + A`
-- Editar titulo do arquivo - `Ctrl + Shift + R`
-- **Excluir arquivo atual** - `Ctrl + Shift + D`
-- **Criar nova nota** - `Ctrl + N`
-- **Fechar aba atual** - `Ctrl + W`
-- Alternar menu - `Alt + 3`
-- Procurar: Procurar em todos os arquivos - `Ctrl + Shift + F`
-- **Explorador de arquivos: Criar nova pasta** - `Ctrl + Shift + L`
-- **Explorador de arquivos: Mostrar arquivo atual no explorador de arquivos** - `Ctrl + Shift + E`
-- Omnisearch: In-file search - `Ctrl + Shift + A`
-- Omnisearch: Vault search - ``Ctrl + Shift + V`
-- Emoji Toolbar: Open emoji picker - `Alt + J`
 
+## Para ter maior produtividade no Obsidian, optei por não usar tanto o mouse, mas sim o teclado com a ajuda dos atalhos.
 
-Esses são todos os atalhos os quais eu achei uteis de se usar
-O vídeo em questão que me ajudou a fazer esses atalhos foi [⚡️Obsidian: Atalhos para Ser Mais Produtivo!](https://www.youtube.com/watch?v=w043LcLbv2I)
- 
- 
+### Interface
+
+| Ação                            | Atalho             |
+| ------------------------------- | ------------------ |
+| Ativar barra lateral à esquerda | `Alt + 1`          |
+| Ativar barra lateral à direita  | `Alt + 2`          |
+| Alternar menu                   | `Alt + 3`          |
+| Abrir configurações             | `Ctrl + Shift + S` |
+
+### Arquivos
+
+| Ação                                | Atalho             |
+| ----------------------------------- | ------------------ |
+| Criar nova nota                     | `Ctrl + N`         |
+| Fechar aba atual                    | `Ctrl + W`         |
+| Editar título do arquivo            | `Ctrl + Shift + R` |
+| Excluir arquivo atual               | `Ctrl + Shift + D` |
+| Criar nova pasta                    | `Ctrl + Shift + L` |
+| Mostrar arquivo atual no explorador | `Ctrl + Shift + E` |
+
+### Busca e navegação
+
+| Ação                          | Atalho             |
+| ----------------------------- | ------------------ |
+| Abrir troca rápida            | `Ctrl + Shift + A` |
+| Procurar em todos os arquivos | `Ctrl + Shift + F` |
+| Omnisearch — busca no arquivo | `Ctrl + Shift + A` |
+| Omnisearch — busca no vault   | `Ctrl + Shift + V` |
+
+### Extras
+
+| Ação                   | Atalho    |
+| ---------------------- | --------- |
+| Abrir seletor de emoji | `Alt + J` |
+## Fonte
+
+[⚡️Obsidian: Atalhos para Ser Mais Produtivo!](https://www.youtube.com/watch?v=w043LcLbv2I)
