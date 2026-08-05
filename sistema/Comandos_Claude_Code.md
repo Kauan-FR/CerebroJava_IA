@@ -1,6 +1,5 @@
 ---
 Data: 2026-08-05
-Status: Iniciado
 tags:
   - Configuração
 Texto: Configurações do sistema o qual essa nota esta relacionada
