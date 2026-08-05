@@ -4,5 +4,7 @@
   "claude-code-ide",
   "ninja-cursor",
   "editing-toolbar",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-style-settings",
+  "templater-obsidian"
 ]

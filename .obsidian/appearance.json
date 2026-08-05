@@ -5,6 +5,8 @@
   "textFontFamily": "Kode Mono",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "cursor-smooth-obsidian"
-  ]
+    "cursor-smooth-obsidian",
+    "custom-background"
+  ],
+  "cssTheme": "AnuPpuccin"
 }
