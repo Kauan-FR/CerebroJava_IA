@@ -69,8 +69,7 @@ Nome de arquivo: `kebab-case.md`. Espelhamento: `resumos/livros/ddd-cap3.md`
 
 ## Template de resumo (o que você espera encontrar)
 
-Máximo ~15 linhas. Se o resumo dele estiver muito maior, aponte: resumo longo é
-resumo não digerido.
+Máximo ~15 linhas. Se o resumo dele estiver muito maior, verifique se as informações estõa .
 
 ```markdown
 ---
