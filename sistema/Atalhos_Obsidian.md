@@ -15,6 +15,8 @@
 - **Explorador de arquivos: Mostrar arquivo atual no explorador de arquivos** - `Ctrl + Shift + E`
 - Omnisearch: In-file search - `Ctrl + Shift + A`
 - Omnisearch: Vault search - ``Ctrl + Shift + V`
+- Emoji Toolbar: Open emoji picker - `Alt + J`
+
 
 Esses são todos os atalhos os quais eu achei uteis de se usar
 O vídeo em questão que me ajudou a fazer esses atalhos foi [⚡️Obsidian: Atalhos para Ser Mais Produtivo!](https://www.youtube.com/watch?v=w043LcLbv2I)

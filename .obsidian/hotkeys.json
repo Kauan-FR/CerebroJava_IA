@@ -111,5 +111,13 @@
       ],
       "key": "A"
     }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
   ]
 }
