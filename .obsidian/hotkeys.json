@@ -123,6 +123,16 @@
   "templater-obsidian:create-templates/Configurações.md": [
     {
       "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:create-templates/Configuração.md": [
+    {
+      "modifiers": [
+        "Alt",
         "Shift"
       ],
       "key": "1"

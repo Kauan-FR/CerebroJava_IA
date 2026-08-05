@@ -1,1 +1,7 @@
-Uma lista dos cursos para comprar do 1 a o utimo
+---
+Data:
+Tags:
+  - Configuração
+Texto: Configurações do sistema o qual essa nota esta relacionada
+---
+---
