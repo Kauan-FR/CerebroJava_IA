@@ -1,6 +1,6 @@
 /* ===== Ninja Cursor =====  */
 
-/* .theme-dark .x-cursor {
+.theme-dark .x-cursor {
   background: white;
   width: 1px;
   transition: all 100ms !important;
@@ -16,12 +16,12 @@
   transition: opacity;
   top: calc( -2.5px - var(--header-height));;
   height: calc(2.5px + var(--cursor-height));
-} */
+}
 
 /* Esconde o cursor nativo  */
-/* .cm-content {
+.cm-content {
   caret-color: transparent;
-} */
+}
 
 /* Desativa o efeito de movimento */
 .cursorWrapper .x-cursor::after {
