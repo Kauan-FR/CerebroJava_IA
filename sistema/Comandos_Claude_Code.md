@@ -10,4 +10,4 @@ Texto: Configurações do sistema o qual essa nota esta relacionada
 
 
 ### Aqui terá comandos uteis do claude code para que possa utilizar na produtividade e nas minhas anotações do Obsidian
-#### Caso seja nescsario 
+#### Caso seja nescessário a revisão do documento procure por [[CLAUDE]] 
