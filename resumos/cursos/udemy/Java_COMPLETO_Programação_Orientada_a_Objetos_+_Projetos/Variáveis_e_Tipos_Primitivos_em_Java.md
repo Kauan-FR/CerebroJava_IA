@@ -48,3 +48,5 @@ String nome = "João Alves";
 |                                       | double  |
 |         Um caractere Unicode          | char    |
 |           Valor verdadeiro            | boolean |
+## Camel Case
+
