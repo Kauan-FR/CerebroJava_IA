@@ -71,4 +71,4 @@ O camel case são ou fazem parte das boas praticas de um programador, no caso do
 
 ## Fonte
 
-[[]]
+[[Estrutura_Sequencial.pdf#page=4]] (p. 4-7)
