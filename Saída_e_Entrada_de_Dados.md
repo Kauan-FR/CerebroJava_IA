@@ -58,5 +58,7 @@ System.out.println("O Eduardo tem " + x + " anos de idade");
 ```
 String nome = Eduardo;
 int idade = 10;
+double renda = 100.0;
 
+System.out.println("") 
 ```
