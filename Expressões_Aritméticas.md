@@ -6,3 +6,4 @@ Texto: Resumo sobre Estrutura Sequencial no java
 ---
 ---
 
+## O que são Expressões Aritiméticas

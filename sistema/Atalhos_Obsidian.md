@@ -44,4 +44,6 @@ Texto: Configurações do sistema o qual essa nota esta relacionada
 | Abrir seletor de emoji | `Alt + J` |
 ## Fonte
 
-[⚡️Obsidian: Atalhos para Ser Mais Produtivo!](https://www.youtube.com/watch?v=w043LcLbv2I)
+- [⚡️Obsidian: Atalhos para Ser Mais Produtivo!](https://www.youtube.com/watch?v=w043LcLbv2I)
+- [Configurações ESSENCIAIS no Obsidian (todo usuário precisa disso)](https://youtu.be/u325wOUMgiQ)
+- [# 🚀 Top 5 Plugins ESSENCIAIS para Iniciantes no Obsidian! Não Ignore o #3!](https://youtu.be/zy-1NrYKca4)
