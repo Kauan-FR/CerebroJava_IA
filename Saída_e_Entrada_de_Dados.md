@@ -14,7 +14,7 @@ Paginas: 10-16
 
 ### Sintaxe
 
-A sintaxe de uma saída de dados em java é:
+##### A sintaxe de uma saída de dados em java é:
 
 ```
 System.out.print("Bom dia"); // Sem quebra de linha
@@ -22,7 +22,7 @@ System.out.print("Bom dia"); // Sem quebra de linha
 System.out.println("Bom dia"); // Com quebra de linha
 ```
 
-Essa sintaxe também é usada para receber valores de variáceis:
+##### Essa sintaxe também é usada para receber valores de variáveis:
 
 ```
 int y = 123;
@@ -30,7 +30,7 @@ int y = 123;
 System.out.println(y);
 ```
 
-As variáveis com ponto flutuante são escritas dentro aspas duplas junto com o símbolo de porcentagem(%), da seguinte maneira:
+##### As variáveis com ponto flutuante são escritas dentro aspas duplas junto com o símbolo de porcentagem(%), da seguinte maneira:
 
 ```
 double x = 10.123456
@@ -39,8 +39,17 @@ System.out.println("%.2f%n ", x);
 ```
 
 > [!info] Informação
-> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois caso essa sigla não esteja
+> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois caso essa sigla não esteja os dados irã sair desestruturados.
 
 > [!info] Observação
 > O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que o resultado terá.
+
+
+##### Uma outra forma de adicionar o valor de uma variável a saída é utilizando a expressão aritmética mais(+), dessa maneira:
+
+```
+int x = 10
+
+System.out.println("O Eduardo tem " + x + " anos de idade");
+```
 
