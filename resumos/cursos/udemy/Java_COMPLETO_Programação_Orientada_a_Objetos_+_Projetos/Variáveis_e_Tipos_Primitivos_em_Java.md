@@ -50,3 +50,4 @@ String nome = "João Alves";
 |           Valor verdadeiro            | boolean |
 ## Camel Case
 
+O camel case são ou fazem parte das boas praticas de um programador, no caso do camel case 
