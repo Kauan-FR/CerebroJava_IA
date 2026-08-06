@@ -38,13 +38,13 @@ Na linguagem java, os operadores que mais se diferencias dos que aprendemos nas 
 
 Os outros são idênticos a os que já aprendemos na escola.
 
-| Operador |     Significado     |
-|:--------:|:-------------------:|
-|   `+`    |       Adição        |
-|   `-`    |     Subtração       |
-|   `*`    |    Multiplicação    |
-|   `/`    |      Divisão        |
-|   `%`    | Resto da divisão    |
+| Operador |   Significado    |
+| :------: | :--------------: |
+|   `+`    |      Adição      |
+|   `-`    |    Subtração     |
+|   `*`    |  Multiplicação   |
+|   `/`    |     Divisão      |
+|   `%`    | Resto da divisão |
 
 ## Fonte
 [[Estrutura_Sequencial.pdf#]] (p. 1-3)
