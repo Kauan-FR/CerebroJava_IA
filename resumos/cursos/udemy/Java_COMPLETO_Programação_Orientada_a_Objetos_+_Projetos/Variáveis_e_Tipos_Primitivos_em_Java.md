@@ -51,19 +51,24 @@ String nome = "João Alves";
 ## Camel Case
 
 O camel case são ou fazem parte das boas praticas de um programador, no caso do camel case é a formatação da escrita das variáveis que:
-- Não pode começar com número, tem que começar ou com letra ou com anderline;
-- Não pode conter espaços, preencha com anderline;
+- Não pode começar com número, tem que começar ou com letra ou com `_`(anderline);
+- Não pode conter espaços, preencha com `_`(anderline);
 - Não pode ter acentuação.
 
 > [!failure] Errado
 > ```
 > int 5minutos;
-> int tempo de estudo
-> int salário
+> int tempo de estudo;
+> int salário;
 > ```
 
 >[!todo] Correto
 >```
 >int _5minutos;
->int tempo_de
+>int tempo_de_estudo;
+>int salario;
 >```
+
+## Fonte
+
+[[]]
