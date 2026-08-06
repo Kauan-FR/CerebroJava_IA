@@ -12,5 +12,4 @@ Paginas: "15"
 
 Formatar produtos, registro e medidas com printf.
 
-[[Exercício_Sáida_de_Dados]]
 [[Estrutura_Sequencial.pdf#page=15]]
