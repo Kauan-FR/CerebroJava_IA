@@ -32,7 +32,7 @@ Para que uma informação ela se torne uma variável, ela tem que ter as seguint
 ```
 int idade = 34;
 double altura = 1.75;
-char sexo = F;
+char sexo = 'F';
 String nome = "João Alves";  
 ```
 
