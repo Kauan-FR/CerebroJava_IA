@@ -14,9 +14,9 @@ Paginas: 10-16
 
 ### Sintaxe
 
-##### A sintaxe de uma saída de dados em java é:
+A sintaxe de uma saída de dados em java é:
 
-```
+```java
 System.out.print("Bom dia"); // Sem quebra de linha
 
 System.out.println("Bom dia"); // Com quebra de linha
@@ -24,15 +24,15 @@ System.out.println("Bom dia"); // Com quebra de linha
 
 ##### Essa sintaxe também é usada para receber valores de variáveis:
 
-```
+```java
 int y = 123;
 
 System.out.println(y);
 ```
 
-##### As variáveis com ponto flutuante são escritas dentro aspas duplas junto com o símbolo de porcentagem(%), da seguinte maneira:
+As variáveis com ponto flutuante são escritas dentro aspas duplas junto com o símbolo de porcentagem(%), da seguinte maneira:
 
-```
+```java
 double x = 10.123456
 
 System.out.printf("%.2f%n ", x);
@@ -45,17 +45,17 @@ System.out.printf("%.2f%n ", x);
 > O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que será arredondadas no resultado final.
 
 
-##### Uma outra forma de adicionar o valor de uma variável a saída é utilizando a expressão +(mais) para concatenação, dessa maneira:
+Uma outra forma de adicionar o valor de uma variável a saída é utilizando a expressão +(mais) para concatenação, dessa maneira:
 
-```
+```java
 int x = 10
 
 System.out.println("O Eduardo tem " + x + " anos de idade");
 ```
 
-##### Agora para juntar vários elementos em uma única saída é assim:
+Agora para juntar vários elementos em uma única saída é assim:
 
-```
+```java
 String nome = "Eduardo";
 int idade = 10;
 double renda = 100.0;
@@ -71,3 +71,8 @@ A tabela para referenciar essa estrutura é:
 | `%d`  | Para valores inteiros |
 | `%s`  | Para texto            |
 | `%n`  | Quebra de linha       |
+
+## Pergunta 
+
+`printf` e `println` fazem a mesma coisa quando você não vai formatar nada. Então **por que o `printf` existe?**
+
