@@ -21,7 +21,6 @@ double price2 = 650.50;
 double measure = 53.234567
 ```
 
-
 Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console: 
 
 ```
