@@ -5,13 +5,20 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Configuração  ",
       "color": {
         "a": 1,
         "rgb": 15236514
+      }
+    },
+    {
+      "query": "tag:#Estudo  ",
+      "color": {
+        "a": 1,
+        "rgb": 54783
       }
     }
   ],
