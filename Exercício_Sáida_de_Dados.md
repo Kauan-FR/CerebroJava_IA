@@ -4,7 +4,7 @@ Tags:
   - Exercício
 Texto: Exercício de fixação sobre Saída de Dados
 Fonte: raw/cursos/java/teoria/Estrutura_Sequencial.pdf
-Paginas: "15"
+Fonte 2: resumo/
 ---
 ---
 
