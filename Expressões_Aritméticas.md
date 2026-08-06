@@ -11,4 +11,6 @@ Texto: Resumo sobre Estrutura Sequencial no java
 São combinações de números e operadores que resultam em um valor numérico, sendo ele inteiro(possitívo) ou real(negativio).
 Eles representam operações básicas como adição, subtração, divisão, multiplicação, potenciação e módulo.
 
-O cálcu
+O cálculo ele tem uma ordem a ser seguida, que é:
+1. Resolve-se a potências(e raízes)
+2. Realizam-se as multiplicações e divisões 
