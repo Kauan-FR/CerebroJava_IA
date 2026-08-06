@@ -39,18 +39,18 @@ System.out.printf("%.2f%n ", x);
 ```
 
 > [!info] Informação
-> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois para essa saída de dados utilizamos o `printf` ao invés do `println` 
+> O uso do "%n" é obrigatório para que ocorra uma quebra de linha, pois para essa saída de dados utilizamos o `printf` ao invés do `println` 
 
 > [!info] Observação
 > O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que o resultado terá.
 
 
-##### Uma outra forma de adicionar o valor de uma variável a saída é utilizando a expressão aritmética mais(+), dessa maneira:
+##### Uma outra forma de adicionar o valor de uma variável a saída é utilizando a expressão +(mais) para concatenação, dessa maneira:
 
 ```
 int x = 10
 
-System.out.printf("O Eduardo tem " + x + " anos de idade");
+System.out.println("O Eduardo tem " + x + " anos de idade");
 ```
 
 ##### Agora para juntar vários elementos em uma única saída é assim:
