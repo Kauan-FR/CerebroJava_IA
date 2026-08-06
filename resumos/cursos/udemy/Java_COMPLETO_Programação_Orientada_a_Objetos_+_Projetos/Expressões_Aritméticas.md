@@ -45,3 +45,6 @@ Os outros são idênticos a os que já aprendemos na escola.
 |   `*`    |    Multiplicação    |
 |   `/`    |      Divisão        |
 |   `%`    | Resto da divisão    |
+
+## Fonte
+[[Estrutura_Sequencial.pdf#page=]]
