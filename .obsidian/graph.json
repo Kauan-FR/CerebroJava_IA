@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 54783
       }
+    },
+    {
+      "query": "tag:#Exercício  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
