@@ -47,4 +47,4 @@ Os outros são idênticos a os que já aprendemos na escola.
 |   `%`    | Resto da divisão    |
 
 ## Fonte
-[[Estrutura_Sequencial.pdf#page=]]
+[[Estrutura_Sequencial.pdf#]] (p. 1-3)
