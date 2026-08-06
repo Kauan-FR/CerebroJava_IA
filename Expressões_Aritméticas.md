@@ -16,3 +16,4 @@ O cálculo ele tem uma ordem a ser seguida, que é:
 2. Realizam-se as **multiplicações e divisões**
 3. Efetuam-se as **adições e subtrações** 
 
+O uso de parênteses, colchetes e chaves serve para alterar
