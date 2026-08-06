@@ -42,7 +42,7 @@ System.out.printf("%.2f%n ", x);
 > O uso do "%n" é obrigatório para que ocorra uma quebra de linha, pois para essa saída de dados utilizamos o `printf` ao invés do `println` 
 
 > [!info] Observação
-> O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que o resultado terá.
+> O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que será arredondadas no resultado final.
 
 
 ##### Uma outra forma de adicionar o valor de uma variável a saída é utilizando a expressão +(mais) para concatenação, dessa maneira:
