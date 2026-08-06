@@ -12,5 +12,7 @@ São combinações de números e operadores que resultam em um valor numérico, 
 Eles representam operações básicas como adição, subtração, divisão, multiplicação, potenciação e módulo.
 
 O cálculo ele tem uma ordem a ser seguida, que é:
-1. Resolve-se a potências(e raízes)
-2. Realizam-se as multiplicações e divisões 
+1. Resolve-se a **potências(e raízes)**
+2. Realizam-se as **multiplicações e divisões**
+3. Efetuam-se as **adições e subtrações** 
+
