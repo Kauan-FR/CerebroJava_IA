@@ -39,7 +39,7 @@ System.out.printf("%.2f%n ", x);
 ```
 
 > [!info] Informação
-> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois para essa saida de
+> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois para essa saída de dados utilizamos o `printf` ao invés do `println` 
 
 > [!info] Observação
 > O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que o resultado terá.
@@ -50,15 +50,15 @@ System.out.printf("%.2f%n ", x);
 ```
 int x = 10
 
-System.out.println("O Eduardo tem " + x + " anos de idade");
+System.out.printf("O Eduardo tem " + x + " anos de idade");
 ```
 
 ##### Agora para juntar vários elementos em uma única saída é assim:
 
 ```
-String nome = Eduardo;
+String nome = "Eduardo";
 int idade = 10;
 double renda = 100.0;
 
-System.out.println("") 
+System.out.printf("%s ") 
 ```
