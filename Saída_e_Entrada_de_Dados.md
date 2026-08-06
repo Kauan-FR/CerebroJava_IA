@@ -53,3 +53,10 @@ int x = 10
 System.out.println("O Eduardo tem " + x + " anos de idade");
 ```
 
+##### Agora para juntar vários elementos em uma única saída é assim:
+
+```
+String nome = Eduardo;
+int idade = 10;
+
+```
