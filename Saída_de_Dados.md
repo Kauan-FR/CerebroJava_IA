@@ -76,3 +76,5 @@ A tabela para referenciar essa estrutura é:
 
 `printf` e `println` fazem a mesma coisa quando você não vai formatar nada. Então **por que o `printf` existe?**
 
+O `printf` ele existe para controlar o formato do valor da saída. E acaba se tornando mais legível a utilização dele para concatenar vários elementos.
+Já o `println` ele só despeja o valor na tela.
