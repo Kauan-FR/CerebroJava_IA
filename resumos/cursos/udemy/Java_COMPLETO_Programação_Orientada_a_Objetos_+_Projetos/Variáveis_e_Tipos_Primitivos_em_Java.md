@@ -38,10 +38,12 @@ String nome = "João Alves";
 
 ### Tipos Primitivos em Java
 
-|        Descrição         | Tipo  |
-| :----------------------: | ----- |
-| Tipos numéricos inteiros | byte  |
-|                          | short |
-|                          | int   |
-|                          | long  |
-|                          |       |
+|               Descrição               | Tipo   |
+| :-----------------------------------: | ------ |
+|       Tipos numéricos inteiros        | byte   |
+|                                       | short  |
+|                                       | int    |
+|                                       | long   |
+| Tipos numéricos com pontos flutuantes | float  |
+|                                       | double |
+|              Um caracte               |        |
