@@ -62,3 +62,9 @@ double renda = 100.0;
 
 System.out.printf("%s com %d de idade, recebe um valor de %.2f por mês de messada", nome, idade, renda) 
 ```
+
+A tabela para referenciar essa estrutura é:
+
+| Sigla | Significado |
+| :---: | ----------- |
+|       |             |
