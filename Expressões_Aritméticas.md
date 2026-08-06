@@ -7,3 +7,5 @@ Texto: Resumo sobre Estrutura Sequencial no java
 ---
 
 ## O que são Expressões Aritiméticas
+
+São combinações de números e operadores que resultam em um valor numérico, sendo ele possiti 
