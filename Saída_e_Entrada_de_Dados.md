@@ -65,6 +65,9 @@ System.out.printf("%s com %d de idade, recebe um valor de %.2f por mês de messa
 
 A tabela para referenciar essa estrutura é:
 
-| Sigla | Significado |
-| :---: | ----------- |
-|       |             |
+| Sigla | Significado        |
+| :---: | ------------------ |
+| `%f`  | Para valores reais |
+| `%d`  | Para valores       |
+| `%s`  |                    |
+| `%n`  |                    |
