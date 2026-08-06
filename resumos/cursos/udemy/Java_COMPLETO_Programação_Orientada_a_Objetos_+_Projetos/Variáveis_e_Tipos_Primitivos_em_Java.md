@@ -39,5 +39,4 @@ String nome = "João Alves";
 ### Tipos Primitivos em Java
 
 | Descrição | Tipo |
-| :-------- | ---- |
-|           |      |
+|:---------:
