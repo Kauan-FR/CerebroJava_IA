@@ -35,8 +35,12 @@ As variáveis com ponto flutuante são escritas dentro aspas duplas junto com o 
 ```
 double x = 10.123456
 
-System.out.println("%.2f ", x);
+System.out.println("%.2f%n ", x);
 ```
 
+> [!info] Informação
+> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois caso essa sigla não esteja
+
 > [!info] Observação
-> O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade 
+> O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que o resultado terá.
+
