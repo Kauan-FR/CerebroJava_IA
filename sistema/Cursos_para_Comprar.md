@@ -10,4 +10,5 @@ Texto: Lista de cursos para comprar e avançar o aprendizado
 | Ranking            | Curso                                                                                                                                                                    |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <center>1</center> | [Spring Boot Expert: JPA, REST, JWT, OAuth2 com Docker e AWS](https://www.udemy.com/share/102JD03@w4J1n2rCoOZaEtczRRVvWXE0y2JNQvRl44ubtw_WDEVi6n0rg5zBQ5SoSDWz3NWLrA==/) |
-| <center>2</center> |                                                                                                                                                                          |
+| <center>2</center> | [TypeScript do básico ao avançado (c/ React, Express)](https://www.udemy.com/share/105IxK3@-jr20rSA1-3DmhlVcH6GFMxpVaBSXrcrIFBl_6Rn9K97VHVjaK9jd2bUHj86OpG7Kw==/)        |
+| <center>3</center> |                                                                                                                                                                          |
