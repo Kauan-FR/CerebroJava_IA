@@ -60,5 +60,5 @@ String nome = "Eduardo";
 int idade = 10;
 double renda = 100.0;
 
-System.out.printf("%s ") 
+System.out.printf("%s com %d de idade, recebe um valor de %.2f por mês de messada", nome, idade, renda) 
 ```
