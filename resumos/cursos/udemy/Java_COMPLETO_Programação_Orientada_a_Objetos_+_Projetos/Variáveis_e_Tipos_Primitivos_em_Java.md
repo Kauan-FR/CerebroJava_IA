@@ -65,7 +65,7 @@ O camel case são ou fazem parte das boas praticas de um programador, no caso do
 >[!todo] Correto
 >```
 >int _5minutos;
->int tempo_de_estudo;
+>int tempoDeEstudo;
 >int salario;
 >```
 
