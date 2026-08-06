@@ -35,11 +35,11 @@ System.out.println(y);
 ```
 double x = 10.123456
 
-System.out.println("%.2f%n ", x);
+System.out.printf("%.2f%n ", x);
 ```
 
 > [!info] Informação
-> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois caso essa sigla não esteja os dados irã sair desestruturados.
+> O uso do "%n" é obrigatório sempre que a saída for dessa maneira, pois para essa saida de
 
 > [!info] Observação
 > O número "2" ele pode ser quantos números o usuário quiser, ele representa a quantidade de casas decimais que o resultado terá.
