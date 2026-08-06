@@ -58,5 +58,12 @@ O camel case são ou fazem parte das boas praticas de um programador, no caso do
 > [!failure] Errado
 > ```
 > int 5minutos;
-> 
+> int tempo de estudo
+> int salário
 > ```
+
+>[!todo] Correto
+>```
+>int _5minutos;
+>int tempo_de
+>```
