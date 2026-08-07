@@ -19,4 +19,6 @@ As funções matemáticas em Java são escritas da seguinte maneira:
 | Exemplo              | Significado                                                |
 | :------------------- | ---------------------------------------------------------- |
 | `A = Math.sqrt(x)`   | Raiz quadrada. A varável `A` recebe a raiz quadrada de `x` |
-| `A = Math.pow(x, y)` | Elevação.                                                  |
+| `A = Math.pow(x, y)` | Elevação. `A` recebe o resultado de `x` elevado a `y`      |
+| `A = Math.abs(x)`    | Valor absoluto. `A` recebe o valor absoluto de `x`         |
+
