@@ -44,4 +44,8 @@ float w = <nome do sacanner>.nextFloat();
 >String nome = sc.nextLine(); // Vem vazio
 >```
 >
->Para evitar que isso aconteça 
+>Para evitar que isso aconteça colocamos um `nextLine()` vazio entre eles para que esse `nextLine()` ele consuma o `Enter` e assim consigamos entrar com o dado.
+>
+>```java
+>int idade 
+>```
