@@ -16,6 +16,6 @@ Paginas: 28-30
 
 As funções matemáticas em Java são escritas da seguinte maneira:
 
-| Exemplo | Significado |
-| :------ | ----------- |
-| ``      |             |
+| Exemplo            | Significado                |
+| :----------------- | -------------------------- |
+| `A = Math.sqrt(x)` | Raiz quadrada. A varíavel  |
