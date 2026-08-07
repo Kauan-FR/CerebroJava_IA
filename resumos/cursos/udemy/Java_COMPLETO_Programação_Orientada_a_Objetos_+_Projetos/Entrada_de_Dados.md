@@ -36,4 +36,5 @@ double y = <nome do scanner>.nextDouble();
 float w = <nome do sacanner>.nextFloat();
 ```
 
->[!]
+>[!warning] Observação
+>O `nextInt()` seguido do `nextLine()` ele pode não 
