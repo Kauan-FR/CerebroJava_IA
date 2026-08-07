@@ -10,4 +10,8 @@ Paginas: 28-30
 
 ## O que são Funções Matemáticas
 
-É a relação entre dois conjuntos onde cada elemento 
+É a relação entre dois conjuntos onde cada elemento do primeiro está associado a um único elemento do segundo.
+
+## Em Java
+
+As funções matemáticas em Java d
