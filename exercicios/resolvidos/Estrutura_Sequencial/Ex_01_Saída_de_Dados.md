@@ -63,5 +63,5 @@ Como `Local` é imutável por si só, isso resulta em constante de verdade.
 
 ## Fonte
 
-[[Ex_01_Sáida_de_Dados]]
+[[Ex_Sáida_de_Dados]]
 [[Estrutura_Sequencial.pdf#page=15]]
