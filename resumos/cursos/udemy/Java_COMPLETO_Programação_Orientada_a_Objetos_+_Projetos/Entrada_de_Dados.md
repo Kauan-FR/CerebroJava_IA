@@ -51,3 +51,7 @@ float w = <nome do scanner>.nextFloat();
 >sc.nextLine();
 >String nome = sc.nextLine();
 >```
+
+## Fonte
+
+[[Estrutura_Sequencial.pdf]] (p. 22-28)
