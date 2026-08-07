@@ -22,3 +22,5 @@ As funções matemáticas em Java são escritas da seguinte maneira:
 | `A = Math.pow(x, y)` | Potenciação. `A` recebe o resultado de `x` elevado a `y`   |
 | `A = Math.abs(x)`    | Valor absoluto. `A` recebe o valor absoluto de `x`         |
 
+## Sintaxe
+
