@@ -52,3 +52,8 @@ public class ExercicioFixacao {
 ## Observações
 
 ### Por que usar o `private static final` 
+
+|  Palavra  | O que faz                              | Se tirar                         |
+| :-------: | -------------------------------------- | -------------------------------- |
+| `private` | Esconde de **fora** da classe          | Outras classes passam a enxergar |
+| `static`  | Pertence a **classe**, não é um objeto | `main` não consegue mais usar    |
