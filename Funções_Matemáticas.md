@@ -14,4 +14,8 @@ Paginas: 28-30
 
 ## Em Java
 
-As funções matemáticas em Java d
+As funções matemáticas em Java são escritas da seguinte maneira:
+
+| Exemplo | Significado |
+| :------ | ----------- |
+| ``      |             |
