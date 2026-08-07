@@ -58,3 +58,10 @@ public class ExercicioFixacao {
 | `private` | Esconde de **fora** da classe          | Outras classes passam a enxergar    |
 | `static`  | Pertence a **classe**, não é um objeto | `main` não consegue mais usar       |
 |  `final`  | Impede reatribuir                      | Qualquer método pode trocar o valor |
+O `static` ele foi usado para que outros métodos estáticos consigam exergar, `private` para que nenhuma outra classe alcance, e `final` para que a referência não seja trocada.
+Como `Local` é imutável por si só, isso resulta em constante de verdade.
+
+## Fonte
+
+[[Sáida_de_Dados]]
+[[Estrutura_Sequencial.pdf#page=15]]
