@@ -55,7 +55,9 @@ public class ExercicioFixacao {
 O `Locale.setDefault()` muda a JVM inteira - afeta idiomas, moedas e ordenação de todo o programa. `printf(Locale, ...)` limita o efeito a uma linha.
 
 > [!note] Sintoma
-> Se o sistema funcionar mesmo que tenha algum bug sutil na sintaxe, é porque a maquina é brasileir
+> Se o sistema funcionar mesmo que tenha algum bug sutil na sintaxe, é porque a maquina é brasileira, mas no final ela quebra no servidor.
+
+
 ## Observações
 
 ### Por que usar o `private static final` 
