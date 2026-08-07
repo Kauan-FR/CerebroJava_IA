@@ -2,7 +2,6 @@
 Data: 2026-08-07
 Tags:
   - Exercício
-  - Resolvido
 Texto: Exercício de fixação sobre Saída de Dados
 ---
 ---
@@ -17,7 +16,7 @@ public class ExercicioFixacao {
     private static final Locale PT_BR = Locale.forLanguageTag("pt-BR");  
     private static final Locale EN_US = Locale.US;  
   
-    static void main(String[] args) {  
+    public static void main(String[] args) {  
   
         String produto1 = "Computador";  
         String produto2 = "Mesa de escritorio";  
@@ -27,7 +26,7 @@ public class ExercicioFixacao {
         char genero = 'F';  
           
         double preco1 = 2100.0;  
-        double price2 = 1650.50;  
+        double prico2 = 1650.50;  
         double medida = 53.234567;  
   
         System.out.println("Produtos na moeda Brasileira:");  
