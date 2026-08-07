@@ -9,3 +9,5 @@ Paginas: 28-30
 ---
 
 ## O que são Funções Matemáticas
+
+É a relação entre dois conjuntos onde cada elemento 
