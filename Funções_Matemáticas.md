@@ -8,11 +8,9 @@ Paginas: 28-30
 ---
 ---
 
-## O que são Funções Matemáticas
+## O que são Funções Matemáticas em Java
 
 `Math` é uma classe utilitária de `java.lang` com métodos **estáticos** para operações matemáticas. Chama-se pela classe (`Math.sqrt(x)`), sem criar objeto.
-
-## Em Java
 
 As funções matemáticas em Java são escritas da seguinte maneira:
 
@@ -43,10 +41,9 @@ System.out.println("5 elevado ao quadrado = " + A);
 Para extrair o valor absoluto de um valor:
 
 ```java
-double x = 4.0;
 double A;
-A = Math.abs(x);
-System.out.println("Valor absoluto de " + x + " = " + A);
+A = Math.abs(4.0);
+System.out.println("Valor absoluto de 4.0 é = " + A);
 ```
 
 ## Fonte
