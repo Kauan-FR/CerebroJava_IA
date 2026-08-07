@@ -78,3 +78,7 @@ A tabela para referenciar essa estrutura é:
 
 O `printf` ele existe para controlar o formato do valor da saída. E acaba se tornando mais legível a utilização dele para concatenar vários elementos.
 Já o `println` ele só despeja o valor na tela.
+
+## Fonte
+
+[[Estrutura_Sequencial.pdf]] (p. 10-16)

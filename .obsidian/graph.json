@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "",
+      "query": "file:Estrutura_Sequencial.pdf",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 7935
       }
     }
   ],
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 240,
   "scale": 0.3170113167210833,
-  "close": false
+  "close": true
 }
