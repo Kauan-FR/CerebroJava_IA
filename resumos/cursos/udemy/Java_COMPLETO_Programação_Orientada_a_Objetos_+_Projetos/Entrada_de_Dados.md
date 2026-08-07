@@ -39,3 +39,9 @@ float w = <nome do sacanner>.nextFloat();
 >[!warning] Atenção
 >O `nextInt()` seguido do `nextLine()` ele pode não copilar direito, porque quando entrar com um número e apertar `Enter` o sistema pula a entrada do `String`, ficando no buffer.
 >
+>```java
+>int idade = sc.nextInt();
+>String nome = sc.nextLine(); // Vem vazio
+>```
+>
+>Para evitar que isso aconteça 
