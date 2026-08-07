@@ -48,6 +48,10 @@ public class ExercicioFixacao {
 }
 ```
 
+## Conceitos Aprendidos
+
+
+
 ## Observações
 
 ### Por que usar o `private static final` 
@@ -62,5 +66,5 @@ Como `Local` é imutável por si só, isso resulta em constante de verdade.
 
 ## Fonte
 
-[[Ex_Sáida_de_Dados]]
+[[Ex_Saída_de_Dados]]
 [[Estrutura_Sequencial.pdf#page=15]]
