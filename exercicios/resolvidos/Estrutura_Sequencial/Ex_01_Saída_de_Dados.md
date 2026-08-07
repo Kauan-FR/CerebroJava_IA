@@ -52,7 +52,7 @@ public class ExercicioFixacao {
 
 ### Locale: escopo local vs. estado global
 
-O `Locale.`
+O `Locale.setDefault()` muda a JVM inteira - afeta idiomas, moedas e ordenação de todo o programa. `printf(Locale)`
 
 ## Observações
 
