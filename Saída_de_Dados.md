@@ -53,7 +53,8 @@ public class ExercicioFixacao {
 
 ### Por que usar o `private static final` 
 
-|  Palavra  | O que faz                              | Se tirar                         |
-| :-------: | -------------------------------------- | -------------------------------- |
-| `private` | Esconde de **fora** da classe          | Outras classes passam a enxergar |
-| `static`  | Pertence a **classe**, não é um objeto | `main` não consegue mais usar    |
+|  Palavra  | O que faz                              | Se tirar                            |
+| :-------: | -------------------------------------- | ----------------------------------- |
+| `private` | Esconde de **fora** da classe          | Outras classes passam a enxergar    |
+| `static`  | Pertence a **classe**, não é um objeto | `main` não consegue mais usar       |
+|  `final`  | Impede reatribuir                      | Qualquer método pode trocar o valor |
