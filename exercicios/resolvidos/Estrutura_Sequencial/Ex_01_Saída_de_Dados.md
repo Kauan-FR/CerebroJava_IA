@@ -52,8 +52,9 @@ public class ExercicioFixacao {
 
 ### Locale: escopo local vs. estado global
 
-O `Locale.setDefault()` muda a JVM inteira - afeta idiomas, moedas e ordenação de todo o programa. `printf(Locale)`
+O `Locale.setDefault()` muda a JVM inteira - afeta idiomas, moedas e ordenação de todo o programa. `printf(Locale, ...)` limita o efeito a uma linha.
 
+> [!note] Sintoma
 ## Observações
 
 ### Por que usar o `private static final` 
