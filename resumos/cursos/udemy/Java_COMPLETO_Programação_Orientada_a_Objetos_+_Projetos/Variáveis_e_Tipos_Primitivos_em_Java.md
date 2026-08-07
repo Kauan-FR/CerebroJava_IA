@@ -22,7 +22,7 @@ Para que uma informação ela se torne uma variável, ela tem que ter as seguint
 
 ### Sintaxe
 
-```
+```java 
 <tipo> <nome> = <valor inicial>
 ```
 
@@ -31,11 +31,12 @@ Para que uma informação ela se torne uma variável, ela tem que ter as seguint
 
 #### Exemplo
 
-```
+```java
 int idade = 34;
 double altura = 1.75;
 char sexo = 'F';
-String nome = "João Alves";  
+String nome = "João Alves";
+float salario = 1500f;  
 ```
 
 ### Tipos Primitivos em Java
@@ -60,13 +61,13 @@ O camel case são ou fazem parte das boas praticas de um programador, no caso do
 > O java ele compila variáveis acentuadas, mas é considerado uma má prática, por conta disso que não se utiliza a pontuação em variáveis.
 
 > [!failure] Errado
-> ```
+> ```java
 > int 5minutos;
 > int tempo de estudo;
 > ```
 
 >[!done] Correto
->```
+>```java
 >int _5minutos;
 >int tempoDeEstudo;
 >```
