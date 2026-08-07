@@ -2,6 +2,10 @@
 Data: 2026-08-07
 Tags:
   - Estudo
-Texto: Configurações do sistema o qual essa nota esta relacionada
+Texto: Resumo do assunto sobre Funções Matemáticas em Java
+Fonte: raw/cursos/udemy/Java_COMPLETO_Programação_Orientada_a_Objetos_+_Projetos/teoria/Estrutura_Sequencial.pdf
+Paginas: 28-30
 ---
 ---
+
+## O que são Funções Matemáticas
