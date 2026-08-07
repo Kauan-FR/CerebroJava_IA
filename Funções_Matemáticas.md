@@ -24,3 +24,28 @@ As funções matemáticas em Java são escritas da seguinte maneira:
 
 ## Sintaxe
 
+Para tirar a raiz quadrada de um valor:
+
+```java
+A = Math.sqrt(25.0);
+System.out.println("Raiz quadrada de 25 = " + A);
+```
+
+Para elevar um valor a potencia:
+
+```java
+A = Math.pow(5.0, 2.0);
+System.out.println("5 elevado ao quadrado = " + C);
+```
+
+Para extrair o valor absoluto de um valor:
+
+```java
+double x = 4.0;
+A = Math.abs(x);
+System.out.println("Valor absoluto de " + x + " = " + A);
+```
+
+## Fonte
+
+[[Estrutura_Sequencial.pdf]] (p. 28-30)
