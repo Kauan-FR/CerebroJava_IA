@@ -35,3 +35,4 @@ int x = <nome do scanner>.nextInt();
 double y = <nome do scanner>.nextDouble();
 float w = <nome do sacanner>.nextFloat();
 ```
+
