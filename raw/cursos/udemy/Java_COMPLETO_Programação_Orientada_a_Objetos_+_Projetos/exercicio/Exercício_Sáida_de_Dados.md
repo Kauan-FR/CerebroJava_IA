@@ -8,7 +8,7 @@ Paginas: "15"
 ---
 ---
 
-# Ex. 01 — Saída formatada 
+## Exercício de Fixação 
 
 Formatar produtos, registro e medidas com printf.
 
