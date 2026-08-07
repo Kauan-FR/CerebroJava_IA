@@ -50,7 +50,9 @@ public class ExercicioFixacao {
 
 ## Conceitos Aprendidos
 
+### Locale: escopo local vs. estado global
 
+O `Locale.`
 
 ## Observações
 
