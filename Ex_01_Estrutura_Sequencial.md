@@ -37,4 +37,4 @@ public final class Exercicio_01 {
 ## Observações das Escolhas
 
 Esse `try` com o `Scanner` é um método chamado *try-with-resorces*.
-O *try-with-resorces* ele é um método introduzido no Java 7
+O *try-with-resorces* ele é um método introduzido no Java 7 que automatiza o fechamento 
