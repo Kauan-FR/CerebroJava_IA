@@ -36,5 +36,10 @@ public final class Exercicio_01 {
 
 ## Observações das Escolhas
 
+### Porque utilizar o `try` ao invés do `sc.close()`
+
 Esse `try` com o `Scanner` é um método chamado *try-with-resorces*.
 O *try-with-resorces* ele é um método introduzido no Java 7 que automatiza o fechamento dos recursos externos, em outras palavras, ao invés de usar o `sc.close()` para fechar a classe, o `try` ele fecha automaticamente.
+
+### Porque utilizar o `final` na classe
+
