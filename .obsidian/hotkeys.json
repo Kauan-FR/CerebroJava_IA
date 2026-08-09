@@ -138,13 +138,22 @@
       "key": "M"
     }
   ],
-  "templater-obsidian:create-templates/Exercícios.md": [
+  "templater-obsidian:create-templates/Resumo.md": [
     {
       "modifiers": [
         "Alt",
         "Shift"
       ],
       "key": "1"
+    }
+  ],
+  "templater-obsidian:create-templates/Exercícios.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "2"
     }
   ]
 }

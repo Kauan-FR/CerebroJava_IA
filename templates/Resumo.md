@@ -3,7 +3,7 @@ Data:
 Tags:
   - java
 Tipo:
-  - exercicio
+  - resumo
 Fonte:
 Paginas:
 ---

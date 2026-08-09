@@ -6,6 +6,7 @@
     "Data": "date",
     "Te": "text",
     "Data Inicial": "date",
-    "Data Final": "date"
+    "Data Final": "date",
+    "Tipo": "multitext"
   }
 }
