@@ -27,7 +27,7 @@ public final class Exercicio_01 {
   
             int soma = valor1 + valor2;  
             System.out.printf("A soma do número %d e %d é %d", valor1, valor2, soma);  
-        }catch (RuntimeException erro) {  
+        }catch (InputMismatchException erro) {  
             throw new InputMismatchException("O valor informado não é um número válido.");  
         }  
     }  
@@ -44,4 +44,10 @@ O *try-with-resorces* ele é um método introduzido no Java 7 que automatiza o f
 ### Porque utilizar o `final` na classe
 
 O `final` na nessa situação ele é desnecessário, mas ele é muito importante quando se trata de *Value Objects*, porque se o `final` ele não estiver na classe a subclasse ela pode anular a superclasse.
+
+## Fonte
+
+[[Exercicios_Estrutura_Sequencial.pdf]]
+
+
 
