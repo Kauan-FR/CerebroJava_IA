@@ -8,31 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Configuração  ",
+      "query": "tag:#java  ",
       "color": {
         "a": 1,
-        "rgb": 6052956
-      }
-    },
-    {
-      "query": "tag:#Resumo  ",
-      "color": {
-        "a": 1,
-        "rgb": 16755200
-      }
-    },
-    {
-      "query": "tag:#Exercício  ",
-      "color": {
-        "a": 1,
-        "rgb": 11206400
-      }
-    },
-    {
-      "query": "file:Estrutura_Sequencial.pdf",
-      "color": {
-        "a": 1,
-        "rgb": 7935
+        "rgb": 14701138
       }
     }
   ],
@@ -47,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 240,
   "scale": 0.7132754626224371,
-  "close": true
+  "close": false
 }
