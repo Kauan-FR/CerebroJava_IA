@@ -1,7 +1,9 @@
 ---
 Data: 2026-08-06
 Tags:
-Texto: Resumo sobre Estrutura Sequencial no java
+  - java
+  - resumo
+  - operadores
 Fonte: raw/cursos/udemy/Java_COMPLETO_Programação_Orientada_a_Objetos_+_Projetos/teoria/Estrutura_Sequencial.pdf
 Paginas: 1-3
 ---

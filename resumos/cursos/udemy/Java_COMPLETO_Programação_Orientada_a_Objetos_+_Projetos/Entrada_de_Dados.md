@@ -2,6 +2,7 @@
 Data: 2026-08-07
 Tags:
   - java
+  - resumo
   - scanner
 Texto: Resumo do assunto sobre Entrada de Dados em Java
 Fonte: raw/cursos/udemy/Java_COMPLETO_Programação_Orientada_a_Objetos_+_Projetos/teoria/Estrutura_Sequencial.pdf
