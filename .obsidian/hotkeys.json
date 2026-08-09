@@ -137,5 +137,14 @@
       ],
       "key": "M"
     }
+  ],
+  "templater-obsidian:create-templates/Exercícios.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }

@@ -1,12 +1,12 @@
 ---
 Data: 2026-08-07
 Tags:
-  - Estudo
+  - Resumo
 Texto: Resumo do assunto sobre Entrada de Dados em Java
 Fonte: raw/cursos/udemy/Java_COMPLETO_Programação_Orientada_a_Objetos_+_Projetos/teoria/Estrutura_Sequencial.pdf
 Paginas: 22-28
 ---
----
+|---
 
 ## O que é uma Entrada de Dados
 

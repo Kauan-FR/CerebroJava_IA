@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Configuração  ",
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#Estudo  ",
+      "query": "tag:#Resumo  ",
       "color": {
         "a": 1,
         "rgb": 16755200
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 240,
   "scale": 0.7132754626224371,
-  "close": true
+  "close": false
 }

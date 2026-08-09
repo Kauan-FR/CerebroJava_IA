@@ -13,7 +13,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/Configuração.md"
+    "templates/Exercícios.md"
   ],
   "startup_templates": [],
   "intellisense_render": "1",
