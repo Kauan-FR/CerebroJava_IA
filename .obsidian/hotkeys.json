@@ -155,5 +155,14 @@
       ],
       "key": "2"
     }
+  ],
+  "templater-obsidian:create-templates/Conceito.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "3"
+    }
   ]
 }
