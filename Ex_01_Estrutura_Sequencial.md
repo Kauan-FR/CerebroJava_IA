@@ -43,3 +43,5 @@ O *try-with-resorces* ele é um método introduzido no Java 7 que automatiza o f
 
 ### Porque utilizar o `final` na classe
 
+O `final` na nessa situação ele é desnecessário, mas ele é muito importante quando se trata de *Value Objects*, porque se o `final` ele não estiver na classe a subclasse ela pode anular a superclasse.
+
