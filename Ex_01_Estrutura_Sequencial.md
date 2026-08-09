@@ -36,4 +36,5 @@ public final class Exercicio_01 {
 
 ## Observações das Escolhas
 
-Eu utilizei o `try` com o `Scanner` porque como o `Scanner` ele é um valor mutável 
+Esse `try` com o `Scanner` é um método chamado *try-with-resorces*.
+O *try-with-resorces* ele é um método introduzido no Java 7
