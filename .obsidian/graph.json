@@ -8,10 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#java  ",
+      "query": "tag:#resumo  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 4886745
+      }
+    },
+    {
+      "query": "tag:#exercicio  ",
+      "color": {
+        "a": 1,
+        "rgb": 6008430
+      }
+    },
+    {
+      "query": "tag:#conceito  ",
+      "color": {
+        "a": 1,
+        "rgb": 14715452
+      }
+    },
+    {
+      "query": "path:raw/cursos/udemy/Java_COMPLETO_Programação_Orientada_a_Objetos_+_Projetos  ",
+      "color": {
+        "a": 1,
+        "rgb": 14270538
+      }
+    },
+    {
+      "query": "path:sistema  ",
+      "color": {
+        "a": 1,
+        "rgb": 8026757
       }
     }
   ],
