@@ -37,4 +37,4 @@ public final class Exercicio_01 {
 ## Observações das Escolhas
 
 Esse `try` com o `Scanner` é um método chamado *try-with-resorces*.
-O *try-with-resorces* ele é um método introduzido no Java 7 que automatiza o fechamento 
+O *try-with-resorces* ele é um método introduzido no Java 7 que automatiza o fechamento dos recursos externos, em outras palavras, ao invés de usar o `sc.close()` para fechar a classe, o `try` ele fecha automaticamente.
