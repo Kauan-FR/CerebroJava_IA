@@ -44,9 +44,9 @@ Aí o valor deixa de ser previsível pela leitura local do código.
 
 ## Onde aparece
 
-[[Saida_de_Dados]]
-[[Entrada_de_Dados]]
+- [[Saida_de_Dados]]
+- [[Entrada_de_Dados]]
 
 ## Fontes
 
-[[Estrutura_Sequencial.pdf#page=15]]
+- [[Estrutura_Sequencial.pdf#page=15]]

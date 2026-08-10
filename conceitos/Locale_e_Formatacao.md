@@ -46,10 +46,10 @@ Prova de que `setDefault` não serve: um programa que precisa exibir o mesmo val
 
 ## Onde aparece
 
-[[Saida_de_Dados]] - `printf(Locale, ...)` e o marcador `%,.2f`
-[[Entrada_de_Dados]] - `useLocale`, e o erro ao digitar `1.5` no Brasil
-[[Estado_Global]] - o problema maio do qual este é um caso
+- [[Saida_de_Dados]] - `printf(Locale, ...)` e o marcador `%,.2f`
+- [[Entrada_de_Dados]] - `useLocale`, e o erro ao digitar `1.5` no Brasil
+- [[Estado_Global]] - o problema maio do qual este é um caso
 
 ## Fontes
 
-[[Estrutura_Sequencial.pdf#page=15]]
+- [[Estrutura_Sequencial.pdf#page=15]]

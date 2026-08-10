@@ -49,14 +49,14 @@ double media = (double) soma / quantidade;
 - `Math.pow(5, 2)` pode devolver `24.999...`. `(int)` trunca para 24 — use `Math.round()` quando quiser inteiro
 - `float` tem ~7 dígitos confiáveis, `double` ~15. Use `double` sempre
 - `printf("%.2f")` arredonda para exibir; o valor guardado continua errado
-- `BigDecimal` compara com `compareTo()`, não `equals()` —
-  `2.0` e `2.00` são iguais em valor e diferentes em `equals`
+- `BigDecimal` compara com `compareTo()`, não `equals()` — `2.0` e `2.00` são iguais em valor e diferentes em `equals`
 
 ## Onde aparece
 
-[[Saida_de_Dados]]
-[[Entrada_de_Dados]]
-
+- [[Variaveis_e_Tipos_Primitivos_em_Java]] - `float` vs `double`, precisão
+- [[Expressoes_Aritmeticas]] - divisão inteira 7/2
+- [[Funcoes_Matematicas]] - `Math.pow` devolvendo 24.999
+- [[Saida_de_Dados]] - `%.2f` arredonda a exibição, não o valor
 ## Fontes
 
-[[Estrutura_Sequencial.pdf]]
+- [[Estrutura_Sequencial.pdf]]
