@@ -11,11 +11,13 @@ tags:
 ## Por que importa
 
 Porque depende do ambiente, pois o programa ele pode funcionar na máquina pessoal, mas se o servidor estiver alocado em um local diferente o sistema ele quebra.
+
 Os testes eles não funcionam de forma isolada, só localmente, e por conta disso o resultado ele passa a depender da ordem em que rodam.
 Não da para ter dois valores.
 ## Como se aplica
 
 Em vez de guardar o valor num lugar alcançável por todo o programa, **passe-o como argumento** para que quem precisa dele. Quem chama decide; quem executa não depende de nada externo.
+
 Guardar num `static final` só é seguro quando o objeto é imutável - `Locale` é, `Scanner` não é.
 
 ```java
@@ -28,7 +30,12 @@ System.out.printf(Locale.US, "%.2f%n", price);
 ```
 ## Cuidado
 
-O `final` numa referência não impede de mutar o objeto, problema é quando o estado global mutável do objeto, porque o `Locale` por ele ser imutável não teria problema utiliza-lo, mas como o `Scanner` ele é mutável, ou seja, qualquer objeto pode manipula-lo, ele não pode ser `final`.
+O `final` protege a referência, não o objeto - impede reatribuir a variável, mas não impede alterar o que ela aponta.
+
+Porisso estado global nem sempre é defeito. Constante imutável, como `Locale` ou `String`, é segura: ninguém consegue mudá-la.
+
+O problema é **mutável + global**. `Scanner` é mutável (a posição no buffer avança a cada leitura) e, como `static`, é alcançável de qualquer ponto.
+Aí o valor deixa de ser previsível pela leitura local do código.
 ## Onde aparece
 
 [[Saída_de_Dados]]
