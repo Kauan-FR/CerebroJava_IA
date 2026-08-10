@@ -29,4 +29,9 @@ System.out.printf(Locale.US, "%.2f%n", price);
 
 ## Onde aparece
 
+[[Saída_de_Dados]]
+[[Entrada_de_Dados]]
+
 ## Fontes
+
+[[Estrutura_Sequencial.pdf#page=15]]
