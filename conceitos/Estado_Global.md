@@ -36,6 +36,7 @@ Porisso estado global nem sempre é defeito. Constante imutável, como `Locale` 
 
 O problema é **mutável + global**. `Scanner` é mutável (a posição no buffer avança a cada leitura) e, como `static`, é alcançável de qualquer ponto.
 Aí o valor deixa de ser previsível pela leitura local do código.
+
 ## Onde aparece
 
 [[Saída_de_Dados]]
