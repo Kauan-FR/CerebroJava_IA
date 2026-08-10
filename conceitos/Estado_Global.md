@@ -28,6 +28,7 @@ System.out.printf(Locale.US, "%.2f%n", price);
 ```
 ## Cuidado
 
+O `final` numa referência não impede de mutar o objeto, problema é quando o estado global mutável do objeto, porque o `Locale` por ele ser imutável não teria problema utiliza-lo, mas como o `Scanner` ele é mutável, ou seja, qualquer objeto pode manipula-lo, ele não pode ser `final`.
 ## Onde aparece
 
 [[Saída_de_Dados]]
