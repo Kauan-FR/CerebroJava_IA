@@ -37,3 +37,19 @@ System.out.printf(Locale.US, "%.2f%n", price);
 Na leitura, o equivalente é `scanner.useLocale(Locale.US)`. 
 
 Prova de que `setDefault` não serve: um programa que precisa exibir o mesmo valor em `pt-BR` e `en-US` na mesma execução é impossível com estado global. Com o Locale por chamada, é trivial.
+
+## Cuidado
+
+- `printf` respeita o Locale; `println` não. `println(10.5)` sempre imprime `10.5` 
+- `Locale` é imutável — por isso funciona bem como `static final` 
+- `new Locale(...)` está deprecated desde o Java 19. Use `Locale.of()`
+
+## Onde aparece
+
+[[Saida_de_Dados]] - `printf(Locale, ...)` e o marcador `%,.2f`
+[[Entrada_de_Dados]] - `useLocale`, e o erro ao digitar `1.5` no Brasil
+[[Estado_Global]] - o problema maio do qual este é um caso
+
+## Fontes
+
+[[Estrutura_Sequencial.pdf#page=15]]

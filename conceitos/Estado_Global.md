@@ -44,7 +44,7 @@ Aí o valor deixa de ser previsível pela leitura local do código.
 
 ## Onde aparece
 
-[[Saída_de_Dados]]
+[[Saida_de_Dados]]
 [[Entrada_de_Dados]]
 
 ## Fontes
