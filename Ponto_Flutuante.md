@@ -9,3 +9,8 @@ Fonte: raw/cursos/udemy/Java_COMPLETO_Programação_Orientada_a_Objetos_+_Projet
 Paginas:
 ---
 ## O que é
+
+O binário ele não representa decimal exato em suas saídas, pois o problema fundamental é que números decimais comuns não tem representação exata em binário.
+
+## Por que isso importa
+
