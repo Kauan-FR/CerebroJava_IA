@@ -32,10 +32,10 @@ final double total = 4200.0;
 final double total = quantidade * precoUnitario;
 ```
 
-
-
 ## Cuidado
 
-## Onde aparece
+Cache
 
 ## Fontes
+
+- [[Estrutura_Sequencial.pdf]]
