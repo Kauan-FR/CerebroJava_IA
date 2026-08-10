@@ -10,8 +10,11 @@ tags:
 
 ## Por que importa
 
-
+Porque depende do ambiente, pois o programa ele pode funcionar na máquina pessoal, mas se o servidor estiver alocado em um local diferente o sistema ele quebra.
+Os testes eles não funcionam de forma isolada, só localmente, e por conta disso o resultado ele passa a depender da ordem em que rodam.
+Não da para ter dois valores.
 ## Como se aplica
+
 
 ## Cuidado
 
