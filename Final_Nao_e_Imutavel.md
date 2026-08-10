@@ -25,7 +25,12 @@ NOMES.add("Kauan");          // permitido
 
 A lista é `final` e mudou de conteúdo.
 
-O `final` ele protege a seta, ou seja, a reatribuição da variável, que no caso é o `new ArrayList<>()`, mas o objeto dentro    
+O `final` ele protege a seta, ou seja, a reatribuição da variável, que no caso é o `new ArrayList<>()`, mas o objeto dentro da variável ela muda.
+
+```java
+private static final Locale PT_BR = Locale.of("pt", "BR");   // constante real
+private static final Scanner SCANNER = new Scanner(System.in); // estado global mutável
+```
 ## Como se aplica
 
 ## Cuidado
