@@ -14,9 +14,35 @@ O binário ele não representa decimal exato em suas saídas, pois o problema fu
 
 ## Por que importa
 
-Isso pode ocasionar em erros microscópicos de representação binária, acumulando-se silenciosamente, transformando-se em falhas críticas, prejuízos financeiros reais.
+```java
+System.out.println(0.1 + 0.2);        // 0.30000000000000004
+System.out.println(0.1 + 0.2 == 0.3); // false
+```
+
+>[!warning] Cuidado
+>Nunca compare `double` com `==` é algo que parece que deveria funcionar, mas no fim da erro. Porque `0.1` em binário é uma dízima infinita, assim como o 1/3 é em 0.333... em `double`. Cabe ate onde o `double` alcança, o restante se perde.
+
+Outra situação de perder a precisão em Java é usar um por trucamento de inteiro, outro por representação binária
+
+```java
+7 / 2       // 3    — divisão inteira, trunca
+7.0 / 2     // 3.5
+```
 
 ## Como se aplica
+
+```java
+// 1. Dinheiro → BigDecimal, sempre com String no construtor
+BigDecimal valor = new BigDecimal("0.1");
+BigDecimal outro = new BigDecimal(0.1);   // já entra errado
+
+// 2. Comparação → tolerância, nunca ==
+final double EPSILON = 0.000001;
+if (Math.abs(a - b) < EPSILON) { ... }
+
+// 3. Divisão de inteiros → força um dos lados a real
+double media = (double) soma / quantidade;
+```
 
 ## Cuidado
 
