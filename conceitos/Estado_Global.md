@@ -15,7 +15,8 @@ Os testes eles não funcionam de forma isolada, só localmente, e por conta diss
 Não da para ter dois valores.
 ## Como se aplica
 
-Em vez 
+Em vez de guardar o valor num lugar alcançável por todo o programa, **passe-o como argumento** para que quem precisa dele. Quem chama decide; quem executa não depende de nada externo.
+Guardar num `static final` só é seguro quando o objeto é imutável - `Locale` é, `Scanner` não é.
 
 ```java
 // problema - o valor está num lugar que todo mundo alcança e pode mudar
