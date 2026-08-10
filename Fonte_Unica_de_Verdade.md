@@ -14,6 +14,8 @@ Quando o mesmo fato existe em dois lugares, eles podem divergir - e o sistema ac
 
 ## Por que importa
 
+Por definirmos o resultado em uma variável, e não deixarmos o sistema definir o resultado, caso venhamos a alterar o enunciado, o resultado ele passa a ser mentiroso, pois a base ela foi alterada, mas como o resultado ele esta pré definido na variável, o resultado ele não acompanha, acabando sendo um resultado mentiroso que o sistema ele não aponta.
+
 ```java
 double unit1 = 2100.0;
 int quant1 = 2;
@@ -21,6 +23,16 @@ double total1 = 4200.0;   // terceiro fato, derivado dos outros dois
 ```
 
 ## Como se aplica
+
+```java
+// duas fontes de verdade
+final double total = 4200.0;
+
+// uma fonte, o resto deriva
+final double total = quantidade * precoUnitario;
+```
+
+
 
 ## Cuidado
 
