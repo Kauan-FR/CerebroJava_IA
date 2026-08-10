@@ -15,14 +15,14 @@ Os testes eles não funcionam de forma isolada, só localmente, e por conta diss
 Não da para ter dois valores.
 ## Como se aplica
 
-Para que isso seja evitado, ao invés de declarar o valor isolado fora do escopo, declare ele dentro da variável, ou pode ate mesmo ao invés de escrever `Locale.US` atribua esse valor a uma varável para reduzir a sintaxe.
+Em vez 
 
 ```java
-public final Locale us = Locale.US;
+// problema - o valor está num lugar que todo mundo alcança e pode mudar
+Locale..setDefault(Locale.US);
+System.out.printf("%.2f%n", price);
 
-System.out.printf(us, "%.2f%n", price);
-
-// Ou direto na variavel
+// solução - o valor chega pelo chamado
 System.out.printf(Locale.US, "%.2f%n", price); 
 ```
 ## Cuidado
