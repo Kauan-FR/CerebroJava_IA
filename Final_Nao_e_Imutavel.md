@@ -25,7 +25,7 @@ NOMES.add("Kauan");          // permitido
 
 A lista é `final` e mudou de conteúdo.
 
-O `final` ele protege a seta, ou seja, o reatribuiménto   
+O `final` ele protege a seta, ou seja, a reatribuição    
 ## Como se aplica
 
 ## Cuidado
