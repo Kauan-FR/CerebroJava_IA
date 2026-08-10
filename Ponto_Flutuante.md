@@ -18,3 +18,13 @@ Isso pode ocasionar em erros microscópicos de representação binária, acumula
 
 ## Como se aplica
 
+## Cuidado
+
+## Onde aparece
+
+[[Saida_de_Dados]]
+[[Entrada_de_Dados]]
+
+## Fontes
+
+[[Estrutura_Sequencial.pdf]]
