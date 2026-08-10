@@ -23,7 +23,9 @@ NOMES = new ArrayList<>();   // erro de compilação
 NOMES.add("Kauan");          // permitido
 ```
 
-A lista é `final` e mudou de contedo.
+A lista é `final` e mudou de conteúdo.
+
+O `final` ele protege a seta, ou seja, o reatribuiménto   
 ## Como se aplica
 
 ## Cuidado
