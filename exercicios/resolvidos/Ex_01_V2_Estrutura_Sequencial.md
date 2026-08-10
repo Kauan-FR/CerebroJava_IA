@@ -72,3 +72,8 @@ public final class Exercicio_01 {
 }
 ```
 
+## Observações das Escolhas
+
+### Porque colocar `final` em tudo
+
+O `final` ele é utilizado para que os parâmetros dentro do métodos não sejam reatribuídos. Sem ele qualquer outra classe pode reatribuir um valor a ela.
