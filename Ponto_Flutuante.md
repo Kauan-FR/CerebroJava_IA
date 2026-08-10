@@ -20,10 +20,7 @@ System.out.println(0.1 + 0.2);        // 0.30000000000000004
 System.out.println(0.1 + 0.2 == 0.3); // false
 ```
 
->[!warning] Cuidado
->Nunca compare `double` com `==` é algo que parece que deveria funcionar, mas no fim da erro. Porque `0.1` em binário é uma dízima infinita, assim como o 1/3 é em 0.333... em `double`. Cabe ate onde o `double` alcança, o restante se perde.
-
-Outra situação de perder a precisão em Java é usar um por trucamento de inteiro, outro por representação binária
+Java tem dois jeitos de perder precisão: truncamento na divisão de inteiros, e representação binária em ponto flutuante. São causas diferentes.
 
 ```java
 7 / 2       // 3    — divisão inteira, trunca
@@ -51,6 +48,7 @@ double media = (double) soma / quantidade;
 - `float` tem ~7 dígitos confiáveis, `double` ~15. Use `double` sempre
 - `printf("%.2f")` arredonda para exibir; o valor guardado continua errado
 - `BigDecimal` compara com `compareTo()`, não `equals()` — `2.0` e `2.00` são iguais em valor e diferentes em `equals`
+Nunca compare `double` com `==` é algo que parece que deveria funcionar, mas no fim da erro. Porque `0.1` em binário é uma dízima infinita, assim como o 1/3 é 0.333... em `double`. Cabe ate onde o `double` alcança, o restante se perde.
 
 ## Onde aparece
 
