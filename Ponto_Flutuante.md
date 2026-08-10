@@ -48,6 +48,7 @@ double media = (double) soma / quantidade;
 - `float` tem ~7 dígitos confiáveis, `double` ~15. Use `double` sempre
 - `printf("%.2f")` arredonda para exibir; o valor guardado continua errado
 - `BigDecimal` compara com `compareTo()`, não `equals()` — `2.0` e `2.00` são iguais em valor e diferentes em `equals`
+
 Nunca compare `double` com `==` é algo que parece que deveria funcionar, mas no fim da erro. Porque `0.1` em binário é uma dízima infinita, assim como o 1/3 é 0.333... em `double`. Cabe ate onde o `double` alcança, o restante se perde.
 
 ## Onde aparece
