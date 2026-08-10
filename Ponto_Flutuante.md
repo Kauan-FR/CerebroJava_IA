@@ -12,7 +12,7 @@ Paginas:
 
 O binário ele não representa decimal exato em suas saídas, pois o problema fundamental é que números decimais comuns não tem representação exata em binário.
 
-## Por que isso importa
+## Por que importa
 
 Isso pode ocasionar em erros microscópicos de representação binária, acumulando-se silenciosamente, transformando-se em falhas críticas, prejuízos financeiros reais.
 
