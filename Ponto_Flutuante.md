@@ -14,3 +14,7 @@ O binário ele não representa decimal exato em suas saídas, pois o problema fu
 
 ## Por que isso importa
 
+Isso pode ocasionar em erros microscópicos de representação binária, acumulando-se silenciosamente, transformando-se em falhas críticas, prejuízos financeiros reais.
+
+## Como se aplica
+
