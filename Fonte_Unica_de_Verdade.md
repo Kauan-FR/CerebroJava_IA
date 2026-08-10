@@ -34,7 +34,9 @@ final double total = quantidade * precoUnitario;
 
 ## Cuidado
 
-Cache
+Cache é duplicidade deliberada, você aceita a duplicidade, mas assume obrigação de invalidar
+
+
 
 ## Fontes
 
