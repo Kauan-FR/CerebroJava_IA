@@ -25,7 +25,7 @@ NOMES.add("Kauan");          // permitido
 
 A lista é `final` e mudou de conteúdo.
 
-O `final` ele protege a seta, ou seja, a reatribuição    
+O `final` ele protege a seta, ou seja, a reatribuição da variável, que no caso éo ,não o resultado,    
 ## Como se aplica
 
 ## Cuidado
