@@ -8,3 +8,13 @@ tags:
 
 É um dado que vive fora de qualquer escopo local e poder ser lido ou alterado de qualquer ponto do programa.
 
+## Por que importa
+
+
+## Como se aplica
+
+## Cuidado
+
+## Onde aparece
+
+## Fontes
