@@ -15,7 +15,16 @@ Os testes eles não funcionam de forma isolada, só localmente, e por conta diss
 Não da para ter dois valores.
 ## Como se aplica
 
+Para que isso seja evitado, ao invés de declarar o valor isolado fora do escopo, declare ele dentro da variável, ou pode ate mesmo ao invés de escrever `Locale.US` atribua esse valor a uma varável para reduzir a sintaxe.
 
+```java
+public final Locale us = Locale.US;
+
+System.out.printf(us, "%.2f%n", price);
+
+// Ou direto na variavel
+System.out.printf(Locale.US, "%.2f%n", price); 
+```
 ## Cuidado
 
 ## Onde aparece
