@@ -23,6 +23,7 @@ NOMES = new ArrayList<>();   // erro de compilação
 NOMES.add("Kauan");          // permitido
 ```
 
+A lista é `final` e mudou de contedo.
 ## Como se aplica
 
 ## Cuidado
