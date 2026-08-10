@@ -3,6 +3,8 @@ Data: 2026-08-10
 tags:
   - java
   - conceito
+cssclasses:
+  - conceito
 Fonte: raw/cursos/udemy/Java_COMPLETO_Programação_Orientada_a_Objetos_+_Projetos/teoria/Estrutura_Sequencial.pdf
 Paginas:
 ---
@@ -34,9 +36,9 @@ final double total = quantidade * precoUnitario;
 
 ## Cuidado
 
-Cache é duplicidade deliberada, você aceita a duplicidade, mas assume obrigação de invalidar
+Cache é duplicidade deliberada, você aceita a duplicidade, mas assume obrigação de invalidar.
 
-
+**Camadas diferentes representam o mesmo fato de propósito.** Um DTO de resposta repete campos da entidade — e isso é certo, porque desacopla a API do banco. A diferença: existe um dono claro, e a cópia é gerada a partir dele.
 
 ## Fontes
 
