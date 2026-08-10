@@ -46,6 +46,12 @@ double media = (double) soma / quantidade;
 
 ## Cuidado
 
+- `Math.pow(5, 2)` pode devolver `24.999...`. `(int)` trunca para 24 — use `Math.round()` quando quiser inteiro
+- `float` tem ~7 dígitos confiáveis, `double` ~15. Use `double` sempre
+- `printf("%.2f")` arredonda para exibir; o valor guardado continua errado
+- `BigDecimal` compara com `compareTo()`, não `equals()` —
+  `2.0` e `2.00` são iguais em valor e diferentes em `equals`
+
 ## Onde aparece
 
 [[Saida_de_Dados]]
