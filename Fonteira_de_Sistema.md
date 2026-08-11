@@ -10,7 +10,7 @@ Paginas:
 ---
 ## O que é
 
-É uma barreira onde reside a validação do sistema para que ele saiba que o que foi inserido é um objeto valido ou não.
+É a linha onde o dado externo deixa de ser texto sem garantia e vira um tipo do sistema. Do lado de fora, tudo é texto; do lado de dentro, tudo tem tipo e regra.
 
 ## Por que importa
 
@@ -20,7 +20,7 @@ Sem essa barreira qualquer tipo de informação pode acessar o sistema.
 
 ## Como se aplica
 
-Isso se aplica em três camada:
+Isso se aplica em três etapas:
 
 1. **Converte** - Texto para tipo;
 2. **Valida formato** - É número? Tem os campos obrigatórios?
@@ -35,3 +35,19 @@ private static int readInt(final Scanner scanner) {
     }
 }
 ```
+
+## Cuidado
+
+Validar formato ≠ validar regra de negócio. 
+
+- Fronteira: "consigo interpretar isso?" — é número, tem @, campo obrigatório presente 
+- Domínio: "isso é permitido?" — saldo não pode ficar negativo, e-mail já cadastrado 
+ 
+Regra de negócio na fronteira é regra que dá pra contornar: o job noturno, o script de importação e o outro endpoint não passam por ali. Invariante mora no domínio, porque é o único lugar por onde tudo passa.
+
+## Onde aparece
+
+- [[Entrada_de_Dados]] - `Scanner`, `InputMismatchException`, `useLocale`
+- [[Ex_01_Estrutura_Sequencial]] - Hierarquia de exceção traduzindo erro de conversão
+- [[Ex_01_V2_Estrutura_Sequencial]] - Traduzindo erro de exceção
+- [[Estado_Global]] - `Locale` afeta como o dado externo é interpretado
