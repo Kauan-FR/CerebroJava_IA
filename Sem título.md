@@ -1,1 +1,1 @@
-`gerenciamento-de-recursos`Recurso aberto que não fecha em exceção`hierarquia-de-excecoes`Base abstrata, factory nomeada, causa preservada`arquitetura-nao-e-template`Camada existe pra proteger invariante
+`hierarquia-de-excecoes`Base abstrata, factory nomeada, causa preservada`arquitetura-nao-e-template`Camada existe pra proteger invariante
