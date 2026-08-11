@@ -11,7 +11,7 @@ Paginas:
 ---
 ## O que é
 
-Arquitetura são as pastas do projeto, e os templeites são as camadas que envolvem esse
+Arquitetura é o conjunto de de
 
 ## Por que importa
 
