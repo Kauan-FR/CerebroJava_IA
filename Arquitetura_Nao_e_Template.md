@@ -18,3 +18,4 @@ O erro é tratar `domain/`, `repository/`, `entity/`, `event/` como estrutura qu
 
 ## Por que importa
 
+
