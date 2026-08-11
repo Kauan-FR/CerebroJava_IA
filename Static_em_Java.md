@@ -11,3 +11,4 @@ Paginas:
 ---
 ## O que é 
 
+A palavra-chave `static` 
