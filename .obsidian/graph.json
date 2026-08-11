@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#resumo  ",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 8026757
       }
+    },
+    {
+      "query": "tag:#arquitetura  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -48,7 +55,7 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.40830350751611,
   "lineSizeMultiplier": 1.53657838224767,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.312813171080888,
   "repelStrength": 7.17251252684324,
   "linkStrength": 1,

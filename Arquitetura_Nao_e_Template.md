@@ -1,9 +1,9 @@
 ---
 Data: 2026-08-11
 tags:
-  - java
-  - conceito
   - arquitetura
+  - ddd
+  - conceito
 Tipo:
   - conceito
 Fonte:
