@@ -18,4 +18,9 @@ O erro é tratar `domain/`, `repository/`, `entity/`, `event/` como estrutura qu
 
 ## Por que importa
 
+Cada mudança, seja ela pequena que for tem que refletir nos cinco arquivos. Um campo novo vira alteração em entity, DTO, mapper, repository e service — sem nenhum ganho, porque não havia nada sendo protegido.
+
+
+## Como se aplica
+
 
