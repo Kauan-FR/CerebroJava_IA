@@ -46,7 +46,7 @@
       "query": "tag:#arquitetura  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 1638517
       }
     }
   ],
@@ -61,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 383,
   "scale": 0.5087618855792533,
-  "close": false
+  "close": true
 }
