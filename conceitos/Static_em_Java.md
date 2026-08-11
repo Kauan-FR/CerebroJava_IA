@@ -60,4 +60,4 @@ public class App {
 
 - [[Funcoes_Matematicas]] - `Math` como utilitario estático
 - [[Final_Nao_e_Imutavel]] - `static final` só é constante se o objeto for imutável
-- [[Estado_Global]] - `static` mutável é a 
+- [[Estado_Global]] - `static` mutável é a porta de entrada
