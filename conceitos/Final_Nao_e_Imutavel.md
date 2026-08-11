@@ -53,10 +53,14 @@ public final class Order {
 }
 ```
 
-
-
 ## Cuidado
 
+- `final` em parâmetro de método impede reatribuir dentro do método. Em `main` é ruído
+- Antes do Java 8, `final` era obrigatório pra usar variável em lambda. Hoje o compilador aceita _effectively final_
+- `final` numa classe é o que garante o invariante de um value object: sem ele, alguém estende e sobrescreve o getter, contornando a validação do construtor
+
 ## Onde aparece
+
+- [[Estado_Global]] - mutável + global é o que quebra
 
 ## Fontes
