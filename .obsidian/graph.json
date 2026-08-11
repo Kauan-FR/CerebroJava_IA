@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#resumo  ",
@@ -18,7 +18,7 @@
       "query": "tag:#exercicio  ",
       "color": {
         "a": 1,
-        "rgb": 6008430
+        "rgb": 13893887
       }
     },
     {
@@ -45,14 +45,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1.21589119541875,
-  "lineSizeMultiplier": 1.50450966356478,
-  "collapse-forces": true,
-  "centerStrength": 0.463339809796503,
-  "repelStrength": 9.65947438388383,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.40830350751611,
+  "lineSizeMultiplier": 1.53657838224767,
+  "collapse-forces": false,
+  "centerStrength": 0.312813171080888,
+  "repelStrength": 7.17251252684324,
   "linkStrength": 1,
-  "linkDistance": 240,
-  "scale": 0.5087618855792536,
-  "close": true
+  "linkDistance": 383,
+  "scale": 0.5087618855792533,
+  "close": false
 }
