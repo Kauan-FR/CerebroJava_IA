@@ -11,4 +11,7 @@ Paginas:
 ---
 ## O que é 
 
-A palavra-chave `static` é um modificador que indica que um membro ele pertence à classe em si, ou seja, só existe uma cópia desse membro na memória. Em **variáveis**, armazena dados comuns, como contadores globais. Em **métodos**, chama operações de forma direta. Em **classes**, 
+A palavra-chave `static` é um modificador que indica que um membro ele pertence à classe em si, ou seja, só existe uma cópia desse membro na memória. Em **variáveis**, armazena dados comuns, como contadores globais. Em **métodos**, chama operações de forma direta. Em **classes**, não tem acesso de classes externas, tornado-se como classe independente.
+
+## Por que importa
+
