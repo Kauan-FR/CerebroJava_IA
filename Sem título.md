@@ -1,1 +1,1 @@
-`hierarquia-de-excecoes`Base abstrata, factory nomeada, causa preservada`arquitetura-nao-e-template`Camada existe pra proteger invariante
+`arquitetura-nao-e-template`Camada existe pra proteger invariante
