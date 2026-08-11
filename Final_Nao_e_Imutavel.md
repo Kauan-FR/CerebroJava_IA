@@ -31,7 +31,29 @@ O `final` ele protege a seta, ou seja, a reatribuição da variável, que no cas
 private static final Locale PT_BR = Locale.of("pt", "BR");   // constante real
 private static final Scanner SCANNER = new Scanner(System.in); // estado global mutável
 ```
+
+`Locale` é imutável por dentro, então `final` basta para ele, já `Scanner` ele guarda a posição no buffer e muda a cada leitura.
+
 ## Como se aplica
+
+```java
+// Imutabilidade real exige que o objeto também seja imutável
+public final class Money {
+    private final BigDecimal amount;   // BigDecimal é imutável ✓
+    private final Currency currency;
+}
+
+// Com coleção, final não basta
+public final class Order {
+    private final List<Item> items;    // ainda dá pra add/remove
+
+    public List<Item> items() {
+        return List.copyOf(items);     // devolve cópia imutável
+    }
+}
+```
+
+
 
 ## Cuidado
 
