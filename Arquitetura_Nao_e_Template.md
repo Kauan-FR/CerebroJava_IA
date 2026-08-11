@@ -11,7 +11,7 @@ Paginas:
 ---
 ## O que é
 
-Arquitetura é o conjunto de de
+Arquitetura é o conjunto de decisões sobre **onde as fronteiras ficam** e **o que **
 
 ## Por que importa
 
