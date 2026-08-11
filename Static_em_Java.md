@@ -26,6 +26,20 @@ Locale.of("pt","BR"); // sem new Locale()
 
 ## Cuidado
 
-**Métodos estáticos não enxerga membro de instância** - porque não existe instância pra 
+**Métodos estáticos não enxerga membro de instância** - porque não existe instância pra enxergar:
+
+```java
+public class App {
+    private int contador = 0;
+
+    public static void main(String[] args) {
+        contador++;   // erro: non-static variable in static context
+    }
+}
+```
+
+- Variável estática é **compartilhada por todo o programa**. Se for mutável, é estado global — ver [[estado-global]]
+- Método estático não pode ser substituído em teste. Regra de negócio em método estático é regra que você não consegue testar isolada
+- `static` em campo mutável, com múltiplas threads, é corrupção de dado
 
 ## Onde aparece
