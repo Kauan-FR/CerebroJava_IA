@@ -3,7 +3,7 @@ Data: 2026-08-11
 tags:
   - java
   - conceito
-  - static
+  - opp
 cssclasses:
   - conceito
 Fonte:
@@ -57,3 +57,5 @@ public class App {
 - `static` em campo mutável, com múltiplas threads, é corrupção de dado
 
 ## Onde aparece
+
+- [[Funcoes_Matematicas]] - 
