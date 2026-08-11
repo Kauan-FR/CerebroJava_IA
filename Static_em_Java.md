@@ -15,3 +15,10 @@ A palavra-chave `static` é um modificador que indica que um membro ele pertence
 
 ## Por que importa
 
+O `static` ela acaba tornando a classe única, para impedindo que outras classes de forma externa possam invadila
+
+## Como se aplica
+
+## Cuidado
+
+## Onde aparece
