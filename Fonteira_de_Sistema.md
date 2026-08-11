@@ -1,8 +1,9 @@
 ---
 Data: 2026-08-11
 tags:
-  - java
   - conceito
+  - arquitetura
+  - validacao
 cssclasses:
   - conceito
 Fonte:
