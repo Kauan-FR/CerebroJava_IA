@@ -26,4 +26,6 @@ Locale.of("pt","BR"); // sem new Locale()
 
 ## Cuidado
 
+**Métodos estáticos não enxerga membro de instância** - porque não existe instância pra 
+
 ## Onde aparece
