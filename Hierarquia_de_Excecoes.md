@@ -3,6 +3,8 @@ Data: 2026-08-11
 tags:
   - java
   - conceito
+  - arquitetura
+  - exception
 cssclasses:
   - conceito
 Fonte:
@@ -89,3 +91,9 @@ Três decisões, três motivos:
 - **Não capture largo.** `catch (Exception)` ou `catch (RuntimeException)` engole NPE e erro de lógica seu, e converte tudo numa mensagem que mente
 - **Exceção não é controle de fluxo.** Se acontece no caminho normal, é `if`, não `throw`. Exceção tem custo — ela monta o stack trace inteiro
 - **Nunca engula:** `catch (E e) { }` vazio é o pior padrão que existe. O erro aconteceu e ninguém soube
+
+## Onde aparece
+
+- [[Ex_01_V2_Estrutura_Sequencial]] - `GlobalException` e `InvalidNumberInput`
+- [[Fronteira_de_Sistema]] - Traduzir exceção técnica em mensagem com sentido
+- [[Final_Nao_e_Imutavel]] - `final` na exceção protege o significado
