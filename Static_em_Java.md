@@ -15,7 +15,12 @@ A palavra-chave `static` é um modificador que indica que um membro ele pertence
 
 ## Por que importa
 
-O `static` ela acaba tornando a classe única, para impedindo que outras classes de forma externa possam invadila
+O `static` significa que o membro existe **antes e independente de qualquer objeto:**
+
+```java
+Math.sqrt(16);       // sem new Math()
+Locale.of("pt","BR"); // sem new Locale()
+```
 
 ## Como se aplica
 
