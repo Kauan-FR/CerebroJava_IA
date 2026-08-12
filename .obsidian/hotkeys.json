@@ -19,8 +19,8 @@
   "app:open-settings": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "S"
     }
