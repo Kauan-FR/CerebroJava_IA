@@ -67,3 +67,22 @@ revisoes: [2026-08-18, 2026-08-19, 2026-08-25]
 3. **Perdeu um dia, perdeu.** Não compensa. Dívida vira desânimo vira abandono
 
 ## Métrica semanal (log.md)
+
+raw/transpetro/
+  edital-04.pdf
+  anexo-iii.pdf
+  pdfs/              PDFs de cursinho
+  provas/            provas anteriores Cesgranrio
+resumos/transpetro/
+  b1-arquitetura-dados/
+  b2-projetos/
+  b4-governanca/
+  b5-eng-software/
+  b6-ux/
+  b7-bi/
+  b8-logica/
+  b9-seguranca/
+  portugues/
+  ingles/
+questoes/
+  erros.md           só o que você errou
