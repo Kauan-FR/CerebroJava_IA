@@ -8,7 +8,7 @@ Tipo:
   - concurso
 ---
 ---
-# Plano Transpetro — Ênfase 5 (Analista de sistema - Processos de Negócios)
+# Plano Transpetro — Ênfase 5 (Análise de sistema - Processos de Negócios)
 
 Prova: **29/11/2026** · 94 subtópicos específicos + 14 de gerais
 
