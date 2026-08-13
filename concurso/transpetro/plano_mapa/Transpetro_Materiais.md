@@ -11,12 +11,12 @@ Tipo:
 
 ## Pago
 
-| Recurso | Custo | Para quê |
-| --- | --- | --- |
-| **TEC Concursos** | ~R$ 40/mês | **Prioridade 1.** Melhor banco de questões de TI, filtro por banca |
-| Estratégia Concursos — Ênfase 5 | Alto | PDFs no edital exato + questões Cesgranrio comentadas |
-| Gran Cursos — Ilimitada | Médio | Alternativa. 7 dias grátis |
-| Qconcursos | Baixo | Alternativa ao TEC, banco menor em TI |
+| Recurso                         | Custo      | Para quê                                                           |
+| ------------------------------- | ---------- | ------------------------------------------------------------------ |
+| **TEC Concursos**               | ~R$ 40/mês | **Prioridade 1.** Melhor banco de questões de TI, filtro por banca |
+| Estratégia Concursos — Ênfase 5 | Alto       | PDFs no edital exato + questões Cesgranrio comentadas              |
+| Gran Cursos — Ilimitada         | Médio      | Alternativa. 7 dias grátis                                         |
+| Qconcursos                      | Baixo      | Alternativa ao TEC, banco menor em TI                              |
 
 > [!tip] Se for gastar em uma coisa só
 > TEC Concursos. Questão comentada vale mais que videoaula.
