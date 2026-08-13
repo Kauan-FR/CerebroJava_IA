@@ -45,7 +45,7 @@ import exercicios.Estrutura_Sequencial.Exercicio01.exception.InvalidNumberInput;
 import java.util.InputMismatchException;  
 import java.util.Scanner;  
   
-public final class Exercicio_01 {  
+public final class IntSumExtracted {  
   
     static void main(String[] args) {  
   

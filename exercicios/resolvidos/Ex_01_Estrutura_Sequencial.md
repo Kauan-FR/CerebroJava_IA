@@ -15,7 +15,7 @@ Paginas: "1"
 import java.util.InputMismatchException;  
 import java.util.Scanner;  
   
-public final class Exercicio_01 {  
+public final class IntSumInline {  
   
     static void main(String[] args) {  
   

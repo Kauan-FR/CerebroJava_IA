@@ -45,7 +45,7 @@ import java.util.InputMismatchException;
 import java.util.Locale;  
 import java.util.Scanner;  
   
-public final class Exercicio_01_V3 {  
+public final class DecimalSumLocalized {  
   
     private static final Locale PT_BR = Locale.of("pt", "BR");  
   
