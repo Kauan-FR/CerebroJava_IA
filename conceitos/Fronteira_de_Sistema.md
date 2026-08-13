@@ -46,6 +46,14 @@ Validar formato ≠ validar regra de negócio.
  
 Regra de negócio na fronteira é regra que dá pra contornar: o job noturno, o script de importação e o outro endpoint não passam por ali. Invariante mora no domínio, porque é o único lugar por onde tudo passa.
 
+## Falha silenciosa por `string` mal formatado
+
+`Locale.forLanguageTag("pt_BR")` não lança exceção — devolve `Locale.ROOT`. A saída fica errada e nada avisa. 
+
+O padrão: método que recebe `string` e devolve um valor padrão em vez de falhar. Você só descobre olhando o resultado. 
+
+Antídoto: prefira a API tipada quando existir — `Locale.of("pt", "BR")` valida os argumentos; `forLanguageTag` aceita qualquer coisa.
+
 ## Onde aparece
 
 - [[Entrada_de_Dados]] - `Scanner`, `InputMismatchException`, `useLocale`
