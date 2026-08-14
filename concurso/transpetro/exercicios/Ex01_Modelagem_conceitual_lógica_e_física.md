@@ -127,7 +127,7 @@ No modelo conceitual de um sistema de gestão de pessoas, registrou-se que um em
 Esse tipo de construção é denominado
 
 - [ ] (A) relacionamento ternário.  
-- [x] (B) autorrelacionamento.  
+<font color="#00b050">- [x] (B) autorrelacionamento.  </font>
 - [ ] (C) agregação.  
 - [ ] (D) especialização.  
 - [ ] (E) relacionamento identificador.
