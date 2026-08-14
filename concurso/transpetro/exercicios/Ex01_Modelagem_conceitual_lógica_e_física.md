@@ -314,6 +314,14 @@ Pertence exclusivamente ao projeto físico do banco de dados a
 - [ ] (D) aplicação das formas normais sobre as relações obtidas.  
 - [ ] (E) determinação das cardinalidades mínima e máxima dos relacionamentos.
 
+>[!fail] **Nível de projeto**
+>
+>|Nível|Decisões|
+|---|---|
+|**Conceitual**|Entidades, relacionamentos, atributos, identificadores, cardinalidades. Independente de SGBD.|
+|**Lógico**|Tabelas, colunas, PK/FK, normalização, tipos genéricos. Depende do **modelo** (relacional), não do produto.|
+|**Físico**|Índices, tablespaces, partições, clustering, tipos específicos do produto, parâmetros de armazenamento. Depende do **SGBD**.|
+
 ---
 
 **20**
@@ -322,8 +330,8 @@ Uma empresa assumiu a manutenção de um sistema legado cujo banco de dados est�
 
 O processo adequado para essa finalidade é denominado
 
-- [ ] (A) engenharia reversa.  
+<font color="#00b050">- [ ] (A) engenharia reversa.  </font>
 - [ ] (B) normalização.  
 - [ ] (C) modelagem dimensional.  
 - [ ] (D) refatoração conceitual.  
-- [ ] (E) tuning de banco de dados.
+<font color="#ff0000">- [x] (E) tuning de banco de dados.</font>
