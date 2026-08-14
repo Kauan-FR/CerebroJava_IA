@@ -296,8 +296,9 @@ Essa situação exemplifica a independência de dados
 - [ ] (D) semântica.  
 - [ ] (E) transacional.
 
->[!fail] **Independencia física x lógica**
->
+>[!fail] **Independência física x lógica**
+>**Independência Física =>** Mudança no nível interno(criação de índices, forma de armazenamento, particionamento, compressão) não afeta o esquema conceitual nem as aplicações
+>**Independência Lógica =>** Mudança no esquema conceitual(adicionar um atributo, criar uma nova tabela) não afeta a aplicação nem as visões existentes. 
 
 ---
 
@@ -308,8 +309,8 @@ Ao longo do projeto de um banco de dados, diferentes decisões são tomadas em c
 Pertence exclusivamente ao projeto físico do banco de dados a
 
 - [ ] (A) definição das entidades e de seus relacionamentos.  
-- [x] (B) escolha dos atributos identificadores de cada entidade.  
-- [ ] (C) criação de índices e definição da forma de armazenamento das tabelas.  
+<font color="#ff0000">- [x] (B) escolha dos atributos identificadores de cada entidade.  </font>
+<font color="#00b050">- [ ] (C) criação de índices e definição da forma de armazenamento das tabelas.  </font>
 - [ ] (D) aplicação das formas normais sobre as relações obtidas.  
 - [ ] (E) determinação das cardinalidades mínima e máxima dos relacionamentos.
 
