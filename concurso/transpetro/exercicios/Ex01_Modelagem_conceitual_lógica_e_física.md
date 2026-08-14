@@ -86,7 +86,7 @@ No modelo conceitual, a nota deve ser
 
 - [ ] (A) armazenada como atributo da entidade Aluno.  
 - [ ] (B) armazenada como atributo da entidade Disciplina.  
-- [ ] (C) associada ao relacionamento entre Aluno e Disciplina.  
+- [x] (C) associada ao relacionamento entre Aluno e Disciplina.  
 - [ ] (D) representada como atributo derivado da entidade Aluno.  
 - [ ] (E) omitida do modelo conceitual e criada apenas no modelo físico.
 
@@ -98,11 +98,11 @@ Em uma transportadora, todo funcionário é obrigatoriamente motorista ou admini
 
 Essa especialização é classificada como
 
-(A) parcial e exclusiva.  
-(B) parcial e compartilhada.  
-(C) total e exclusiva.  
-(D) total e compartilhada.  
-(E) uma agregação entre a entidade Funcionário e suas categorias.
+- [ ] (A) parcial e exclusiva.  
+- [ ] (B) parcial e compartilhada.  
+- [ ] (C) total e exclusiva.  
+- [ ] (D) total e compartilhada.  
+- [ ] (E) uma agregação entre a entidade Funcionário e suas categorias.
 
 ---
 
