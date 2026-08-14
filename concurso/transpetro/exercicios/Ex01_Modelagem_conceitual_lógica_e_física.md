@@ -224,7 +224,7 @@ No modelo relacional, o grau de uma relação corresponde ao número de
 
 - [ ] (A) tuplas existentes na relação.  
 - [ ] (B) atributos que compõem a relação.  
-- [ ] (C) chaves candidatas identificadas na relação.  
+- [x] (C) chaves candidatas identificadas na relação.  
 - [ ] (D) restrições de integridade aplicadas à relação.  
 - [ ] (E) domínios distintos referenciados pela relação.
 
@@ -236,11 +236,11 @@ Na tabela Funcionário, os atributos CPF e Matrícula identificam unicamente cad
 
 Nesse caso, o CPF é classificado como chave
 
-(A) estrangeira.  
-(B) alternativa.  
-(C) composta.  
-(D) parcial.  
-(E) artificial.
+- [ ] (A) estrangeira.  
+- [x] (B) alternativa.  
+- [ ] (C) composta.  
+- [ ] (D) parcial.  
+- [ ] (E) artificial.
 
 ---
 
@@ -250,11 +250,11 @@ Um administrador de banco de dados criou um índice sobre a coluna data_emissao 
 
 Essa situação exemplifica a independência de dados
 
-(A) lógica.  
-(B) física.  
-(C) referencial.  
-(D) semântica.  
-(E) transacional.
+- [ ] (A) lógica.  
+- [ ] (B) física.  
+- [ ] (C) referencial.  
+- [ ] (D) semântica.  
+- [ ] (E) transacional.
 
 ---
 
