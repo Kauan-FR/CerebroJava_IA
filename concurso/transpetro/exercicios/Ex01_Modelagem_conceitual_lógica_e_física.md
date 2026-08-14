@@ -13,7 +13,7 @@ Uma seguradora iniciou o projeto do banco de dados de seu novo sistema de apóli
 O modelo conceitual caracteriza-se por
 
 - [ ] (A) especificar índices, partições e estruturas de armazenamento das tabelas.  
-- [ ] (B) representar os requisitos de dados do negócio independentemente do SGBD a ser adotado.  
+- [x] (B) representar os requisitos de dados do negócio independentemente do SGBD a ser adotado.  
 - [ ] (C) definir tipos de dados e restrições em conformidade com o SGBD escolhido.  
 - [ ] (D) descrever tabelas, colunas e chaves estrangeiras já ajustadas ao produto contratado.  
 - [ ] (E) ser obtido automaticamente a partir do modelo físico por meio de engenharia reversa.
