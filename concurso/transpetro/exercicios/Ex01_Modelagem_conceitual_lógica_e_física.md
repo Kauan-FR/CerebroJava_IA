@@ -250,7 +250,7 @@ Um administrador de banco de dados criou um índice sobre a coluna data_emissao 
 
 Essa situação exemplifica a independência de dados
 
-- [ ] (A) lógica.  
+- [x] (A) lógica.  
 - [ ] (B) física.  
 - [ ] (C) referencial.  
 - [ ] (D) semântica.  
