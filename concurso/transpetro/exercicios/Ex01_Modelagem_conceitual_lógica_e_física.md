@@ -127,7 +127,7 @@ Uma indústria precisa registrar a quantidade de peças que cada fornecedor entr
 A modelagem conceitual mais adequada para esse requisito consiste em
 
 - [ ] (A) três relacionamentos binários independentes entre as entidades envolvidas.  
-- [ ] (B) um relacionamento ternário entre Fornecedor, Produto e Projeto.  
+- [x] (B) um relacionamento ternário entre Fornecedor, Produto e Projeto.  
 - [ ] (C) uma generalização que tenha Produto como superclasse.  
 - [ ] (D) uma entidade fraca dependente da entidade Produto.  
 - [ ] (E) um atributo multivalorado na entidade Projeto.
@@ -140,11 +140,11 @@ Em um sistema hospitalar, o relacionamento Consulta, estabelecido entre Médico 
 
 O recurso do modelo E-R que permite que um relacionamento participe de outro relacionamento é a
 
-(A) especialização.  
-(B) agregação.  
-(C) generalização.  
-(D) dependência de identificação.  
-(E) cardinalidade máxima.
+- [ ] (A) especialização.  
+- [ ] (B) agregação.  
+- [ ] (C) generalização.  
+- [ ] (D) dependência de identificação.  
+- [ ] (E) cardinalidade máxima.
 
 ---
 
