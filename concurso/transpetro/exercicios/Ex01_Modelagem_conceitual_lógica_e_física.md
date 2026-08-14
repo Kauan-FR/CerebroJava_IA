@@ -169,7 +169,7 @@ Uma editora modelou o relacionamento entre Autor e Livro, em que um autor escrev
 A transformação desse relacionamento para o modelo lógico relacional gera
 
 - [ ] (A) duas tabelas, com chave estrangeira em Livro.  
-- [ ] (B) duas tabelas, com chave estrangeira em Autor.  
+- [x] (B) duas tabelas, com chave estrangeira em Autor.  
 - [ ] (C) três tabelas, sendo uma delas com chave primária composta pelas chaves das outras duas.  
 - [ ] (D) uma única tabela, contendo os atributos de autores e de livros.  
 - [ ] (E) três tabelas, sendo que a terceira não possui chave estrangeira.
@@ -182,11 +182,11 @@ Em uma empresa, todo crachá corporativo pertence a exatamente um empregado, mas
 
 A representação mais adequada desse relacionamento no modelo lógico relacional consiste em
 
-(A) incluir a chave de Cracha como chave estrangeira em Empregado, permitindo valores nulos.  
-(B) incluir a chave de Empregado como chave estrangeira em Cracha, com restrição de unicidade.  
-(C) criar uma tabela associativa entre Empregado e Cracha.  
-(D) fundir Empregado e Cracha em uma única tabela com colunas opcionais.  
-(E) replicar as chaves primárias nas duas tabelas, sem chave estrangeira.
+- [ ] (A) incluir a chave de Cracha como chave estrangeira em Empregado, permitindo valores nulos.  
+- [ ] (B) incluir a chave de Empregado como chave estrangeira em Cracha, com restrição de unicidade.  
+- [ ] (C) criar uma tabela associativa entre Empregado e Cracha.  
+- [ ] (D) fundir Empregado e Cracha em uma única tabela com colunas opcionais.  
+- [ ] (E) replicar as chaves primárias nas duas tabelas, sem chave estrangeira.
 
 ---
 
