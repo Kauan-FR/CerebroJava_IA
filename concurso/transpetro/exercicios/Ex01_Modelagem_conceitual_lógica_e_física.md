@@ -197,7 +197,7 @@ A entidade fraca Dependente é identificada pelo atributo nome, em conjunto com 
 No modelo lógico relacional, a chave primária da tabela Dependente é
 
 - [ ] (A) formada apenas pelo atributo nome.  
-- [ ] (B) composta pelo atributo nome e pela chave primária de Segurado.  
+- [x] (B) composta pelo atributo nome e pela chave primária de Segurado.  
 - [ ] (C) formada apenas pela chave primária de Segurado.  
 - [ ] (D) obrigatoriamente uma chave substituta gerada pelo SGBD.  
 - [ ] (E) qualquer atributo da tabela que não admita valor nulo.
@@ -210,11 +210,11 @@ Uma seguradora modelou a superclasse Apólice e as subclasses ApóliceVida e Ap�
 
 Uma estratégia válida de mapeamento dessa hierarquia para o modelo lógico relacional consiste em
 
-(A) criar uma única tabela com os atributos comuns e os específicos, admitindo colunas opcionais.  
-(B) criar tabelas apenas para as subclasses, eliminando obrigatoriamente os atributos comuns.  
-(C) criar tabela apenas para a superclasse, descartando os atributos específicos das subclasses.  
-(D) criar uma tabela distinta para cada atributo especializado das subclasses.  
-(E) representar as subclasses como atributos multivalorados da superclasse.
+- [ ] (A) criar uma única tabela com os atributos comuns e os específicos, admitindo colunas opcionais.  
+- [ ] (B) criar tabelas apenas para as subclasses, eliminando obrigatoriamente os atributos comuns.  
+- [ ] (C) criar tabela apenas para a superclasse, descartando os atributos específicos das subclasses.  
+- [ ] (D) criar uma tabela distinta para cada atributo especializado das subclasses.  
+- [ ] (E) representar as subclasses como atributos multivalorados da superclasse.
 
 ---
 
