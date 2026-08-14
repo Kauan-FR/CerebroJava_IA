@@ -42,7 +42,7 @@ No modelo conceitual, a idade deve ser representada como atributo
 
 - [ ] (A) composto.  
 - [ ] (B) multivalorado.  
-- [x] (C) derivado.  
+<font color="#2DC26B">- [x] (C) derivado.  </font>
 - [ ] (D) identificador.  
 - [ ] (E) discriminador.
 
