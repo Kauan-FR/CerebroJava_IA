@@ -214,7 +214,7 @@ Uma estratégia válida de mapeamento dessa hierarquia para o modelo lógico rel
 - [ ] (B) criar tabelas apenas para as subclasses, eliminando obrigatoriamente os atributos comuns.  
 - [ ] (C) criar tabela apenas para a superclasse, descartando os atributos específicos das subclasses.  
 - [ ] (D) criar uma tabela distinta para cada atributo especializado das subclasses.  
-- [ ] (E) representar as subclasses como atributos multivalorados da superclasse.
+- [x] (E) representar as subclasses como atributos multivalorados da superclasse.
 
 ---
 
@@ -222,11 +222,11 @@ Uma estratégia válida de mapeamento dessa hierarquia para o modelo lógico rel
 
 No modelo relacional, o grau de uma relação corresponde ao número de
 
-(A) tuplas existentes na relação.  
-(B) atributos que compõem a relação.  
-(C) chaves candidatas identificadas na relação.  
-(D) restrições de integridade aplicadas à relação.  
-(E) domínios distintos referenciados pela relação.
+- [ ] (A) tuplas existentes na relação.  
+- [ ] (B) atributos que compõem a relação.  
+- [ ] (C) chaves candidatas identificadas na relação.  
+- [ ] (D) restrições de integridade aplicadas à relação.  
+- [ ] (E) domínios distintos referenciados pela relação.
 
 ---
 
