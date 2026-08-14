@@ -290,11 +290,13 @@ Um administrador de banco de dados criou um índice sobre a coluna data_emissao 
 
 Essa situação exemplifica a independência de dados
 
-- [x] (A) lógica.  
-- [ ] (B) física.  
+<font color="#ff0000">- [x] (A) lógica.  </font>
+<font color="#00b050">- [ ] (B) física.  </font>
 - [ ] (C) referencial.  
 - [ ] (D) semântica.  
 - [ ] (E) transacional.
+
+>[!fail] Ideprten
 
 ---
 
