@@ -175,7 +175,9 @@ Na transformação para o modelo lógico relacional, esse relacionamento deve se
 - [ ] (E) definição de um atributo multivalorado na tabela Departamento.
 
 >[!fail] **Mapeamento 1:N**
->A chave estrangeira (FK) **vai sempre para o lado N (muitos)**
+>A chave estrangeira (FK) **vai sempre para o lado N (muitos)**.
+>Nessa situação eu inverti os valores, a leitura correta é: **Um departamento tem vários empregados** e cada empregado tem **um departamento**
+>`Empregado(1:1) -> Lotado <- Departamento(1:n)`
 
 ---
 
@@ -186,8 +188,8 @@ Uma editora modelou o relacionamento entre Autor e Livro, em que um autor escrev
 A transformação desse relacionamento para o modelo lógico relacional gera
 
 - [ ] (A) duas tabelas, com chave estrangeira em Livro.  
-- [x] (B) duas tabelas, com chave estrangeira em Autor.  
-- [ ] (C) três tabelas, sendo uma delas com chave primária composta pelas chaves das outras duas.  
+<font color="#ff0000">- [x] (B) duas tabelas, com chave estrangeira em Autor.  </font>
+<font color="#00b050">- [ ] (C) três tabelas, sendo uma delas com chave primária composta pelas chaves das outras duas.  </font>
 - [ ] (D) uma única tabela, contendo os atributos de autores e de livros.  
 - [ ] (E) três tabelas, sendo que a terceira não possui chave estrangeira.
 
