@@ -265,7 +265,8 @@ No modelo relacional, o grau de uma relação corresponde ao número de
 - [ ] (E) domínios distintos referenciados pela relação.
 
 >[!fail] **Grau x cardinalidade**
->
+>**Grau =>** Número de **atributos**(colunas) da relação
+>**Cardinalidade =>** Número de **tuplas**(linhas)
 
 ---
 
@@ -276,7 +277,7 @@ Na tabela Funcionário, os atributos CPF e Matrícula identificam unicamente cad
 Nesse caso, o CPF é classificado como chave
 
 - [ ] (A) estrangeira.  
-- [x] (B) alternativa.  
+<font color="#00b050">- [x] (B) alternativa.  </font>
 - [ ] (C) composta.  
 - [ ] (D) parcial.  
 - [ ] (E) artificial.
