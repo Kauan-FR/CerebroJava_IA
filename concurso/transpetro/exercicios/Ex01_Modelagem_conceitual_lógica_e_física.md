@@ -243,11 +243,11 @@ Uma seguradora modelou a superclasse Apólice e as subclasses ApóliceVida e Ap�
 
 Uma estratégia válida de mapeamento dessa hierarquia para o modelo lógico relacional consiste em
 
-- [ ] (A) criar uma única tabela com os atributos comuns e os específicos, admitindo colunas opcionais.  
+<font color="#00b050">- [ ] (A) criar uma única tabela com os atributos comuns e os específicos, admitindo colunas opcionais.  </font>
 - [ ] (B) criar tabelas apenas para as subclasses, eliminando obrigatoriamente os atributos comuns.  
 - [ ] (C) criar tabela apenas para a superclasse, descartando os atributos específicos das subclasses.  
 - [ ] (D) criar uma tabela distinta para cada atributo especializado das subclasses.  
-- [x] (E) representar as subclasses como atributos multivalorados da superclasse.
+<font color="#ff0000">- [x] (E) representar as subclasses como atributos multivalorados da superclasse.</font>
 
 ---
 
