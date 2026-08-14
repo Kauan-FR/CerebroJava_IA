@@ -177,7 +177,9 @@ Na transformação para o modelo lógico relacional, esse relacionamento deve se
 >[!fail] **Mapeamento 1:N**
 >A chave estrangeira (FK) **vai sempre para o lado N (muitos)**.
 >Nessa situação eu inverti os valores, a leitura correta é: **Um departamento tem vários empregados** e cada empregado tem **um departamento**
->`Empregado(1:1) -> Lotado <- Departamento(1:n)`
+>```
+>Empregado(1:1) -> Lotado <- Departamento(1:n)
+>```
 
 ---
 
@@ -193,6 +195,12 @@ A transformação desse relacionamento para o modelo lógico relacional gera
 - [ ] (D) uma única tabela, contendo os atributos de autores e de livros.  
 - [ ] (E) três tabelas, sendo que a terceira não possui chave estrangeira.
 
+>[!fail] **Mapeamento N:M**
+>Na situação em que duas tabelas são `(1:n)`, para que ocorra um relacionamento entre é preciso **adicionar uma tabela associativa**, onde ela ira **levar tanto a chave primaria de uma quanto a chave primaria de outra**
+>```
+>Livro(1:n) -> Autoria(1:1) <- Autor(1:n)
+>``` 
+
 ---
 
 **13**
@@ -201,7 +209,7 @@ Em uma empresa, todo crachá corporativo pertence a exatamente um empregado, mas
 
 A representação mais adequada desse relacionamento no modelo lógico relacional consiste em
 
-- [x] (A) incluir a chave de Cracha como chave estrangeira em Empregado, permitindo valores nulos.  
+<font color="#ff0000">- [x] (A) incluir a chave de Cracha como chave estrangeira em Empregado, permitindo valores nulos.  </font>
 - [ ] (B) incluir a chave de Empregado como chave estrangeira em Cracha, com restrição de unicidade.  
 - [ ] (C) criar uma tabela associativa entre Empregado e Cracha.  
 - [ ] (D) fundir Empregado e Cracha em uma única tabela com colunas opcionais.  
