@@ -249,6 +249,9 @@ Uma estratégia válida de mapeamento dessa hierarquia para o modelo lógico rel
 - [ ] (D) criar uma tabela distinta para cada atributo especializado das subclasses.  
 <font color="#ff0000">- [x] (E) representar as subclasses como atributos multivalorados da superclasse.</font>
 
+>[!fail] **Mapeamento de hierarquia(generalização/especialização)**
+>
+
 ---
 
 **16**
