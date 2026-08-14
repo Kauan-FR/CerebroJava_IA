@@ -210,7 +210,7 @@ Em uma empresa, todo crachá corporativo pertence a exatamente um empregado, mas
 A representação mais adequada desse relacionamento no modelo lógico relacional consiste em
 
 <font color="#ff0000">- [x] (A) incluir a chave de Cracha como chave estrangeira em Empregado, permitindo valores nulos.  </font>
-- [ ] (B) incluir a chave de Empregado como chave estrangeira em Cracha, com restrição de unicidade.  
+<font color="#00b050">- [ ] (B) incluir a chave de Empregado como chave estrangeira em Cracha, com restrição de unicidade.  </font>
 - [ ] (C) criar uma tabela associativa entre Empregado e Cracha.  
 - [ ] (D) fundir Empregado e Cracha em uma única tabela com colunas opcionais.  
 - [ ] (E) replicar as chaves primárias nas duas tabelas, sem chave estrangeira.
