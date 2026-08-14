@@ -100,7 +100,7 @@ No modelo conceitual, a nota deve ser
 
 - [ ] (A) armazenada como atributo da entidade Aluno.  
 - [ ] (B) armazenada como atributo da entidade Disciplina.  
-- [x] (C) associada ao relacionamento entre Aluno e Disciplina.  
+<font color="#00b050">- [x] (C) associada ao relacionamento entre Aluno e Disciplina.  </font>
 - [ ] (D) representada como atributo derivado da entidade Aluno.  
 - [ ] (E) omitida do modelo conceitual e criada apenas no modelo físico.
 
@@ -114,7 +114,7 @@ Essa especialização é classificada como
 
 - [ ] (A) parcial e exclusiva.  
 - [ ] (B) parcial e compartilhada.  
-- [x] (C) total e exclusiva.  
+<font color="#00b050">- [x] (C) total e exclusiva.  </font>
 - [ ] (D) total e compartilhada.  
 - [ ] (E) uma agregação entre a entidade Funcionário e suas categorias.
 
