@@ -182,7 +182,7 @@ Em uma empresa, todo crachá corporativo pertence a exatamente um empregado, mas
 
 A representação mais adequada desse relacionamento no modelo lógico relacional consiste em
 
-- [ ] (A) incluir a chave de Cracha como chave estrangeira em Empregado, permitindo valores nulos.  
+- [x] (A) incluir a chave de Cracha como chave estrangeira em Empregado, permitindo valores nulos.  
 - [ ] (B) incluir a chave de Empregado como chave estrangeira em Cracha, com restrição de unicidade.  
 - [ ] (C) criar uma tabela associativa entre Empregado e Cracha.  
 - [ ] (D) fundir Empregado e Cracha em uma única tabela com colunas opcionais.  
@@ -196,11 +196,11 @@ A entidade fraca Dependente é identificada pelo atributo nome, em conjunto com 
 
 No modelo lógico relacional, a chave primária da tabela Dependente é
 
-(A) formada apenas pelo atributo nome.  
-(B) composta pelo atributo nome e pela chave primária de Segurado.  
-(C) formada apenas pela chave primária de Segurado.  
-(D) obrigatoriamente uma chave substituta gerada pelo SGBD.  
-(E) qualquer atributo da tabela que não admita valor nulo.
+- [ ] (A) formada apenas pelo atributo nome.  
+- [ ] (B) composta pelo atributo nome e pela chave primária de Segurado.  
+- [ ] (C) formada apenas pela chave primária de Segurado.  
+- [ ] (D) obrigatoriamente uma chave substituta gerada pelo SGBD.  
+- [ ] (E) qualquer atributo da tabela que não admita valor nulo.
 
 ---
 
