@@ -215,6 +215,12 @@ A representação mais adequada desse relacionamento no modelo lógico relaciona
 - [ ] (D) fundir Empregado e Cracha em uma única tabela com colunas opcionais.  
 - [ ] (E) replicar as chaves primárias nas duas tabelas, sem chave estrangeira.
 
+>[!fail] **Mapeamento 1:1 e participação total**
+>A sua resposta funciona, mas ela geraria colunas nulas na tabela, e para evitar isso, a FK vai para o lado da **participação total**, com o `UNIQUE` para garantir o 1:1. Assim a coluna nunca é nula.
+>E a **participação única** ai é do **cracha**(todo crachá pertence a um empregado)
+>E a **participação parcial** ai é do **empregado**(nem todo empregado tem crachá)
+>Uma regra é: **A FK no lado obrigatório, UNIQUE para travar o 1:1**
+
 ---
 
 **14**
