@@ -264,11 +264,11 @@ Ao longo do projeto de um banco de dados, diferentes decisões são tomadas em c
 
 Pertence exclusivamente ao projeto físico do banco de dados a
 
-(A) definição das entidades e de seus relacionamentos.  
-(B) escolha dos atributos identificadores de cada entidade.  
-(C) criação de índices e definição da forma de armazenamento das tabelas.  
-(D) aplicação das formas normais sobre as relações obtidas.  
-(E) determinação das cardinalidades mínima e máxima dos relacionamentos.
+- [ ] (A) definição das entidades e de seus relacionamentos.  
+- [x] (B) escolha dos atributos identificadores de cada entidade.  
+- [ ] (C) criação de índices e definição da forma de armazenamento das tabelas.  
+- [ ] (D) aplicação das formas normais sobre as relações obtidas.  
+- [ ] (E) determinação das cardinalidades mínima e máxima dos relacionamentos.
 
 ---
 
@@ -278,8 +278,8 @@ Uma empresa assumiu a manutenção de um sistema legado cujo banco de dados est�
 
 O processo adequado para essa finalidade é denominado
 
-(A) engenharia reversa.  
-(B) normalização.  
-(C) modelagem dimensional.  
-(D) refatoração conceitual.  
-(E) tuning de banco de dados.
+- [ ] (A) engenharia reversa.  
+- [ ] (B) normalização.  
+- [ ] (C) modelagem dimensional.  
+- [ ] (D) refatoração conceitual.  
+- [ ] (E) tuning de banco de dados.
