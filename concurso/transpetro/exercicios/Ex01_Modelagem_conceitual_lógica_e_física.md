@@ -113,7 +113,7 @@ No modelo conceitual de um sistema de gestão de pessoas, registrou-se que um em
 Esse tipo de construção é denominado
 
 - [ ] (A) relacionamento ternário.  
-- [ ] (B) autorrelacionamento.  
+- [x] (B) autorrelacionamento.  
 - [ ] (C) agregação.  
 - [ ] (D) especialização.  
 - [ ] (E) relacionamento identificador.
@@ -126,11 +126,11 @@ Uma indústria precisa registrar a quantidade de peças que cada fornecedor entr
 
 A modelagem conceitual mais adequada para esse requisito consiste em
 
-(A) três relacionamentos binários independentes entre as entidades envolvidas.  
-(B) um relacionamento ternário entre Fornecedor, Produto e Projeto.  
-(C) uma generalização que tenha Produto como superclasse.  
-(D) uma entidade fraca dependente da entidade Produto.  
-(E) um atributo multivalorado na entidade Projeto.
+- [ ] (A) três relacionamentos binários independentes entre as entidades envolvidas.  
+- [ ] (B) um relacionamento ternário entre Fornecedor, Produto e Projeto.  
+- [ ] (C) uma generalização que tenha Produto como superclasse.  
+- [ ] (D) uma entidade fraca dependente da entidade Produto.  
+- [ ] (E) um atributo multivalorado na entidade Projeto.
 
 ---
 
