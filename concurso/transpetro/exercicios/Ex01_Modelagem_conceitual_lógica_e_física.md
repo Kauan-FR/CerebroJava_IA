@@ -296,7 +296,8 @@ Essa situação exemplifica a independência de dados
 - [ ] (D) semântica.  
 - [ ] (E) transacional.
 
->[!fail] Ideprten
+>[!fail] **Independencia física x lógica**
+>
 
 ---
 
