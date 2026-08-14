@@ -174,6 +174,9 @@ Na transformação para o modelo lógico relacional, esse relacionamento deve se
 - [ ] (D) fusão das duas entidades em uma única tabela.  
 - [ ] (E) definição de um atributo multivalorado na tabela Departamento.
 
+>[!fail] **Mapeamento 1:N**
+>A chave estrangeira (FK) **vai sempre para o lado N (muitos)**
+
 ---
 
 **12**
