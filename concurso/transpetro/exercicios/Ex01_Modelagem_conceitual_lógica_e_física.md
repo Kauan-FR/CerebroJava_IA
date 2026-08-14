@@ -335,3 +335,6 @@ O processo adequado para essa finalidade é denominado
 - [ ] (C) modelagem dimensional.  
 - [ ] (D) refatoração conceitual.  
 <font color="#ff0000">- [x] (E) tuning de banco de dados.</font>
+
+>[!fail] **Engenharia reversa**
+>Obter modelo de dados a partir de banco de dados sem documentação = **engenharia reversa**
