@@ -156,7 +156,7 @@ Na transformação para o modelo lógico relacional, esse relacionamento deve se
 
 - [ ] (A) criação de uma tabela específica para o relacionamento, com chave composta.  
 - [ ] (B) inclusão da chave primária de Departamento como chave estrangeira em Empregado.  
-- [ ] (C) inclusão da chave primária de Empregado como chave estrangeira em Departamento.  
+- [x] (C) inclusão da chave primária de Empregado como chave estrangeira em Departamento.  
 - [ ] (D) fusão das duas entidades em uma única tabela.  
 - [ ] (E) definição de um atributo multivalorado na tabela Departamento.
 
@@ -168,11 +168,11 @@ Uma editora modelou o relacionamento entre Autor e Livro, em que um autor escrev
 
 A transformação desse relacionamento para o modelo lógico relacional gera
 
-(A) duas tabelas, com chave estrangeira em Livro.  
-(B) duas tabelas, com chave estrangeira em Autor.  
-(C) três tabelas, sendo uma delas com chave primária composta pelas chaves das outras duas.  
-(D) uma única tabela, contendo os atributos de autores e de livros.  
-(E) três tabelas, sendo que a terceira não possui chave estrangeira.
+- [ ] (A) duas tabelas, com chave estrangeira em Livro.  
+- [ ] (B) duas tabelas, com chave estrangeira em Autor.  
+- [ ] (C) três tabelas, sendo uma delas com chave primária composta pelas chaves das outras duas.  
+- [ ] (D) uma única tabela, contendo os atributos de autores e de livros.  
+- [ ] (E) três tabelas, sendo que a terceira não possui chave estrangeira.
 
 ---
 
