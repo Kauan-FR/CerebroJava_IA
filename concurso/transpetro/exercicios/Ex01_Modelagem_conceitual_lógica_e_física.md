@@ -87,6 +87,9 @@ Infere-se, pela leitura desse modelo, que
 - [ ] (D) um médico pode não realizar consulta alguma.  
 <font color="#ff0000">- [x] (E) uma mesma consulta pode ser realizada por diversos médicos.</font>
 
+>[!fail] **Leitura de cardinalidade(min, max)**
+>
+
 ---
 
 **6**
