@@ -155,7 +155,7 @@ Em um sistema hospitalar, o relacionamento Consulta, estabelecido entre Médico 
 O recurso do modelo E-R que permite que um relacionamento participe de outro relacionamento é a
 
 - [ ] (A) especialização.  
-- [x] (B) agregação.  
+<font color="#00b050">- [x] (B) agregação.  </font>
 - [ ] (C) generalização.  
 - [ ] (D) dependência de identificação.  
 - [ ] (E) cardinalidade máxima.
@@ -169,8 +169,8 @@ Considere um modelo conceitual em que um departamento possui vários empregados 
 Na transformação para o modelo lógico relacional, esse relacionamento deve ser representado pela
 
 - [ ] (A) criação de uma tabela específica para o relacionamento, com chave composta.  
-- [ ] (B) inclusão da chave primária de Departamento como chave estrangeira em Empregado.  
-- [x] (C) inclusão da chave primária de Empregado como chave estrangeira em Departamento.  
+<font color="#00b050">- [ ] (B) inclusão da chave primária de Departamento como chave estrangeira em Empregado.  </font>
+<font color="#ff0000">- [x] (C) inclusão da chave primária de Empregado como chave estrangeira em Departamento.  </font>
 - [ ] (D) fusão das duas entidades em uma única tabela.  
 - [ ] (E) definição de um atributo multivalorado na tabela Departamento.
 
