@@ -74,7 +74,7 @@ Infere-se, pela leitura desse modelo, que
 - [ ] (B) toda consulta é realizada por exatamente um médico.  
 - [ ] (C) uma consulta pode existir sem estar associada a um médico.  
 - [ ] (D) um médico pode não realizar consulta alguma.  
-- [ ] (E) uma mesma consulta pode ser realizada por diversos médicos.
+- [x] (E) uma mesma consulta pode ser realizada por diversos médicos.
 
 ---
 
@@ -84,11 +84,11 @@ Uma instituição de ensino modelou o relacionamento entre as entidades Aluno e 
 
 No modelo conceitual, a nota deve ser
 
-(A) armazenada como atributo da entidade Aluno.  
-(B) armazenada como atributo da entidade Disciplina.  
-(C) associada ao relacionamento entre Aluno e Disciplina.  
-(D) representada como atributo derivado da entidade Aluno.  
-(E) omitida do modelo conceitual e criada apenas no modelo físico.
+- [ ] (A) armazenada como atributo da entidade Aluno.  
+- [ ] (B) armazenada como atributo da entidade Disciplina.  
+- [ ] (C) associada ao relacionamento entre Aluno e Disciplina.  
+- [ ] (D) representada como atributo derivado da entidade Aluno.  
+- [ ] (E) omitida do modelo conceitual e criada apenas no modelo físico.
 
 ---
 
