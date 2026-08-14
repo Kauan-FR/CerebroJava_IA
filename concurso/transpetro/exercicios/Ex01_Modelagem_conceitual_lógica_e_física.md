@@ -13,7 +13,7 @@ Uma seguradora iniciou o projeto do banco de dados de seu novo sistema de apóli
 O modelo conceitual caracteriza-se por
 
 - [ ] (A) especificar índices, partições e estruturas de armazenamento das tabelas.  
-- [x] (B) representar os requisitos de dados do negócio independentemente do SGBD a ser adotado.  
+<font color="#2DC26B">- [x] (B) representar os requisitos de dados do negócio independentemente do SGBD a ser adotado.  </font>
 - [ ] (C) definir tipos de dados e restrições em conformidade com o SGBD escolhido.  
 - [ ] (D) descrever tabelas, colunas e chaves estrangeiras já ajustadas ao produto contratado.  
 - [ ] (E) ser obtido automaticamente a partir do modelo físico por meio de engenharia reversa.
@@ -28,7 +28,7 @@ A entidade Dependente é classificada como entidade fraca porque
 
 - [ ] (A) possui uma quantidade reduzida de atributos.  
 - [ ] (B) não possui atributos próprios além do relacionamento.  
-- [x] (C) depende de outra entidade para ter sua identificação completa.  
+<font color="#2DC26B">- [x] (C) depende de outra entidade para ter sua identificação completa.  </font>
 - [ ] (D) participa do relacionamento com cardinalidade máxima igual a 1.  
 - [ ] (E) só passa a existir a partir do modelo lógico.
 
