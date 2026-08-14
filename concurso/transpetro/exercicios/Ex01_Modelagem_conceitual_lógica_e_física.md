@@ -54,11 +54,22 @@ Na modelagem de um sistema comercial, definiu-se que um cliente pode cadastrar d
 
 Os atributos telefone e endereço são classificados, respectivamente, como
 
-- [ ] (A) multivalorado e composto.  
+<font color="#00b050">- [ ] (A) multivalorado e composto.  </font>
 - [ ] (B) composto e multivalorado.  
-- [x] (C) derivado e composto.  
+<font color="#ff0000">- [x] (C) derivado e composto.  </font>
 - [ ] (D) multivalorado e derivado.  
 - [ ] (E) composto e opcional.
+
+>[!fail] **Atributo multivalorado x composto**
+>**Multivalorado =>** O mesmo atributo, só que com vários valores para uma única instância. 
+> - Cliente com **três telefones** -> **um atributo, três valores**
+> 
+>**Composto =>** Um atributo **dividido em partes menores** com significado próprio
+>  - Endereço -> logradouro + número + bairro + cidade. Um valor só, estruturado internamente
+>
+>**Derivado =>** Valor calculado a partir de outro dado já armazenado.
+> - **idade a partir de data_nacimento**, **total do pedido a partir dos itens**
+
 
 ---
 
@@ -71,10 +82,10 @@ O diagrama E-R a seguir representa parte do modelo conceitual de uma clínica.
 Infere-se, pela leitura desse modelo, que
 
 - [ ] (A) um médico realiza, no máximo, uma consulta.  
-- [ ] (B) toda consulta é realizada por exatamente um médico.  
+<font color="#00b050">- [ ] (B) toda consulta é realizada por exatamente um médico.  </font>
 - [ ] (C) uma consulta pode existir sem estar associada a um médico.  
 - [ ] (D) um médico pode não realizar consulta alguma.  
-- [x] (E) uma mesma consulta pode ser realizada por diversos médicos.
+<font color="#ff0000">- [x] (E) uma mesma consulta pode ser realizada por diversos médicos.</font>
 
 ---
 
