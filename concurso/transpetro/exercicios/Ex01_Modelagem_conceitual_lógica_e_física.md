@@ -42,7 +42,7 @@ No modelo conceitual, a idade deve ser representada como atributo
 
 - [ ] (A) composto.  
 - [ ] (B) multivalorado.  
-- [ ] (C) derivado.  
+- [x] (C) derivado.  
 - [ ] (D) identificador.  
 - [ ] (E) discriminador.
 
@@ -54,11 +54,11 @@ Na modelagem de um sistema comercial, definiu-se que um cliente pode cadastrar d
 
 Os atributos telefone e endereço são classificados, respectivamente, como
 
-(A) multivalorado e composto.  
-(B) composto e multivalorado.  
-(C) derivado e composto.  
-(D) multivalorado e derivado.  
-(E) composto e opcional.
+- [ ] (A) multivalorado e composto.  
+- [ ] (B) composto e multivalorado.  
+- [ ] (C) derivado e composto.  
+- [ ] (D) multivalorado e derivado.  
+- [ ] (E) composto e opcional.
 
 ---
 
