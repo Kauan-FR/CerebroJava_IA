@@ -28,7 +28,7 @@ A entidade Dependente é classificada como entidade fraca porque
 
 - [ ] (A) possui uma quantidade reduzida de atributos.  
 - [ ] (B) não possui atributos próprios além do relacionamento.  
-- [ ] (C) depende de outra entidade para ter sua identificação completa.  
+- [x] (C) depende de outra entidade para ter sua identificação completa.  
 - [ ] (D) participa do relacionamento com cardinalidade máxima igual a 1.  
 - [ ] (E) só passa a existir a partir do modelo lógico.
 
@@ -40,11 +40,11 @@ No modelo conceitual de um sistema de recursos humanos, a entidade Empregado pos
 
 No modelo conceitual, a idade deve ser representada como atributo
 
-(A) composto.  
-(B) multivalorado.  
-(C) derivado.  
-(D) identificador.  
-(E) discriminador.
+- [ ] (A) composto.  
+- [ ] (B) multivalorado.  
+- [ ] (C) derivado.  
+- [ ] (D) identificador.  
+- [ ] (E) discriminador.
 
 ---
 
