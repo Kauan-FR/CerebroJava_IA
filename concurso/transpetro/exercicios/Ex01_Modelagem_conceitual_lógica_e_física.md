@@ -259,10 +259,13 @@ Uma estratégia válida de mapeamento dessa hierarquia para o modelo lógico rel
 No modelo relacional, o grau de uma relação corresponde ao número de
 
 - [ ] (A) tuplas existentes na relação.  
-- [ ] (B) atributos que compõem a relação.  
-- [x] (C) chaves candidatas identificadas na relação.  
+<font color="#00b050">- [ ] (B) atributos que compõem a relação.  </font>
+<font color="#ff0000">- [x] (C) chaves candidatas identificadas na relação.  </font>
 - [ ] (D) restrições de integridade aplicadas à relação.  
 - [ ] (E) domínios distintos referenciados pela relação.
+
+>[!fail] **Grau x cardinalidade**
+>
 
 ---
 
