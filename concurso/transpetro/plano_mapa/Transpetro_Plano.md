@@ -14,12 +14,12 @@ Prova: **29/11/2026** · 94 subtópicos específicos + 14 de gerais
 
 ## Ciclo de estudo (1h20)
 
-| Etapa | Tempo | O quê |
-| --- | --- | --- |
-| Teoria | 25 min | 1 subtópico. Sem anotar |
-| Pausa | 5 min | Levantar. Sem celular |
-| Resumo | 15 min | Material FECHADO. Máx. 15 linhas |
-| Questões | 20 min | 15-20 questões do subtópico |
+| Etapa    | Tempo  | O quê                               |
+| -------- | ------ | ----------------------------------- |
+| Teoria   | 25 min | 1 subtópico. Sem anotar             |
+| Pausa    | 5 min  | Levantar. Sem celular               |
+| Resumo   | 15 min | Material FECHADO. Máx. 15 linhas    |
+| Questões | 20 min | 15-20 questões do subtópico         |
 | Correção | 15 min | Só os erros → viram linha no resumo |
 
 > [!warning] Regra
