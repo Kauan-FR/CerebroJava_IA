@@ -100,7 +100,7 @@ Essa especialização é classificada como
 
 - [ ] (A) parcial e exclusiva.  
 - [ ] (B) parcial e compartilhada.  
-- [ ] (C) total e exclusiva.  
+- [x] (C) total e exclusiva.  
 - [ ] (D) total e compartilhada.  
 - [ ] (E) uma agregação entre a entidade Funcionário e suas categorias.
 
@@ -112,11 +112,11 @@ No modelo conceitual de um sistema de gestão de pessoas, registrou-se que um em
 
 Esse tipo de construção é denominado
 
-(A) relacionamento ternário.  
-(B) autorrelacionamento.  
-(C) agregação.  
-(D) especialização.  
-(E) relacionamento identificador.
+- [ ] (A) relacionamento ternário.  
+- [ ] (B) autorrelacionamento.  
+- [ ] (C) agregação.  
+- [ ] (D) especialização.  
+- [ ] (E) relacionamento identificador.
 
 ---
 
