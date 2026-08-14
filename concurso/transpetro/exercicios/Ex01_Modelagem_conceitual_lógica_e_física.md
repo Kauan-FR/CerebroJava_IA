@@ -141,7 +141,7 @@ Uma indústria precisa registrar a quantidade de peças que cada fornecedor entr
 A modelagem conceitual mais adequada para esse requisito consiste em
 
 - [ ] (A) três relacionamentos binários independentes entre as entidades envolvidas.  
-- [x] (B) um relacionamento ternário entre Fornecedor, Produto e Projeto.  
+<font color="#00b050">- [x] (B) um relacionamento ternário entre Fornecedor, Produto e Projeto.  </font>
 - [ ] (C) uma generalização que tenha Produto como superclasse.  
 - [ ] (D) uma entidade fraca dependente da entidade Produto.  
 - [ ] (E) um atributo multivalorado na entidade Projeto.
