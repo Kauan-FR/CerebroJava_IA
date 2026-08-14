@@ -230,7 +230,7 @@ A entidade fraca Dependente é identificada pelo atributo nome, em conjunto com 
 No modelo lógico relacional, a chave primária da tabela Dependente é
 
 - [ ] (A) formada apenas pelo atributo nome.  
-- [x] (B) composta pelo atributo nome e pela chave primária de Segurado.  
+<font color="#00b050">- [x] (B) composta pelo atributo nome e pela chave primária de Segurado.  </font>
 - [ ] (C) formada apenas pela chave primária de Segurado.  
 - [ ] (D) obrigatoriamente uma chave substituta gerada pelo SGBD.  
 - [ ] (E) qualquer atributo da tabela que não admita valor nulo.
