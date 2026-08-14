@@ -56,7 +56,7 @@ Os atributos telefone e endereço são classificados, respectivamente, como
 
 - [ ] (A) multivalorado e composto.  
 - [ ] (B) composto e multivalorado.  
-- [ ] (C) derivado e composto.  
+- [x] (C) derivado e composto.  
 - [ ] (D) multivalorado e derivado.  
 - [ ] (E) composto e opcional.
 
@@ -70,11 +70,11 @@ O diagrama E-R a seguir representa parte do modelo conceitual de uma clínica.
 
 Infere-se, pela leitura desse modelo, que
 
-(A) um médico realiza, no máximo, uma consulta.  
-(B) toda consulta é realizada por exatamente um médico.  
-(C) uma consulta pode existir sem estar associada a um médico.  
-(D) um médico pode não realizar consulta alguma.  
-(E) uma mesma consulta pode ser realizada por diversos médicos.
+- [ ] (A) um médico realiza, no máximo, uma consulta.  
+- [ ] (B) toda consulta é realizada por exatamente um médico.  
+- [ ] (C) uma consulta pode existir sem estar associada a um médico.  
+- [ ] (D) um médico pode não realizar consulta alguma.  
+- [ ] (E) uma mesma consulta pode ser realizada por diversos médicos.
 
 ---
 
