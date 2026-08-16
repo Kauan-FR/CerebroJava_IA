@@ -54,7 +54,7 @@
   "tabletUIMode": "compact",
   "phoneUIMode": "mobile",
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
+  "matchTheme": true,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",

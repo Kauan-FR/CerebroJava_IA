@@ -164,13 +164,5 @@
       ],
       "key": "3"
     }
-  ],
-  "canvas:new-file": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "C"
-    }
   ]
 }
