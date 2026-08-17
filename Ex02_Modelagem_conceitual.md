@@ -145,7 +145,7 @@ Durante a construção do modelo lógico de um sistema de vendas, verificou-se q
 Nesse cenário, recomenda-se adotar uma chave
 
 - [ ] (A) estrangeira, replicando o código nas tabelas relacionadas.  
-- [ ] (B) parcial, formada apenas pelos cinco primeiros caracteres.  
+- [x] (B) parcial, formada apenas pelos cinco primeiros caracteres.  
 - [ ] (C) substituta (surrogate), gerada e controlada pelo próprio sistema.  
 - [ ] (D) alternativa, eliminando-se a chave primária da tabela.  
 - [ ] (E) composta, unindo o código do fabricante à data de cadastro.
@@ -158,11 +158,11 @@ Ao definir a tabela `Conta`, a equipe precisa garantir que a coluna `tipo` aceit
 
 A restrição adequada para esse requisito é
 
-(A) NOT NULL.  
-(B) UNIQUE.  
-(C) CHECK.  
-(D) PRIMARY KEY.  
-(E) FOREIGN KEY.
+- [ ] (A) NOT NULL.  
+- [ ] (B) UNIQUE.  
+- [ ] (C) CHECK.  
+- [ ] (D) PRIMARY KEY.  
+- [ ] (E) FOREIGN KEY.
 
 ---
 
