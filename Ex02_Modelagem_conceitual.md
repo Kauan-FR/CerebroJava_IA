@@ -106,7 +106,7 @@ Um efeito colateral esperado dessa criação é o(a)
 - [ ] (B) impossibilidade de executar consultas que não utilizem essa coluna.  
 - [ ] (C) perda da integridade referencial entre NotaFiscal e Cliente.  
 - [ ] (D) conversão automática da tabela para o modelo dimensional.  
-- [ ] (E) redução do espaço total ocupado pelo banco de dados.
+- [x] (E) redução do espaço total ocupado pelo banco de dados.
 
 ---
 
