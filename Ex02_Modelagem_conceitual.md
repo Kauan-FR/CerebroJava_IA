@@ -311,7 +311,7 @@ Uma tabela precisa gerar valores numéricos únicos e sequenciais para sua chave
 
 O recurso do modelo físico adequado a esse requisito é
 
-- [ ] (A) a restrição UNIQUE sobre a coluna.  
+- [x] (A) a restrição UNIQUE sobre a coluna.  
 - [ ] (B) a definição de uma coluna de identidade ou sequência (sequence).  
 - [ ] (C) a criação de uma visão materializada sobre a tabela.  
 - [ ] (D) o uso de uma restrição CHECK com valor incremental.  
