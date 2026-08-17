@@ -117,6 +117,16 @@ Um efeito colateral esperado dessa criação é o(a)
 - [ ] (D) conversão automática da tabela para o modelo dimensional.  
 <font color="#ff0000">- [x] (E) redução do espaço total ocupado pelo banco de dados.</font>
 
+>[!fail] O custo do índice
+>O índice ele ocupa espaço a mais na memória, e acelera a leitura e **desacelera escrita**, porque cada `INSERT`, `DELETE` e `UPDATE` precisa atualizar a tabela, e também o índice.
+>O uso do índice é uma troca
+>
+>| Ganha | Consequência|
+>|:-----:|:----:|
+>|Leitura mais rápida|Escrita mais lenta|
+>||Espaço em disco|
+>||Manutenção pelo SGBD|
+
 ---
 
 **7**
