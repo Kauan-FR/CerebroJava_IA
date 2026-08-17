@@ -301,7 +301,7 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 - [ ] (B) pela coluna id_loja, isoladamente ou combinada com data_venda.  
 - [ ] (C) apenas por colunas que não integram o índice.  
 - [ ] (D) exclusivamente pelas duas colunas em conjunto, nunca isoladamente.  
-- [ ] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.
+- [x] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.
 
 ---
 
@@ -311,8 +311,8 @@ Uma tabela precisa gerar valores numéricos únicos e sequenciais para sua chave
 
 O recurso do modelo físico adequado a esse requisito é
 
-(A) a restrição UNIQUE sobre a coluna.  
-(B) a definição de uma coluna de identidade ou sequência (sequence).  
-(C) a criação de uma visão materializada sobre a tabela.  
-(D) o uso de uma restrição CHECK com valor incremental.  
-(E) a criação de um índice do tipo bitmap sobre a coluna.
+- [ ] (A) a restrição UNIQUE sobre a coluna.  
+- [ ] (B) a definição de uma coluna de identidade ou sequência (sequence).  
+- [ ] (C) a criação de uma visão materializada sobre a tabela.  
+- [ ] (D) o uso de uma restrição CHECK com valor incremental.  
+- [ ] (E) a criação de um índice do tipo bitmap sobre a coluna.
