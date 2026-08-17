@@ -158,7 +158,7 @@ Ao definir a tabela `Conta`, a equipe precisa garantir que a coluna `tipo` aceit
 
 A restrição adequada para esse requisito é
 
-- [ ] (A) NOT NULL.  
+- [x] (A) NOT NULL.  
 - [ ] (B) UNIQUE.  
 - [ ] (C) CHECK.  
 - [ ] (D) PRIMARY KEY.  
@@ -172,11 +172,11 @@ Uma consultoria recebeu apenas os scripts de criação das tabelas de um sistema
 
 O processo utilizado, nesse caso, parte do modelo
 
-(A) físico em direção ao conceitual, sendo denominado engenharia reversa.  
-(B) conceitual em direção ao físico, sendo denominado engenharia reversa.  
-(C) físico em direção ao conceitual, sendo denominado forward engineering.  
-(D) lógico em direção ao físico, sendo denominado normalização.  
-(E) conceitual em direção ao lógico, sendo denominado refatoração.
+- [ ] (A) físico em direção ao conceitual, sendo denominado engenharia reversa.  
+- [ ] (B) conceitual em direção ao físico, sendo denominado engenharia reversa.  
+- [ ] (C) físico em direção ao conceitual, sendo denominado forward engineering.  
+- [ ] (D) lógico em direção ao físico, sendo denominado normalização.  
+- [ ] (E) conceitual em direção ao lógico, sendo denominado refatoração.
 
 ---
 
