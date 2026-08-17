@@ -98,7 +98,7 @@ Após medir o tempo de resposta dos relatórios gerenciais, uma equipe decidiu i
 Essa alteração no modelo físico caracteriza
 
 - [ ] (A) normalização.  
-- [x] (B) desnormalização.  
+<font color="#00b050">- [x] (B) desnormalização.  </font>
 - [ ] (C) engenharia reversa.  
 - [ ] (D) integridade referencial.  
 - [ ] (E) particionamento horizontal.
