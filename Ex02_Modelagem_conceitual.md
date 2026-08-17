@@ -116,11 +116,11 @@ Um sistema legado acessa diretamente a tabela `Empregado`. A equipe precisa reor
 
 O recurso adequado para preservar o acesso das aplicações é a criação de
 
-(A) um índice composto sobre as duas novas tabelas.  
-(B) uma visão (view) com a estrutura original da tabela.  
-(C) uma restrição CHECK sobre as colunas migradas.  
-(D) uma sequência para geração das novas chaves primárias.  
-(E) um gatilho de auditoria sobre as tabelas resultantes.
+- [ ] (A) um índice composto sobre as duas novas tabelas.  
+- [ ] (B) uma visão (view) com a estrutura original da tabela.  
+- [ ] (C) uma restrição CHECK sobre as colunas migradas.  
+- [ ] (D) uma sequência para geração das novas chaves primárias.  
+- [ ] (E) um gatilho de auditoria sobre as tabelas resultantes.
 
 ---
 
