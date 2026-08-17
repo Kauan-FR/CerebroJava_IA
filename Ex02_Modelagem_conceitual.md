@@ -89,7 +89,7 @@ Após medir o tempo de resposta dos relatórios gerenciais, uma equipe decidiu i
 Essa alteração no modelo físico caracteriza
 
 - [ ] (A) normalização.  
-- [ ] (B) desnormalização.  
+- [x] (B) desnormalização.  
 - [ ] (C) engenharia reversa.  
 - [ ] (D) integridade referencial.  
 - [ ] (E) particionamento horizontal.
@@ -102,11 +102,11 @@ Um DBA criou um índice sobre a coluna `data_emissao` da tabela `NotaFiscal`, qu
 
 Um efeito colateral esperado dessa criação é o(a)
 
-(A) aumento do tempo necessário para operações de inserção e atualização.  
-(B) impossibilidade de executar consultas que não utilizem essa coluna.  
-(C) perda da integridade referencial entre NotaFiscal e Cliente.  
-(D) conversão automática da tabela para o modelo dimensional.  
-(E) redução do espaço total ocupado pelo banco de dados.
+- [ ] (A) aumento do tempo necessário para operações de inserção e atualização.  
+- [ ] (B) impossibilidade de executar consultas que não utilizem essa coluna.  
+- [ ] (C) perda da integridade referencial entre NotaFiscal e Cliente.  
+- [ ] (D) conversão automática da tabela para o modelo dimensional.  
+- [ ] (E) redução do espaço total ocupado pelo banco de dados.
 
 ---
 
