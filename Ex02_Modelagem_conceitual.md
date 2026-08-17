@@ -195,7 +195,7 @@ O resultado esperado dessa execução é
 
 - [ ] (A) sucesso, com truncamento silencioso dos valores existentes.  
 - [ ] (B) sucesso, com preservação integral dos valores existentes.  
-- [ ] (C) erro, pois existem valores incompatíveis com o novo tamanho.  
+- [x] (C) erro, pois existem valores incompatíveis com o novo tamanho.  
 - [ ] (D) erro, pois o tipo VARCHAR não admite redução de tamanho.  
 - [ ] (E) sucesso, com conversão automática dos valores para CHAR(2).
 
@@ -207,11 +207,11 @@ Uma equipe discute em que medida o modelo lógico depende da tecnologia adotada.
 
 O modelo lógico caracteriza-se por ser
 
-(A) totalmente independente de qualquer modelo de dados.  
-(B) dependente do produto de SGBD escolhido pela organização.  
-(C) dependente do modelo de dados adotado, porém independente do produto de SGBD.  
-(D) dependente da estrutura de armazenamento definida em disco.  
-(E) idêntico ao modelo conceitual, diferindo apenas na notação gráfica.
+- [ ] (A) totalmente independente de qualquer modelo de dados.  
+- [ ] (B) dependente do produto de SGBD escolhido pela organização.  
+- [x] (C) dependente do modelo de dados adotado, porém independente do produto de SGBD.  
+- [ ] (D) dependente da estrutura de armazenamento definida em disco.  
+- [ ] (E) idêntico ao modelo conceitual, diferindo apenas na notação gráfica.
 
 ---
 
