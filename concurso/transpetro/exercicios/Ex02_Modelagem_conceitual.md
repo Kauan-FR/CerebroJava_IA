@@ -111,11 +111,11 @@ Um DBA criou um índice sobre a coluna `data_emissao` da tabela `NotaFiscal`, qu
 
 Um efeito colateral esperado dessa criação é o(a)
 
-- [ ] (A) aumento do tempo necessário para operações de inserção e atualização.  
+<font color="#00b050">- [ ] (A) aumento do tempo necessário para operações de inserção e atualização.  </font>
 - [ ] (B) impossibilidade de executar consultas que não utilizem essa coluna.  
 - [ ] (C) perda da integridade referencial entre NotaFiscal e Cliente.  
 - [ ] (D) conversão automática da tabela para o modelo dimensional.  
-- [x] (E) redução do espaço total ocupado pelo banco de dados.
+<font color="#ff0000">- [x] (E) redução do espaço total ocupado pelo banco de dados.</font>
 
 ---
 
