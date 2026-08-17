@@ -263,7 +263,7 @@ Ao executar comandos de criação e alteração de tabelas, o SGBD registra auto
 
 Essas informações são armazenadas no(a)
 
-- [ ] (A) log de transações.  
+- [x] (A) log de transações.  
 - [ ] (B) catálogo do sistema (dicionário de dados).  
 - [ ] (C) plano de execução das consultas.  
 - [ ] (D) área de buffer do SGBD.  
@@ -277,11 +277,11 @@ Um relacionamento N:M entre `Aluno` e `Disciplina` foi implementado por meio da 
 
 Para atender a esse novo requisito, deve-se
 
-(A) criar uma nova tabela associativa entre Matricula e Disciplina.  
-(B) acrescentar a coluna data_matricula à tabela Matricula.  
-(C) acrescentar a coluna data_matricula à tabela Aluno.  
-(D) incluir a data de matrícula na chave primária de Disciplina.  
-(E) converter o relacionamento N:M em dois relacionamentos 1:N.
+- [ ] (A) criar uma nova tabela associativa entre Matricula e Disciplina.  
+- [x] (B) acrescentar a coluna data_matricula à tabela Matricula.  
+- [ ] (C) acrescentar a coluna data_matricula à tabela Aluno.  
+- [ ] (D) incluir a data de matrícula na chave primária de Disciplina.  
+- [ ] (E) converter o relacionamento N:M em dois relacionamentos 1:N.
 
 ---
 
@@ -297,11 +297,11 @@ CREATE INDEX idx_venda ON Venda (id_loja, data_venda);
 
 Esse índice é aproveitado com maior eficiência por consultas que filtram
 
-(A) apenas pela coluna data_venda.  
-(B) pela coluna id_loja, isoladamente ou combinada com data_venda.  
-(C) apenas por colunas que não integram o índice.  
-(D) exclusivamente pelas duas colunas em conjunto, nunca isoladamente.  
-(E) pela coluna data_venda, isoladamente ou combinada com id_loja.
+- [ ] (A) apenas pela coluna data_venda.  
+- [ ] (B) pela coluna id_loja, isoladamente ou combinada com data_venda.  
+- [ ] (C) apenas por colunas que não integram o índice.  
+- [ ] (D) exclusivamente pelas duas colunas em conjunto, nunca isoladamente.  
+- [ ] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.
 
 ---
 
