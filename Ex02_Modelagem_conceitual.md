@@ -117,7 +117,7 @@ Um sistema legado acessa diretamente a tabela `Empregado`. A equipe precisa reor
 O recurso adequado para preservar o acesso das aplicações é a criação de
 
 - [ ] (A) um índice composto sobre as duas novas tabelas.  
-- [ ] (B) uma visão (view) com a estrutura original da tabela.  
+- [x] (B) uma visão (view) com a estrutura original da tabela.  
 - [ ] (C) uma restrição CHECK sobre as colunas migradas.  
 - [ ] (D) uma sequência para geração das novas chaves primárias.  
 - [ ] (E) um gatilho de auditoria sobre as tabelas resultantes.
@@ -130,11 +130,11 @@ Considere as tabelas `Departamento` e `Empregado`, em que `Empregado.id_departam
 
 A tentativa de executar `DROP TABLE Departamento` resultará em
 
-(A) sucesso, com a remoção automática da tabela Empregado.  
-(B) sucesso, com a conversão da chave estrangeira em coluna comum.  
-(C) erro, em razão da dependência gerada pela chave estrangeira.  
-(D) erro, pois tabelas referenciadas não podem ser removidas em hipótese alguma.  
-(E) sucesso, com a atribuição de valor nulo à coluna id_departamento.
+- [ ] (A) sucesso, com a remoção automática da tabela Empregado.  
+- [ ] (B) sucesso, com a conversão da chave estrangeira em coluna comum.  
+- [ ] (C) erro, em razão da dependência gerada pela chave estrangeira.  
+- [ ] (D) erro, pois tabelas referenciadas não podem ser removidas em hipótese alguma.  
+- [ ] (E) sucesso, com a atribuição de valor nulo à coluna id_departamento.
 
 ---
 
