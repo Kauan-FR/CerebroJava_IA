@@ -39,7 +39,14 @@ Para que esse comando seja executado com sucesso, é necessário
 <font color="#ff0000">- [x] (D) criar um índice sobre a nova coluna antes da alteração.  </font>
 - [ ] (E) executar o comando dentro de uma transação com isolamento serializável.
 
->[!fail] 
+>[!fail] Adicionar valores nas 40.000
+>Criar índices é performance, não integração.
+>Como os valores eles já estão lá e não poderemos retira-los, o melhor a se fazer é adicionar o `DEFALT` com informações padrões só para que a alteração seja feita.
+>
+>```sql
+>ALTER TABLE Cliente
+ADD email VARCHAR(80) NOT NULL DEFALT 'nao_informado';
+>```
 
 ---
 
@@ -63,7 +70,7 @@ CREATE TABLE ItemPedido (
 A cláusula `ON DELETE CASCADE` determina que, ao se excluir um pedido,
 
 - [ ] (A) a exclusão seja bloqueada caso existam itens associados.  
-- [x] (B) os itens associados a esse pedido sejam também excluídos.  
+<font color="#00b050">- [x] (B) os itens associados a esse pedido sejam também excluídos.  </font>
 - [ ] (C) a chave estrangeira dos itens associados receba valor nulo.  
 - [ ] (D) a chave estrangeira dos itens associados receba o valor padrão.  
 - [ ] (E) os itens associados sejam transferidos para um pedido genérico.
