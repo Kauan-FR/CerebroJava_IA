@@ -14,7 +14,7 @@ Nessa transição, é decisão que pertence **exclusivamente** ao modelo físico
 
 - [ ] (A) definição das chaves primárias de cada tabela.  
 - [ ] (B) aplicação das formas normais sobre as relações.  
-- [x] (C) escolha do tablespace em que cada tabela será armazenada.  
+<font color="#00b050">- [x] (C) escolha do tablespace em que cada tabela será armazenada.  </font>
 - [ ] (D) determinação das chaves estrangeiras entre as tabelas.  
 - [ ] (E) nomeação das colunas de acordo com o padrão corporativo.
 
@@ -34,9 +34,9 @@ ADD email VARCHAR(80) NOT NULL;
 Para que esse comando seja executado com sucesso, é necessário
 
 - [ ] (A) remover previamente a chave primária da tabela.  
-- [ ] (B) especificar um valor padrão (DEFAULT) para a nova coluna.  
+<font color="#00b050">- [ ] (B) especificar um valor padrão (DEFAULT) para a nova coluna.  </font>
 - [ ] (C) converter a tabela para uma estrutura particionada.  
-- [x] (D) criar um índice sobre a nova coluna antes da alteração.  
+<font color="#ff0000">- [x] (D) criar um índice sobre a nova coluna antes da alteração.  </font>
 - [ ] (E) executar o comando dentro de uma transação com isolamento serializável.
 
 ---
