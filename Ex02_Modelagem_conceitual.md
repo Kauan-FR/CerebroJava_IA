@@ -12,11 +12,11 @@ Uma equipe concluiu o modelo lógico de um banco de dados e iniciou a construç�
 
 Nessa transição, é decisão que pertence **exclusivamente** ao modelo físico a
 
-(A) definição das chaves primárias de cada tabela.  
-(B) aplicação das formas normais sobre as relações.  
-(C) escolha do tablespace em que cada tabela será armazenada.  
-(D) determinação das chaves estrangeiras entre as tabelas.  
-(E) nomeação das colunas de acordo com o padrão corporativo.
+- [ ] (A) definição das chaves primárias de cada tabela.  
+- [ ] (B) aplicação das formas normais sobre as relações.  
+- [ ] (C) escolha do tablespace em que cada tabela será armazenada.  
+- [ ] (D) determinação das chaves estrangeiras entre as tabelas.  
+- [ ] (E) nomeação das colunas de acordo com o padrão corporativo.
 
 ---
 
