@@ -39,6 +39,8 @@ Para que esse comando seja executado com sucesso, é necessário
 <font color="#ff0000">- [x] (D) criar um índice sobre a nova coluna antes da alteração.  </font>
 - [ ] (E) executar o comando dentro de uma transação com isolamento serializável.
 
+>[!fail] 
+
 ---
 
 **3**
