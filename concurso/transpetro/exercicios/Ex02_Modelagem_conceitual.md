@@ -84,7 +84,7 @@ Ao criar a tabela `Funcionario`, um projetista definiu `matricula` como chave pr
 Uma diferença entre essas duas restrições é que a restrição UNIQUE
 
 - [ ] (A) impede a criação de índices sobre a coluna.  
-- [x] (B) admite, conforme o padrão SQL, a ocorrência de valor nulo.  
+<font color="#00b050">- [x] (B) admite, conforme o padrão SQL, a ocorrência de valor nulo.  </font>
 - [ ] (C) só pode ser aplicada a colunas de tipo numérico.  
 - [ ] (D) não é verificada durante operações de atualização.  
 - [ ] (E) obriga a existência de uma chave estrangeira correspondente.
