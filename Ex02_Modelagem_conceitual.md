@@ -221,7 +221,7 @@ A tabela `Movimentacao` armazena dez anos de lançamentos, e as consultas mais f
 
 A técnica de modelo físico indicada para esse cenário é o(a)
 
-- [ ] (A) particionamento da tabela por faixa de datas.  
+- [x] (A) particionamento da tabela por faixa de datas.  
 - [ ] (B) criação de uma restrição CHECK sobre a data.  
 - [ ] (C) normalização até a Terceira Forma Normal.  
 - [ ] (D) substituição da chave primária por chave composta.  
@@ -235,11 +235,11 @@ Um analista renomeou a tabela `Cliente` para `ClientePessoaFisica` no modelo fí
 
 Uma consequência direta dessa alteração é que
 
-(A) todas as chaves estrangeiras da base são automaticamente removidas.  
-(B) objetos dependentes, como visões e procedimentos, podem tornar-se inválidos.  
-(C) os dados armazenados na tabela são perdidos durante a operação.  
-(D) o modelo conceitual é atualizado automaticamente pelo SGBD.  
-(E) os índices existentes precisam ser recriados manualmente em qualquer SGBD.
+- [ ] (A) todas as chaves estrangeiras da base são automaticamente removidas.  
+- [ ] (B) objetos dependentes, como visões e procedimentos, podem tornar-se inválidos.  
+- [ ] (C) os dados armazenados na tabela são perdidos durante a operação.  
+- [ ] (D) o modelo conceitual é atualizado automaticamente pelo SGBD.  
+- [ ] (E) os índices existentes precisam ser recriados manualmente em qualquer SGBD.
 
 ---
 
