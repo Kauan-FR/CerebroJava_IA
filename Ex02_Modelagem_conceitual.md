@@ -14,7 +14,7 @@ Nessa transição, é decisão que pertence **exclusivamente** ao modelo físico
 
 - [ ] (A) definição das chaves primárias de cada tabela.  
 - [ ] (B) aplicação das formas normais sobre as relações.  
-- [ ] (C) escolha do tablespace em que cada tabela será armazenada.  
+- [x] (C) escolha do tablespace em que cada tabela será armazenada.  
 - [ ] (D) determinação das chaves estrangeiras entre as tabelas.  
 - [ ] (E) nomeação das colunas de acordo com o padrão corporativo.
 
