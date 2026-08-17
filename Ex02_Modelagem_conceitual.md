@@ -238,7 +238,7 @@ Uma consequência direta dessa alteração é que
 - [ ] (A) todas as chaves estrangeiras da base são automaticamente removidas.  
 - [ ] (B) objetos dependentes, como visões e procedimentos, podem tornar-se inválidos.  
 - [ ] (C) os dados armazenados na tabela são perdidos durante a operação.  
-- [ ] (D) o modelo conceitual é atualizado automaticamente pelo SGBD.  
+- [x] (D) o modelo conceitual é atualizado automaticamente pelo SGBD.  
 - [ ] (E) os índices existentes precisam ser recriados manualmente em qualquer SGBD.
 
 ---
@@ -249,11 +249,11 @@ Durante a criação de uma tabela, definiu-se que a coluna `data_admissao` não 
 
 As restrições que atendem, respectivamente, a esses requisitos são
 
-(A) CHECK e NOT NULL.  
-(B) NOT NULL e CHECK.  
-(C) NOT NULL e UNIQUE.  
-(D) UNIQUE e CHECK.  
-(E) DEFAULT e NOT NULL.
+- [ ] (A) CHECK e NOT NULL.  
+- [x] (B) NOT NULL e CHECK.  
+- [ ] (C) NOT NULL e UNIQUE.  
+- [ ] (D) UNIQUE e CHECK.  
+- [ ] (E) DEFAULT e NOT NULL.
 
 ---
 
@@ -263,11 +263,11 @@ Ao executar comandos de criação e alteração de tabelas, o SGBD registra auto
 
 Essas informações são armazenadas no(a)
 
-(A) log de transações.  
-(B) catálogo do sistema (dicionário de dados).  
-(C) plano de execução das consultas.  
-(D) área de buffer do SGBD.  
-(E) arquivo de backup incremental.
+- [ ] (A) log de transações.  
+- [ ] (B) catálogo do sistema (dicionário de dados).  
+- [ ] (C) plano de execução das consultas.  
+- [ ] (D) área de buffer do SGBD.  
+- [ ] (E) arquivo de backup incremental.
 
 ---
 
