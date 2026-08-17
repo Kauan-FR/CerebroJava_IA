@@ -172,7 +172,7 @@ Uma consultoria recebeu apenas os scripts de criação das tabelas de um sistema
 
 O processo utilizado, nesse caso, parte do modelo
 
-- [ ] (A) físico em direção ao conceitual, sendo denominado engenharia reversa.  
+- [x] (A) físico em direção ao conceitual, sendo denominado engenharia reversa.  
 - [ ] (B) conceitual em direção ao físico, sendo denominado engenharia reversa.  
 - [ ] (C) físico em direção ao conceitual, sendo denominado forward engineering.  
 - [ ] (D) lógico em direção ao físico, sendo denominado normalização.  
@@ -193,11 +193,11 @@ ALTER COLUMN sigla TYPE VARCHAR(2);
 
 O resultado esperado dessa execução é
 
-(A) sucesso, com truncamento silencioso dos valores existentes.  
-(B) sucesso, com preservação integral dos valores existentes.  
-(C) erro, pois existem valores incompatíveis com o novo tamanho.  
-(D) erro, pois o tipo VARCHAR não admite redução de tamanho.  
-(E) sucesso, com conversão automática dos valores para CHAR(2).
+- [ ] (A) sucesso, com truncamento silencioso dos valores existentes.  
+- [ ] (B) sucesso, com preservação integral dos valores existentes.  
+- [ ] (C) erro, pois existem valores incompatíveis com o novo tamanho.  
+- [ ] (D) erro, pois o tipo VARCHAR não admite redução de tamanho.  
+- [ ] (E) sucesso, com conversão automática dos valores para CHAR(2).
 
 ---
 
