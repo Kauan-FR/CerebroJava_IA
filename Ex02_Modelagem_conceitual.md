@@ -33,11 +33,11 @@ ADD email VARCHAR(80) NOT NULL;
 
 Para que esse comando seja executado com sucesso, é necessário
 
-(A) remover previamente a chave primária da tabela.  
-(B) especificar um valor padrão (DEFAULT) para a nova coluna.  
-(C) converter a tabela para uma estrutura particionada.  
-(D) criar um índice sobre a nova coluna antes da alteração.  
-(E) executar o comando dentro de uma transação com isolamento serializável.
+- [ ] (A) remover previamente a chave primária da tabela.  
+- [ ] (B) especificar um valor padrão (DEFAULT) para a nova coluna.  
+- [ ] (C) converter a tabela para uma estrutura particionada.  
+- [x] (D) criar um índice sobre a nova coluna antes da alteração.  
+- [ ] (E) executar o comando dentro de uma transação com isolamento serializável.
 
 ---
 
@@ -60,11 +60,11 @@ CREATE TABLE ItemPedido (
 
 A cláusula `ON DELETE CASCADE` determina que, ao se excluir um pedido,
 
-(A) a exclusão seja bloqueada caso existam itens associados.  
-(B) os itens associados a esse pedido sejam também excluídos.  
-(C) a chave estrangeira dos itens associados receba valor nulo.  
-(D) a chave estrangeira dos itens associados receba o valor padrão.  
-(E) os itens associados sejam transferidos para um pedido genérico.
+- [ ] (A) a exclusão seja bloqueada caso existam itens associados.  
+- [x] (B) os itens associados a esse pedido sejam também excluídos.  
+- [ ] (C) a chave estrangeira dos itens associados receba valor nulo.  
+- [ ] (D) a chave estrangeira dos itens associados receba o valor padrão.  
+- [ ] (E) os itens associados sejam transferidos para um pedido genérico.
 
 ---
 
@@ -74,11 +74,11 @@ Ao criar a tabela `Funcionario`, um projetista definiu `matricula` como chave pr
 
 Uma diferença entre essas duas restrições é que a restrição UNIQUE
 
-(A) impede a criação de índices sobre a coluna.  
-(B) admite, conforme o padrão SQL, a ocorrência de valor nulo.  
-(C) só pode ser aplicada a colunas de tipo numérico.  
-(D) não é verificada durante operações de atualização.  
-(E) obriga a existência de uma chave estrangeira correspondente.
+- [ ] (A) impede a criação de índices sobre a coluna.  
+- [x] (B) admite, conforme o padrão SQL, a ocorrência de valor nulo.  
+- [ ] (C) só pode ser aplicada a colunas de tipo numérico.  
+- [ ] (D) não é verificada durante operações de atualização.  
+- [ ] (E) obriga a existência de uma chave estrangeira correspondente.
 
 ---
 
