@@ -251,7 +251,7 @@ A tabela `Movimentacao` armazena dez anos de lançamentos, e as consultas mais f
 
 A técnica de modelo físico indicada para esse cenário é o(a)
 
-- [x] (A) particionamento da tabela por faixa de datas.  
+<font color="#00b050">- [x] (A) particionamento da tabela por faixa de datas.  </font>
 - [ ] (B) criação de uma restrição CHECK sobre a data.  
 - [ ] (C) normalização até a Terceira Forma Normal.  
 - [ ] (D) substituição da chave primária por chave composta.  
