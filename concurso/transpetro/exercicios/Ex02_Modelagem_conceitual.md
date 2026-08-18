@@ -187,7 +187,12 @@ A restrição adequada para esse requisito é
 - [ ] (D) PRIMARY KEY.  
 - [ ] (E) FOREIGN KEY.
 
->[!fail] 
+>[!fail] CHECK
+>O `NOT NULL` ele impede que o valor seja nulo, **não que ele seja um ou outro**, pois ele pode aceitar outros valores diferentes, além dos que o enunciado pede, **porque ele só impede que o valor não seja nulo e mais nada**
+>Mas o `CHECK` ele **limita quais valores a tabela pode aceitar**
+>```sql
+>tipo VARCHAR(10) CHECK (tipo IN ('CORRENTE','POUPANCA'))
+>```
 
 ---
 
@@ -197,7 +202,7 @@ Uma consultoria recebeu apenas os scripts de criação das tabelas de um sistema
 
 O processo utilizado, nesse caso, parte do modelo
 
-- [x] (A) físico em direção ao conceitual, sendo denominado engenharia reversa.  
+<font color="#00b050">- [x] (A) físico em direção ao conceitual, sendo denominado engenharia reversa.  </font>
 - [ ] (B) conceitual em direção ao físico, sendo denominado engenharia reversa.  
 - [ ] (C) físico em direção ao conceitual, sendo denominado forward engineering.  
 - [ ] (D) lógico em direção ao físico, sendo denominado normalização.  
@@ -220,7 +225,7 @@ O resultado esperado dessa execução é
 
 - [ ] (A) sucesso, com truncamento silencioso dos valores existentes.  
 - [ ] (B) sucesso, com preservação integral dos valores existentes.  
-- [x] (C) erro, pois existem valores incompatíveis com o novo tamanho.  
+<font color="#00b050">- [x] (C) erro, pois existem valores incompatíveis com o novo tamanho.  </font>
 - [ ] (D) erro, pois o tipo VARCHAR não admite redução de tamanho.  
 - [ ] (E) sucesso, com conversão automática dos valores para CHAR(2).
 
@@ -234,7 +239,7 @@ O modelo lógico caracteriza-se por ser
 
 - [ ] (A) totalmente independente de qualquer modelo de dados.  
 - [ ] (B) dependente do produto de SGBD escolhido pela organização.  
-- [x] (C) dependente do modelo de dados adotado, porém independente do produto de SGBD.  
+<font color="#00b050">- [x] (C) dependente do modelo de dados adotado, porém independente do produto de SGBD.  </font>
 - [ ] (D) dependente da estrutura de armazenamento definida em disco.  
 - [ ] (E) idêntico ao modelo conceitual, diferindo apenas na notação gráfica.
 
