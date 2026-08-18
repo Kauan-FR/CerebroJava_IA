@@ -345,8 +345,8 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 <font color="#ff0000">- [x] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.</font>
 
 >[!fail] Índice composto e prefixo à esquerda
->O índice ele filtra por informações que agupem de uma maneira única as informações.
->No caso dessa questão, ele deve **agrupar pelo id e não pela data**, **porque as datas elas se repetem em toda a lista, mas os IDs não**
+>O índice ele filtra por informações que agrupem A ou A + B, nunca B sozinho.
+>No caso dessa questão, ele deve **agrupar pelo id e data**, **porque as datas como é o segundo valor, ele não pode permanecer sozinho**
 
 ---
 
@@ -364,4 +364,4 @@ O recurso do modelo físico adequado a esse requisito é
 
 >[!fail] Sequence/coluna de identidade
 >A restrição `UNIQUE` ela impede que os valores eles se repitam, **mas ele não gera valor nenhum**, ele trabalha com os valores que são fornecidos para ele
->Já o sequêncial(sequence) ou `SERIAL` ele gera automaticamente o valor de forma aleatória, com isso garantindo também que ele seja único.
+>Já o sequencial(sequence) ou `SERIAL` ele gera automaticamente o valor de forma **sequencial**, com isso garantindo que os valores sejam únicos, porque eles não irão se repetir
