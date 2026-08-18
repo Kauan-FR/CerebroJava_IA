@@ -303,7 +303,10 @@ Essas informações são armazenadas no(a)
 - [ ] (E) arquivo de backup incremental.
 
 >[!fail] Catálogo do sistema x log de transações
->
+>||Guarda|Serve para|
+|---|---|---|
+|**Catálogo / dicionário de dados**|**Metadados**: tabelas, colunas, tipos, índices, restrições, usuários, permissões|Saber **como o banco é estruturado**|
+|**Log de transações**|**Registro das operações**: o que foi alterado, quando, por qual transação|**Recuperar** o banco após falha, desfazer transação|
 >
 >Quando o enunciado falar em "informações sobre as **estruturas criadas**" - **estrutura é metadado**, logo **metadado** 
 
