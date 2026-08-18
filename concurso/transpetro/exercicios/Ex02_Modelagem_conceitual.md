@@ -266,9 +266,9 @@ Um analista renomeou a tabela `Cliente` para `ClientePessoaFisica` no modelo fí
 Uma consequência direta dessa alteração é que
 
 - [ ] (A) todas as chaves estrangeiras da base são automaticamente removidas.  
-- [ ] (B) objetos dependentes, como visões e procedimentos, podem tornar-se inválidos.  
+<font color="#00b050">- [ ] (B) objetos dependentes, como visões e procedimentos, podem tornar-se inválidos.  </font>
 - [ ] (C) os dados armazenados na tabela são perdidos durante a operação.  
-- [x] (D) o modelo conceitual é atualizado automaticamente pelo SGBD.  
+<font color="#ff0000">- [x] (D) o modelo conceitual é atualizado automaticamente pelo SGBD.  </font>
 - [ ] (E) os índices existentes precisam ser recriados manualmente em qualquer SGBD.
 
 ---
