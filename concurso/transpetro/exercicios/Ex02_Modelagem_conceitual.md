@@ -169,8 +169,9 @@ Nesse cenário, recomenda-se adotar uma chave
 - [ ] (D) alternativa, eliminando-se a chave primária da tabela.  
 - [ ] (E) composta, unindo o código do fabricante à data de cadastro.
 
->[!fail] Chave substituta
->
+>[!fail] Chave substituta(surrogate)
+>Os defeitos listados no enunciado da chave primaria é um problema, porque a chave não esta fazendo a sua função que é ter os dados imutáveis
+>A solução para esse problema é **substituir a chave, e criar outra no lugar dela**
 
 ---
 
@@ -180,11 +181,13 @@ Ao definir a tabela `Conta`, a equipe precisa garantir que a coluna `tipo` aceit
 
 A restrição adequada para esse requisito é
 
-- [x] (A) NOT NULL.  
+<font color="#ff0000">- [x] (A) NOT NULL.  </font>
 - [ ] (B) UNIQUE.  
-- [ ] (C) CHECK.  
+<font color="#00b050">- [ ] (C) CHECK.  </font>
 - [ ] (D) PRIMARY KEY.  
 - [ ] (E) FOREIGN KEY.
+
+>[!fail] 
 
 ---
 
