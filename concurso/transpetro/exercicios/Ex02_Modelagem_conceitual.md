@@ -345,7 +345,8 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 <font color="#ff0000">- [x] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.</font>
 
 >[!fail] Índice composto e prefixo à esquerda
->
+>O índice ele filtra por informações que agupem de uma maneira única as informações.
+>No caso dessa questão, ele deve **agrupar pelo id e não pela data**, **porque as datas elas se repetem em toda a lista, mas os IDs não**
 
 ---
 
@@ -355,8 +356,8 @@ Uma tabela precisa gerar valores numéricos únicos e sequenciais para sua chave
 
 O recurso do modelo físico adequado a esse requisito é
 
-- [x] (A) a restrição UNIQUE sobre a coluna.  
-- [ ] (B) a definição de uma coluna de identidade ou sequência (sequence).  
+<font color="#ff0000">- [x] (A) a restrição UNIQUE sobre a coluna.  </font>
+<font color="#00b050">- [ ] (B) a definição de uma coluna de identidade ou sequência (sequence).  </font>
 - [ ] (C) a criação de uma visão materializada sobre a tabela.  
 - [ ] (D) o uso de uma restrição CHECK com valor incremental.  
 - [ ] (E) a criação de um índice do tipo bitmap sobre a coluna.
