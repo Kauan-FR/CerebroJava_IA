@@ -339,10 +339,10 @@ CREATE INDEX idx_venda ON Venda (id_loja, data_venda);
 Esse índice é aproveitado com maior eficiência por consultas que filtram
 
 - [ ] (A) apenas pela coluna data_venda.  
-- [ ] (B) pela coluna id_loja, isoladamente ou combinada com data_venda.  
+<font color="#00b050">- [ ] (B) pela coluna id_loja, isoladamente ou combinada com data_venda.  </font>
 - [ ] (C) apenas por colunas que não integram o índice.  
 - [ ] (D) exclusivamente pelas duas colunas em conjunto, nunca isoladamente.  
-- [x] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.
+<font color="#ff0000">- [x] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.</font>
 
 ---
 
