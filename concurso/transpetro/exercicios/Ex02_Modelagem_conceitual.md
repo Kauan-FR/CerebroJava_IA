@@ -347,7 +347,7 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 >[!fail] Índice composto e prefixo à esquerda
 >O índice ele filtra por informações que agrupem A ou A + B, nunca B sozinho, isso é chamado de **índice composto**.
 >No caso dessa questão, ele deve **agrupar pelo id e data**, **porque as datas como é o segundo valor, ele não pode permanecer sozinho**
->A ordem das colunas no índice 
+>A ordem das colunas no índice é o que decide - não a repetição dos valores
 
 ---
 
