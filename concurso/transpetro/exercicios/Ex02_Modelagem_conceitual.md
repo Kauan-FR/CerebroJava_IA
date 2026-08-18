@@ -303,7 +303,9 @@ Essas informações são armazenadas no(a)
 - [ ] (E) arquivo de backup incremental.
 
 >[!fail] Catálogo do sistema x log de transações
->Quando o enunciado falar em "informações sobre as **estruturas criadas**", ele esta se referindo a 
+>
+>
+>Quando o enunciado falar em "informações sobre as **estruturas criadas**" - **estrutura é metadado**, logo **metadado** 
 
 ---
 
