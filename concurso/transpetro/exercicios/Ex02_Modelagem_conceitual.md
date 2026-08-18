@@ -271,6 +271,9 @@ Uma consequência direta dessa alteração é que
 <font color="#ff0000">- [x] (D) o modelo conceitual é atualizado automaticamente pelo SGBD.  </font>
 - [ ] (E) os índices existentes precisam ser recriados manualmente em qualquer SGBD.
 
+>[!fail] Efeito colateral de renomear tabela
+>O fato de renomear uma tabela não apaga dados ou remove chave estrangeira, **mas tudo que referencia a tabela pelo nome quebra** como, visões, procedimentos armazenados, funções, gatilhos.
+
 ---
 
 **16**
@@ -280,7 +283,7 @@ Durante a criação de uma tabela, definiu-se que a coluna `data_admissao` não 
 As restrições que atendem, respectivamente, a esses requisitos são
 
 - [ ] (A) CHECK e NOT NULL.  
-- [x] (B) NOT NULL e CHECK.  
+<font color="#00b050">- [x] (B) NOT NULL e CHECK.  </font>
 - [ ] (C) NOT NULL e UNIQUE.  
 - [ ] (D) UNIQUE e CHECK.  
 - [ ] (E) DEFAULT e NOT NULL.
@@ -293,11 +296,14 @@ Ao executar comandos de criação e alteração de tabelas, o SGBD registra auto
 
 Essas informações são armazenadas no(a)
 
-- [x] (A) log de transações.  
-- [ ] (B) catálogo do sistema (dicionário de dados).  
+<font color="#ff0000">- [x] (A) log de transações.  </font>
+<font color="#00b050">- [ ] (B) catálogo do sistema (dicionário de dados).  </font>
 - [ ] (C) plano de execução das consultas.  
 - [ ] (D) área de buffer do SGBD.  
 - [ ] (E) arquivo de backup incremental.
+
+>[!fail] Catálogo do sistema x log de transações
+>Quando o 
 
 ---
 
