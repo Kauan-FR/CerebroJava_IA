@@ -29,7 +29,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 ## Bloco 1 — Arquitetura de Dados (S1–2) · ~12 questões
 
 - [x] 1.1 Modelagem conceitual, lógica e física
-- [ ] 1.2 Criação e alteração dos modelos lógico e físico
+- [x] 1.2 Criação e alteração dos modelos lógico e físico
 - [ ] 1.3 Modelo relacional
 - [ ] 1.4 Normalização
 - [ ] 1.5 Integridade referencial
