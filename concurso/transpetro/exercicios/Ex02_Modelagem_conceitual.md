@@ -151,7 +151,7 @@ A tentativa de executar `DROP TABLE Departamento` resultará em
 
 - [ ] (A) sucesso, com a remoção automática da tabela Empregado.  
 - [ ] (B) sucesso, com a conversão da chave estrangeira em coluna comum.  
-- [x] (C) erro, em razão da dependência gerada pela chave estrangeira.  
+<font color="#00b050">- [x] (C) erro, em razão da dependência gerada pela chave estrangeira.  </font>
 - [ ] (D) erro, pois tabelas referenciadas não podem ser removidas em hipótese alguma.  
 - [ ] (E) sucesso, com a atribuição de valor nulo à coluna id_departamento.
 
@@ -164,8 +164,8 @@ Durante a construção do modelo lógico de um sistema de vendas, verificou-se q
 Nesse cenário, recomenda-se adotar uma chave
 
 - [ ] (A) estrangeira, replicando o código nas tabelas relacionadas.  
-- [x] (B) parcial, formada apenas pelos cinco primeiros caracteres.  
-- [ ] (C) substituta (surrogate), gerada e controlada pelo próprio sistema.  
+<font color="#ff0000">- [x] (B) parcial, formada apenas pelos cinco primeiros caracteres.  </font>
+<font color="#00b050">- [ ] (C) substituta (surrogate), gerada e controlada pelo próprio sistema.  </font>
 - [ ] (D) alternativa, eliminando-se a chave primária da tabela.  
 - [ ] (E) composta, unindo o código do fabricante à data de cadastro.
 
