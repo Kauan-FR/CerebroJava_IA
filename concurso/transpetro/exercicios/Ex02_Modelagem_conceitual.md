@@ -319,7 +319,7 @@ Um relacionamento N:M entre `Aluno` e `Disciplina` foi implementado por meio da 
 Para atender a esse novo requisito, deve-se
 
 - [ ] (A) criar uma nova tabela associativa entre Matricula e Disciplina.  
-- [x] (B) acrescentar a coluna data_matricula à tabela Matricula.  
+<font color="#00b050">- [x] (B) acrescentar a coluna data_matricula à tabela Matricula.  </font>
 - [ ] (C) acrescentar a coluna data_matricula à tabela Aluno.  
 - [ ] (D) incluir a data de matrícula na chave primária de Disciplina.  
 - [ ] (E) converter o relacionamento N:M em dois relacionamentos 1:N.
