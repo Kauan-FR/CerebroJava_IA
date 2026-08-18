@@ -361,3 +361,7 @@ O recurso do modelo físico adequado a esse requisito é
 - [ ] (C) a criação de uma visão materializada sobre a tabela.  
 - [ ] (D) o uso de uma restrição CHECK com valor incremental.  
 - [ ] (E) a criação de um índice do tipo bitmap sobre a coluna.
+
+>[!fail] Sequence/coluna de identidade
+>A restrição `UNIQUE` ela impede que os valores eles se repitam, **mas ele não gera valor nenhum**, ele trabalha com os valores que são fornecidos para ele
+>Já o sequêncial(sequence) ou `SERIAL` ele gera automaticamente o valor de forma aleatória, com isso garantindo também que ele seja único.
