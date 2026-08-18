@@ -169,6 +169,9 @@ Nesse cenário, recomenda-se adotar uma chave
 - [ ] (D) alternativa, eliminando-se a chave primária da tabela.  
 - [ ] (E) composta, unindo o código do fabricante à data de cadastro.
 
+>[!fail] Chave substituta
+>
+
 ---
 
 **10**
