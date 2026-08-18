@@ -345,8 +345,9 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 <font color="#ff0000">- [x] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.</font>
 
 >[!fail] Índice composto e prefixo à esquerda
->O índice ele filtra por informações que agrupem A ou A + B, nunca B sozinho.
+>O índice ele filtra por informações que agrupem A ou A + B, nunca B sozinho, isso é chamado de **índice composto**.
 >No caso dessa questão, ele deve **agrupar pelo id e data**, **porque as datas como é o segundo valor, ele não pode permanecer sozinho**
+>A ordem das colunas no índice 
 
 ---
 
