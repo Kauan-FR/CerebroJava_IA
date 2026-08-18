@@ -344,6 +344,9 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 - [ ] (D) exclusivamente pelas duas colunas em conjunto, nunca isoladamente.  
 <font color="#ff0000">- [x] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.</font>
 
+>[!fail] Índice composto e prefixo à esquerda
+>
+
 ---
 
 **20**
