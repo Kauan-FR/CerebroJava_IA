@@ -140,7 +140,7 @@ Nesse caso, `CPF` e `Email` são classificados como chaves
 
 - [ ] (A) estrangeiras.  
 - [ ] (B) parciais.  
-- [ ] (C) alternativas.  
+- [x] (C) alternativas.  
 - [ ] (D) compostas.  
 - [ ] (E) substitutas.
 
@@ -150,11 +150,11 @@ Nesse caso, `CPF` e `Email` são classificados como chaves
 
 O esquema de uma relação, no modelo relacional, corresponde
 
-(A) ao conjunto de tuplas armazenadas em determinado momento.  
-(B) à definição do nome da relação e de seus atributos com respectivos domínios.  
-(C) ao plano de execução gerado pelo otimizador de consultas.  
-(D) ao conjunto de índices criados sobre a relação.  
-(E) ao número de chaves estrangeiras que a relação possui.
+- [x] (A) ao conjunto de tuplas armazenadas em determinado momento.  
+- [ ] (B) à definição do nome da relação e de seus atributos com respectivos domínios.  
+- [ ] (C) ao plano de execução gerado pelo otimizador de consultas.  
+- [ ] (D) ao conjunto de índices criados sobre a relação.  
+- [ ] (E) ao número de chaves estrangeiras que a relação possui.
 
 ---
 
@@ -162,11 +162,11 @@ O esquema de uma relação, no modelo relacional, corresponde
 
 Uma das características fundamentais do modelo relacional é que a ordem das tuplas em uma relação
 
-(A) é irrelevante, pois a relação é definida como um conjunto.  
-(B) determina a eficiência da chave primária.  
-(C) deve corresponder à ordem de inserção dos registros.  
-(D) é definida obrigatoriamente pela chave estrangeira.  
-(E) segue sempre a ordem crescente da chave primária.
+- [x] (A) é irrelevante, pois a relação é definida como um conjunto.  
+- [ ] (B) determina a eficiência da chave primária.  
+- [ ] (C) deve corresponder à ordem de inserção dos registros.  
+- [ ] (D) é definida obrigatoriamente pela chave estrangeira.  
+- [ ] (E) segue sempre a ordem crescente da chave primária.
 
 ---
 
@@ -181,11 +181,11 @@ Considere a tabela a seguir, que registra os projetos de uma construtora.
 
 Essa tabela viola um princípio do modelo relacional porque
 
-(A) não define chave estrangeira para os responsáveis.  
-(B) possui um atributo que armazena mais de um valor em uma mesma célula.  
-(C) apresenta tuplas duplicadas.  
-(D) não estabelece domínio para o atributo Nome.  
-(E) possui chave primária composta por um único atributo.
+- [ ] (A) não define chave estrangeira para os responsáveis.  
+- [ ] (B) possui um atributo que armazena mais de um valor em uma mesma célula.  
+- [ ] (C) apresenta tuplas duplicadas.  
+- [ ] (D) não estabelece domínio para o atributo Nome.  
+- [ ] (E) possui chave primária composta por um único atributo.
 
 ---
 
