@@ -195,7 +195,7 @@ Um analista deve escolher, entre os operadores da Álgebra Relacional, aquele qu
 
 Esse operador é a(o)
 
-- [ ] (A) união.  
+- [x] (A) união.  
 - [ ] (B) interseção.  
 - [ ] (C) diferença.  
 - [ ] (D) divisão.  
