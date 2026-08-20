@@ -181,7 +181,7 @@ Considere a tabela a seguir, que registra os projetos de uma construtora.
 
 Essa tabela viola um princípio do modelo relacional porque
 
-- [ ] (A) não define chave estrangeira para os responsáveis.  
+- [x] (A) não define chave estrangeira para os responsáveis.  
 - [ ] (B) possui um atributo que armazena mais de um valor em uma mesma célula.  
 - [ ] (C) apresenta tuplas duplicadas.  
 - [ ] (D) não estabelece domínio para o atributo Nome.  
