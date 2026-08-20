@@ -265,10 +265,14 @@ Considere as relações `Aluno`, com 40 tuplas e 5 atributos, e `Curso`, com 8 t
 O resultado do produto cartesiano entre essas duas relações possui
 
 - [ ] (A) 48 tuplas e 8 atributos.  
-- [ ] (B) 320 tuplas e 8 atributos.  
+<font color="#00b050">- [ ] (B) 320 tuplas e 8 atributos.  </font>
 - [ ] (C) 320 tuplas e 15 atributos.  
-- [x] (D) 48 tuplas e 15 atributos.  
+<font color="#ff0000">- [x] (D) 48 tuplas e 15 atributos.  </font>
 - [ ] (E) 40 tuplas e 3 atributos.
+
+>[!fail] Grau e cardinalidade do produto cartesiano
+>`Aluno`: 40 tuplas, 5 atributos. `Curso`: 8 tuplas, 3 atributos.
+>- **Tuplas =>** multiplica -> 40 * 8 = 320
 
 ---
 
