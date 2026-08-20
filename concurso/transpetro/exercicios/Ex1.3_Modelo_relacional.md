@@ -307,6 +307,12 @@ A consulta que retorna todas as editoras, inclusive aquelas sem livros associado
 
 > **"todas as X" ≠ divisão.** Divisão é quando X precisa se relacionar com **todos os elementos de outro conjunto**. Se "todas" apenas significa "não deixe ninguém de fora do resultado", é junção externa.
 
+Compare os dois enunciados:
+- Q17: "todas as editoras, inclusive as sem livros" → junção externa
+- Q19: "alunos que cursaram **todas as** disciplinas obrigatórias" → divisão
+- 
+Na Q19 o "todas" qualifica o **conjunto com que o aluno se relaciona**. Na Q17 qualifica o **resultado que deve aparecer**. Essa é a distinção.
+
 ---
 
 **18**
@@ -325,7 +331,7 @@ A chave primária dessa tabela é
 
 - [ ] (A) ID_Aluno.  
 - [ ] (B) ID_Disciplina.  
-- [x] (C) a combinação de ID_Aluno e ID_Disciplina.  
+<font color="#00b050">- [x] (C) a combinação de ID_Aluno e ID_Disciplina.  </font>
 - [ ] (D) a combinação de ID_Aluno, ID_Disciplina e Nota.  
 - [ ] (E) uma chave substituta obrigatoriamente gerada pelo SGBD.
 
@@ -338,7 +344,7 @@ Um analista precisa identificar, na relação `Cursou (ID_Aluno, ID_Disciplina)`
 O operador da Álgebra Relacional adequado a essa consulta é a(o)
 
 - [ ] (A) interseção.  
-- [x] (B) divisão.  
+<font color="#00b050">- [x] (B) divisão.  </font>
 - [ ] (C) junção externa completa.  
 - [ ] (D) diferença.  
 - [ ] (E) seleção.
@@ -362,12 +368,24 @@ Uma consulta SQL feita para exibir os nomes dos subordinados dos subordinados de
 
 A expressão, em linguagem SQL, dessa consulta é
 
-- [ ] (A) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
+<font color="#00b050">- [ ] (A) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`</font>
 
 - [ ] (B) `SELECT e1.gerente FROM Empregado e1 INNER JOIN Empregado e2 ON e1.gerente = e2.subordinado WHERE e1.subordinado = 'Alberto';`
 
 - [ ] (C) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.gerente = e2.gerente WHERE e1.gerente = 'Alberto';`
 
-- [x] (D) `SELECT e1.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
+<font color="#ff0000">- [x] (D) `SELECT e1.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`</font>
 
 - [ ] (E) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.subordinado WHERE e1.gerente = 'Alberto';`
+
+>[!fail] Adjunção, dois níveis
+>
+>Executando na mão:
+>1. `e1` com `gerente = 'Alberto'` → subordinados **Bianca** e **Caio**
+>2. `e1.subordinado = e2.gerente` → busca em `e2` quem tem Bianca ou Caio como gerente
+>3. `e2` devolve: Bianca→**Denise**, Bianca→**Eduardo**, Caio→**Flavia**
+>4. `SELECT e2.subordinado` → **Denise, Eduardo, Flavia** ✓
+
+
+
+
