@@ -67,7 +67,7 @@ A restrição que garante essa regra no modelo relacional é a integridade
 - [ ] (D) semântica.  
 - [ ] (E) de unicidade.
 
->[!fail]    
+>[!fail] 
 
 ---
 
