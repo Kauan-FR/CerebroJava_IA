@@ -73,11 +73,11 @@ A restrição que garante essa regra no modelo relacional é a integridade
 
 Em uma tabela do modelo relacional, a restrição de integridade de entidade determina que
 
-(A) toda chave estrangeira referencie uma chave primária existente.  
-(B) nenhum atributo da chave primária admita valor nulo.  
-(C) todo atributo pertença a um domínio previamente definido.  
-(D) toda relação possua ao menos uma chave estrangeira.  
-(E) nenhuma coluna da relação admita valores repetidos.
+- [ ] (A) toda chave estrangeira referencie uma chave primária existente.  
+- [ ] (B) nenhum atributo da chave primária admita valor nulo.  
+- [ ] (C) todo atributo pertença a um domínio previamente definido.  
+- [ ] (D) toda relação possua ao menos uma chave estrangeira.  
+- [ ] (E) nenhuma coluna da relação admita valores repetidos.
 
 ---
 
