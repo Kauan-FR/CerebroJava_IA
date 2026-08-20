@@ -301,6 +301,8 @@ A consulta que retorna todas as editoras, inclusive aquelas sem livros associado
 <font color="#ff0000">- [x] (D) divisão.  </font>
 - [ ] (E) interseção.
 
+>[!fail] 
+
 ---
 
 **18**
