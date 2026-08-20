@@ -273,7 +273,7 @@ A chave primária dessa tabela é
 
 - [ ] (A) ID_Aluno.  
 - [ ] (B) ID_Disciplina.  
-- [ ] (C) a combinação de ID_Aluno e ID_Disciplina.  
+- [x] (C) a combinação de ID_Aluno e ID_Disciplina.  
 - [ ] (D) a combinação de ID_Aluno, ID_Disciplina e Nota.  
 - [ ] (E) uma chave substituta obrigatoriamente gerada pelo SGBD.
 
@@ -285,11 +285,11 @@ Um analista precisa identificar, na relação `Cursou (ID_Aluno, ID_Disciplina)`
 
 O operador da Álgebra Relacional adequado a essa consulta é a(o)
 
-(A) interseção.  
-(B) divisão.  
-(C) junção externa completa.  
-(D) diferença.  
-(E) seleção.
+- [ ] (A) interseção.  
+- [x] (B) divisão.  
+- [ ] (C) junção externa completa.  
+- [ ] (D) diferença.  
+- [ ] (E) seleção.
 
 ---
 
@@ -297,25 +297,25 @@ O operador da Álgebra Relacional adequado a essa consulta é a(o)
 
 Considere a relação `Empregado`, apresentada abaixo, que possui as colunas Gerente e Subordinado.
 
-|Gerente|Subordinado|
-|---|---|
-|Alberto|Bianca|
-|Alberto|Caio|
-|Bianca|Denise|
-|Bianca|Eduardo|
-|Caio|Flavia|
-|Denise|Gabriel|
+| Gerente | Subordinado |
+| ------- | ----------- |
+| Alberto | Bianca      |
+| Alberto | Caio        |
+| Bianca  | Denise      |
+| Bianca  | Eduardo     |
+| Caio    | Flavia      |
+| Denise  | Gabriel     |
 
 Uma consulta SQL feita para exibir os nomes dos subordinados dos subordinados de Alberto retorna os nomes Denise, Eduardo e Flavia.
 
 A expressão, em linguagem SQL, dessa consulta é
 
-(A) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
+- [ ] (A) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
 
-(B) `SELECT e1.gerente FROM Empregado e1 INNER JOIN Empregado e2 ON e1.gerente = e2.subordinado WHERE e1.subordinado = 'Alberto';`
+- [ ] (B) `SELECT e1.gerente FROM Empregado e1 INNER JOIN Empregado e2 ON e1.gerente = e2.subordinado WHERE e1.subordinado = 'Alberto';`
 
-(C) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.gerente = e2.gerente WHERE e1.gerente = 'Alberto';`
+- [ ] (C) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.gerente = e2.gerente WHERE e1.gerente = 'Alberto';`
 
-(D) `SELECT e1.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
+- [ ] (D) `SELECT e1.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
 
-(E) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.subordinado WHERE e1.gerente = 'Alberto';`
+- [ ] (E) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.subordinado WHERE e1.gerente = 'Alberto';`
