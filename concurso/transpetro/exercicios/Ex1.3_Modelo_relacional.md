@@ -316,6 +316,6 @@ A expressão, em linguagem SQL, dessa consulta é
 
 - [ ] (C) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.gerente = e2.gerente WHERE e1.gerente = 'Alberto';`
 
-- [ ] (D) `SELECT e1.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
+- [x] (D) `SELECT e1.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.gerente WHERE e1.gerente = 'Alberto';`
 
 - [ ] (E) `SELECT e2.subordinado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.subordinado = e2.subordinado WHERE e1.gerente = 'Alberto';`
