@@ -111,7 +111,7 @@ O comportamento adotado pela chave estrangeira, nesse caso, é
 - [ ] (A) CASCADE.  
 - [ ] (B) SET NULL.  
 - [ ] (C) SET DEFAULT.  
-- [ ] (D) RESTRICT.  
+- [x] (D) RESTRICT.  
 - [ ] (E) NO CHECK.
 
 ---
@@ -120,11 +120,11 @@ O comportamento adotado pela chave estrangeira, nesse caso, é
 
 No modelo relacional, uma superchave distingue-se de uma chave candidata porque a superchave
 
-(A) obrigatoriamente é composta por mais de um atributo.  
-(B) identifica unicamente as tuplas, mas pode conter atributos desnecessários.  
-(C) admite valores nulos em seus atributos componentes.  
-(D) só existe em relações que não possuem chave primária.  
-(E) é definida exclusivamente no modelo físico.
+- [ ] (A) obrigatoriamente é composta por mais de um atributo.  
+- [ ] (B) identifica unicamente as tuplas, mas pode conter atributos desnecessários.  
+- [ ] (C) admite valores nulos em seus atributos componentes.  
+- [ ] (D) só existe em relações que não possuem chave primária.  
+- [ ] (E) é definida exclusivamente no modelo físico.
 
 ---
 
