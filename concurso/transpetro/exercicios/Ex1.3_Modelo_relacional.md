@@ -174,13 +174,19 @@ O esquema de uma relação, no modelo relacional, corresponde
 - [ ] (D) ao conjunto de índices criados sobre a relação.  
 - [ ] (E) ao número de chaves estrangeiras que a relação possui.
 
+>[!fail] Esquema x instância
+>||É o quê|Muda?|
+|---|---|---|
+|**Esquema**|A **estrutura**: nome da relação, atributos, domínios|Raramente — só em mudança de projeto|
+|**Instância**|O **conteúdo**|A cada INSERT, UPDATE, DELETE|
+
 ---
 
 **11**
 
 Uma das características fundamentais do modelo relacional é que a ordem das tuplas em uma relação
 
-- [x] (A) é irrelevante, pois a relação é definida como um conjunto.  
+<font color="#00b050">- [x] (A) é irrelevante, pois a relação é definida como um conjunto.  </font>
 - [ ] (B) determina a eficiência da chave primária.  
 - [ ] (C) deve corresponder à ordem de inserção dos registros.  
 - [ ] (D) é definida obrigatoriamente pela chave estrangeira.  
@@ -199,11 +205,14 @@ Considere a tabela a seguir, que registra os projetos de uma construtora.
 
 Essa tabela viola um princípio do modelo relacional porque
 
-- [x] (A) não define chave estrangeira para os responsáveis.  
-- [ ] (B) possui um atributo que armazena mais de um valor em uma mesma célula.  
+<font color="#ff0000">- [x] (A) não define chave estrangeira para os responsáveis.  </font>
+<font color="#00b050">- [ ] (B) possui um atributo que armazena mais de um valor em uma mesma célula.  </font>
 - [ ] (C) apresenta tuplas duplicadas.  
 - [ ] (D) não estabelece domínio para o atributo Nome.  
 - [ ] (E) possui chave primária composta por um único atributo.
+
+>[!fail] O que exatamente foi violado
+>O modelo relacional exige que todo valor seja **ATÔMICO** - não permite armazenar mais de um valor
 
 ---
 
@@ -213,11 +222,14 @@ Um analista deve escolher, entre os operadores da Álgebra Relacional, aquele qu
 
 Esse operador é a(o)
 
-- [x] (A) união.  
+<font color="#ff0000">- [x] (A) união.  </font>
 - [ ] (B) interseção.  
-- [ ] (C) diferença.  
+<font color="#00b050">- [ ] (C) diferença.  </font>
 - [ ] (D) divisão.  
 - [ ] (E) produto cartesiano.
+
+>[!fail] Diferença
+>Ele pede tuplas na primeira relação e **ausencia** na segunda. Isso é diferença(-)
 
 ---
 
@@ -229,9 +241,12 @@ O operador da Álgebra Relacional adequado a essa finalidade é a(o)
 
 - [ ] (A) junção natural.  
 - [ ] (B) produto cartesiano.  
-- [ ] (C) união.  
+<font color="#00b050">- [ ] (C) união.  </font>
 - [ ] (D) projeção.  
-- [x] (E) divisão.
+<font color="#ff0000">- [x] (E) divisão.</font>
+
+>[!fail] União
+>Ele pedia uma **única lista** com todos os nomes das duas relações, sem repetição. Isso é **únião**
 
 ---
 
