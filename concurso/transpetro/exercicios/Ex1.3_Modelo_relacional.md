@@ -137,7 +137,8 @@ No modelo relacional, uma superchave distingue-se de uma chave candidata porque 
 >**Chave candidata =>** super chave **mínima** - tire qualquer atributo dela e ela perde a capacidade de identificação
 >
 >Em `Funcionario (Matricula, CPF, Nome, Email)`
->-
+>- `{Matricula}` -> **super chave e candidata**(mínima)
+>- `{Matricula, Nome}` -> su 
 
 ---
 
