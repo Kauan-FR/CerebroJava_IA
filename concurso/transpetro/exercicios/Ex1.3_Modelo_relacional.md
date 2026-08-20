@@ -40,7 +40,7 @@ Uma equipe discute os fundamentos do modelo relacional durante o projeto do banc
 
 Nesse modelo, o conjunto de valores permitidos para um determinado atributo é denominado
 
-- [ ] (A) domínio.  
+- [x] (A) domínio.  
 - [ ] (B) esquema.  
 - [ ] (C) grau.  
 - [ ] (D) instância.  
@@ -62,7 +62,7 @@ Sabe-se que toda apólice é emitida por um corretor cadastrado.
 A restrição que garante essa regra no modelo relacional é a integridade
 
 - [ ] (A) de domínio.  
-- [ ] (B) de entidade.  
+- [x] (B) de entidade.  
 - [ ] (C) referencial.  
 - [ ] (D) semântica.  
 - [ ] (E) de unicidade.
@@ -74,7 +74,7 @@ A restrição que garante essa regra no modelo relacional é a integridade
 Em uma tabela do modelo relacional, a restrição de integridade de entidade determina que
 
 - [ ] (A) toda chave estrangeira referencie uma chave primária existente.  
-- [ ] (B) nenhum atributo da chave primária admita valor nulo.  
+- [x] (B) nenhum atributo da chave primária admita valor nulo.  
 - [ ] (C) todo atributo pertença a um domínio previamente definido.  
 - [ ] (D) toda relação possua ao menos uma chave estrangeira.  
 - [ ] (E) nenhuma coluna da relação admita valores repetidos.
@@ -87,11 +87,11 @@ A tabela `Matricula` possui a chave estrangeira `ID_Curso`, que referencia a tab
 
 Nessa situação, o modelo relacional
 
-(A) proíbe a operação, pois chaves estrangeiras não admitem valor nulo.  
-(B) admite valor nulo na chave estrangeira, desde que ela não integre a chave primária.  
-(C) exige a criação de um curso fictício para manter a integridade referencial.  
-(D) converte automaticamente a chave estrangeira em chave alternativa.  
-(E) admite valor nulo apenas se a tabela Curso estiver vazia.
+- [ ] (A) proíbe a operação, pois chaves estrangeiras não admitem valor nulo.  
+- [ ] (B) admite valor nulo na chave estrangeira, desde que ela não integre a chave primária.  
+- [ ] (C) exige a criação de um curso fictício para manter a integridade referencial.  
+- [ ] (D) converte automaticamente a chave estrangeira em chave alternativa.  
+- [ ] (E) admite valor nulo apenas se a tabela Curso estiver vazia.
 
 ---
 
