@@ -134,7 +134,8 @@ No modelo relacional, uma superchave distingue-se de uma chave candidata porque 
 
 >[!fail] Super chave x chave candidata
 >**Super chave =>** **qualquer conjunto de atributos** que **identifica unicamente uma tupla**
->**Chave candidata =>** super chave **mínima**
+>**Chave candidata =>** super chave **mínima** - tire qualquer atributo dela e ela perde a capacidade de identificação
+>
 
 ---
 
