@@ -12,7 +12,7 @@ No modelo relacional, cada linha de uma relação é formalmente denominada
 
 - [ ] (A) atributo.  
 - [ ] (B) domínio.  
-- [x] (C) tupla.  
+<font color="#00b050">- [x] (C) tupla.  </font>
 - [ ] (D) esquema.  
 - [ ] (E) instância.
 
@@ -27,7 +27,7 @@ Considere a relação a seguir, que integra o banco de dados de uma distribuidor
 O grau e a cardinalidade dessa relação correspondem, respectivamente, ao número de
 
 - [ ] (A) tuplas e de atributos.  
-- [x] (B) atributos e de tuplas.  
+<font color="#00b050">- [x] (B) atributos e de tuplas.  </font>
 - [ ] (C) chaves candidatas e de tuplas.  
 - [ ] (D) domínios e de restrições.  
 - [ ] (E) atributos e de chaves estrangeiras.
@@ -40,7 +40,7 @@ Uma equipe discute os fundamentos do modelo relacional durante o projeto do banc
 
 Nesse modelo, o conjunto de valores permitidos para um determinado atributo é denominado
 
-- [x] (A) domínio.  
+<font color="#00b050">- [x] (A) domínio.  </font>
 - [ ] (B) esquema.  
 - [ ] (C) grau.  
 - [ ] (D) instância.  
