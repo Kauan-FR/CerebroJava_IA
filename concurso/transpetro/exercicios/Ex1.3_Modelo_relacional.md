@@ -213,7 +213,7 @@ O operador da Álgebra Relacional adequado a essa finalidade é a(o)
 - [ ] (B) produto cartesiano.  
 - [ ] (C) união.  
 - [ ] (D) projeção.  
-- [ ] (E) divisão.
+- [x] (E) divisão.
 
 ---
 
@@ -223,11 +223,11 @@ Considere as relações `Aluno`, com 40 tuplas e 5 atributos, e `Curso`, com 8 t
 
 O resultado do produto cartesiano entre essas duas relações possui
 
-(A) 48 tuplas e 8 atributos.  
-(B) 320 tuplas e 8 atributos.  
-(C) 320 tuplas e 15 atributos.  
-(D) 48 tuplas e 15 atributos.  
-(E) 40 tuplas e 3 atributos.
+- [ ] (A) 48 tuplas e 8 atributos.  
+- [ ] (B) 320 tuplas e 8 atributos.  
+- [ ] (C) 320 tuplas e 15 atributos.  
+- [ ] (D) 48 tuplas e 15 atributos.  
+- [ ] (E) 40 tuplas e 3 atributos.
 
 ---
 
