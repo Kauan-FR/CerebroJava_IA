@@ -61,11 +61,11 @@ Sabe-se que toda apólice é emitida por um corretor cadastrado.
 
 A restrição que garante essa regra no modelo relacional é a integridade
 
-(A) de domínio.  
-(B) de entidade.  
-(C) referencial.  
-(D) semântica.  
-(E) de unicidade.
+- [ ] (A) de domínio.  
+- [ ] (B) de entidade.  
+- [ ] (C) referencial.  
+- [ ] (D) semântica.  
+- [ ] (E) de unicidade.
 
 ---
 
