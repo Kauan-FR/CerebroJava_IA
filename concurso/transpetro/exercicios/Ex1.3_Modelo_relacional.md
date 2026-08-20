@@ -88,7 +88,7 @@ A tabela `Matricula` possui a chave estrangeira `ID_Curso`, que referencia a tab
 Nessa situação, o modelo relacional
 
 - [ ] (A) proíbe a operação, pois chaves estrangeiras não admitem valor nulo.  
-- [ ] (B) admite valor nulo na chave estrangeira, desde que ela não integre a chave primária.  
+- [x] (B) admite valor nulo na chave estrangeira, desde que ela não integre a chave primária.  
 - [ ] (C) exige a criação de um curso fictício para manter a integridade referencial.  
 - [ ] (D) converte automaticamente a chave estrangeira em chave alternativa.  
 - [ ] (E) admite valor nulo apenas se a tabela Curso estiver vazia.
@@ -108,11 +108,11 @@ Um analista tenta excluir o departamento de código 40, ao qual estão vinculado
 
 O comportamento adotado pela chave estrangeira, nesse caso, é
 
-(A) CASCADE.  
-(B) SET NULL.  
-(C) SET DEFAULT.  
-(D) RESTRICT.  
-(E) NO CHECK.
+- [ ] (A) CASCADE.  
+- [ ] (B) SET NULL.  
+- [ ] (C) SET DEFAULT.  
+- [ ] (D) RESTRICT.  
+- [ ] (E) NO CHECK.
 
 ---
 
