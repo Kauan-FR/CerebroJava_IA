@@ -120,7 +120,7 @@ O comportamento adotado pela chave estrangeira, nesse caso, é
 
 No modelo relacional, uma superchave distingue-se de uma chave candidata porque a superchave
 
-- [ ] (A) obrigatoriamente é composta por mais de um atributo.  
+- [x] (A) obrigatoriamente é composta por mais de um atributo.  
 - [ ] (B) identifica unicamente as tuplas, mas pode conter atributos desnecessários.  
 - [ ] (C) admite valores nulos em seus atributos componentes.  
 - [ ] (D) só existe em relações que não possuem chave primária.  
@@ -138,11 +138,11 @@ Sabe-se que `Matricula`, `CPF` e `Email` identificam unicamente cada funcionári
 
 Nesse caso, `CPF` e `Email` são classificados como chaves
 
-(A) estrangeiras.  
-(B) parciais.  
-(C) alternativas.  
-(D) compostas.  
-(E) substitutas.
+- [ ] (A) estrangeiras.  
+- [ ] (B) parciais.  
+- [ ] (C) alternativas.  
+- [ ] (D) compostas.  
+- [ ] (E) substitutas.
 
 ---
 
