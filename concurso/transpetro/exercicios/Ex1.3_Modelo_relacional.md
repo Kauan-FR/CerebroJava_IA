@@ -133,7 +133,7 @@ No modelo relacional, uma superchave distingue-se de uma chave candidata porque 
 - [ ] (E) é definida exclusivamente no modelo físico.
 
 >[!fail] Super chave x chave candidata
->
+>Super chave => qualquer conjunto de atributos que identifica unicamente uma tupla
 
 ---
 
