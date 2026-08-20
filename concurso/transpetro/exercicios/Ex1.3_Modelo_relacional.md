@@ -271,11 +271,11 @@ Sabe-se que um aluno pode cursar várias disciplinas e uma disciplina pode ser c
 
 A chave primária dessa tabela é
 
-(A) ID_Aluno.  
-(B) ID_Disciplina.  
-(C) a combinação de ID_Aluno e ID_Disciplina.  
-(D) a combinação de ID_Aluno, ID_Disciplina e Nota.  
-(E) uma chave substituta obrigatoriamente gerada pelo SGBD.
+- [ ] (A) ID_Aluno.  
+- [ ] (B) ID_Disciplina.  
+- [ ] (C) a combinação de ID_Aluno e ID_Disciplina.  
+- [ ] (D) a combinação de ID_Aluno, ID_Disciplina e Nota.  
+- [ ] (E) uma chave substituta obrigatoriamente gerada pelo SGBD.
 
 ---
 
