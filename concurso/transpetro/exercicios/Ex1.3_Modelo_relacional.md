@@ -133,13 +133,16 @@ No modelo relacional, uma superchave distingue-se de uma chave candidata porque 
 - [ ] (E) é definida exclusivamente no modelo físico.
 
 >[!fail] Superchave x chave candidata
->**Super chave =>** **qualquer conjunto de atributos** que **identifica unicamente uma tupla**
+>**Superchave =>** **qualquer conjunto de atributos** que **identifica unicamente uma tupla**
 >**Chave candidata =>** super chave **mínima** - tire qualquer atributo dela e ela perde a capacidade de identificação
 >
 >Em `Funcionario (Matricula, CPF, Nome, Email)`
 >- `{Matricula}` -> **superchave e candidata**(mínima)
 >- `{Matricula, Nome}` -> superchave, mas **não candidata**(o `Nome` é inútil ali, a `Matricula` já resolve)
->- `{Matricula, CPF, Nome, Email}` -> 
+>- `{Matricula, CPF, Nome, Email}` -> superchave também, com três atributos sobrando
+>  
+>  Ordem para gravar: **superchave ⊃ chave candidata ⊃ chave primária**. A primária é a candidata que você escolheu.
+ 
 
 ---
 
@@ -155,7 +158,7 @@ Nesse caso, `CPF` e `Email` são classificados como chaves
 
 - [ ] (A) estrangeiras.  
 - [ ] (B) parciais.  
-- [x] (C) alternativas.  
+<font color="#00b050">- [x] (C) alternativas.  </font>
 - [ ] (D) compostas.  
 - [ ] (E) substitutas.
 
