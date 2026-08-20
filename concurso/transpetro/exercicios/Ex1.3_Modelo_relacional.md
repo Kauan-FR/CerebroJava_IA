@@ -209,11 +209,11 @@ As relações `Cliente` e `Fornecedor` possuem, cada uma, os atributos `Nome` e 
 
 O operador da Álgebra Relacional adequado a essa finalidade é a(o)
 
-(A) junção natural.  
-(B) produto cartesiano.  
-(C) união.  
-(D) projeção.  
-(E) divisão.
+- [ ] (A) junção natural.  
+- [ ] (B) produto cartesiano.  
+- [ ] (C) união.  
+- [ ] (D) projeção.  
+- [ ] (E) divisão.
 
 ---
 
