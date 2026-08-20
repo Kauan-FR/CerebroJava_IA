@@ -132,13 +132,13 @@ No modelo relacional, uma superchave distingue-se de uma chave candidata porque 
 - [ ] (D) só existe em relações que não possuem chave primária.  
 - [ ] (E) é definida exclusivamente no modelo físico.
 
->[!fail] Super chave x chave candidata
+>[!fail] Superchave x chave candidata
 >**Super chave =>** **qualquer conjunto de atributos** que **identifica unicamente uma tupla**
 >**Chave candidata =>** super chave **mínima** - tire qualquer atributo dela e ela perde a capacidade de identificação
 >
 >Em `Funcionario (Matricula, CPF, Nome, Email)`
->- `{Matricula}` -> **super chave e candidata**(mínima)
->- `{Matricula, Nome}` -> su 
+>- `{Matricula}` -> **superchave e candidata**(mínima)
+>- `{Matricula, Nome}` -> superchave, mas **não candidata**(o `Nome` é inútil ali, a `Matricula` já resolve)  
 
 ---
 
