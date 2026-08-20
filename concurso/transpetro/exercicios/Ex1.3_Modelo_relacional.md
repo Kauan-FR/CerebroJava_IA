@@ -248,6 +248,14 @@ O operador da Álgebra Relacional adequado a essa finalidade é a(o)
 >[!fail] União
 >Ele pedia uma **única lista** com todos os nomes das duas relações, sem repetição. Isso é **únião**
 
+>[!note] Ancora
+>|Operador|Palavra-gatilho no enunciado|Faz|
+|---|---|---|
+|**União** ∪|"todos", "juntar", "uma única lista"|empilha as duas|
+|**Interseção** ∩|"em ambas", "que estão nas duas"|só o que se repete|
+|**Diferença** −|"ausentes", "que não estão", "exceto"|tira da primeira o que está na segunda|
+|**Divisão** ÷|"**todas as**" (quantificador universal)|quem se relaciona com o conjunto inteiro|
+
 ---
 
 **15**
