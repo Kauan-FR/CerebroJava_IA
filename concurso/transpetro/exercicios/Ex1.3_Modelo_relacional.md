@@ -301,7 +301,11 @@ A consulta que retorna todas as editoras, inclusive aquelas sem livros associado
 <font color="#ff0000">- [x] (D) divisão.  </font>
 - [ ] (E) interseção.
 
->[!fail] 
+>[!fail] Junção externa
+>`INNER JOIN` descarta quem não tem par dos dois lados — as editoras sem livro sumiriam. Quem preserva as linhas sem correspondência, preenchendo com nulo, é a **junção externa**.
+>É uma armadilha real de leitura, e vale destacá-la:
+
+> **"todas as X" ≠ divisão.** Divisão é quando X precisa se relacionar com **todos os elementos de outro conjunto**. Se "todas" apenas significa "não deixe ninguém de fora do resultado", é junção externa.
 
 ---
 
