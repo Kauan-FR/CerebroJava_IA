@@ -168,8 +168,8 @@ Nesse caso, `CPF` e `Email` são classificados como chaves
 
 O esquema de uma relação, no modelo relacional, corresponde
 
-- [x] (A) ao conjunto de tuplas armazenadas em determinado momento.  
-- [ ] (B) à definição do nome da relação e de seus atributos com respectivos domínios.  
+<font color="#ff0000">- [x] (A) ao conjunto de tuplas armazenadas em determinado momento.  </font>
+<font color="#00b050">- [ ] (B) à definição do nome da relação e de seus atributos com respectivos domínios.  </font>
 - [ ] (C) ao plano de execução gerado pelo otimizador de consultas.  
 - [ ] (D) ao conjunto de índices criados sobre a relação.  
 - [ ] (E) ao número de chaves estrangeiras que a relação possui.
