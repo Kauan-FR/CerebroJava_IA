@@ -296,9 +296,9 @@ Considere as tabelas `Editora` e `Livro`, em que `Livro.ID_Editora` é chave est
 A consulta que retorna todas as editoras, inclusive aquelas sem livros associados, utiliza
 
 - [ ] (A) junção interna.  
-- [ ] (B) junção externa.  
+<font color="#00b050">- [ ] (B) junção externa.  </font>
 - [ ] (C) produto cartesiano.  
-- [x] (D) divisão.  
+<font color="#ff0000">- [x] (D) divisão.  </font>
 - [ ] (E) interseção.
 
 ---
