@@ -273,6 +273,7 @@ O resultado do produto cartesiano entre essas duas relações possui
 >[!fail] Grau e cardinalidade do produto cartesiano
 >`Aluno`: 40 tuplas, 5 atributos. `Curso`: 8 tuplas, 3 atributos.
 >- **Tuplas =>** multiplica -> 40 * 8 = 320
+>- **Atributos =>** somam -> 5 + 3 = 8
 
 ---
 
