@@ -226,7 +226,7 @@ O resultado do produto cartesiano entre essas duas relações possui
 - [ ] (A) 48 tuplas e 8 atributos.  
 - [ ] (B) 320 tuplas e 8 atributos.  
 - [ ] (C) 320 tuplas e 15 atributos.  
-- [ ] (D) 48 tuplas e 15 atributos.  
+- [x] (D) 48 tuplas e 15 atributos.  
 - [ ] (E) 40 tuplas e 3 atributos.
 
 ---
@@ -235,11 +235,11 @@ O resultado do produto cartesiano entre essas duas relações possui
 
 Na Álgebra Relacional, a operação de junção natural entre duas relações distingue-se da equijunção porque a junção natural
 
-(A) admite condições que utilizem operadores diferentes da igualdade.  
-(B) elimina, do resultado, a coluna duplicada correspondente ao atributo de junção.  
-(C) preserva as tuplas que não possuem correspondência na outra relação.  
-(D) não exige que as relações possuam atributos com o mesmo nome.  
-(E) é classificada como operador unário.
+- [ ] (A) admite condições que utilizem operadores diferentes da igualdade.  
+- [ ] (B) elimina, do resultado, a coluna duplicada correspondente ao atributo de junção.  
+- [ ] (C) preserva as tuplas que não possuem correspondência na outra relação.  
+- [ ] (D) não exige que as relações possuam atributos com o mesmo nome.  
+- [ ] (E) é classificada como operador unário.
 
 ---
 
