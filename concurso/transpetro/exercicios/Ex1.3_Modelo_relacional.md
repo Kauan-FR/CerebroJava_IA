@@ -236,7 +236,7 @@ O resultado do produto cartesiano entre essas duas relações possui
 Na Álgebra Relacional, a operação de junção natural entre duas relações distingue-se da equijunção porque a junção natural
 
 - [ ] (A) admite condições que utilizem operadores diferentes da igualdade.  
-- [ ] (B) elimina, do resultado, a coluna duplicada correspondente ao atributo de junção.  
+- [x] (B) elimina, do resultado, a coluna duplicada correspondente ao atributo de junção.  
 - [ ] (C) preserva as tuplas que não possuem correspondência na outra relação.  
 - [ ] (D) não exige que as relações possuam atributos com o mesmo nome.  
 - [ ] (E) é classificada como operador unário.
@@ -249,11 +249,11 @@ Considere as tabelas `Editora` e `Livro`, em que `Livro.ID_Editora` é chave est
 
 A consulta que retorna todas as editoras, inclusive aquelas sem livros associados, utiliza
 
-(A) junção interna.  
-(B) junção externa.  
-(C) produto cartesiano.  
-(D) divisão.  
-(E) interseção.
+- [ ] (A) junção interna.  
+- [ ] (B) junção externa.  
+- [ ] (C) produto cartesiano.  
+- [x] (D) divisão.  
+- [ ] (E) interseção.
 
 ---
 
