@@ -67,7 +67,11 @@ A restrição que garante essa regra no modelo relacional é a integridade
 - [ ] (D) semântica.  
 - [ ] (E) de unicidade.
 
->[!fail] 
+>[!fail] Integridade referencial x integridade de entidade
+|Restrição|Garante|Incide sobre|
+|---|---|---|
+|**De entidade**|Nenhum **atributo da PK é nulo**|**Chave primária**|
+|**Referencial**|**Toda FK aponta para uma PK que existe**|**Chave estrangeira**|
 
 ---
 
@@ -76,7 +80,7 @@ A restrição que garante essa regra no modelo relacional é a integridade
 Em uma tabela do modelo relacional, a restrição de integridade de entidade determina que
 
 - [ ] (A) toda chave estrangeira referencie uma chave primária existente.  
-- [x] (B) nenhum atributo da chave primária admita valor nulo.  
+<font color="#00b050">- [x] (B) nenhum atributo da chave primária admita valor nulo.  </font>
 - [ ] (C) todo atributo pertença a um domínio previamente definido.  
 - [ ] (D) toda relação possua ao menos uma chave estrangeira.  
 - [ ] (E) nenhuma coluna da relação admita valores repetidos.
@@ -90,7 +94,7 @@ A tabela `Matricula` possui a chave estrangeira `ID_Curso`, que referencia a tab
 Nessa situação, o modelo relacional
 
 - [ ] (A) proíbe a operação, pois chaves estrangeiras não admitem valor nulo.  
-- [x] (B) admite valor nulo na chave estrangeira, desde que ela não integre a chave primária.  
+<font color="#00b050">- [x] (B) admite valor nulo na chave estrangeira, desde que ela não integre a chave primária.  </font>
 - [ ] (C) exige a criação de um curso fictício para manter a integridade referencial.  
 - [ ] (D) converte automaticamente a chave estrangeira em chave alternativa.  
 - [ ] (E) admite valor nulo apenas se a tabela Curso estiver vazia.
