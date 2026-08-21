@@ -30,7 +30,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 - [x] 1.1 Modelagem conceitual, lógica e física
 - [x] 1.2 Criação e alteração dos modelos lógico e físico
-- [ ] 1.3 Modelo relacional
+- [x] 1.3 Modelo relacional
 - [ ] 1.4 Normalização
 - [ ] 1.5 Integridade referencial
 - [ ] 1.6 Metadados
