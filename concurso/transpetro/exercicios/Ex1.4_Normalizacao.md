@@ -44,7 +44,7 @@ Uma relação encontra-se na Segunda Forma Normal (2FN) quando está na 1FN e
 
 - [ ] (A) não possui atributos derivados.  
 - [ ] (B) não possui dependências transitivas em relação à chave primária.  
-- [ ] (C) todo atributo não chave depende funcionalmente da totalidade da chave primária.  
+- [x] (C) todo atributo não chave depende funcionalmente da totalidade da chave primária.  
 - [ ] (D) todo determinante é uma superchave da relação.  
 - [ ] (E) não possui atributos multivalorados nem grupos repetitivos.
 
@@ -60,11 +60,11 @@ A chave primária é composta por `ID_Pedido` e `ID_Produto`, e sabe-se que `Des
 
 Essa relação viola a
 
-(A) Primeira Forma Normal, por conter atributos não atômicos.  
-(B) Segunda Forma Normal, por conter dependência funcional parcial.  
-(C) Terceira Forma Normal, por conter dependência funcional transitiva.  
-(D) Forma Normal de Boyce-Codd, por possuir determinante que não é superchave.  
-(E) Quarta Forma Normal, por conter dependência multivalorada.
+- [ ] (A) Primeira Forma Normal, por conter atributos não atômicos.  
+- [ ] (B) Segunda Forma Normal, por conter dependência funcional parcial.  
+- [ ] (C) Terceira Forma Normal, por conter dependência funcional transitiva.  
+- [ ] (D) Forma Normal de Boyce-Codd, por possuir determinante que não é superchave.  
+- [ ] (E) Quarta Forma Normal, por conter dependência multivalorada.
 
 ---
 
