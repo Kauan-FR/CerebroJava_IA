@@ -225,7 +225,7 @@ Essa situação pode ocorrer quando a relação possui
 
 - [ ] (A) atributos multivalorados na chave primária.  
 - [ ] (B) um determinante que não é superchave, envolvendo atributos de chaves candidatas sobrepostas.  
-- [ ] (C) chave primária composta por um único atributo.  
+- [x] (C) chave primária composta por um único atributo.  
 - [ ] (D) dependência funcional parcial não eliminada.  
 - [ ] (E) atributos derivados calculados a partir da chave.
 
@@ -237,11 +237,11 @@ Após medir a lentidão dos relatórios gerenciais, uma equipe decidiu reintrodu
 
 Essa decisão de projeto físico é denominada
 
-(A) normalização.  
-(B) desnormalização.  
-(C) decomposição sem perdas.  
-(D) engenharia reversa.  
-(E) particionamento vertical.
+- [ ] (A) normalização.  
+- [x] (B) desnormalização.  
+- [ ] (C) decomposição sem perdas.  
+- [ ] (D) engenharia reversa.  
+- [ ] (E) particionamento vertical.
 
 ---
 
@@ -255,11 +255,11 @@ A chave primária é composta por `ID_Empregado` e `ID_Projeto`.
 
 Nessa relação, o atributo `Nome_Empregado` estabelece uma dependência funcional
 
-(A) total em relação à chave primária.  
-(B) parcial em relação à chave primária.  
-(C) transitiva em relação à chave primária.  
-(D) multivalorada em relação à chave primária.  
-(E) trivial em relação à chave primária.
+- [ ] (A) total em relação à chave primária.  
+- [ ] (B) parcial em relação à chave primária.  
+- [ ] (C) transitiva em relação à chave primária.  
+- [ ] (D) multivalorada em relação à chave primária.  
+- [ ] (E) trivial em relação à chave primária.
 
 ---
 
