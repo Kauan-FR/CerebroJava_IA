@@ -61,7 +61,7 @@ A chave primária é composta por `ID_Pedido` e `ID_Produto`, e sabe-se que `Des
 Essa relação viola a
 
 - [ ] (A) Primeira Forma Normal, por conter atributos não atômicos.  
-- [ ] (B) Segunda Forma Normal, por conter dependência funcional parcial.  
+- [x] (B) Segunda Forma Normal, por conter dependência funcional parcial.  
 - [ ] (C) Terceira Forma Normal, por conter dependência funcional transitiva.  
 - [ ] (D) Forma Normal de Boyce-Codd, por possuir determinante que não é superchave.  
 - [ ] (E) Quarta Forma Normal, por conter dependência multivalorada.
@@ -78,11 +78,11 @@ A chave primária é `Matricula`, e sabe-se que `Nome_Cargo` e `Salario_Base_Car
 
 Essa relação encontra-se
 
-(A) na 1FN, mas viola a 2FN.  
-(B) na 2FN, mas viola a 3FN.  
-(C) na 3FN, mas viola a BCNF.  
-(D) na BCNF, sem qualquer violação.  
-(E) fora da 1FN, por possuir atributos redundantes.
+- [ ] (A) na 1FN, mas viola a 2FN.  
+- [ ] (B) na 2FN, mas viola a 3FN.  
+- [ ] (C) na 3FN, mas viola a BCNF.  
+- [ ] (D) na BCNF, sem qualquer violação.  
+- [ ] (E) fora da 1FN, por possuir atributos redundantes.
 
 ---
 
