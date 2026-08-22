@@ -31,7 +31,7 @@ Considere a tabela a seguir, utilizada por uma transportadora para registrar sua
 Essa tabela não atende à Primeira Forma Normal (1FN) porque
 
 - [ ] (A) não possui chave estrangeira definida.  
-- [ ] (B) apresenta um atributo cujos valores não são atômicos.  
+- [x] (B) apresenta um atributo cujos valores não são atômicos.  
 - [ ] (C) possui chave primária composta por um único atributo.  
 - [ ] (D) contém atributos que dependem transitivamente da chave primária.  
 - [ ] (E) permite valores nulos na coluna Destino.
@@ -42,11 +42,11 @@ Essa tabela não atende à Primeira Forma Normal (1FN) porque
 
 Uma relação encontra-se na Segunda Forma Normal (2FN) quando está na 1FN e
 
-(A) não possui atributos derivados.  
-(B) não possui dependências transitivas em relação à chave primária.  
-(C) todo atributo não chave depende funcionalmente da totalidade da chave primária.  
-(D) todo determinante é uma superchave da relação.  
-(E) não possui atributos multivalorados nem grupos repetitivos.
+- [ ] (A) não possui atributos derivados.  
+- [ ] (B) não possui dependências transitivas em relação à chave primária.  
+- [ ] (C) todo atributo não chave depende funcionalmente da totalidade da chave primária.  
+- [ ] (D) todo determinante é uma superchave da relação.  
+- [ ] (E) não possui atributos multivalorados nem grupos repetitivos.
 
 ---
 
