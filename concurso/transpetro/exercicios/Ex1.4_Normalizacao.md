@@ -291,7 +291,7 @@ Caso o nome do fornecedor 500 seja alterado, será necessário atualizar mais de
 
 Essa situação caracteriza uma anomalia de atualização decorrente de
 
-- [ ] (A) dependência funcional parcial.  
+- [x] (A) dependência funcional parcial.  
 - [ ] (B) dependência funcional transitiva.  
 - [ ] (C) dependência multivalorada.  
 - [ ] (D) ausência de chave estrangeira.  
@@ -303,8 +303,8 @@ Essa situação caracteriza uma anomalia de atualização decorrente de
 
 A Quarta Forma Normal (4FN) trata especificamente da eliminação de
 
-(A) dependências funcionais parciais.  
-(B) dependências funcionais transitivas.  
-(C) dependências multivaloradas não triviais.  
-(D) determinantes que não sejam superchaves.  
-(E) atributos não atômicos.
+- [ ] (A) dependências funcionais parciais.  
+- [ ] (B) dependências funcionais transitivas.  
+- [x] (C) dependências multivaloradas não triviais.  
+- [ ] (D) determinantes que não sejam superchaves.  
+- [ ] (E) atributos não atômicos.
