@@ -91,7 +91,7 @@ Essa relação encontra-se
 Uma relação está na Terceira Forma Normal (3FN) quando está na 2FN e não apresenta
 
 - [ ] (A) grupos repetitivos de atributos.  
-- [ ] (B) dependência funcional parcial em relação à chave primária.  
+- [x] (B) dependência funcional parcial em relação à chave primária.  
 - [ ] (C) dependência funcional transitiva entre atributos não chave e a chave primária.  
 - [ ] (D) atributos que integrem mais de uma chave candidata.  
 - [ ] (E) chaves estrangeiras que admitam valores nulos.
