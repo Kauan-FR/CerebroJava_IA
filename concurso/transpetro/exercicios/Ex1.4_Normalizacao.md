@@ -271,7 +271,7 @@ Nesse sentido, é correto afirmar que toda relação que se encontra na
 
 - [ ] (A) 2FN está necessariamente na 3FN.  
 - [ ] (B) 3FN está necessariamente na 2FN.  
-- [ ] (C) 1FN está necessariamente na 2FN.  
+- [x] (C) 1FN está necessariamente na 2FN.  
 - [ ] (D) 3FN está necessariamente na BCNF.  
 - [ ] (E) BCNF está necessariamente fora da 3FN.
 
@@ -291,11 +291,11 @@ Caso o nome do fornecedor 500 seja alterado, será necessário atualizar mais de
 
 Essa situação caracteriza uma anomalia de atualização decorrente de
 
-(A) dependência funcional parcial.  
-(B) dependência funcional transitiva.  
-(C) dependência multivalorada.  
-(D) ausência de chave estrangeira.  
-(E) violação de integridade de entidade.
+- [ ] (A) dependência funcional parcial.  
+- [ ] (B) dependência funcional transitiva.  
+- [ ] (C) dependência multivalorada.  
+- [ ] (D) ausência de chave estrangeira.  
+- [ ] (E) violação de integridade de entidade.
 
 ---
 
