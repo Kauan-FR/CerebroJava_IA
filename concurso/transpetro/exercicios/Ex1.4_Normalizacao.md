@@ -209,11 +209,11 @@ Essa estrutura caracteriza
 
 Uma relação encontra-se na Forma Normal de Boyce-Codd (BCNF) quando, para toda dependência funcional não trivial X → Y presente na relação,
 
-(A) Y é atributo não chave.  
-(B) X é uma superchave da relação.  
-(C) X e Y integram a mesma chave candidata.  
-(D) Y depende parcialmente de X.  
-(E) X não admite valores nulos.
+- [ ] (A) Y é atributo não chave.  
+- [ ] (B) X é uma superchave da relação.  
+- [x] (C) X e Y integram a mesma chave candidata.  
+- [ ] (D) Y depende parcialmente de X.  
+- [ ] (E) X não admite valores nulos.
 
 ---
 
@@ -223,11 +223,11 @@ Um analista afirma que determinada relação está na 3FN, porém não está na 
 
 Essa situação pode ocorrer quando a relação possui
 
-(A) atributos multivalorados na chave primária.  
-(B) um determinante que não é superchave, envolvendo atributos de chaves candidatas sobrepostas.  
-(C) chave primária composta por um único atributo.  
-(D) dependência funcional parcial não eliminada.  
-(E) atributos derivados calculados a partir da chave.
+- [ ] (A) atributos multivalorados na chave primária.  
+- [ ] (B) um determinante que não é superchave, envolvendo atributos de chaves candidatas sobrepostas.  
+- [ ] (C) chave primária composta por um único atributo.  
+- [ ] (D) dependência funcional parcial não eliminada.  
+- [ ] (E) atributos derivados calculados a partir da chave.
 
 ---
 
