@@ -146,11 +146,11 @@ Ao decompor uma relação durante o processo de normalização, é fundamental g
 
 Essa propriedade é denominada decomposição
 
-(A) sem perda de informação.  
-(B) por dependência transitiva.  
-(C) por projeção multivalorada.  
-(D) irreversível.  
-(E) horizontal.
+- [ ] (A) sem perda de informação.  
+- [ ] (B) por dependência transitiva.  
+- [ ] (C) por projeção multivalorada.  
+- [ ] (D) irreversível.  
+- [ ] (E) horizontal.
 
 ---
 
