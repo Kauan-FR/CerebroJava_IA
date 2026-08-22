@@ -104,11 +104,11 @@ Uma tabela armazena, em conjunto, os dados dos cursos e os dados dos alunos matr
 
 Essa situação caracteriza uma anomalia de
 
-(A) inserção.  
-(B) atualização.  
-(C) exclusão.  
-(D) concorrência.  
-(E) integridade referencial.
+- [ ] (A) inserção.  
+- [ ] (B) atualização.  
+- [x] (C) exclusão.  
+- [ ] (D) concorrência.  
+- [ ] (E) integridade referencial.
 
 ---
 
@@ -118,11 +118,11 @@ Em uma tabela que armazena, simultaneamente, dados de empregados e de seus depar
 
 Essa limitação caracteriza uma anomalia de
 
-(A) exclusão.  
-(B) inserção.  
-(C) atualização.  
-(D) leitura não repetível.  
-(E) violação de domínio.
+- [ ] (A) exclusão.  
+- [x] (B) inserção.  
+- [ ] (C) atualização.  
+- [ ] (D) leitura não repetível.  
+- [ ] (E) violação de domínio.
 
 ---
 
@@ -132,11 +132,11 @@ A normalização de um banco de dados relacional tem por objetivo reduzir redund
 
 Nesse contexto, **NÃO** constitui objetivo do processo de normalização
 
-(A) eliminar dependências funcionais parciais.  
-(B) reduzir a ocorrência de dados redundantes.  
-(C) minimizar anomalias de inserção, atualização e exclusão.  
-(D) aumentar a velocidade de leitura das consultas analíticas.  
-(E) preservar a integridade semântica dos dados armazenados.
+- [x] (A) eliminar dependências funcionais parciais.  
+- [ ] (B) reduzir a ocorrência de dados redundantes.  
+- [ ] (C) minimizar anomalias de inserção, atualização e exclusão.  
+- [ ] (D) aumentar a velocidade de leitura das consultas analíticas.  
+- [ ] (E) preservar a integridade semântica dos dados armazenados.
 
 ---
 
