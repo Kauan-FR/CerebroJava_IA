@@ -146,7 +146,7 @@ Ao decompor uma relação durante o processo de normalização, é fundamental g
 
 Essa propriedade é denominada decomposição
 
-- [ ] (A) sem perda de informação.  
+- [x] (A) sem perda de informação.  
 - [ ] (B) por dependência transitiva.  
 - [ ] (C) por projeção multivalorada.  
 - [ ] (D) irreversível.  
@@ -160,11 +160,11 @@ Uma relação possui chave primária composta por um único atributo e todos os 
 
 Em relação a essa relação, é correto afirmar que ela
 
-(A) viola necessariamente a 2FN.  
-(B) está automaticamente na 2FN, pois não há como existir dependência parcial.  
-(C) está automaticamente na 3FN, pois não há como existir dependência transitiva.  
-(D) está automaticamente na BCNF, pois possui chave simples.  
-(E) não pode ser avaliada quanto às formas normais.
+- [ ] (A) viola necessariamente a 2FN.  
+- [ ] (B) está automaticamente na 2FN, pois não há como existir dependência parcial.  
+- [ ] (C) está automaticamente na 3FN, pois não há como existir dependência transitiva.  
+- [ ] (D) está automaticamente na BCNF, pois possui chave simples.  
+- [ ] (E) não pode ser avaliada quanto às formas normais.
 
 ---
 
