@@ -179,7 +179,7 @@ Sabe-se que `Nome_Vendedor` depende de `ID_Vendedor` e que `Cidade_Loja` depende
 A quantidade mínima de relações resultantes da normalização dessa tabela até a 3FN é
 
 - [ ] (A) 1  
-- [ ] (B) 2  
+- [x] (B) 2  
 - [ ] (C) 3  
 - [ ] (D) 4  
 - [ ] (E) 5
@@ -197,11 +197,11 @@ Considere a tabela a seguir, criada por uma clínica para registrar contatos de 
 
 Essa estrutura caracteriza
 
-(A) uma dependência transitiva entre Nome e Telefone.  
-(B) um grupo repetitivo, que fere a Primeira Forma Normal.  
-(C) uma dependência parcial em relação à chave primária.  
-(D) uma violação da Forma Normal de Boyce-Codd.  
-(E) uma decomposição com perda de informação.
+- [ ] (A) uma dependência transitiva entre Nome e Telefone.  
+- [x] (B) um grupo repetitivo, que fere a Primeira Forma Normal.  
+- [ ] (C) uma dependência parcial em relação à chave primária.  
+- [ ] (D) uma violação da Forma Normal de Boyce-Codd.  
+- [ ] (E) uma decomposição com perda de informação.
 
 ---
 
