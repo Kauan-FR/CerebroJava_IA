@@ -256,7 +256,7 @@ A chave primária é composta por `ID_Empregado` e `ID_Projeto`.
 Nessa relação, o atributo `Nome_Empregado` estabelece uma dependência funcional
 
 - [ ] (A) total em relação à chave primária.  
-- [ ] (B) parcial em relação à chave primária.  
+- [x] (B) parcial em relação à chave primária.  
 - [ ] (C) transitiva em relação à chave primária.  
 - [ ] (D) multivalorada em relação à chave primária.  
 - [ ] (E) trivial em relação à chave primária.
@@ -269,11 +269,11 @@ As formas normais são progressivamente mais restritivas.
 
 Nesse sentido, é correto afirmar que toda relação que se encontra na
 
-(A) 2FN está necessariamente na 3FN.  
-(B) 3FN está necessariamente na 2FN.  
-(C) 1FN está necessariamente na 2FN.  
-(D) 3FN está necessariamente na BCNF.  
-(E) BCNF está necessariamente fora da 3FN.
+- [ ] (A) 2FN está necessariamente na 3FN.  
+- [ ] (B) 3FN está necessariamente na 2FN.  
+- [ ] (C) 1FN está necessariamente na 2FN.  
+- [ ] (D) 3FN está necessariamente na BCNF.  
+- [ ] (E) BCNF está necessariamente fora da 3FN.
 
 ---
 
