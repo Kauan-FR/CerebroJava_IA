@@ -11,7 +11,7 @@ Tipo:
 Durante o projeto de um banco de dados, diz-se que existe uma dependência funcional entre os atributos X e Y de uma relação quando
 
 - [ ] (A) X e Y pertencem ao mesmo domínio.  
-- [ ] (B) cada valor de X determina um único valor de Y.  
+- [x] (B) cada valor de X determina um único valor de Y.  
 - [ ] (C) X e Y compõem, em conjunto, a chave primária da relação.  
 - [ ] (D) X e Y podem assumir valores nulos simultaneamente.  
 - [ ] (E) Y é obrigatoriamente uma chave estrangeira que referencia X.
@@ -30,11 +30,11 @@ Considere a tabela a seguir, utilizada por uma transportadora para registrar sua
 
 Essa tabela não atende à Primeira Forma Normal (1FN) porque
 
-(A) não possui chave estrangeira definida.  
-(B) apresenta um atributo cujos valores não são atômicos.  
-(C) possui chave primária composta por um único atributo.  
-(D) contém atributos que dependem transitivamente da chave primária.  
-(E) permite valores nulos na coluna Destino.
+- [ ] (A) não possui chave estrangeira definida.  
+- [ ] (B) apresenta um atributo cujos valores não são atômicos.  
+- [ ] (C) possui chave primária composta por um único atributo.  
+- [ ] (D) contém atributos que dependem transitivamente da chave primária.  
+- [ ] (E) permite valores nulos na coluna Destino.
 
 ---
 
