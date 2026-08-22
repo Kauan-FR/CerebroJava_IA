@@ -161,7 +161,7 @@ Uma relação possui chave primária composta por um único atributo e todos os 
 Em relação a essa relação, é correto afirmar que ela
 
 - [ ] (A) viola necessariamente a 2FN.  
-- [ ] (B) está automaticamente na 2FN, pois não há como existir dependência parcial.  
+- [x] (B) está automaticamente na 2FN, pois não há como existir dependência parcial.  
 - [ ] (C) está automaticamente na 3FN, pois não há como existir dependência transitiva.  
 - [ ] (D) está automaticamente na BCNF, pois possui chave simples.  
 - [ ] (E) não pode ser avaliada quanto às formas normais.
@@ -178,11 +178,11 @@ Sabe-se que `Nome_Vendedor` depende de `ID_Vendedor` e que `Cidade_Loja` depende
 
 A quantidade mínima de relações resultantes da normalização dessa tabela até a 3FN é
 
-(A) 1  
-(B) 2  
-(C) 3  
-(D) 4  
-(E) 5
+- [ ] (A) 1  
+- [ ] (B) 2  
+- [ ] (C) 3  
+- [ ] (D) 4  
+- [ ] (E) 5
 
 ---
 
