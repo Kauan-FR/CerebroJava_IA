@@ -79,7 +79,7 @@ A chave primária é `Matricula`, e sabe-se que `Nome_Cargo` e `Salario_Base_Car
 Essa relação encontra-se
 
 - [ ] (A) na 1FN, mas viola a 2FN.  
-- [ ] (B) na 2FN, mas viola a 3FN.  
+- [x] (B) na 2FN, mas viola a 3FN.  
 - [ ] (C) na 3FN, mas viola a BCNF.  
 - [ ] (D) na BCNF, sem qualquer violação.  
 - [ ] (E) fora da 1FN, por possuir atributos redundantes.
