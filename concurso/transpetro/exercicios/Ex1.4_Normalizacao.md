@@ -143,6 +143,10 @@ Nesse contexto, **NÃO** constitui objetivo do processo de normalização
 <font color="#00b050">- [ ] (D) aumentar a velocidade de leitura das consultas analíticas.  </font>
 - [ ] (E) preservar a integridade semântica dos dados armazenados.
 
+>[!fail] Questão negativa
+>A normalização dos dados ela **NÃO aumenta a velocidade de leitura**, muito pelo contrario, ela diminui a velocidade.
+>Porque com a normalização vem mais tabelas e com isso mais joins, ocassionando em uma leitura mais lenta 
+
 ---
 
 **10**
@@ -151,7 +155,7 @@ Ao decompor uma relação durante o processo de normalização, é fundamental g
 
 Essa propriedade é denominada decomposição
 
-- [x] (A) sem perda de informação.  
+<font color="#00b050">- [x] (A) sem perda de informação.  </font>
 - [ ] (B) por dependência transitiva.  
 - [ ] (C) por projeção multivalorada.  
 - [ ] (D) irreversível.  
