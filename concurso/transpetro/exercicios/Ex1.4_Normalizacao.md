@@ -124,7 +124,7 @@ Em uma tabela que armazena, simultaneamente, dados de empregados e de seus depar
 Essa limitação caracteriza uma anomalia de
 
 - [ ] (A) exclusão.  
-- [x] (B) inserção.  
+<font color="#00b050">- [x] (B) inserção.  </font>
 - [ ] (C) atualização.  
 - [ ] (D) leitura não repetível.  
 - [ ] (E) violação de domínio.
