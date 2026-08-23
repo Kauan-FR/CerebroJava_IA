@@ -170,7 +170,7 @@ Uma relação possui chave primária composta por um único atributo e todos os 
 Em relação a essa relação, é correto afirmar que ela
 
 - [ ] (A) viola necessariamente a 2FN.  
-- [x] (B) está automaticamente na 2FN, pois não há como existir dependência parcial.  
+<font color="#00b050">- [x] (B) está automaticamente na 2FN, pois não há como existir dependência parcial.  </font>
 - [ ] (C) está automaticamente na 3FN, pois não há como existir dependência transitiva.  
 - [ ] (D) está automaticamente na BCNF, pois possui chave simples.  
 - [ ] (E) não pode ser avaliada quanto às formas normais.
