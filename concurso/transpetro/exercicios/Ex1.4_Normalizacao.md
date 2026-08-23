@@ -96,8 +96,10 @@ Uma relação está na Terceira Forma Normal (3FN) quando está na 2FN e não ap
 - [ ] (D) atributos que integrem mais de uma chave candidata.  
 - [ ] (E) chaves estrangeiras que admitam valores nulos.
 
->[!fail]  
->
+>[!fail] Definição da 3FN
+>Quando a questão começar dessa maneira, ela pedindo a definição da primeira forma que aparece, e não da outra
+>Que nessa situação é a 3FN:
+>- Dependência transitiva => atributo não-chave depende de outro atributo não-chave
 
 ---
 
@@ -109,7 +111,7 @@ Essa situação caracteriza uma anomalia de
 
 - [ ] (A) inserção.  
 - [ ] (B) atualização.  
-- [x] (C) exclusão.  
+<font color="#00b050">- [x] (C) exclusão.  </font>
 - [ ] (D) concorrência.  
 - [ ] (E) integridade referencial.
 
