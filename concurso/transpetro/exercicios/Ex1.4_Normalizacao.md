@@ -137,10 +137,10 @@ A normalização de um banco de dados relacional tem por objetivo reduzir redund
 
 Nesse contexto, **NÃO** constitui objetivo do processo de normalização
 
-- [x] (A) eliminar dependências funcionais parciais.  
+<font color="#ff0000">- [x] (A) eliminar dependências funcionais parciais.  </font>
 - [ ] (B) reduzir a ocorrência de dados redundantes.  
 - [ ] (C) minimizar anomalias de inserção, atualização e exclusão.  
-- [ ] (D) aumentar a velocidade de leitura das consultas analíticas.  
+<font color="#00b050">- [ ] (D) aumentar a velocidade de leitura das consultas analíticas.  </font>
 - [ ] (E) preservar a integridade semântica dos dados armazenados.
 
 ---
