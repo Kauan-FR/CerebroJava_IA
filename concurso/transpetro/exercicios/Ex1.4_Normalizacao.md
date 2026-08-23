@@ -294,6 +294,10 @@ Nesse sentido, é correto afirmar que toda relação que se encontra na
 - [ ] (D) 3FN está necessariamente na BCNF.  
 - [ ] (E) BCNF está necessariamente fora da 3FN.
 
+>[!fail] Direção da hierarquia
+>As formas normais elas são cumulativas para cima, não pra baixo
+>`BCNF ⊂ 3FN ⊂ 2FN ⊂ 1FN` 
+
 ---
 
 **19**
@@ -310,11 +314,14 @@ Caso o nome do fornecedor 500 seja alterado, será necessário atualizar mais de
 
 Essa situação caracteriza uma anomalia de atualização decorrente de
 
-- [x] (A) dependência funcional parcial.  
-- [ ] (B) dependência funcional transitiva.  
+<font color="#ff0000">- [x] (A) dependência funcional parcial.  </font>
+<font color="#00b050">- [ ] (B) dependência funcional transitiva.  </font>
 - [ ] (C) dependência multivalorada.  
 - [ ] (D) ausência de chave estrangeira.  
 - [ ] (E) violação de integridade de entidade.
+
+>[!fail] Transitiva, e a contradição interna
+>
 
 ---
 
