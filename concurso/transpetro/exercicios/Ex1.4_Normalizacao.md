@@ -321,7 +321,13 @@ Essa situação caracteriza uma anomalia de atualização decorrente de
 - [ ] (E) violação de integridade de entidade.
 
 >[!fail] Transitiva, e a contradição interna
+>Chave primária: `ID_Produto`, **simples**.
+>`ID_Produto → ID_Fornecedor → Nome_Fornecedor` — dependência **transitiva**, violação de 3FN.
+>**Na questão 11, você afirmou que relação com chave simples está automaticamente na 2FN, porque não há como existir dependência parcial.** Você acertou. Está certo — dependência parcial significa depender de _parte_ da chave, e chave de um atributo só não tem partes.
 >
+>Oito questões depois, você marcou dependência parcial numa tabela de chave simples. Sua própria resposta anterior **provava** que aquela alternativa era impossível.
+>
+>Isso não é falta de conhecimento. É falta de verificação.
 
 ---
 
@@ -331,6 +337,6 @@ A Quarta Forma Normal (4FN) trata especificamente da eliminação de
 
 - [ ] (A) dependências funcionais parciais.  
 - [ ] (B) dependências funcionais transitivas.  
-- [x] (C) dependências multivaloradas não triviais.  
+<font color="#00b050">- [x] (C) dependências multivaloradas não triviais.  </font>
 - [ ] (D) determinantes que não sejam superchaves.  
 - [ ] (E) atributos não atômicos.
