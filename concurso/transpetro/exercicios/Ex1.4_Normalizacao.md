@@ -188,10 +188,13 @@ Sabe-se que `Nome_Vendedor` depende de `ID_Vendedor` e que `Cidade_Loja` depende
 A quantidade mínima de relações resultantes da normalização dessa tabela até a 3FN é
 
 - [ ] (A) 1  
-- [x] (B) 2  
-- [ ] (C) 3  
+<font color="#ff0000">- [x] (B) 2  </font>
+<font color="#00b050">- [ ] (C) 3  </font>
 - [ ] (D) 4  
 - [ ] (E) 5
+
+>[!fail] Contagem de relações após decomposição
+>Quando a questão pedir a **"quantidade mínima de relações resultantes"**, a tabela que esta servindo de exemplo também faz parte da contagem
 
 ---
 
@@ -207,7 +210,7 @@ Considere a tabela a seguir, criada por uma clínica para registrar contatos de 
 Essa estrutura caracteriza
 
 - [ ] (A) uma dependência transitiva entre Nome e Telefone.  
-- [x] (B) um grupo repetitivo, que fere a Primeira Forma Normal.  
+<font color="#00b050">- [x] (B) um grupo repetitivo, que fere a Primeira Forma Normal.  </font>
 - [ ] (C) uma dependência parcial em relação à chave primária.  
 - [ ] (D) uma violação da Forma Normal de Boyce-Codd.  
 - [ ] (E) uma decomposição com perda de informação.
@@ -219,10 +222,14 @@ Essa estrutura caracteriza
 Uma relação encontra-se na Forma Normal de Boyce-Codd (BCNF) quando, para toda dependência funcional não trivial X → Y presente na relação,
 
 - [ ] (A) Y é atributo não chave.  
-- [ ] (B) X é uma superchave da relação.  
-- [x] (C) X e Y integram a mesma chave candidata.  
+<font color="#00b050">- [ ] (B) X é uma superchave da relação.  </font>
+<font color="#ff0000">- [x] (C) X e Y integram a mesma chave candidata.  </font>
 - [ ] (D) Y depende parcialmente de X.  
 - [ ] (E) X não admite valores nulos.
+
+>[!fail] FNBC
+>Todo determinante tem que ser **superchave**
+>Como ilustra a questão `X -> Y`, o X é superchave de Y
 
 ---
 
@@ -233,10 +240,13 @@ Um analista afirma que determinada relação está na 3FN, porém não está na 
 Essa situação pode ocorrer quando a relação possui
 
 - [ ] (A) atributos multivalorados na chave primária.  
-- [ ] (B) um determinante que não é superchave, envolvendo atributos de chaves candidatas sobrepostas.  
-- [x] (C) chave primária composta por um único atributo.  
+<font color="#00b050">- [ ] (B) um determinante que não é superchave, envolvendo atributos de chaves candidatas sobrepostas.  </font>
+<font color="#ff0000">- [x] (C) chave primária composta por um único atributo.  </font>
 - [ ] (D) dependência funcional parcial não eliminada.  
 - [ ] (E) atributos derivados calculados a partir da chave.
+
+>[!fail] Mesmo erro da Q14
+>
 
 ---
 
