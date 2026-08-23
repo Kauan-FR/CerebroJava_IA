@@ -11,7 +11,7 @@ Tipo:
 Durante o projeto de um banco de dados, diz-se que existe uma dependência funcional entre os atributos X e Y de uma relação quando
 
 - [ ] (A) X e Y pertencem ao mesmo domínio.  
-- [x] (B) cada valor de X determina um único valor de Y.  
+<font color="#00b050">- [x] (B) cada valor de X determina um único valor de Y.  </font>
 - [ ] (C) X e Y compõem, em conjunto, a chave primária da relação.  
 - [ ] (D) X e Y podem assumir valores nulos simultaneamente.  
 - [ ] (E) Y é obrigatoriamente uma chave estrangeira que referencia X.
@@ -31,7 +31,7 @@ Considere a tabela a seguir, utilizada por uma transportadora para registrar sua
 Essa tabela não atende à Primeira Forma Normal (1FN) porque
 
 - [ ] (A) não possui chave estrangeira definida.  
-- [x] (B) apresenta um atributo cujos valores não são atômicos.  
+<font color="#00b050">- [x] (B) apresenta um atributo cujos valores não são atômicos.  </font>
 - [ ] (C) possui chave primária composta por um único atributo.  
 - [ ] (D) contém atributos que dependem transitivamente da chave primária.  
 - [ ] (E) permite valores nulos na coluna Destino.
@@ -44,7 +44,7 @@ Uma relação encontra-se na Segunda Forma Normal (2FN) quando está na 1FN e
 
 - [ ] (A) não possui atributos derivados.  
 - [ ] (B) não possui dependências transitivas em relação à chave primária.  
-- [x] (C) todo atributo não chave depende funcionalmente da totalidade da chave primária.  
+<font color="#00b050">- [x] (C) todo atributo não chave depende funcionalmente da totalidade da chave primária.  </font>
 - [ ] (D) todo determinante é uma superchave da relação.  
 - [ ] (E) não possui atributos multivalorados nem grupos repetitivos.
 
@@ -61,7 +61,7 @@ A chave primária é composta por `ID_Pedido` e `ID_Produto`, e sabe-se que `Des
 Essa relação viola a
 
 - [ ] (A) Primeira Forma Normal, por conter atributos não atômicos.  
-- [x] (B) Segunda Forma Normal, por conter dependência funcional parcial.  
+<font color="#00b050">- [x] (B) Segunda Forma Normal, por conter dependência funcional parcial.  </font>
 - [ ] (C) Terceira Forma Normal, por conter dependência funcional transitiva.  
 - [ ] (D) Forma Normal de Boyce-Codd, por possuir determinante que não é superchave.  
 - [ ] (E) Quarta Forma Normal, por conter dependência multivalorada.
@@ -79,7 +79,7 @@ A chave primária é `Matricula`, e sabe-se que `Nome_Cargo` e `Salario_Base_Car
 Essa relação encontra-se
 
 - [ ] (A) na 1FN, mas viola a 2FN.  
-- [x] (B) na 2FN, mas viola a 3FN.  
+<font color="#00b050">- [x] (B) na 2FN, mas viola a 3FN.  </font>
 - [ ] (C) na 3FN, mas viola a BCNF.  
 - [ ] (D) na BCNF, sem qualquer violação.  
 - [ ] (E) fora da 1FN, por possuir atributos redundantes.
@@ -91,10 +91,13 @@ Essa relação encontra-se
 Uma relação está na Terceira Forma Normal (3FN) quando está na 2FN e não apresenta
 
 - [ ] (A) grupos repetitivos de atributos.  
-- [x] (B) dependência funcional parcial em relação à chave primária.  
-- [ ] (C) dependência funcional transitiva entre atributos não chave e a chave primária.  
+<font color="#ff0000">- [x] (B) dependência funcional parcial em relação à chave primária.  </font>
+<font color="#00b050">- [ ] (C) dependência funcional transitiva entre atributos não chave e a chave primária.  </font>
 - [ ] (D) atributos que integrem mais de uma chave candidata.  
 - [ ] (E) chaves estrangeiras que admitam valores nulos.
+
+>[!fail]  
+>
 
 ---
 
