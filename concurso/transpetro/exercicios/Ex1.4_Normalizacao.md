@@ -257,7 +257,7 @@ Após medir a lentidão dos relatórios gerenciais, uma equipe decidiu reintrodu
 Essa decisão de projeto físico é denominada
 
 - [ ] (A) normalização.  
-- [x] (B) desnormalização.  
+<font color="#00b050">- [x] (B) desnormalização.  </font>
 - [ ] (C) decomposição sem perdas.  
 - [ ] (D) engenharia reversa.  
 - [ ] (E) particionamento vertical.
@@ -275,7 +275,7 @@ A chave primária é composta por `ID_Empregado` e `ID_Projeto`.
 Nessa relação, o atributo `Nome_Empregado` estabelece uma dependência funcional
 
 - [ ] (A) total em relação à chave primária.  
-- [x] (B) parcial em relação à chave primária.  
+<font color="#00b050">- [x] (B) parcial em relação à chave primária.  </font>
 - [ ] (C) transitiva em relação à chave primária.  
 - [ ] (D) multivalorada em relação à chave primária.  
 - [ ] (E) trivial em relação à chave primária.
@@ -289,8 +289,8 @@ As formas normais são progressivamente mais restritivas.
 Nesse sentido, é correto afirmar que toda relação que se encontra na
 
 - [ ] (A) 2FN está necessariamente na 3FN.  
-- [ ] (B) 3FN está necessariamente na 2FN.  
-- [x] (C) 1FN está necessariamente na 2FN.  
+<font color="#00b050">- [ ] (B) 3FN está necessariamente na 2FN.  </font>
+<font color="#ff0000">- [x] (C) 1FN está necessariamente na 2FN.  </font>
 - [ ] (D) 3FN está necessariamente na BCNF.  
 - [ ] (E) BCNF está necessariamente fora da 3FN.
 
