@@ -459,11 +459,11 @@ As chaves estrangeiras `Pedido.ID_Cliente` e `ItemPedido.ID_Pedido` foram ambas 
 
 Após a execução de `DELETE FROM Cliente WHERE ID_Cliente = 1`, a quantidade de tuplas restantes nas tabelas `Pedido` e `ItemPedido` será, respectivamente,
 
-(A) 3 e 3  
-(B) 2 e 2  
-(C) 1 e 1  
-(D) 1 e 3  
-(E) 0 e 0
+- [ ] (A) 3 e 3  
+- [ ] (B) 2 e 2  
+- [ ] (C) 1 e 1  
+- [ ] (D) 1 e 3  
+- [ ] (E) 0 e 0
 
 ---
 
