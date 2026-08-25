@@ -178,7 +178,7 @@ CREATE TABLE Apolices (
 );
 ```
 
-(B)
+- [ ] (B)
 
 sql
 
@@ -201,7 +201,7 @@ CREATE TABLE Apolices (
 );
 ```
 
-(C)
+- [ ] (C)
 
 sql
 
@@ -225,7 +225,7 @@ CREATE TABLE Apolices (
 );
 ```
 
-(D)
+- [ ] (D)
 
 sql
 
@@ -249,7 +249,7 @@ CREATE TABLE Apolices (
 );
 ```
 
-(E)
+- [ ] (E)
 
 sql
 
