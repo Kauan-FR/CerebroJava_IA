@@ -12,11 +12,11 @@ Tipo:
 
 No modelo relacional, a restrição de integridade referencial estabelece que
 
-(A) nenhum atributo da chave primária pode assumir valor nulo.  
-(B) todo valor de uma chave estrangeira deve corresponder a um valor existente na chave referenciada ou ser nulo.  
-(C) todo atributo deve assumir valores pertencentes a um domínio previamente definido.  
-(D) toda relação deve possuir ao menos uma chave estrangeira declarada.  
-(E) nenhuma coluna de uma relação pode conter valores duplicados.
+- [ ] (A) nenhum atributo da chave primária pode assumir valor nulo.  
+- [x] (B) todo valor de uma chave estrangeira deve corresponder a um valor existente na chave referenciada ou ser nulo.  
+- [ ] (C) todo atributo deve assumir valores pertencentes a um domínio previamente definido.  
+- [ ] (D) toda relação deve possuir ao menos uma chave estrangeira declarada.  
+- [ ] (E) nenhuma coluna de uma relação pode conter valores duplicados.
 
 ---
 
@@ -30,11 +30,11 @@ Uma tentativa de inserir uma tupla com `ID_Bem` nulo é rejeitada pelo SGBD.
 
 A restrição violada nessa operação é a integridade
 
-(A) referencial.  
-(B) de domínio.  
-(C) de entidade.  
-(D) semântica.  
-(E) de unicidade.
+- [ ] (A) referencial.  
+- [ ] (B) de domínio.  
+- [ ] (C) de entidade.  
+- [ ] (D) semântica.  
+- [ ] (E) de unicidade.
 
 ---
 
