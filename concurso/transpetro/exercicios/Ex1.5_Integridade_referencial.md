@@ -392,7 +392,7 @@ Um analista removeu, de um banco de dados em produção, todas as cláusulas FOR
 
 Uma consequência esperada dessa alteração é
 
-- [ ] (A) a impossibilidade de executar operações de junção entre as tabelas.  
+- [x] (A) a impossibilidade de executar operações de junção entre as tabelas.  
 - [ ] (B) o surgimento de tuplas órfãs, com referências a valores inexistentes.  
 - [ ] (C) a perda imediata dos dados das colunas envolvidas.  
 - [ ] (D) a conversão automática das chaves primárias em chaves candidatas.  
@@ -406,11 +406,11 @@ Uma instituição financeira exige que o valor da coluna `data_encerramento` de 
 
 Essa regra caracteriza uma restrição de integridade
 
-(A) de entidade, implementada por PRIMARY KEY.  
-(B) referencial, implementada por FOREIGN KEY.  
-(C) semântica, definida pelo usuário e implementada por CHECK.  
-(D) de domínio, implementada pela escolha do tipo de dado.  
-(E) de unicidade, implementada por UNIQUE.
+- [ ] (A) de entidade, implementada por PRIMARY KEY.  
+- [ ] (B) referencial, implementada por FOREIGN KEY.  
+- [ ] (C) semântica, definida pelo usuário e implementada por CHECK.  
+- [ ] (D) de domínio, implementada pela escolha do tipo de dado.  
+- [ ] (E) de unicidade, implementada por UNIQUE.
 
 ---
 
