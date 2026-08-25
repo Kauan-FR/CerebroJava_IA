@@ -373,7 +373,11 @@ Para garantir a integridade referencial entre `Frequencia` e `Turma`, deve-se de
 - [ ] (D) uma chave estrangeira que referencie a coluna Sala da tabela Turma.  
 - [ ] (E) uma chave alternativa em Frequencia, dispensando a chave estrangeira.
 
->[!fail] 
+>[!fail] Chave estrangeira composta
+>A questão só pediu para dizer qual seria a referencia que garante a integridade da tabela `Frequencia` e `Turma`, e essa referencia são as chaves `ID_Curso` e `ID_Periodo` as quais são as PKs da tabela `Turma`
+>```sql
+>FOREIGN KEY (ID_Curso, ID_Periodo) REFERENCES Turma(ID_Curso, ID_Periodo)
+>```
 
 ---
 
