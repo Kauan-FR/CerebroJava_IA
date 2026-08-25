@@ -343,7 +343,7 @@ Em uma tabela `Funcionario`, a coluna `matricula` foi definida como chave primá
 
 Nessa situação, a chave estrangeira
 
-- [ ] (A) não pode ser criada, pois só é possível referenciar chaves primárias.  
+- [x] (A) não pode ser criada, pois só é possível referenciar chaves primárias.  
 - [ ] (B) pode ser criada, pois é possível referenciar colunas com restrição UNIQUE.  
 - [ ] (C) só pode ser criada se a restrição UNIQUE for convertida em chave primária.  
 - [ ] (D) só pode ser criada se a coluna cpf não admitir valores nulos.  
