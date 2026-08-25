@@ -425,7 +425,7 @@ Essa regra caracteriza uma restrição de integridade
 
 - [ ] (A) de entidade, implementada por PRIMARY KEY.  
 - [ ] (B) referencial, implementada por FOREIGN KEY.  
-- [x] (C) semântica, definida pelo usuário e implementada por CHECK.  
+<font color="#00b050">- [x] (C) semântica, definida pelo usuário e implementada por CHECK.  </font>
 - [ ] (D) de domínio, implementada pela escolha do tipo de dado.  
 - [ ] (E) de unicidade, implementada por UNIQUE.
 
@@ -439,7 +439,7 @@ A declaração de uma chave estrangeira produz diversos efeitos sobre o comporta
 
 - [ ] (A) rejeição de inserções que referenciem valores inexistentes na tabela referenciada.  
 - [ ] (B) restrição às operações de exclusão na tabela referenciada, conforme a ação declarada.  
-- [x] (C) garantia de que a coluna referenciadora não conterá valores duplicados.  
+<font color="#00b050">- [x] (C) garantia de que a coluna referenciadora não conterá valores duplicados.  </font>
 - [ ] (D) possibilidade de propagação automática de alterações, conforme a ação declarada.  
 - [ ] (E) criação de dependência entre as tabelas envolvidas.
 
@@ -478,7 +478,7 @@ Após a execução de `DELETE FROM Cliente WHERE ID_Cliente = 1`, a quantidade d
 
 - [ ] (A) 3 e 3  
 - [ ] (B) 2 e 2  
-- [x] (C) 1 e 1  
+<font color="#00b050">- [x] (C) 1 e 1  </font>
 - [ ] (D) 1 e 3  
 - [ ] (E) 0 e 0
 
@@ -491,7 +491,7 @@ Um analista precisa diferenciar as restrições de integridade aplicáveis a um 
 Nesse contexto, as integridades de entidade e referencial incidem, respectivamente, sobre
 
 - [ ] (A) a chave estrangeira e a chave primária.  
-- [x] (B) a chave primária e a chave estrangeira.  
+<font color="#00b050">- [x] (B) a chave primária e a chave estrangeira.  </font>
 - [ ] (C) o domínio dos atributos e a chave primária.  
 - [ ] (D) a chave primária e o domínio dos atributos.  
 - [ ] (E) as chaves candidatas e as chaves alternativas.
