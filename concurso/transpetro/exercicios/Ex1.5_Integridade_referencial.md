@@ -32,7 +32,7 @@ A restrição violada nessa operação é a integridade
 
 - [ ] (A) referencial.  
 - [ ] (B) de domínio.  
-- [ ] (C) de entidade.  
+- [x] (C) de entidade.  
 - [ ] (D) semântica.  
 - [ ] (E) de unicidade.
 
@@ -44,11 +44,11 @@ A coluna `situacao` da tabela `Contrato` foi definida para aceitar exclusivament
 
 A restrição violada nessa operação é a integridade
 
-(A) de entidade.  
-(B) referencial.  
-(C) de domínio.  
-(D) de chave estrangeira.  
-(E) de decomposição.
+- [ ] (A) de entidade.  
+- [ ] (B) referencial.  
+- [ ] (C) de domínio.  
+- [ ] (D) de chave estrangeira.  
+- [ ] (E) de decomposição.
 
 ---
 
