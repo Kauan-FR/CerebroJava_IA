@@ -349,7 +349,8 @@ Nessa situação, a chave estrangeira
 - [ ] (D) só pode ser criada se a coluna cpf não admitir valores nulos.  
 - [ ] (E) exige a remoção da chave primária matricula.
 
->[!fail] 
+>[!fail] UNIQUE
+>Por CPF ele ser uma chave alternativa e garantir unicidade em seus dados, ela pode ser referenciada por uma FK, por conta da sua unicidade de dados, ou seja, por ser um dado único que não se repete
 
 ---
 
@@ -367,10 +368,12 @@ A chave primária de `Turma` é composta por `ID_Curso` e `ID_Periodo`.
 Para garantir a integridade referencial entre `Frequencia` e `Turma`, deve-se declarar
 
 - [ ] (A) duas chaves estrangeiras independentes, uma para ID_Curso e outra para ID_Periodo.  
-- [ ] (B) uma única chave estrangeira composta pelas colunas ID_Curso e ID_Periodo.  
-- [x] (C) uma chave estrangeira apenas para ID_Curso, por ser o primeiro atributo da chave.  
+<font color="#00b050">- [ ] (B) uma única chave estrangeira composta pelas colunas ID_Curso e ID_Periodo.  </font>
+<font color="#ff0000">- [x] (C) uma chave estrangeira apenas para ID_Curso, por ser o primeiro atributo da chave.  </font>
 - [ ] (D) uma chave estrangeira que referencie a coluna Sala da tabela Turma.  
 - [ ] (E) uma chave alternativa em Frequencia, dispensando a chave estrangeira.
+
+>[!fail] 
 
 ---
 
@@ -382,7 +385,7 @@ A execução do comando `DROP TABLE Categoria` resultará em
 
 - [ ] (A) sucesso, com exclusão automática da tabela Produto.  
 - [ ] (B) sucesso, com atribuição de valor nulo à coluna ID_Categoria.  
-- [x] (C) erro, em razão da dependência existente, salvo se a remoção for executada em cascata.  
+<font color="#00b050">- [x] (C) erro, em razão da dependência existente, salvo se a remoção for executada em cascata.  </font>
 - [ ] (D) erro, pois tabelas referenciadas não podem ser removidas em hipótese alguma.  
 - [ ] (E) sucesso, com conversão automática da chave estrangeira em coluna comum.
 
