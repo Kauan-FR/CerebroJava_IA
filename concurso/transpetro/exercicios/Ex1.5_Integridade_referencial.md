@@ -93,7 +93,7 @@ CREATE TABLE ItemPedido (
 Uma inconsistência nessa definição é que a cláusula `ON DELETE SET NULL`
 
 - [ ] (A) não pode ser aplicada a chaves estrangeiras compostas.  
-- [ ] (B) tentaria atribuir valor nulo a uma coluna que integra a chave primária.  
+- [x] (B) tentaria atribuir valor nulo a uma coluna que integra a chave primária.  
 - [ ] (C) exige a declaração prévia de um valor padrão para a coluna.  
 - [ ] (D) só é válida em conjunto com a cláusula ON UPDATE RESTRICT.  
 - [ ] (E) impede a criação de índices sobre a tabela ItemPedido.
@@ -106,11 +106,11 @@ Em um sistema de recursos humanos, a chave estrangeira `ID_Departamento` da tabe
 
 Ao se excluir um departamento que possui empregados vinculados,
 
-(A) a exclusão é rejeitada pelo SGBD.  
-(B) os empregados vinculados são também excluídos.  
-(C) a coluna ID_Departamento dos empregados vinculados passa a conter valor nulo.  
-(D) a coluna ID_Departamento dos empregados vinculados recebe o valor padrão definido.  
-(E) os empregados vinculados são transferidos para o departamento de menor código.
+- [ ] (A) a exclusão é rejeitada pelo SGBD.  
+- [ ] (B) os empregados vinculados são também excluídos.  
+- [ ] (C) a coluna ID_Departamento dos empregados vinculados passa a conter valor nulo.  
+- [ ] (D) a coluna ID_Departamento dos empregados vinculados recebe o valor padrão definido.  
+- [ ] (E) os empregados vinculados são transferidos para o departamento de menor código.
 
 ---
 
