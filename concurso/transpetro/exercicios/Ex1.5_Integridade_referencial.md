@@ -121,7 +121,7 @@ Considere as tabelas `Pedido` e `ItemPedido`, em que a chave estrangeira de `Ite
 Ao se executar a exclusão de um pedido que possui cinco itens associados, ocorrerá
 
 - [ ] (A) a rejeição da operação, em razão da dependência existente.  
-- [ ] (B) a exclusão do pedido e dos cinco itens associados.  
+- [x] (B) a exclusão do pedido e dos cinco itens associados.  
 - [ ] (C) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira nula.  
 - [ ] (D) a exclusão apenas dos cinco itens, permanecendo o pedido.  
 - [ ] (E) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira inalterada.
@@ -134,11 +134,11 @@ O código de um curso, definido como chave primária da tabela `Curso`, foi alte
 
 Nessa situação, as tuplas de `Matricula` que referenciavam o curso 'ADS'
 
-(A) passam a referenciar o valor 'ADS2' automaticamente.  
-(B) são excluídas automaticamente pelo SGBD.  
-(C) passam a conter valor nulo na chave estrangeira.  
-(D) permanecem inalteradas, gerando tuplas órfãs.  
-(E) impedem a alteração da chave primária da tabela Curso.
+- [ ] (A) passam a referenciar o valor 'ADS2' automaticamente.  
+- [ ] (B) são excluídas automaticamente pelo SGBD.  
+- [ ] (C) passam a conter valor nulo na chave estrangeira.  
+- [ ] (D) permanecem inalteradas, gerando tuplas órfãs.  
+- [ ] (E) impedem a alteração da chave primária da tabela Curso.
 
 ---
 
