@@ -380,7 +380,7 @@ A execução do comando `DROP TABLE Categoria` resultará em
 
 - [ ] (A) sucesso, com exclusão automática da tabela Produto.  
 - [ ] (B) sucesso, com atribuição de valor nulo à coluna ID_Categoria.  
-- [ ] (C) erro, em razão da dependência existente, salvo se a remoção for executada em cascata.  
+- [x] (C) erro, em razão da dependência existente, salvo se a remoção for executada em cascata.  
 - [ ] (D) erro, pois tabelas referenciadas não podem ser removidas em hipótese alguma.  
 - [ ] (E) sucesso, com conversão automática da chave estrangeira em coluna comum.
 
