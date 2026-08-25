@@ -434,26 +434,26 @@ Considere as tabelas a seguir e suas instâncias.
 
 **Cliente**
 
-|ID_Cliente|Nome|
-|---|---|
-|1|Ana|
-|2|Bruno|
+| ID_Cliente | Nome  |
+| ---------- | ----- |
+| 1          | Ana   |
+| 2          | Bruno |
 
 **Pedido**
 
-|ID_Pedido|ID_Cliente|
-|---|---|
-|100|1|
-|101|1|
-|102|2|
+| ID_Pedido | ID_Cliente |
+| --------- | ---------- |
+| 100       | 1          |
+| 101       | 1          |
+| 102       | 2          |
 
 **ItemPedido**
 
-|ID_Item|ID_Pedido|
-|---|---|
-|900|100|
-|901|101|
-|902|102|
+| ID_Item | ID_Pedido |
+| ------- | --------- |
+| 900     | 100       |
+| 901     | 101       |
+| 902     | 102       |
 
 As chaves estrangeiras `Pedido.ID_Cliente` e `ItemPedido.ID_Pedido` foram ambas declaradas com `ON DELETE CASCADE`.
 
@@ -461,7 +461,7 @@ Após a execução de `DELETE FROM Cliente WHERE ID_Cliente = 1`, a quantidade d
 
 - [ ] (A) 3 e 3  
 - [ ] (B) 2 e 2  
-- [ ] (C) 1 e 1  
+- [x] (C) 1 e 1  
 - [ ] (D) 1 e 3  
 - [ ] (E) 0 e 0
 
@@ -473,8 +473,8 @@ Um analista precisa diferenciar as restrições de integridade aplicáveis a um 
 
 Nesse contexto, as integridades de entidade e referencial incidem, respectivamente, sobre
 
-(A) a chave estrangeira e a chave primária.  
-(B) a chave primária e a chave estrangeira.  
-(C) o domínio dos atributos e a chave primária.  
-(D) a chave primária e o domínio dos atributos.  
-(E) as chaves candidatas e as chaves alternativas.
+- [ ] (A) a chave estrangeira e a chave primária.  
+- [x] (B) a chave primária e a chave estrangeira.  
+- [ ] (C) o domínio dos atributos e a chave primária.  
+- [ ] (D) a chave primária e o domínio dos atributos.  
+- [ ] (E) as chaves candidatas e as chaves alternativas.
