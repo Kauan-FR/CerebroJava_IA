@@ -13,7 +13,7 @@ Tipo:
 No modelo relacional, a restrição de integridade referencial estabelece que
 
 - [ ] (A) nenhum atributo da chave primária pode assumir valor nulo.  
-- [x] (B) todo valor de uma chave estrangeira deve corresponder a um valor existente na chave referenciada ou ser nulo.  
+<font color="#00b050">- [x] (B) todo valor de uma chave estrangeira deve corresponder a um valor existente na chave referenciada ou ser nulo.  </font>
 - [ ] (C) todo atributo deve assumir valores pertencentes a um domínio previamente definido.  
 - [ ] (D) toda relação deve possuir ao menos uma chave estrangeira declarada.  
 - [ ] (E) nenhuma coluna de uma relação pode conter valores duplicados.
@@ -32,7 +32,7 @@ A restrição violada nessa operação é a integridade
 
 - [ ] (A) referencial.  
 - [ ] (B) de domínio.  
-- [x] (C) de entidade.  
+<font color="#00b050">- [x] (C) de entidade.  </font>
 - [ ] (D) semântica.  
 - [ ] (E) de unicidade.
 
@@ -46,7 +46,7 @@ A restrição violada nessa operação é a integridade
 
 - [ ] (A) de entidade.  
 - [ ] (B) referencial.  
-- [x] (C) de domínio.  
+<font color="#00b050">- [x] (C) de domínio.  </font>
 - [ ] (D) de chave estrangeira.  
 - [ ] (E) de decomposição.
 
@@ -66,7 +66,7 @@ Sabe-se que nem todo aluno possui orientador designado.
 Em relação à coluna `ID_Orientador` da tabela `Alunos`, é correto afirmar que ela
 
 - [ ] (A) não pode ser declarada como chave estrangeira, pois admite valores nulos.  
-- [x] (B) pode ser declarada como chave estrangeira e admitir valores nulos, desde que não integre a chave primária.  
+<font color="#00b050">- [x] (B) pode ser declarada como chave estrangeira e admitir valores nulos, desde que não integre a chave primária.  </font>
 - [ ] (C) deve ser preenchida obrigatoriamente com um valor padrão para preservar a integridade referencial.  
 - [ ] (D) deve ser convertida em chave alternativa da tabela Alunos.  
 - [ ] (E) exige a criação de uma tupla fictícia na tabela Orientadores.
