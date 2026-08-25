@@ -108,7 +108,7 @@ Ao se excluir um departamento que possui empregados vinculados,
 
 - [ ] (A) a exclusão é rejeitada pelo SGBD.  
 - [ ] (B) os empregados vinculados são também excluídos.  
-- [ ] (C) a coluna ID_Departamento dos empregados vinculados passa a conter valor nulo.  
+- [x] (C) a coluna ID_Departamento dos empregados vinculados passa a conter valor nulo.  
 - [ ] (D) a coluna ID_Departamento dos empregados vinculados recebe o valor padrão definido.  
 - [ ] (E) os empregados vinculados são transferidos para o departamento de menor código.
 
@@ -120,11 +120,11 @@ Considere as tabelas `Pedido` e `ItemPedido`, em que a chave estrangeira de `Ite
 
 Ao se executar a exclusão de um pedido que possui cinco itens associados, ocorrerá
 
-(A) a rejeição da operação, em razão da dependência existente.  
-(B) a exclusão do pedido e dos cinco itens associados.  
-(C) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira nula.  
-(D) a exclusão apenas dos cinco itens, permanecendo o pedido.  
-(E) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira inalterada.
+- [ ] (A) a rejeição da operação, em razão da dependência existente.  
+- [ ] (B) a exclusão do pedido e dos cinco itens associados.  
+- [ ] (C) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira nula.  
+- [ ] (D) a exclusão apenas dos cinco itens, permanecendo o pedido.  
+- [ ] (E) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira inalterada.
 
 ---
 
