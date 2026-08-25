@@ -298,7 +298,7 @@ Sabe-se que `Empregado.ID_Departamento` é chave estrangeira que referencia `Dep
 O comando que será rejeitado pelo SGBD, por violação de integridade referencial, é
 
 - [ ] (A) `INSERT INTO Empregado VALUES (3, 'Carla', 10);`  
-- [x] (B) `INSERT INTO Empregado VALUES (4, 'Diego', 30);`  
+<font color="#00b050">- [x] (B) `INSERT INTO Empregado VALUES (4, 'Diego', 30);`  </font>
 - [ ] (C) `INSERT INTO Departamento VALUES (30, 'Juridico');`  
 - [ ] (D) `UPDATE Empregado SET ID_Departamento = 20 WHERE Matricula = 1;`  
 - [ ] (E) `DELETE FROM Empregado WHERE Matricula = 2;`
@@ -312,7 +312,7 @@ Uma equipe precisa carregar dados em duas tabelas relacionadas por chave estrang
 A ordem correta de inserção é
 
 - [ ] (A) primeiro na tabela que contém a chave estrangeira, depois na tabela referenciada.  
-- [x] (B) primeiro na tabela referenciada, depois na tabela que contém a chave estrangeira.  
+<font color="#00b050">- [x] (B) primeiro na tabela referenciada, depois na tabela que contém a chave estrangeira.  </font>
 - [ ] (C) indiferente, pois a integridade referencial só é verificada ao final da transação.  
 - [ ] (D) simultânea, exigindo obrigatoriamente o uso de gatilhos.  
 - [ ] (E) determinada pela ordem alfabética dos nomes das tabelas.
@@ -329,7 +329,7 @@ Sabe-se que todo empregado, exceto o presidente da empresa, é supervisionado po
 
 Nesse caso, a coluna `Matricula_Supervisor` é
 
-- [x] (A) uma chave estrangeira que referencia a própria tabela Empregado.  
+<font color="#00b050">- [x] (A) uma chave estrangeira que referencia a própria tabela Empregado.  </font>
 - [ ] (B) uma chave alternativa da tabela Empregado.  
 - [ ] (C) um atributo multivalorado da tabela Empregado.  
 - [ ] (D) parte obrigatória da chave primária da tabela Empregado.  
@@ -343,11 +343,13 @@ Em uma tabela `Funcionario`, a coluna `matricula` foi definida como chave primá
 
 Nessa situação, a chave estrangeira
 
-- [x] (A) não pode ser criada, pois só é possível referenciar chaves primárias.  
-- [ ] (B) pode ser criada, pois é possível referenciar colunas com restrição UNIQUE.  
+<font color="#ff0000">- [x] (A) não pode ser criada, pois só é possível referenciar chaves primárias.  </font>
+<font color="#00b050">- [ ] (B) pode ser criada, pois é possível referenciar colunas com restrição UNIQUE.  </font>
 - [ ] (C) só pode ser criada se a restrição UNIQUE for convertida em chave primária.  
 - [ ] (D) só pode ser criada se a coluna cpf não admitir valores nulos.  
 - [ ] (E) exige a remoção da chave primária matricula.
+
+>[!fail] 
 
 ---
 
