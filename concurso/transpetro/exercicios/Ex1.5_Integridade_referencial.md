@@ -134,7 +134,7 @@ O código de um curso, definido como chave primária da tabela `Curso`, foi alte
 
 Nessa situação, as tuplas de `Matricula` que referenciavam o curso 'ADS'
 
-- [ ] (A) passam a referenciar o valor 'ADS2' automaticamente.  
+- [x] (A) passam a referenciar o valor 'ADS2' automaticamente.  
 - [ ] (B) são excluídas automaticamente pelo SGBD.  
 - [ ] (C) passam a conter valor nulo na chave estrangeira.  
 - [ ] (D) permanecem inalteradas, gerando tuplas órfãs.  
@@ -156,7 +156,7 @@ Entre outras restrições que devem ser consideradas, sabe-se que todo corretor 
 
 Considerando-se o esquema apresentado, o trecho de código em linguagem SQL DDL que respeita todas as restrições de integridade citadas é
 
-(A)
+- [ ] (A)
 
 sql
 
