@@ -298,7 +298,7 @@ Sabe-se que `Empregado.ID_Departamento` é chave estrangeira que referencia `Dep
 O comando que será rejeitado pelo SGBD, por violação de integridade referencial, é
 
 - [ ] (A) `INSERT INTO Empregado VALUES (3, 'Carla', 10);`  
-- [ ] (B) `INSERT INTO Empregado VALUES (4, 'Diego', 30);`  
+- [x] (B) `INSERT INTO Empregado VALUES (4, 'Diego', 30);`  
 - [ ] (C) `INSERT INTO Departamento VALUES (30, 'Juridico');`  
 - [ ] (D) `UPDATE Empregado SET ID_Departamento = 20 WHERE Matricula = 1;`  
 - [ ] (E) `DELETE FROM Empregado WHERE Matricula = 2;`
@@ -311,11 +311,11 @@ Uma equipe precisa carregar dados em duas tabelas relacionadas por chave estrang
 
 A ordem correta de inserção é
 
-(A) primeiro na tabela que contém a chave estrangeira, depois na tabela referenciada.  
-(B) primeiro na tabela referenciada, depois na tabela que contém a chave estrangeira.  
-(C) indiferente, pois a integridade referencial só é verificada ao final da transação.  
-(D) simultânea, exigindo obrigatoriamente o uso de gatilhos.  
-(E) determinada pela ordem alfabética dos nomes das tabelas.
+- [ ] (A) primeiro na tabela que contém a chave estrangeira, depois na tabela referenciada.  
+- [ ] (B) primeiro na tabela referenciada, depois na tabela que contém a chave estrangeira.  
+- [ ] (C) indiferente, pois a integridade referencial só é verificada ao final da transação.  
+- [ ] (D) simultânea, exigindo obrigatoriamente o uso de gatilhos.  
+- [ ] (E) determinada pela ordem alfabética dos nomes das tabelas.
 
 ---
 
