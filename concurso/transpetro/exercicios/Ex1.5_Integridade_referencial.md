@@ -408,7 +408,7 @@ Essa regra caracteriza uma restrição de integridade
 
 - [ ] (A) de entidade, implementada por PRIMARY KEY.  
 - [ ] (B) referencial, implementada por FOREIGN KEY.  
-- [ ] (C) semântica, definida pelo usuário e implementada por CHECK.  
+- [x] (C) semântica, definida pelo usuário e implementada por CHECK.  
 - [ ] (D) de domínio, implementada pela escolha do tipo de dado.  
 - [ ] (E) de unicidade, implementada por UNIQUE.
 
@@ -420,11 +420,11 @@ A declaração de uma chave estrangeira produz diversos efeitos sobre o comporta
 
 **NÃO** constitui efeito da declaração de uma chave estrangeira a
 
-(A) rejeição de inserções que referenciem valores inexistentes na tabela referenciada.  
-(B) restrição às operações de exclusão na tabela referenciada, conforme a ação declarada.  
-(C) garantia de que a coluna referenciadora não conterá valores duplicados.  
-(D) possibilidade de propagação automática de alterações, conforme a ação declarada.  
-(E) criação de dependência entre as tabelas envolvidas.
+- [ ] (A) rejeição de inserções que referenciem valores inexistentes na tabela referenciada.  
+- [ ] (B) restrição às operações de exclusão na tabela referenciada, conforme a ação declarada.  
+- [ ] (C) garantia de que a coluna referenciadora não conterá valores duplicados.  
+- [ ] (D) possibilidade de propagação automática de alterações, conforme a ação declarada.  
+- [ ] (E) criação de dependência entre as tabelas envolvidas.
 
 ---
 
