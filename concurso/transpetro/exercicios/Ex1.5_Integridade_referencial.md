@@ -364,11 +364,11 @@ A chave primária de `Turma` é composta por `ID_Curso` e `ID_Periodo`.
 
 Para garantir a integridade referencial entre `Frequencia` e `Turma`, deve-se declarar
 
-(A) duas chaves estrangeiras independentes, uma para ID_Curso e outra para ID_Periodo.  
-(B) uma única chave estrangeira composta pelas colunas ID_Curso e ID_Periodo.  
-(C) uma chave estrangeira apenas para ID_Curso, por ser o primeiro atributo da chave.  
-(D) uma chave estrangeira que referencie a coluna Sala da tabela Turma.  
-(E) uma chave alternativa em Frequencia, dispensando a chave estrangeira.
+- [ ] (A) duas chaves estrangeiras independentes, uma para ID_Curso e outra para ID_Periodo.  
+- [ ] (B) uma única chave estrangeira composta pelas colunas ID_Curso e ID_Periodo.  
+- [ ] (C) uma chave estrangeira apenas para ID_Curso, por ser o primeiro atributo da chave.  
+- [ ] (D) uma chave estrangeira que referencie a coluna Sala da tabela Turma.  
+- [ ] (E) uma chave alternativa em Frequencia, dispensando a chave estrangeira.
 
 ---
 
