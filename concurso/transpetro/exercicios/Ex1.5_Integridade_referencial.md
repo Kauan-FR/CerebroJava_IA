@@ -329,7 +329,7 @@ Sabe-se que todo empregado, exceto o presidente da empresa, é supervisionado po
 
 Nesse caso, a coluna `Matricula_Supervisor` é
 
-- [ ] (A) uma chave estrangeira que referencia a própria tabela Empregado.  
+- [x] (A) uma chave estrangeira que referencia a própria tabela Empregado.  
 - [ ] (B) uma chave alternativa da tabela Empregado.  
 - [ ] (C) um atributo multivalorado da tabela Empregado.  
 - [ ] (D) parte obrigatória da chave primária da tabela Empregado.  
@@ -343,11 +343,11 @@ Em uma tabela `Funcionario`, a coluna `matricula` foi definida como chave primá
 
 Nessa situação, a chave estrangeira
 
-(A) não pode ser criada, pois só é possível referenciar chaves primárias.  
-(B) pode ser criada, pois é possível referenciar colunas com restrição UNIQUE.  
-(C) só pode ser criada se a restrição UNIQUE for convertida em chave primária.  
-(D) só pode ser criada se a coluna cpf não admitir valores nulos.  
-(E) exige a remoção da chave primária matricula.
+- [ ] (A) não pode ser criada, pois só é possível referenciar chaves primárias.  
+- [ ] (B) pode ser criada, pois é possível referenciar colunas com restrição UNIQUE.  
+- [ ] (C) só pode ser criada se a restrição UNIQUE for convertida em chave primária.  
+- [ ] (D) só pode ser criada se a coluna cpf não admitir valores nulos.  
+- [ ] (E) exige a remoção da chave primária matricula.
 
 ---
 
