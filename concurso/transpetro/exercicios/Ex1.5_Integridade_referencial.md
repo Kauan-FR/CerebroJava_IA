@@ -93,7 +93,7 @@ CREATE TABLE ItemPedido (
 Uma inconsistência nessa definição é que a cláusula `ON DELETE SET NULL`
 
 - [ ] (A) não pode ser aplicada a chaves estrangeiras compostas.  
-- [x] (B) tentaria atribuir valor nulo a uma coluna que integra a chave primária.  
+<font color="#00b050">- [x] (B) tentaria atribuir valor nulo a uma coluna que integra a chave primária.  </font>
 - [ ] (C) exige a declaração prévia de um valor padrão para a coluna.  
 - [ ] (D) só é válida em conjunto com a cláusula ON UPDATE RESTRICT.  
 - [ ] (E) impede a criação de índices sobre a tabela ItemPedido.
@@ -108,7 +108,7 @@ Ao se excluir um departamento que possui empregados vinculados,
 
 - [ ] (A) a exclusão é rejeitada pelo SGBD.  
 - [ ] (B) os empregados vinculados são também excluídos.  
-- [x] (C) a coluna ID_Departamento dos empregados vinculados passa a conter valor nulo.  
+<font color="#00b050">- [x] (C) a coluna ID_Departamento dos empregados vinculados passa a conter valor nulo.  </font>
 - [ ] (D) a coluna ID_Departamento dos empregados vinculados recebe o valor padrão definido.  
 - [ ] (E) os empregados vinculados são transferidos para o departamento de menor código.
 
@@ -121,7 +121,7 @@ Considere as tabelas `Pedido` e `ItemPedido`, em que a chave estrangeira de `Ite
 Ao se executar a exclusão de um pedido que possui cinco itens associados, ocorrerá
 
 - [ ] (A) a rejeição da operação, em razão da dependência existente.  
-- [x] (B) a exclusão do pedido e dos cinco itens associados.  
+<font color="#00b050">- [x] (B) a exclusão do pedido e dos cinco itens associados.  </font>
 - [ ] (C) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira nula.  
 - [ ] (D) a exclusão apenas dos cinco itens, permanecendo o pedido.  
 - [ ] (E) a exclusão do pedido, permanecendo os cinco itens com chave estrangeira inalterada.
@@ -134,7 +134,7 @@ O código de um curso, definido como chave primária da tabela `Curso`, foi alte
 
 Nessa situação, as tuplas de `Matricula` que referenciavam o curso 'ADS'
 
-- [x] (A) passam a referenciar o valor 'ADS2' automaticamente.  
+<font color="#00b050">- [x] (A) passam a referenciar o valor 'ADS2' automaticamente.  </font>
 - [ ] (B) são excluídas automaticamente pelo SGBD.  
 - [ ] (C) passam a conter valor nulo na chave estrangeira.  
 - [ ] (D) permanecem inalteradas, gerando tuplas órfãs.  
@@ -201,7 +201,7 @@ CREATE TABLE Apolices (
 );
 ```
 
-- [x] (C)
+<font color="#00b050">- [x] (C)</font>
 
 sql
 
