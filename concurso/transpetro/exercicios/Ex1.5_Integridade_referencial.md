@@ -408,7 +408,12 @@ Uma consequência esperada dessa alteração é
 - [ ] (E) a violação da restrição de integridade de entidade.
 
 >[!fail] Remover a FK não impede junção
+>Com a remoção das FK, todos os relacionamentos eles ficariam horfãos e só, a junção das tabelas vem do `JOIN` e não das FKs
 >
+>||Faz o quê|Quando age|
+|---|---|---|
+|**FOREIGN KEY**|**Valida** — impede gravar referência inválida|na escrita: INSERT, UPDATE, DELETE|
+|**JOIN**|**Consulta** — combina linhas por igualdade de valor|na leitura|
 
 ---
 
