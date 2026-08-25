@@ -392,11 +392,11 @@ Um analista removeu, de um banco de dados em produção, todas as cláusulas FOR
 
 Uma consequência esperada dessa alteração é
 
-(A) a impossibilidade de executar operações de junção entre as tabelas.  
-(B) o surgimento de tuplas órfãs, com referências a valores inexistentes.  
-(C) a perda imediata dos dados das colunas envolvidas.  
-(D) a conversão automática das chaves primárias em chaves candidatas.  
-(E) a violação da restrição de integridade de entidade.
+- [ ] (A) a impossibilidade de executar operações de junção entre as tabelas.  
+- [ ] (B) o surgimento de tuplas órfãs, com referências a valores inexistentes.  
+- [ ] (C) a perda imediata dos dados das colunas envolvidas.  
+- [ ] (D) a conversão automática das chaves primárias em chaves candidatas.  
+- [ ] (E) a violação da restrição de integridade de entidade.
 
 ---
 
