@@ -401,11 +401,14 @@ Um analista removeu, de um banco de dados em produção, todas as cláusulas FOR
 
 Uma consequência esperada dessa alteração é
 
-- [x] (A) a impossibilidade de executar operações de junção entre as tabelas.  
-- [ ] (B) o surgimento de tuplas órfãs, com referências a valores inexistentes.  
+<font color="#ff0000">- [x] (A) a impossibilidade de executar operações de junção entre as tabelas.  </font>
+<font color="#00b050">- [ ] (B) o surgimento de tuplas órfãs, com referências a valores inexistentes.  </font>
 - [ ] (C) a perda imediata dos dados das colunas envolvidas.  
 - [ ] (D) a conversão automática das chaves primárias em chaves candidatas.  
 - [ ] (E) a violação da restrição de integridade de entidade.
+
+>[!fail] Remover a FK não impede junção
+>
 
 ---
 
