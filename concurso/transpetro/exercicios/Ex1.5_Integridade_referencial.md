@@ -201,7 +201,7 @@ CREATE TABLE Apolices (
 );
 ```
 
-- [ ] (C)
+- [x] (C)
 
 sql
 
@@ -297,11 +297,11 @@ Sabe-se que `Empregado.ID_Departamento` é chave estrangeira que referencia `Dep
 
 O comando que será rejeitado pelo SGBD, por violação de integridade referencial, é
 
-(A) `INSERT INTO Empregado VALUES (3, 'Carla', 10);`  
-(B) `INSERT INTO Empregado VALUES (4, 'Diego', 30);`  
-(C) `INSERT INTO Departamento VALUES (30, 'Juridico');`  
-(D) `UPDATE Empregado SET ID_Departamento = 20 WHERE Matricula = 1;`  
-(E) `DELETE FROM Empregado WHERE Matricula = 2;`
+- [ ] (A) `INSERT INTO Empregado VALUES (3, 'Carla', 10);`  
+- [ ] (B) `INSERT INTO Empregado VALUES (4, 'Diego', 30);`  
+- [ ] (C) `INSERT INTO Departamento VALUES (30, 'Juridico');`  
+- [ ] (D) `UPDATE Empregado SET ID_Departamento = 20 WHERE Matricula = 1;`  
+- [ ] (E) `DELETE FROM Empregado WHERE Matricula = 2;`
 
 ---
 
