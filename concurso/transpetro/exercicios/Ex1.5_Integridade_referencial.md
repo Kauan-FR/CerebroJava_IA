@@ -92,11 +92,11 @@ CREATE TABLE ItemPedido (
 
 Uma inconsistência nessa definição é que a cláusula `ON DELETE SET NULL`
 
-(A) não pode ser aplicada a chaves estrangeiras compostas.  
-(B) tentaria atribuir valor nulo a uma coluna que integra a chave primária.  
-(C) exige a declaração prévia de um valor padrão para a coluna.  
-(D) só é válida em conjunto com a cláusula ON UPDATE RESTRICT.  
-(E) impede a criação de índices sobre a tabela ItemPedido.
+- [ ] (A) não pode ser aplicada a chaves estrangeiras compostas.  
+- [ ] (B) tentaria atribuir valor nulo a uma coluna que integra a chave primária.  
+- [ ] (C) exige a declaração prévia de um valor padrão para a coluna.  
+- [ ] (D) só é válida em conjunto com a cláusula ON UPDATE RESTRICT.  
+- [ ] (E) impede a criação de índices sobre a tabela ItemPedido.
 
 ---
 
