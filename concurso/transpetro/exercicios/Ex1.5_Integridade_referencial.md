@@ -312,7 +312,7 @@ Uma equipe precisa carregar dados em duas tabelas relacionadas por chave estrang
 A ordem correta de inserção é
 
 - [ ] (A) primeiro na tabela que contém a chave estrangeira, depois na tabela referenciada.  
-- [ ] (B) primeiro na tabela referenciada, depois na tabela que contém a chave estrangeira.  
+- [x] (B) primeiro na tabela referenciada, depois na tabela que contém a chave estrangeira.  
 - [ ] (C) indiferente, pois a integridade referencial só é verificada ao final da transação.  
 - [ ] (D) simultânea, exigindo obrigatoriamente o uso de gatilhos.  
 - [ ] (E) determinada pela ordem alfabética dos nomes das tabelas.
@@ -329,11 +329,11 @@ Sabe-se que todo empregado, exceto o presidente da empresa, é supervisionado po
 
 Nesse caso, a coluna `Matricula_Supervisor` é
 
-(A) uma chave estrangeira que referencia a própria tabela Empregado.  
-(B) uma chave alternativa da tabela Empregado.  
-(C) um atributo multivalorado da tabela Empregado.  
-(D) parte obrigatória da chave primária da tabela Empregado.  
-(E) incompatível com o modelo relacional, por gerar referência circular.
+- [ ] (A) uma chave estrangeira que referencia a própria tabela Empregado.  
+- [ ] (B) uma chave alternativa da tabela Empregado.  
+- [ ] (C) um atributo multivalorado da tabela Empregado.  
+- [ ] (D) parte obrigatória da chave primária da tabela Empregado.  
+- [ ] (E) incompatível com o modelo relacional, por gerar referência circular.
 
 ---
 
