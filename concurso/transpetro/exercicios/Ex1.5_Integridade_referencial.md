@@ -422,7 +422,7 @@ A declaração de uma chave estrangeira produz diversos efeitos sobre o comporta
 
 - [ ] (A) rejeição de inserções que referenciem valores inexistentes na tabela referenciada.  
 - [ ] (B) restrição às operações de exclusão na tabela referenciada, conforme a ação declarada.  
-- [ ] (C) garantia de que a coluna referenciadora não conterá valores duplicados.  
+- [x] (C) garantia de que a coluna referenciadora não conterá valores duplicados.  
 - [ ] (D) possibilidade de propagação automática de alterações, conforme a ação declarada.  
 - [ ] (E) criação de dependência entre as tabelas envolvidas.
 
