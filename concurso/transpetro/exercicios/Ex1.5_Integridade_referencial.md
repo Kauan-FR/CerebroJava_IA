@@ -46,7 +46,7 @@ A restrição violada nessa operação é a integridade
 
 - [ ] (A) de entidade.  
 - [ ] (B) referencial.  
-- [ ] (C) de domínio.  
+- [x] (C) de domínio.  
 - [ ] (D) de chave estrangeira.  
 - [ ] (E) de decomposição.
 
@@ -65,11 +65,11 @@ Sabe-se que nem todo aluno possui orientador designado.
 
 Em relação à coluna `ID_Orientador` da tabela `Alunos`, é correto afirmar que ela
 
-(A) não pode ser declarada como chave estrangeira, pois admite valores nulos.  
-(B) pode ser declarada como chave estrangeira e admitir valores nulos, desde que não integre a chave primária.  
-(C) deve ser preenchida obrigatoriamente com um valor padrão para preservar a integridade referencial.  
-(D) deve ser convertida em chave alternativa da tabela Alunos.  
-(E) exige a criação de uma tupla fictícia na tabela Orientadores.
+- [ ] (A) não pode ser declarada como chave estrangeira, pois admite valores nulos.  
+- [ ] (B) pode ser declarada como chave estrangeira e admitir valores nulos, desde que não integre a chave primária.  
+- [ ] (C) deve ser preenchida obrigatoriamente com um valor padrão para preservar a integridade referencial.  
+- [ ] (D) deve ser convertida em chave alternativa da tabela Alunos.  
+- [ ] (E) exige a criação de uma tupla fictícia na tabela Orientadores.
 
 ---
 
