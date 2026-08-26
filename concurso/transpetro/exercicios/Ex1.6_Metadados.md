@@ -170,7 +170,8 @@ Uma organização implantou um repositório de metadados corporativo.
 <font color="#00b050">- [ ] (D) eliminação da necessidade de realizar cópias de segurança dos dados.  </font>
 - [ ] (E) apoio à análise de impacto de alterações nas estruturas de dados.
 
->[!fail] Questão negati
+>[!fail] Questão negativa
+>Metadados descrevem dados; não os protegem. Backup continua obrigatório, sem qualquer relação com catalogação
 
 ---
 
@@ -180,7 +181,7 @@ Em um processo de ETL de um data warehouse, registra-se formalmente a correspond
 
 Essa documentação constitui um conjunto de metadados denominado
 
-- [x] (A) mapeamento origem-destino (source-to-target mapping).  
+<font color="#00b050">- [x] (A) mapeamento origem-destino (source-to-target mapping).  </font>
 - [ ] (B) plano de execução do otimizador.  
 - [ ] (C) esquema em floco de neve.  
 - [ ] (D) política de retenção de dados.  
