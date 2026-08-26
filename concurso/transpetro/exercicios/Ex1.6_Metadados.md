@@ -174,11 +174,11 @@ Em um processo de ETL de um data warehouse, registra-se formalmente a correspond
 
 Essa documentação constitui um conjunto de metadados denominado
 
-(A) mapeamento origem-destino (source-to-target mapping).  
-(B) plano de execução do otimizador.  
-(C) esquema em floco de neve.  
-(D) política de retenção de dados.  
-(E) matriz de responsabilidades do projeto.
+- [ ] (A) mapeamento origem-destino (source-to-target mapping).  
+- [ ] (B) plano de execução do otimizador.  
+- [ ] (C) esquema em floco de neve.  
+- [ ] (D) política de retenção de dados.  
+- [ ] (E) matriz de responsabilidades do projeto.
 
 ---
 
