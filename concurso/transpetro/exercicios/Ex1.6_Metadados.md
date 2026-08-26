@@ -251,7 +251,7 @@ Uma equipe diferencia os conceitos utilizados em seu ambiente de dados.
 Na tabela `Venda`, o registro do valor R$ 1.500,00 na coluna `valor_total`, definida como DECIMAL(10,2), constitui
 
 - [ ] (A) um metadado, e a definição DECIMAL(10,2) constitui um dado.  
-- [ ] (B) um dado, e a definição DECIMAL(10,2) constitui um metadado.  
+- [x] (B) um dado, e a definição DECIMAL(10,2) constitui um metadado.  
 - [ ] (C) um metadado, assim como a definição DECIMAL(10,2).  
 - [ ] (D) um dado, assim como a definição DECIMAL(10,2).  
 - [ ] (E) uma informação derivada, sem relação com metadados.
@@ -264,11 +264,11 @@ Uma organização implantou uma ferramenta de catálogo de dados corporativo, qu
 
 A principal finalidade dessa ferramenta é
 
-(A) executar as cargas de dados entre os ambientes.  
-(B) promover a descoberta e a compreensão dos ativos de dados existentes.  
-(C) substituir o sistema gerenciador de banco de dados relacional.  
-(D) realizar o backup e a recuperação dos dados armazenados.  
-(E) controlar a concorrência entre transações simultâneas.
+- [ ] (A) executar as cargas de dados entre os ambientes.  
+- [ ] (B) promover a descoberta e a compreensão dos ativos de dados existentes.  
+- [ ] (C) substituir o sistema gerenciador de banco de dados relacional.  
+- [ ] (D) realizar o backup e a recuperação dos dados armazenados.  
+- [ ] (E) controlar a concorrência entre transações simultâneas.
 
 ---
 
