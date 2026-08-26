@@ -27,7 +27,7 @@ Ao executar comandos de criação e alteração de tabelas, o SGBD registra auto
 Essas informações são armazenadas no(a)
 
 - [ ] (A) log de transações.  
-- [ ] (B) catálogo do sistema, também denominado dicionário de dados.  
+- [x] (B) catálogo do sistema, também denominado dicionário de dados.  
 - [ ] (C) plano de execução gerado pelo otimizador.  
 - [ ] (D) área de buffer de memória do SGBD.  
 - [ ] (E) conjunto de arquivos de backup incremental.
@@ -40,11 +40,11 @@ Em um Sistema Gerenciador de Banco de Dados (SGBD) relacional, um repositório d
 
 Dentre as informações típicas encontradas nos metadados de um banco de dados relacional, está(ão)
 
-(A) o faturamento total apurado pelas transações do período.  
-(B) as senhas dos usuários e suas permissões no sistema operacional.  
-(C) o código-fonte das aplicações que acessam o banco de dados.  
-(D) as cópias de segurança dos dados armazenados nas tabelas.  
-(E) os esquemas das tabelas, incluindo os tipos de dados de suas colunas.
+- [ ] (A) o faturamento total apurado pelas transações do período.  
+- [ ] (B) as senhas dos usuários e suas permissões no sistema operacional.  
+- [ ] (C) o código-fonte das aplicações que acessam o banco de dados.  
+- [ ] (D) as cópias de segurança dos dados armazenados nas tabelas.  
+- [ ] (E) os esquemas das tabelas, incluindo os tipos de dados de suas colunas.
 
 ---
 
