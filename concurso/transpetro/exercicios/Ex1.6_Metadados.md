@@ -104,7 +104,7 @@ Um analista precisa consultar, por meio de comandos SQL padronizados, a relaçã
 
 Para essa finalidade, ele deve consultar
 
-- [ ] (A) as visões do INFORMATION_SCHEMA.  
+- [x] (A) as visões do INFORMATION_SCHEMA.  
 - [ ] (B) o arquivo de log de transações.  
 - [ ] (C) o plano de execução das consultas.  
 - [ ] (D) os arquivos de dump gerados pelo backup.  
