@@ -60,7 +60,7 @@ Essas informações são classificadas como metadados
 
 - [ ] (A) técnicos.  
 - [ ] (B) operacionais.  
-- [ ] (C) de negócio.  
+- [x] (C) de negócio.  
 - [ ] (D) estruturais.  
 - [ ] (E) físicos.
 
@@ -76,11 +76,11 @@ Considere as informações a seguir, extraídas do catálogo de um banco de dado
 
 Essas informações são classificadas como metadados
 
-(A) de negócio.  
-(B) técnicos.  
-(C) operacionais.  
-(D) semânticos.  
-(E) transacionais.
+- [ ] (A) de negócio.  
+- [x] (B) técnicos.  
+- [ ] (C) operacionais.  
+- [ ] (D) semânticos.  
+- [ ] (E) transacionais.
 
 ---
 
@@ -90,11 +90,11 @@ Uma equipe de governança registra, para cada carga do data warehouse, a data e 
 
 Essas informações constituem metadados
 
-(A) de negócio.  
-(B) técnicos.  
-(C) operacionais.  
-(D) conceituais.  
-(E) dimensionais.
+- [ ] (A) de negócio.  
+- [ ] (B) técnicos.  
+- [x] (C) operacionais.  
+- [ ] (D) conceituais.  
+- [ ] (E) dimensionais.
 
 ---
 
@@ -104,11 +104,11 @@ Um analista precisa consultar, por meio de comandos SQL padronizados, a relaçã
 
 Para essa finalidade, ele deve consultar
 
-(A) as visões do INFORMATION_SCHEMA.  
-(B) o arquivo de log de transações.  
-(C) o plano de execução das consultas.  
-(D) os arquivos de dump gerados pelo backup.  
-(E) as tabelas de fato do data warehouse.
+- [ ] (A) as visões do INFORMATION_SCHEMA.  
+- [ ] (B) o arquivo de log de transações.  
+- [ ] (C) o plano de execução das consultas.  
+- [ ] (D) os arquivos de dump gerados pelo backup.  
+- [ ] (E) as tabelas de fato do data warehouse.
 
 ---
 
