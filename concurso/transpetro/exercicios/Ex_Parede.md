@@ -189,4 +189,22 @@ que é parte da PK — funciona?
 alternativa com "em hipótese alguma"
 → certa ou errada?
 
-## 1.6
+## 1.6 Metadados
+
+1.6 → ?
+
+metadado é estrutura ou conteúdo?
+
+privilégios de usuário:
+ catálogo ou log?
+sequência de operações de transação:
+ catálogo ou log?
+
+schema-on-write valida quando? quem?
+schema-on-read  valida quando? quem?
+no NoSQL a estrutura deixa de existir?
+
+"de onde veio e o que mudou" → ?
+"estatística do dado real" → ?
+"glossário corporativo" → ?
+data lake sem catalogação vira ?
