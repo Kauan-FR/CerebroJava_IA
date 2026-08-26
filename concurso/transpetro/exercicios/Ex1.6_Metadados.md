@@ -315,3 +315,10 @@ Um administrador consulta o catálogo do sistema para obter informações de apo
 
 >[!fail] Questão negativa
 >
+>
+>A resposta é (E): **a sequência de operações executadas por uma transação específica**. Isso está no **log de transações**, não no catálogo.
+>
+>||Guarda|Natureza|
+|---|---|---|
+|**Catálogo**|Tabelas, colunas, tipos, índices, restrições, visões, privilégios, estatísticas|**Estrutura** — permanente|
+|**Log de transações**|Sequência de operações, valores antes/depois, marcas de commit|**Histórico** — cronológico|
