@@ -64,7 +64,7 @@ Essas informações são classificadas como metadados
 
 - [ ] (A) técnicos.  
 - [ ] (B) operacionais.  
-- [x] (C) de negócio.  
+<font color="#00b050">- [x] (C) de negócio.  </font>
 - [ ] (D) estruturais.  
 - [ ] (E) físicos.
 
@@ -81,7 +81,7 @@ Considere as informações a seguir, extraídas do catálogo de um banco de dado
 Essas informações são classificadas como metadados
 
 - [ ] (A) de negócio.  
-- [x] (B) técnicos.  
+<font color="#00b050">- [x] (B) técnicos.  </font>
 - [ ] (C) operacionais.  
 - [ ] (D) semânticos.  
 - [ ] (E) transacionais.
@@ -96,7 +96,7 @@ Essas informações constituem metadados
 
 - [ ] (A) de negócio.  
 - [ ] (B) técnicos.  
-- [x] (C) operacionais.  
+<font color="#00b050">- [x] (C) operacionais.  </font>
 - [ ] (D) conceituais.  
 - [ ] (E) dimensionais.
 
@@ -108,7 +108,7 @@ Um analista precisa consultar, por meio de comandos SQL padronizados, a relaçã
 
 Para essa finalidade, ele deve consultar
 
-- [x] (A) as visões do INFORMATION_SCHEMA.  
+<font color="#00b050">- [x] (A) as visões do INFORMATION_SCHEMA.  </font>
 - [ ] (B) o arquivo de log de transações.  
 - [ ] (C) o plano de execução das consultas.  
 - [ ] (D) os arquivos de dump gerados pelo backup.  
@@ -122,7 +122,7 @@ Uma equipe de dados necessita identificar a origem de determinado indicador exib
 
 O recurso de metadados adequado a essa finalidade é a(o)
 
-- [x] (A) linhagem de dados (data lineage).  
+<font color="#00b050">- [x] (A) linhagem de dados (data lineage).  </font>
 - [ ] (B) modelagem dimensional.  
 - [ ] (C) particionamento horizontal.  
 - [ ] (D) controle de concorrência.  
@@ -136,7 +136,7 @@ Antes de alterar o tipo de dado de uma coluna em um sistema de origem, uma equip
 
 O procedimento apoiado pelos metadados, nesse caso, é a análise de
 
-- [x] (A) impacto.  
+<font color="#00b050">- [x] (A) impacto.  </font>
 - [ ] (B) requisitos.  
 - [ ] (C) desempenho.  
 - [ ] (D) viabilidade.  
@@ -150,7 +150,7 @@ Uma consultoria recebeu apenas o acesso a um banco de dados em produção, sem q
 
 Nesse processo, as ferramentas de engenharia reversa obtêm as estruturas das tabelas a partir
 
-- [x] (A) dos metadados registrados no catálogo do sistema.  
+<font color="#00b050">- [x] (A) dos metadados registrados no catálogo do sistema.  </font>
 - [ ] (B) dos registros do log de transações.  
 - [ ] (C) das estatísticas coletadas pelo otimizador.  
 - [ ] (D) do conteúdo das tuplas armazenadas nas tabelas.  
