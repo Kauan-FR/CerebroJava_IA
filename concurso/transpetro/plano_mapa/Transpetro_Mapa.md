@@ -32,7 +32,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 1.2 Criação e alteração dos modelos lógico e físico
 - [x] 1.3 Modelo relacional
 - [x] 1.4 Normalização
-- [ ] 1.5 Integridade referencial
+- [x] 1.5 Integridade referencial
 - [ ] 1.6 Metadados
 - [ ] 1.7 Modelagem dimensional
 - [ ] 1.8 Avaliação de modelos de dados
