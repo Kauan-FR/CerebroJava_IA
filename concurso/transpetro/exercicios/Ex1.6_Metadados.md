@@ -202,7 +202,7 @@ Uma empresa precisa assegurar que o termo "receita líquida" tenha significado �
 
 O instrumento de gestão de metadados adequado a essa finalidade é o(a)
 
-- [ ] (A) glossário de negócio.  
+- [x] (A) glossário de negócio.  
 - [ ] (B) dicionário de dados técnico.  
 - [ ] (C) log de auditoria.  
 - [ ] (D) plano de capacidade.  
