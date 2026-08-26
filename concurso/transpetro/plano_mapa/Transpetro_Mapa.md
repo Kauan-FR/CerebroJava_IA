@@ -33,7 +33,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 1.3 Modelo relacional
 - [x] 1.4 Normalização
 - [x] 1.5 Integridade referencial
-- [ ] 1.6 Metadados
+- [x] 1.6 Metadados
 - [ ] 1.7 Modelagem dimensional
 - [ ] 1.8 Avaliação de modelos de dados
 - [ ] 1.9 Engenharia reversa de modelos
