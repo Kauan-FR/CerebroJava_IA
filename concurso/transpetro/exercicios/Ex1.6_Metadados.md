@@ -196,7 +196,7 @@ Uma organização armazenou grande volume de arquivos em um data lake, sem catal
 Essa degradação, decorrente da ausência de metadados, caracteriza a formação de um(a)
 
 - [ ] (A) data mart.  
-- [x] (B) data swamp (pântano de dados).  
+<font color="#00b050">- [x] (B) data swamp (pântano de dados).  </font>
 - [ ] (C) data warehouse corporativo.  
 - [ ] (D) banco de dados em memória.  
 - [ ] (E) esquema estrela.
