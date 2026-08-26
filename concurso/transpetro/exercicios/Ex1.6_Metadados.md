@@ -118,11 +118,11 @@ Uma equipe de dados necessita identificar a origem de determinado indicador exib
 
 O recurso de metadados adequado a essa finalidade é a(o)
 
-(A) linhagem de dados (data lineage).  
-(B) modelagem dimensional.  
-(C) particionamento horizontal.  
-(D) controle de concorrência.  
-(E) plano de recuperação de desastres.
+- [x] (A) linhagem de dados (data lineage).  
+- [ ] (B) modelagem dimensional.  
+- [ ] (C) particionamento horizontal.  
+- [ ] (D) controle de concorrência.  
+- [ ] (E) plano de recuperação de desastres.
 
 ---
 
@@ -132,11 +132,11 @@ Antes de alterar o tipo de dado de uma coluna em um sistema de origem, uma equip
 
 O procedimento apoiado pelos metadados, nesse caso, é a análise de
 
-(A) impacto.  
-(B) requisitos.  
-(C) desempenho.  
-(D) viabilidade.  
-(E) concorrência.
+- [ ] (A) impacto.  
+- [ ] (B) requisitos.  
+- [ ] (C) desempenho.  
+- [ ] (D) viabilidade.  
+- [ ] (E) concorrência.
 
 ---
 
