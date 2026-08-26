@@ -170,7 +170,7 @@ Uma organização implantou um repositório de metadados corporativo.
 <font color="#00b050">- [ ] (D) eliminação da necessidade de realizar cópias de segurança dos dados.  </font>
 - [ ] (E) apoio à análise de impacto de alterações nas estruturas de dados.
 
->[!fail] 
+>[!fail] Questão negati
 
 ---
 
