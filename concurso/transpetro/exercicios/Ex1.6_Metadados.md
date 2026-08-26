@@ -42,7 +42,7 @@ Dentre as informações típicas encontradas nos metadados de um banco de dados 
 
 - [ ] (A) o faturamento total apurado pelas transações do período.  
 - [ ] (B) as senhas dos usuários e suas permissões no sistema operacional.  
-- [ ] (C) o código-fonte das aplicações que acessam o banco de dados.  
+- [x] (C) o código-fonte das aplicações que acessam o banco de dados.  
 - [ ] (D) as cópias de segurança dos dados armazenados nas tabelas.  
 - [ ] (E) os esquemas das tabelas, incluindo os tipos de dados de suas colunas.
 
