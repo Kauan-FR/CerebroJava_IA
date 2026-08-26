@@ -285,11 +285,14 @@ Em bancos de dados NoSQL orientados a documentos, adota-se com frequência a abo
 
 Nesse contexto, em comparação com os bancos relacionais, os metadados de estrutura
 
-- [x] (A) deixam de existir, pois não há qualquer estrutura definida.  
+<font color="#ff0000">- [x] (A) deixam de existir, pois não há qualquer estrutura definida.  </font>
 - [ ] (B) são registrados exclusivamente no log de transações.  
-- [ ] (C) não são impostos previamente pelo SGBD, cabendo à aplicação interpretá-los na leitura.  
+<font color="#00b050">- [ ] (C) não são impostos previamente pelo SGBD, cabendo à aplicação interpretá-los na leitura.  </font>
 - [ ] (D) são obrigatoriamente declarados antes da inserção de qualquer documento.  
 - [ ] (E) tornam-se idênticos aos metadados de um data warehouse dimensional.
+
+>[!fail] NoSQL e schema-on-read
+>
 
 ---
 
