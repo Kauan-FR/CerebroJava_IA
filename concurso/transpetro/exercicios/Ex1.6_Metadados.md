@@ -278,7 +278,7 @@ Em bancos de dados NoSQL orientados a documentos, adota-se com frequência a abo
 
 Nesse contexto, em comparação com os bancos relacionais, os metadados de estrutura
 
-- [ ] (A) deixam de existir, pois não há qualquer estrutura definida.  
+- [x] (A) deixam de existir, pois não há qualquer estrutura definida.  
 - [ ] (B) são registrados exclusivamente no log de transações.  
 - [ ] (C) não são impostos previamente pelo SGBD, cabendo à aplicação interpretá-los na leitura.  
 - [ ] (D) são obrigatoriamente declarados antes da inserção de qualquer documento.  
@@ -292,8 +292,8 @@ Um administrador consulta o catálogo do sistema para obter informações de apo
 
 **NÃO** é obtida por meio da consulta ao catálogo do sistema a
 
-(A) relação de índices existentes sobre determinada tabela.  
-(B) definição das restrições de integridade declaradas.  
-(C) relação de privilégios concedidos a cada usuário do banco.  
-(D) quantidade de tuplas efetivamente armazenadas em cada tabela.  
-(E) sequência de operações executadas por uma transação específica.
+- [ ] (A) relação de índices existentes sobre determinada tabela.  
+- [ ] (B) definição das restrições de integridade declaradas.  
+- [ ] (C) relação de privilégios concedidos a cada usuário do banco.  
+- [ ] (D) quantidade de tuplas efetivamente armazenadas em cada tabela.  
+- [ ] (E) sequência de operações executadas por uma transação específica.
