@@ -216,11 +216,11 @@ Para atender às exigências da Lei Geral de Proteção de Dados Pessoais, uma o
 
 O recurso que viabiliza esse levantamento de forma sistemática é
 
-(A) a classificação de dados registrada nos metadados.  
-(B) o particionamento das tabelas por faixa de datas.  
-(C) a criação de índices sobre as colunas envolvidas.  
-(D) a compactação dos arquivos de dados.  
-(E) a replicação síncrona entre os servidores.
+- [ ] (A) a classificação de dados registrada nos metadados.  
+- [ ] (B) o particionamento das tabelas por faixa de datas.  
+- [ ] (C) a criação de índices sobre as colunas envolvidas.  
+- [ ] (D) a compactação dos arquivos de dados.  
+- [ ] (E) a replicação síncrona entre os servidores.
 
 ---
 
