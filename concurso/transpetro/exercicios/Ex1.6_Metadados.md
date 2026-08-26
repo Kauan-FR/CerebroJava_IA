@@ -46,7 +46,9 @@ Dentre as informações típicas encontradas nos metadados de um banco de dados 
 - [ ] (D) as cópias de segurança dos dados armazenados nas tabelas.  
 <font color="#00b050">- [ ] (E) os esquemas das tabelas, incluindo os tipos de dados de suas colunas.</font>
 
->[!fail] 
+>[!fail] O que guarda no metadado
+>A questão ela pedia para dizer o que se encontra nos metadados.
+>**O padrão desta questão, que vale para todas as de metadados:** as quatro alternativas erradas descrevem **dado, conteúdo ou artefato externo** — faturamento, senhas de SO, código-fonte, backup. Só uma descreve **estrutura**. Metadado é sempre estrutura, nunca conteúdo.
 
 ---
 
