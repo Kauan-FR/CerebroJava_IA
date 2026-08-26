@@ -58,11 +58,11 @@ Considere as informações a seguir, registradas em um repositório corporativo 
 
 Essas informações são classificadas como metadados
 
-(A) técnicos.  
-(B) operacionais.  
-(C) de negócio.  
-(D) estruturais.  
-(E) físicos.
+- [ ] (A) técnicos.  
+- [ ] (B) operacionais.  
+- [ ] (C) de negócio.  
+- [ ] (D) estruturais.  
+- [ ] (E) físicos.
 
 ---
 
