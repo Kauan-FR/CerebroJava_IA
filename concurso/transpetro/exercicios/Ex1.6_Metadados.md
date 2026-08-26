@@ -189,7 +189,7 @@ Uma organização armazenou grande volume de arquivos em um data lake, sem catal
 Essa degradação, decorrente da ausência de metadados, caracteriza a formação de um(a)
 
 - [ ] (A) data mart.  
-- [ ] (B) data swamp (pântano de dados).  
+- [x] (B) data swamp (pântano de dados).  
 - [ ] (C) data warehouse corporativo.  
 - [ ] (D) banco de dados em memória.  
 - [ ] (E) esquema estrela.
@@ -202,11 +202,11 @@ Uma empresa precisa assegurar que o termo "receita líquida" tenha significado �
 
 O instrumento de gestão de metadados adequado a essa finalidade é o(a)
 
-(A) glossário de negócio.  
-(B) dicionário de dados técnico.  
-(C) log de auditoria.  
-(D) plano de capacidade.  
-(E) matriz de riscos.
+- [ ] (A) glossário de negócio.  
+- [ ] (B) dicionário de dados técnico.  
+- [ ] (C) log de auditoria.  
+- [ ] (D) plano de capacidade.  
+- [ ] (E) matriz de riscos.
 
 ---
 
