@@ -294,6 +294,6 @@ Um administrador consulta o catálogo do sistema para obter informações de apo
 
 - [ ] (A) relação de índices existentes sobre determinada tabela.  
 - [ ] (B) definição das restrições de integridade declaradas.  
-- [ ] (C) relação de privilégios concedidos a cada usuário do banco.  
+- [x] (C) relação de privilégios concedidos a cada usuário do banco.  
 - [ ] (D) quantidade de tuplas efetivamente armazenadas em cada tabela.  
 - [ ] (E) sequência de operações executadas por uma transação específica.
