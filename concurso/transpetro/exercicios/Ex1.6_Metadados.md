@@ -174,7 +174,7 @@ Em um processo de ETL de um data warehouse, registra-se formalmente a correspond
 
 Essa documentação constitui um conjunto de metadados denominado
 
-- [ ] (A) mapeamento origem-destino (source-to-target mapping).  
+- [x] (A) mapeamento origem-destino (source-to-target mapping).  
 - [ ] (B) plano de execução do otimizador.  
 - [ ] (C) esquema em floco de neve.  
 - [ ] (D) política de retenção de dados.  
@@ -188,11 +188,11 @@ Uma organização armazenou grande volume de arquivos em um data lake, sem catal
 
 Essa degradação, decorrente da ausência de metadados, caracteriza a formação de um(a)
 
-(A) data mart.  
-(B) data swamp (pântano de dados).  
-(C) data warehouse corporativo.  
-(D) banco de dados em memória.  
-(E) esquema estrela.
+- [ ] (A) data mart.  
+- [ ] (B) data swamp (pântano de dados).  
+- [ ] (C) data warehouse corporativo.  
+- [ ] (D) banco de dados em memória.  
+- [ ] (E) esquema estrela.
 
 ---
 
