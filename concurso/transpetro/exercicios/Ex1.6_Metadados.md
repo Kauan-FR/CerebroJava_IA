@@ -146,7 +146,7 @@ Uma consultoria recebeu apenas o acesso a um banco de dados em produção, sem q
 
 Nesse processo, as ferramentas de engenharia reversa obtêm as estruturas das tabelas a partir
 
-- [ ] (A) dos metadados registrados no catálogo do sistema.  
+- [x] (A) dos metadados registrados no catálogo do sistema.  
 - [ ] (B) dos registros do log de transações.  
 - [ ] (C) das estatísticas coletadas pelo otimizador.  
 - [ ] (D) do conteúdo das tuplas armazenadas nas tabelas.  
@@ -160,11 +160,11 @@ Uma organização implantou um repositório de metadados corporativo.
 
 **NÃO** constitui benefício esperado dessa implantação a
 
-(A) padronização da terminologia utilizada pelas áreas de negócio.  
-(B) identificação da origem e das transformações aplicadas aos dados.  
-(C) redução do tempo necessário para localizar informações relevantes.  
-(D) eliminação da necessidade de realizar cópias de segurança dos dados.  
-(E) apoio à análise de impacto de alterações nas estruturas de dados.
+- [ ] (A) padronização da terminologia utilizada pelas áreas de negócio.  
+- [ ] (B) identificação da origem e das transformações aplicadas aos dados.  
+- [x] (C) redução do tempo necessário para localizar informações relevantes.  
+- [ ] (D) eliminação da necessidade de realizar cópias de segurança dos dados.  
+- [ ] (E) apoio à análise de impacto de alterações nas estruturas de dados.
 
 ---
 
