@@ -209,7 +209,7 @@ Uma empresa precisa assegurar que o termo "receita líquida" tenha significado �
 
 O instrumento de gestão de metadados adequado a essa finalidade é o(a)
 
-- [x] (A) glossário de negócio.  
+<font color="#00b050">- [x] (A) glossário de negócio.  </font>
 - [ ] (B) dicionário de dados técnico.  
 - [ ] (C) log de auditoria.  
 - [ ] (D) plano de capacidade.  
@@ -223,7 +223,7 @@ Para atender às exigências da Lei Geral de Proteção de Dados Pessoais, uma o
 
 O recurso que viabiliza esse levantamento de forma sistemática é
 
-- [x] (A) a classificação de dados registrada nos metadados.  
+<font color="#00b050">- [x] (A) a classificação de dados registrada nos metadados.  </font>
 - [ ] (B) o particionamento das tabelas por faixa de datas.  
 - [ ] (C) a criação de índices sobre as colunas envolvidas.  
 - [ ] (D) a compactação dos arquivos de dados.  
@@ -244,7 +244,7 @@ ALTER TABLE Cliente ADD email VARCHAR(80);
 Em relação aos metadados do banco, essa execução
 
 - [ ] (A) não produz qualquer efeito, pois apenas dados são alterados.  
-- [x] (B) atualiza automaticamente o catálogo do sistema com a nova coluna.  
+<font color="#00b050">- [x] (B) atualiza automaticamente o catálogo do sistema com a nova coluna.  </font>
 - [ ] (C) exige a atualização manual do catálogo pelo administrador.  
 - [ ] (D) atualiza automaticamente o modelo conceitual mantido pela equipe.  
 - [ ] (E) invalida todos os metadados previamente registrados na tabela.
@@ -258,7 +258,7 @@ Uma equipe diferencia os conceitos utilizados em seu ambiente de dados.
 Na tabela `Venda`, o registro do valor R$ 1.500,00 na coluna `valor_total`, definida como DECIMAL(10,2), constitui
 
 - [ ] (A) um metadado, e a definição DECIMAL(10,2) constitui um dado.  
-- [x] (B) um dado, e a definição DECIMAL(10,2) constitui um metadado.  
+<font color="#00b050">- [x] (B) um dado, e a definição DECIMAL(10,2) constitui um metadado.  </font>
 - [ ] (C) um metadado, assim como a definição DECIMAL(10,2).  
 - [ ] (D) um dado, assim como a definição DECIMAL(10,2).  
 - [ ] (E) uma informação derivada, sem relação com metadados.
@@ -272,7 +272,7 @@ Uma organização implantou uma ferramenta de catálogo de dados corporativo, qu
 A principal finalidade dessa ferramenta é
 
 - [ ] (A) executar as cargas de dados entre os ambientes.  
-- [x] (B) promover a descoberta e a compreensão dos ativos de dados existentes.  
+<font color="#00b050">- [x] (B) promover a descoberta e a compreensão dos ativos de dados existentes.  </font>
 - [ ] (C) substituir o sistema gerenciador de banco de dados relacional.  
 - [ ] (D) realizar o backup e a recuperação dos dados armazenados.  
 - [ ] (E) controlar a concorrência entre transações simultâneas.
