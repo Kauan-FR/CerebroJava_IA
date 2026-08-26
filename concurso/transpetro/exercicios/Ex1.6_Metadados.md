@@ -292,7 +292,12 @@ Nesse contexto, em comparação com os bancos relacionais, os metadados de estru
 - [ ] (E) tornam-se idênticos aos metadados de um data warehouse dimensional.
 
 >[!fail] NoSQL e schema-on-read
+>Campos, tipos, aninhamento — isso é estrutura. O que muda é **quem impõe e quando:**
 >
+>||Quando o esquema é validado|Quem valida|
+|---|---|---|
+|**Schema-on-write** (relacional)|Na **gravação** — a linha é rejeitada se não bater|O **SGBD**|
+|**Schema-on-read** (documento)|Na **leitura** — o documento entra do jeito que vier|A **aplicação**|
 
 ---
 
@@ -304,6 +309,9 @@ Um administrador consulta o catálogo do sistema para obter informações de apo
 
 - [ ] (A) relação de índices existentes sobre determinada tabela.  
 - [ ] (B) definição das restrições de integridade declaradas.  
-- [x] (C) relação de privilégios concedidos a cada usuário do banco.  
+<font color="#ff0000">- [x] (C) relação de privilégios concedidos a cada usuário do banco.  </font>
 - [ ] (D) quantidade de tuplas efetivamente armazenadas em cada tabela.  
-- [ ] (E) sequência de operações executadas por uma transação específica.
+<font color="#00b050">- [ ] (E) sequência de operações executadas por uma transação específica.</font>
+
+>[!fail] Questão negativa
+>
