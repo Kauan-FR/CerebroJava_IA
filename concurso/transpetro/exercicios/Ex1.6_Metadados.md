@@ -216,7 +216,7 @@ Para atender às exigências da Lei Geral de Proteção de Dados Pessoais, uma o
 
 O recurso que viabiliza esse levantamento de forma sistemática é
 
-- [ ] (A) a classificação de dados registrada nos metadados.  
+- [x] (A) a classificação de dados registrada nos metadados.  
 - [ ] (B) o particionamento das tabelas por faixa de datas.  
 - [ ] (C) a criação de índices sobre as colunas envolvidas.  
 - [ ] (D) a compactação dos arquivos de dados.  
@@ -236,11 +236,11 @@ ALTER TABLE Cliente ADD email VARCHAR(80);
 
 Em relação aos metadados do banco, essa execução
 
-(A) não produz qualquer efeito, pois apenas dados são alterados.  
-(B) atualiza automaticamente o catálogo do sistema com a nova coluna.  
-(C) exige a atualização manual do catálogo pelo administrador.  
-(D) atualiza automaticamente o modelo conceitual mantido pela equipe.  
-(E) invalida todos os metadados previamente registrados na tabela.
+- [ ] (A) não produz qualquer efeito, pois apenas dados são alterados.  
+- [x] (B) atualiza automaticamente o catálogo do sistema com a nova coluna.  
+- [ ] (C) exige a atualização manual do catálogo pelo administrador.  
+- [ ] (D) atualiza automaticamente o modelo conceitual mantido pela equipe.  
+- [ ] (E) invalida todos os metadados previamente registrados na tabela.
 
 ---
 
@@ -250,11 +250,11 @@ Uma equipe diferencia os conceitos utilizados em seu ambiente de dados.
 
 Na tabela `Venda`, o registro do valor R$ 1.500,00 na coluna `valor_total`, definida como DECIMAL(10,2), constitui
 
-(A) um metadado, e a definição DECIMAL(10,2) constitui um dado.  
-(B) um dado, e a definição DECIMAL(10,2) constitui um metadado.  
-(C) um metadado, assim como a definição DECIMAL(10,2).  
-(D) um dado, assim como a definição DECIMAL(10,2).  
-(E) uma informação derivada, sem relação com metadados.
+- [ ] (A) um metadado, e a definição DECIMAL(10,2) constitui um dado.  
+- [ ] (B) um dado, e a definição DECIMAL(10,2) constitui um metadado.  
+- [ ] (C) um metadado, assim como a definição DECIMAL(10,2).  
+- [ ] (D) um dado, assim como a definição DECIMAL(10,2).  
+- [ ] (E) uma informação derivada, sem relação com metadados.
 
 ---
 
