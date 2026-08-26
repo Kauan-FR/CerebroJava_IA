@@ -132,7 +132,7 @@ Antes de alterar o tipo de dado de uma coluna em um sistema de origem, uma equip
 
 O procedimento apoiado pelos metadados, nesse caso, é a análise de
 
-- [ ] (A) impacto.  
+- [x] (A) impacto.  
 - [ ] (B) requisitos.  
 - [ ] (C) desempenho.  
 - [ ] (D) viabilidade.  
@@ -146,11 +146,11 @@ Uma consultoria recebeu apenas o acesso a um banco de dados em produção, sem q
 
 Nesse processo, as ferramentas de engenharia reversa obtêm as estruturas das tabelas a partir
 
-(A) dos metadados registrados no catálogo do sistema.  
-(B) dos registros do log de transações.  
-(C) das estatísticas coletadas pelo otimizador.  
-(D) do conteúdo das tuplas armazenadas nas tabelas.  
-(E) dos arquivos de configuração do sistema operacional.
+- [ ] (A) dos metadados registrados no catálogo do sistema.  
+- [ ] (B) dos registros do log de transações.  
+- [ ] (C) das estatísticas coletadas pelo otimizador.  
+- [ ] (D) do conteúdo das tuplas armazenadas nas tabelas.  
+- [ ] (E) dos arquivos de configuração do sistema operacional.
 
 ---
 
