@@ -265,7 +265,7 @@ Uma organização implantou uma ferramenta de catálogo de dados corporativo, qu
 A principal finalidade dessa ferramenta é
 
 - [ ] (A) executar as cargas de dados entre os ambientes.  
-- [ ] (B) promover a descoberta e a compreensão dos ativos de dados existentes.  
+- [x] (B) promover a descoberta e a compreensão dos ativos de dados existentes.  
 - [ ] (C) substituir o sistema gerenciador de banco de dados relacional.  
 - [ ] (D) realizar o backup e a recuperação dos dados armazenados.  
 - [ ] (E) controlar a concorrência entre transações simultâneas.
@@ -278,11 +278,11 @@ Em bancos de dados NoSQL orientados a documentos, adota-se com frequência a abo
 
 Nesse contexto, em comparação com os bancos relacionais, os metadados de estrutura
 
-(A) deixam de existir, pois não há qualquer estrutura definida.  
-(B) são registrados exclusivamente no log de transações.  
-(C) não são impostos previamente pelo SGBD, cabendo à aplicação interpretá-los na leitura.  
-(D) são obrigatoriamente declarados antes da inserção de qualquer documento.  
-(E) tornam-se idênticos aos metadados de um data warehouse dimensional.
+- [ ] (A) deixam de existir, pois não há qualquer estrutura definida.  
+- [ ] (B) são registrados exclusivamente no log de transações.  
+- [ ] (C) não são impostos previamente pelo SGBD, cabendo à aplicação interpretá-los na leitura.  
+- [ ] (D) são obrigatoriamente declarados antes da inserção de qualquer documento.  
+- [ ] (E) tornam-se idênticos aos metadados de um data warehouse dimensional.
 
 ---
 
