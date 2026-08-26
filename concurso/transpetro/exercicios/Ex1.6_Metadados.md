@@ -13,7 +13,7 @@ Tipo:
 Em um ambiente de gestão de dados corporativos, metadados são definidos como
 
 - [ ] (A) os dados de maior volume armazenados no banco de dados.  
-- [x] (B) dados que descrevem características, estrutura e contexto de outros dados.  
+<font color="#00b050">- [x] (B) dados que descrevem características, estrutura e contexto de outros dados.  </font>
 - [ ] (C) os dados replicados para fins de recuperação após falhas.  
 - [ ] (D) os dados históricos mantidos exclusivamente em data warehouse.  
 - [ ] (E) os registros de transações efetivadas em um período determinado.
@@ -27,7 +27,7 @@ Ao executar comandos de criação e alteração de tabelas, o SGBD registra auto
 Essas informações são armazenadas no(a)
 
 - [ ] (A) log de transações.  
-- [x] (B) catálogo do sistema, também denominado dicionário de dados.  
+<font color="#00b050">- [x] (B) catálogo do sistema, também denominado dicionário de dados.  </font>
 - [ ] (C) plano de execução gerado pelo otimizador.  
 - [ ] (D) área de buffer de memória do SGBD.  
 - [ ] (E) conjunto de arquivos de backup incremental.
@@ -42,9 +42,9 @@ Dentre as informações típicas encontradas nos metadados de um banco de dados 
 
 - [ ] (A) o faturamento total apurado pelas transações do período.  
 - [ ] (B) as senhas dos usuários e suas permissões no sistema operacional.  
-- [x] (C) o código-fonte das aplicações que acessam o banco de dados.  
+<font color="#ff0000">- [x] (C) o código-fonte das aplicações que acessam o banco de dados.  </font>
 - [ ] (D) as cópias de segurança dos dados armazenados nas tabelas.  
-- [ ] (E) os esquemas das tabelas, incluindo os tipos de dados de suas colunas.
+<font color="#00b050">- [ ] (E) os esquemas das tabelas, incluindo os tipos de dados de suas colunas.</font>
 
 ---
 
