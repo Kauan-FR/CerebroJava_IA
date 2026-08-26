@@ -46,6 +46,8 @@ Dentre as informações típicas encontradas nos metadados de um banco de dados 
 - [ ] (D) as cópias de segurança dos dados armazenados nas tabelas.  
 <font color="#00b050">- [ ] (E) os esquemas das tabelas, incluindo os tipos de dados de suas colunas.</font>
 
+>[!fail] 
+
 ---
 
 **4**
