@@ -166,9 +166,11 @@ Uma organização implantou um repositório de metadados corporativo.
 
 - [ ] (A) padronização da terminologia utilizada pelas áreas de negócio.  
 - [ ] (B) identificação da origem e das transformações aplicadas aos dados.  
-- [x] (C) redução do tempo necessário para localizar informações relevantes.  
-- [ ] (D) eliminação da necessidade de realizar cópias de segurança dos dados.  
+<font color="#ff0000">- [x] (C) redução do tempo necessário para localizar informações relevantes.  </font>
+<font color="#00b050">- [ ] (D) eliminação da necessidade de realizar cópias de segurança dos dados.  </font>
 - [ ] (E) apoio à análise de impacto de alterações nas estruturas de dados.
+
+>[!fail] 
 
 ---
 
