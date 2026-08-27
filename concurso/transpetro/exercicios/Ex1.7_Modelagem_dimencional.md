@@ -285,7 +285,7 @@ A modelagem dimensional apresenta características próprias, distintas das adot
 - [ ] (A) desnormalização das tabelas de dimensão.  
 - [ ] (B) orientação a processos de negócio analisáveis.  
 - [ ] (C) definição explícita de granularidade da tabela de fato.  
-- [ ] (D) eliminação integral da redundância de dados armazenados.  
+- [x] (D) eliminação integral da redundância de dados armazenados.  
 - [ ] (E) utilização de chaves substitutas nas dimensões.
 
 ---
@@ -296,8 +296,8 @@ Em um projeto de data warehouse, a equipe define os elementos que comporão a di
 
 **NÃO** é atributo típico de uma dimensão Tempo a
 
-(A) indicação de dia útil ou não útil.  
-(B) identificação do trimestre e do semestre.  
-(C) marcação de feriado nacional.  
-(D) quantidade total de itens vendidos no dia.  
-(E) identificação do dia da semana.
+- [ ] (A) indicação de dia útil ou não útil.  
+- [ ] (B) identificação do trimestre e do semestre.  
+- [ ] (C) marcação de feriado nacional.  
+- [x] (D) quantidade total de itens vendidos no dia.  
+- [ ] (E) identificação do dia da semana.
