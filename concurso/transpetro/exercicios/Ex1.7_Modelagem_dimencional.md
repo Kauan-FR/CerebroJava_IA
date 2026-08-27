@@ -34,7 +34,7 @@ Dim_Loja     (SK_Loja, Nome, Cidade, Estado, Regiao)
 Nesse modelo, as tabelas de dimensão
 
 - [ ] (A) estão totalmente normalizadas até a Terceira Forma Normal.  
-- [ ] (B) encontram-se desnormalizadas, favorecendo o desempenho das consultas analíticas.  
+- [x] (B) encontram-se desnormalizadas, favorecendo o desempenho das consultas analíticas.  
 - [ ] (C) armazenam exclusivamente medidas numéricas aditivas.  
 - [ ] (D) possuem chave primária composta pelas chaves das demais dimensões.  
 - [ ] (E) devem ser recriadas a cada carga do data warehouse.
@@ -53,11 +53,11 @@ Nesse modelo, a dimensão Produto foi decomposta em tabelas adicionais normaliza
 
 Esse tipo de estrutura caracteriza o esquema
 
-(A) estrela (star schema).  
-(B) floco de neve (snowflake schema).  
-(C) constelação de fatos.  
-(D) relacional normalizado.  
-(E) em memória.
+- [ ] (A) estrela (star schema).  
+- [x] (B) floco de neve (snowflake schema).  
+- [ ] (C) constelação de fatos.  
+- [ ] (D) relacional normalizado.  
+- [ ] (E) em memória.
 
 ---
 
@@ -67,11 +67,11 @@ Uma equipe compara os esquemas estrela e floco de neve para o projeto de um data
 
 Uma vantagem do esquema estrela sobre o esquema floco de neve é
 
-(A) a menor quantidade de junções necessárias nas consultas analíticas.  
-(B) a eliminação completa da redundância nas tabelas de dimensão.  
-(C) a ausência de tabelas de fato no modelo resultante.  
-(D) a impossibilidade de ocorrência de anomalias de atualização.  
-(E) o menor espaço total ocupado em disco pelas dimensões.
+- [ ] (A) a menor quantidade de junções necessárias nas consultas analíticas.  
+- [ ] (B) a eliminação completa da redundância nas tabelas de dimensão.  
+- [ ] (C) a ausência de tabelas de fato no modelo resultante.  
+- [ ] (D) a impossibilidade de ocorrência de anomalias de atualização.  
+- [ ] (E) o menor espaço total ocupado em disco pelas dimensões.
 
 ---
 
