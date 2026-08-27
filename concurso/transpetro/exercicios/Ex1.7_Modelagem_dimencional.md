@@ -102,7 +102,8 @@ Nessa situação, o data warehouse
 - [ ] (E) não conseguirá atender à nova exigência, salvo se as dimensões forem desnormalizadas.
 
 >[!fail] Granularidade é irreversível para baixo
->
+>**Drill down só desce até onde o dado existe.** Se a tabela de fato guarda uma linha por dia, a informação de hora **não foi armazenada** — foi agregada e descartada na carga. Nenhuma operação OLAP recupera o que não está lá.
+>O que se pode fazer com drill down é ir de ano → trimestre → mês → dia, porque tudo isso está contido no grão diário. De dia para hora, não: seria inventar dado.
 
 ---
 
@@ -187,11 +188,14 @@ Em um data warehouse, adota-se o uso de chaves substitutas (surrogate keys) nas 
 
 Uma razão para essa adoção é
 
-- [ ] (A) permitir a coexistência de múltiplas versões históricas de um mesmo registro de origem.  
-- [x] (B) garantir a normalização das tabelas de dimensão até a Terceira Forma Normal.  
+<font color="#00b050">- [ ] (A) permitir a coexistência de múltiplas versões históricas de um mesmo registro de origem.  </font>
+<font color="#ff0000">- [x] (B) garantir a normalização das tabelas de dimensão até a Terceira Forma Normal.  </font>
 - [ ] (C) eliminar a necessidade de tabelas de fato no modelo dimensional.  
 - [ ] (D) reduzir a quantidade de dimensões necessárias ao modelo.  
 - [ ] (E) assegurar que as medidas armazenadas sejam sempre aditivas.
+
+>[!fail] Por que existe chave substituta no DW
+>
 
 ---
 
