@@ -12,11 +12,11 @@ Tipo:
 
 Na modelagem dimensional, a tabela que armazena as métricas quantitativas de um processo de negócio e as chaves que a ligam ao contexto analítico é denominada tabela
 
-(A) de dimensão.  
-(B) de fato.  
-(C) associativa.  
-(D) temporária.  
-(E) de estágio.
+- [ ] (A) de dimensão.  
+- [x] (B) de fato.  
+- [ ] (C) associativa.  
+- [ ] (D) temporária.  
+- [ ] (E) de estágio.
 
 ---
 
@@ -33,11 +33,11 @@ Dim_Loja     (SK_Loja, Nome, Cidade, Estado, Regiao)
 
 Nesse modelo, as tabelas de dimensão
 
-(A) estão totalmente normalizadas até a Terceira Forma Normal.  
-(B) encontram-se desnormalizadas, favorecendo o desempenho das consultas analíticas.  
-(C) armazenam exclusivamente medidas numéricas aditivas.  
-(D) possuem chave primária composta pelas chaves das demais dimensões.  
-(E) devem ser recriadas a cada carga do data warehouse.
+- [ ] (A) estão totalmente normalizadas até a Terceira Forma Normal.  
+- [ ] (B) encontram-se desnormalizadas, favorecendo o desempenho das consultas analíticas.  
+- [ ] (C) armazenam exclusivamente medidas numéricas aditivas.  
+- [ ] (D) possuem chave primária composta pelas chaves das demais dimensões.  
+- [ ] (E) devem ser recriadas a cada carga do data warehouse.
 
 ---
 
