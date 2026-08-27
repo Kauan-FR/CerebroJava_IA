@@ -195,7 +195,16 @@ Uma razão para essa adoção é
 - [ ] (E) assegurar que as medidas armazenadas sejam sempre aditivas.
 
 >[!fail] Por que existe chave substituta no DW
+>|SK_Corretor|ID_Corretor|Nome|Regional|Vigência|
+>|---|---|---|---|---|
+|1|3050|Ana|Nordeste|2024–2025|
+>|2|3050|Ana|Sudeste|2026–|
 >
+>O `ID_Corretor` de origem é **3050 nas duas linhas**. Se ele fosse a chave primária, as duas versões não poderiam coexistir — a segunda violaria a unicidade. É a chave substituta (`SK_Corretor`) que permite as duas linhas existirem lado a lado, cada uma referenciada pelos fatos da época correspondente.
+>Ou seja: **SCD tipo 2 é impossível sem surrogate key.** Uma coisa depende da outra.
+
+
+
 
 ---
 
@@ -261,11 +270,13 @@ Uma equipe implementa um ambiente OLAP em que os dados permanecem armazenados no
 
 Essa arquitetura é classificada como
 
-- [x] (A) MOLAP.  
-- [ ] (B) ROLAP.  
+<font color="#ff0000">- [x] (A) MOLAP.  </font>
+<font color="#00b050">- [ ] (B) ROLAP.  </font>
 - [ ] (C) HOLAP.  
 - [ ] (D) DOLAP.  
 - [ ] (E) OLTP.
+
+>[!fail] 
 
 ---
 
