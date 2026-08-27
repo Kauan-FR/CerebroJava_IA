@@ -67,7 +67,7 @@ Uma equipe compara os esquemas estrela e floco de neve para o projeto de um data
 
 Uma vantagem do esquema estrela sobre o esquema floco de neve é
 
-- [ ] (A) a menor quantidade de junções necessárias nas consultas analíticas.  
+- [x] (A) a menor quantidade de junções necessárias nas consultas analíticas.  
 - [ ] (B) a eliminação completa da redundância nas tabelas de dimensão.  
 - [ ] (C) a ausência de tabelas de fato no modelo resultante.  
 - [ ] (D) a impossibilidade de ocorrência de anomalias de atualização.  
@@ -81,11 +81,11 @@ Durante o projeto de um data warehouse, a equipe definiu que cada tupla da tabel
 
 Essa definição corresponde à escolha
 
-(A) da granularidade da tabela de fato.  
-(B) da cardinalidade das dimensões envolvidas.  
-(C) do tipo de dimensão de variação lenta.  
-(D) da estratégia de particionamento físico.  
-(E) do modelo de recuperação após falhas.
+- [ ] (A) da granularidade da tabela de fato.  
+- [ ] (B) da cardinalidade das dimensões envolvidas.  
+- [ ] (C) do tipo de dimensão de variação lenta.  
+- [ ] (D) da estratégia de particionamento físico.  
+- [ ] (E) do modelo de recuperação após falhas.
 
 ---
 
