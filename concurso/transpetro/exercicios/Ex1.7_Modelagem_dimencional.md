@@ -128,7 +128,7 @@ Considere as medidas a seguir, mantidas na tabela de fato de um data warehouse c
 
 Essas medidas são classificadas, respectivamente, como
 
-- [ ] (A) aditiva e não aditiva.  
+- [x] (A) aditiva e não aditiva.  
 - [ ] (B) não aditiva e aditiva.  
 - [ ] (C) semiaditiva e aditiva.  
 - [ ] (D) aditiva e semiaditiva.  
@@ -142,11 +142,11 @@ Em um data warehouse, o número do cupom fiscal foi mantido na própria tabela d
 
 Esse atributo é classificado como dimensão
 
-(A) conformada.  
-(B) degenerada.  
-(C) de variação lenta.  
-(D) papel (role-playing).  
-(E) lixo (junk).
+- [ ] (A) conformada.  
+- [ ] (B) degenerada.  
+- [ ] (C) de variação lenta.  
+- [ ] (D) papel (role-playing).  
+- [ ] (E) lixo (junk).
 
 ---
 
