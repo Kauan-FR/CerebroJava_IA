@@ -95,11 +95,14 @@ Em um data warehouse, uma tabela de fato foi definida com granularidade diária 
 
 Nessa situação, o data warehouse
 
-- [x] (A) atenderá à nova exigência sem qualquer alteração, por meio de operações de drill down.  
-- [ ] (B) não conseguirá atender à nova exigência, pois o detalhe horário não foi armazenado.  
+<font color="#ff0000">- [x] (A) atenderá à nova exigência sem qualquer alteração, por meio de operações de drill down.  </font>
+<font color="#00b050">- [ ] (B) não conseguirá atender à nova exigência, pois o detalhe horário não foi armazenado.  </font>
 - [ ] (C) atenderá à nova exigência mediante a criação de um índice sobre a coluna de data.  
 - [ ] (D) atenderá à nova exigência mediante a normalização das tabelas de dimensão.  
 - [ ] (E) não conseguirá atender à nova exigência, salvo se as dimensões forem desnormalizadas.
+
+>[!fail] Granularidade é irreversível para baixo
+>
 
 ---
 
