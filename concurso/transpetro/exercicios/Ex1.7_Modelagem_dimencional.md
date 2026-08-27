@@ -276,7 +276,14 @@ Essa arquitetura é classificada como
 - [ ] (D) DOLAP.  
 - [ ] (E) OLTP.
 
->[!fail] 
+>[!fail] ROLAP x MOLAP
+>|Arquitetura|Onde o dado fica|Consulta|
+|---|---|---|
+|**R**OLAP|Banco **R**elacional|traduzida em SQL na hora|
+|**M**OLAP|Cubo **M**ultidimensional pré-calculado|leitura direta do cubo|
+>|**H**OLAP|**H**íbrido: detalhe no relacional, agregados no cubo|conforme o nível|
+>
+>
 
 ---
 
