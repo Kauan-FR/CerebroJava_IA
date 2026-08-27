@@ -283,7 +283,7 @@ Essa arquitetura é classificada como
 |**M**OLAP|Cubo **M**ultidimensional pré-calculado|leitura direta do cubo|
 >|**H**OLAP|**H**íbrido: detalhe no relacional, agregados no cubo|conforme o nível|
 >
->
+>Trade-off que a banca cobra: MOLAP é mais rápido na consulta (tudo pré-calculado) mas exige processamento prévio e escala mal em volume. ROLAP escala melhor e reflete o dado atual, mas é mais lento porque calcula na hora.
 
 ---
 
