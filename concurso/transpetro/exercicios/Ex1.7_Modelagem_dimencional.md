@@ -215,7 +215,7 @@ Uma organização mantém as dimensões Tempo, Produto e Cliente compartilhadas,
 Essas dimensões são denominadas
 
 - [ ] (A) degeneradas.  
-- [x] (B) conformadas.  
+<font color="#00b050">- [x] (B) conformadas.  </font>
 - [ ] (C) lixo (junk).  
 - [ ] (D) de variação lenta do tipo 3.  
 - [ ] (E) papel (role-playing).
@@ -229,7 +229,7 @@ Em uma tabela de fato de pedidos, a dimensão Tempo é referenciada três vezes,
 Essa situação caracteriza uma dimensão
 
 - [ ] (A) degenerada.  
-- [x] (B) papel (role-playing).  
+<font color="#00b050">- [x] (B) papel (role-playing).  </font>
 - [ ] (C) conformada.  
 - [ ] (D) lixo (junk).  
 - [ ] (E) de variação lenta do tipo 2.
