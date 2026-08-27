@@ -199,7 +199,7 @@ Uma organização mantém as dimensões Tempo, Produto e Cliente compartilhadas,
 Essas dimensões são denominadas
 
 - [ ] (A) degeneradas.  
-- [ ] (B) conformadas.  
+- [x] (B) conformadas.  
 - [ ] (C) lixo (junk).  
 - [ ] (D) de variação lenta do tipo 3.  
 - [ ] (E) papel (role-playing).
@@ -212,11 +212,11 @@ Em uma tabela de fato de pedidos, a dimensão Tempo é referenciada três vezes,
 
 Essa situação caracteriza uma dimensão
 
-(A) degenerada.  
-(B) papel (role-playing).  
-(C) conformada.  
-(D) lixo (junk).  
-(E) de variação lenta do tipo 2.
+- [ ] (A) degenerada.  
+- [x] (B) papel (role-playing).  
+- [ ] (C) conformada.  
+- [ ] (D) lixo (junk).  
+- [ ] (E) de variação lenta do tipo 2.
 
 ---
 
@@ -226,11 +226,11 @@ Um analista executa, em uma ferramenta OLAP, a operação que parte da análise 
 
 Essa operação é denominada
 
-(A) roll up.  
-(B) drill down.  
-(C) slice.  
-(D) dice.  
-(E) pivot.
+- [ ] (A) roll up.  
+- [x] (B) drill down.  
+- [ ] (C) slice.  
+- [ ] (D) dice.  
+- [ ] (E) pivot.
 
 ---
 
@@ -240,11 +240,11 @@ Em um cubo OLAP com as dimensões Tempo, Produto e Região, um analista fixa a d
 
 Essa operação é denominada
 
-(A) slice.  
-(B) drill down.  
-(C) roll up.  
-(D) pivot.  
-(E) drill across.
+- [ ] (A) slice.  
+- [ ] (B) drill down.  
+- [ ] (C) roll up.  
+- [ ] (D) pivot.  
+- [ ] (E) drill across.
 
 ---
 
