@@ -185,7 +185,7 @@ Em um data warehouse, adota-se o uso de chaves substitutas (surrogate keys) nas 
 Uma razão para essa adoção é
 
 - [ ] (A) permitir a coexistência de múltiplas versões históricas de um mesmo registro de origem.  
-- [ ] (B) garantir a normalização das tabelas de dimensão até a Terceira Forma Normal.  
+- [x] (B) garantir a normalização das tabelas de dimensão até a Terceira Forma Normal.  
 - [ ] (C) eliminar a necessidade de tabelas de fato no modelo dimensional.  
 - [ ] (D) reduzir a quantidade de dimensões necessárias ao modelo.  
 - [ ] (E) assegurar que as medidas armazenadas sejam sempre aditivas.
@@ -198,11 +198,11 @@ Uma organização mantém as dimensões Tempo, Produto e Cliente compartilhadas,
 
 Essas dimensões são denominadas
 
-(A) degeneradas.  
-(B) conformadas.  
-(C) lixo (junk).  
-(D) de variação lenta do tipo 3.  
-(E) papel (role-playing).
+- [ ] (A) degeneradas.  
+- [ ] (B) conformadas.  
+- [ ] (C) lixo (junk).  
+- [ ] (D) de variação lenta do tipo 3.  
+- [ ] (E) papel (role-playing).
 
 ---
 
