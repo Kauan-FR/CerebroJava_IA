@@ -95,7 +95,7 @@ Em um data warehouse, uma tabela de fato foi definida com granularidade diária 
 
 Nessa situação, o data warehouse
 
-- [ ] (A) atenderá à nova exigência sem qualquer alteração, por meio de operações de drill down.  
+- [x] (A) atenderá à nova exigência sem qualquer alteração, por meio de operações de drill down.  
 - [ ] (B) não conseguirá atender à nova exigência, pois o detalhe horário não foi armazenado.  
 - [ ] (C) atenderá à nova exigência mediante a criação de um índice sobre a coluna de data.  
 - [ ] (D) atenderá à nova exigência mediante a normalização das tabelas de dimensão.  
@@ -111,11 +111,11 @@ Essa medida pode ser somada ao longo das dimensões produto e região, mas não 
 
 Essa medida é classificada como
 
-(A) aditiva.  
-(B) semiaditiva.  
-(C) não aditiva.  
-(D) derivada.  
-(E) degenerada.
+- [ ] (A) aditiva.  
+- [x] (B) semiaditiva.  
+- [ ] (C) não aditiva.  
+- [ ] (D) derivada.  
+- [ ] (E) degenerada.
 
 ---
 
@@ -128,11 +128,11 @@ Considere as medidas a seguir, mantidas na tabela de fato de um data warehouse c
 
 Essas medidas são classificadas, respectivamente, como
 
-(A) aditiva e não aditiva.  
-(B) não aditiva e aditiva.  
-(C) semiaditiva e aditiva.  
-(D) aditiva e semiaditiva.  
-(E) não aditiva e semiaditiva.
+- [ ] (A) aditiva e não aditiva.  
+- [ ] (B) não aditiva e aditiva.  
+- [ ] (C) semiaditiva e aditiva.  
+- [ ] (D) aditiva e semiaditiva.  
+- [ ] (E) não aditiva e semiaditiva.
 
 ---
 
