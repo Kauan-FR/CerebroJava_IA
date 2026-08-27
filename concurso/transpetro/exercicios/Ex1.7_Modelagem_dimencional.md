@@ -143,7 +143,7 @@ Em um data warehouse, o número do cupom fiscal foi mantido na própria tabela d
 Esse atributo é classificado como dimensão
 
 - [ ] (A) conformada.  
-- [ ] (B) degenerada.  
+- [x] (B) degenerada.  
 - [ ] (C) de variação lenta.  
 - [ ] (D) papel (role-playing).  
 - [ ] (E) lixo (junk).
