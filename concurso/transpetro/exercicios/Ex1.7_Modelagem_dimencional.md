@@ -240,7 +240,7 @@ Em um cubo OLAP com as dimensões Tempo, Produto e Região, um analista fixa a d
 
 Essa operação é denominada
 
-- [ ] (A) slice.  
+- [x] (A) slice.  
 - [ ] (B) drill down.  
 - [ ] (C) roll up.  
 - [ ] (D) pivot.  
@@ -254,11 +254,11 @@ Uma equipe implementa um ambiente OLAP em que os dados permanecem armazenados no
 
 Essa arquitetura é classificada como
 
-(A) MOLAP.  
-(B) ROLAP.  
-(C) HOLAP.  
-(D) DOLAP.  
-(E) OLTP.
+- [x] (A) MOLAP.  
+- [ ] (B) ROLAP.  
+- [ ] (C) HOLAP.  
+- [ ] (D) DOLAP.  
+- [ ] (E) OLTP.
 
 ---
 
@@ -268,11 +268,11 @@ Uma organização mantém um data warehouse corporativo e, a partir dele, dispon
 
 Esses subconjuntos são denominados
 
-(A) data marts.  
-(B) data lakes.  
-(C) áreas de estágio (staging areas).  
-(D) cubos degenerados.  
-(E) esquemas em floco de neve.
+- [ ] (A) data marts.  
+- [x] (B) data lakes.  
+- [ ] (C) áreas de estágio (staging areas).  
+- [ ] (D) cubos degenerados.  
+- [ ] (E) esquemas em floco de neve.
 
 ---
 
@@ -282,11 +282,11 @@ A modelagem dimensional apresenta características próprias, distintas das adot
 
 **NÃO** constitui característica da modelagem dimensional a
 
-(A) desnormalização das tabelas de dimensão.  
-(B) orientação a processos de negócio analisáveis.  
-(C) definição explícita de granularidade da tabela de fato.  
-(D) eliminação integral da redundância de dados armazenados.  
-(E) utilização de chaves substitutas nas dimensões.
+- [ ] (A) desnormalização das tabelas de dimensão.  
+- [ ] (B) orientação a processos de negócio analisáveis.  
+- [ ] (C) definição explícita de granularidade da tabela de fato.  
+- [ ] (D) eliminação integral da redundância de dados armazenados.  
+- [ ] (E) utilização de chaves substitutas nas dimensões.
 
 ---
 
