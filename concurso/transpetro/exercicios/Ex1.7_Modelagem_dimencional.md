@@ -156,11 +156,11 @@ Uma empresa de varejo alterou o endereço de um cliente em sua dimensão. A equi
 
 Essa estratégia corresponde a uma dimensão de variação lenta (SCD) do tipo
 
-(A) 0  
-(B) 1  
-(C) 2  
-(D) 3  
-(E) 4
+- [ ] (A) 0  
+- [x] (B) 1  
+- [ ] (C) 2  
+- [ ] (D) 3  
+- [ ] (E) 4
 
 ---
 
@@ -170,11 +170,11 @@ Uma seguradora precisa analisar as vendas de seus corretores considerando a regi
 
 Para atender a esse requisito, a dimensão Corretor deve ser tratada como dimensão de variação lenta do tipo
 
-(A) 0, mantendo-se o valor original imutável.  
-(B) 1, sobrescrevendo-se o valor anterior.  
-(C) 2, criando-se um novo registro a cada alteração, com chave substituta distinta.  
-(D) 3, mantendo-se apenas o valor atual e o imediatamente anterior em colunas separadas.  
-(E) 4, eliminando-se a dimensão e migrando-se seus atributos para a tabela de fato.
+- [ ] (A) 0, mantendo-se o valor original imutável.  
+- [ ] (B) 1, sobrescrevendo-se o valor anterior.  
+- [ ] (C) 2, criando-se um novo registro a cada alteração, com chave substituta distinta.  
+- [ ] (D) 3, mantendo-se apenas o valor atual e o imediatamente anterior em colunas separadas.  
+- [ ] (E) 4, eliminando-se a dimensão e migrando-se seus atributos para a tabela de fato.
 
 ---
 
