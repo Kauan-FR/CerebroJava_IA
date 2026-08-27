@@ -172,7 +172,7 @@ Para atender a esse requisito, a dimensão Corretor deve ser tratada como dimens
 
 - [ ] (A) 0, mantendo-se o valor original imutável.  
 - [ ] (B) 1, sobrescrevendo-se o valor anterior.  
-- [ ] (C) 2, criando-se um novo registro a cada alteração, com chave substituta distinta.  
+- [x] (C) 2, criando-se um novo registro a cada alteração, com chave substituta distinta.  
 - [ ] (D) 3, mantendo-se apenas o valor atual e o imediatamente anterior em colunas separadas.  
 - [ ] (E) 4, eliminando-se a dimensão e migrando-se seus atributos para a tabela de fato.
 
@@ -184,11 +184,11 @@ Em um data warehouse, adota-se o uso de chaves substitutas (surrogate keys) nas 
 
 Uma razão para essa adoção é
 
-(A) permitir a coexistência de múltiplas versões históricas de um mesmo registro de origem.  
-(B) garantir a normalização das tabelas de dimensão até a Terceira Forma Normal.  
-(C) eliminar a necessidade de tabelas de fato no modelo dimensional.  
-(D) reduzir a quantidade de dimensões necessárias ao modelo.  
-(E) assegurar que as medidas armazenadas sejam sempre aditivas.
+- [ ] (A) permitir a coexistência de múltiplas versões históricas de um mesmo registro de origem.  
+- [ ] (B) garantir a normalização das tabelas de dimensão até a Terceira Forma Normal.  
+- [ ] (C) eliminar a necessidade de tabelas de fato no modelo dimensional.  
+- [ ] (D) reduzir a quantidade de dimensões necessárias ao modelo.  
+- [ ] (E) assegurar que as medidas armazenadas sejam sempre aditivas.
 
 ---
 
