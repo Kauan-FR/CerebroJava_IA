@@ -294,7 +294,7 @@ Uma organização mantém um data warehouse corporativo e, a partir dele, dispon
 Esses subconjuntos são denominados
 
 - [ ] (A) data marts.  
-- [x] (B) data lakes.  
+<font color="#00b050">- [x] (B) data lakes.  </font>
 - [ ] (C) áreas de estágio (staging areas).  
 - [ ] (D) cubos degenerados.  
 - [ ] (E) esquemas em floco de neve.
