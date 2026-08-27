@@ -81,7 +81,7 @@ Durante o projeto de um data warehouse, a equipe definiu que cada tupla da tabel
 
 Essa definição corresponde à escolha
 
-- [ ] (A) da granularidade da tabela de fato.  
+- [x] (A) da granularidade da tabela de fato.  
 - [ ] (B) da cardinalidade das dimensões envolvidas.  
 - [ ] (C) do tipo de dimensão de variação lenta.  
 - [ ] (D) da estratégia de particionamento físico.  
@@ -95,11 +95,11 @@ Em um data warehouse, uma tabela de fato foi definida com granularidade diária 
 
 Nessa situação, o data warehouse
 
-(A) atenderá à nova exigência sem qualquer alteração, por meio de operações de drill down.  
-(B) não conseguirá atender à nova exigência, pois o detalhe horário não foi armazenado.  
-(C) atenderá à nova exigência mediante a criação de um índice sobre a coluna de data.  
-(D) atenderá à nova exigência mediante a normalização das tabelas de dimensão.  
-(E) não conseguirá atender à nova exigência, salvo se as dimensões forem desnormalizadas.
+- [ ] (A) atenderá à nova exigência sem qualquer alteração, por meio de operações de drill down.  
+- [ ] (B) não conseguirá atender à nova exigência, pois o detalhe horário não foi armazenado.  
+- [ ] (C) atenderá à nova exigência mediante a criação de um índice sobre a coluna de data.  
+- [ ] (D) atenderá à nova exigência mediante a normalização das tabelas de dimensão.  
+- [ ] (E) não conseguirá atender à nova exigência, salvo se as dimensões forem desnormalizadas.
 
 ---
 
