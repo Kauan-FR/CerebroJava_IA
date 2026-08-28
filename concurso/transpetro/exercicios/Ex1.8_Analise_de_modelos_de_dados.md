@@ -205,7 +205,7 @@ Um modelo de dados corporativo apresenta as entidades `Cliente`, `Comprador` e `
 Essa situação caracteriza um problema de
 
 - [ ] (A) granularidade.  
-- [ ] (B) integração e padronização semântica entre modelos.  
+- [x] (B) integração e padronização semântica entre modelos.  
 - [ ] (C) integridade de entidade.  
 - [ ] (D) desnormalização excessiva.  
 - [ ] (E) dependência funcional transitiva.
@@ -218,11 +218,11 @@ Ao avaliar um modelo lógico, um analista constatou que determinada tabela possu
 
 A hipótese mais provável a ser investigada nesse caso é a
 
-(A) ausência de chave primária na tabela.  
-(B) existência de subtipos distintos indevidamente representados em uma única tabela.  
-(C) violação da integridade referencial com as demais tabelas.  
-(D) necessidade de criação de índices sobre as colunas nulas.  
-(E) presença de dimensões degeneradas no modelo.
+- [ ] (A) ausência de chave primária na tabela.  
+- [ ] (B) existência de subtipos distintos indevidamente representados em uma única tabela.  
+- [ ] (C) violação da integridade referencial com as demais tabelas.  
+- [ ] (D) necessidade de criação de índices sobre as colunas nulas.  
+- [ ] (E) presença de dimensões degeneradas no modelo.
 
 ---
 
