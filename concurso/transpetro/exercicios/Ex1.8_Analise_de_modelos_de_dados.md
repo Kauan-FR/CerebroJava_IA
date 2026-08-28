@@ -14,11 +14,11 @@ Ao avaliar a qualidade de um modelo de dados, verifica-se se ele representa fiel
 
 Esse critério de avaliação é denominado
 
-(A) completude.  
-(B) minimalidade.  
-(C) legibilidade.  
-(D) desempenho.  
-(E) volatilidade.
+- [ ] (A) completude.  
+- [ ] (B) minimalidade.  
+- [ ] (C) legibilidade.  
+- [ ] (D) desempenho.  
+- [ ] (E) volatilidade.
 
 ---
 
