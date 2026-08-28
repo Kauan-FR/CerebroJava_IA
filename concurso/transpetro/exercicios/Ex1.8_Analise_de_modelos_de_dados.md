@@ -297,7 +297,7 @@ A avaliação de um modelo de dados considera diversos critérios de qualidade.
 - [ ] (A) completude em relação aos requisitos levantados.  
 - [ ] (B) ausência de redundâncias desnecessárias.  
 - [ ] (C) clareza da nomenclatura utilizada.  
-- [ ] (D) quantidade de linhas de código da aplicação que acessará o banco.  
+- [x] (D) quantidade de linhas de código da aplicação que acessará o banco.  
 - [ ] (E) correção das cardinalidades em relação às regras de negócio.
 
 ---
@@ -308,8 +308,8 @@ Um modelo de dados foi submetido a revisão técnica.
 
 **NÃO** constitui indício de problema em um modelo de dados a
 
-(A) presença de entidades sem qualquer relacionamento com as demais.  
-(B) existência de atributos com o mesmo significado em múltiplas entidades.  
-(C) utilização de chaves substitutas nas tabelas de dimensão de um data warehouse.  
-(D) ausência de identificadores em determinadas entidades do modelo.  
-(E) representação de um relacionamento N:M sem os atributos que lhe são próprios.
+- [ ] (A) presença de entidades sem qualquer relacionamento com as demais.  
+- [ ] (B) existência de atributos com o mesmo significado em múltiplas entidades.  
+- [ ] (C) utilização de chaves substitutas nas tabelas de dimensão de um data warehouse.  
+- [ ] (D) ausência de identificadores em determinadas entidades do modelo.  
+- [ ] (E) representação de um relacionamento N:M sem os atributos que lhe são próprios.
