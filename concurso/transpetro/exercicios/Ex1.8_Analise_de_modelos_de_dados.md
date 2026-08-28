@@ -109,7 +109,7 @@ Um analista revisou um modelo conceitual e constatou que a entidade `Endereco` p
 Nesse caso, a avaliação mais adequada é que a entidade `Endereco`
 
 - [ ] (A) deve ser transformada em entidade fraca de Cliente.  
-- [ ] (B) poderia ser representada como atributo composto de Cliente, simplificando o modelo.  
+- [x] (B) poderia ser representada como atributo composto de Cliente, simplificando o modelo.  
 - [ ] (C) viola a Terceira Forma Normal por conter dependência transitiva.  
 - [ ] (D) exige a criação de uma agregação com a entidade Cliente.  
 - [ ] (E) deve ser especializada em subtipos por tipo de logradouro.
@@ -130,11 +130,11 @@ A área de negócio informou que um mesmo empréstimo pode conter vários livros
 
 Diante dessa informação, o modelo
 
-(A) atende ao requisito, pois a tabela Emprestimo já possui o atributo ISBN.  
-(B) não atende ao requisito, sendo necessária uma tabela associativa entre Emprestimo e Livro.  
-(C) não atende ao requisito, sendo necessário tornar ISBN um atributo multivalorado.  
-(D) atende ao requisito mediante a criação de um índice sobre a coluna ISBN.  
-(E) não atende ao requisito, sendo necessário eliminar a tabela Editora.
+- [ ] (A) atende ao requisito, pois a tabela Emprestimo já possui o atributo ISBN.  
+- [ ] (B) não atende ao requisito, sendo necessária uma tabela associativa entre Emprestimo e Livro.  
+- [ ] (C) não atende ao requisito, sendo necessário tornar ISBN um atributo multivalorado.  
+- [ ] (D) atende ao requisito mediante a criação de um índice sobre a coluna ISBN.  
+- [ ] (E) não atende ao requisito, sendo necessário eliminar a tabela Editora.
 
 ---
 
