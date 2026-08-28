@@ -63,7 +63,7 @@ Diante dessa informação, o modelo apresenta
 
 - [ ] (A) uma entidade fraca indevidamente representada.  
 - [ ] (B) uma cardinalidade mínima incompatível com a regra de negócio informada.  
-- [x] (C) um relacionamento ternário indevidamente decomposto.  
+<font color="#ff0000">- [x] (C) um relacionamento ternário indevidamente decomposto.  </font>
 - [ ] (D) uma especialização total representada como parcial.  
 - [ ] (E) uma agregação ausente entre Consulta e Medico.
 
