@@ -171,7 +171,7 @@ Durante a validação de um modelo conceitual junto às áreas de negócio, a eq
 Essa prática tem por finalidade principal
 
 - [ ] (A) otimizar o desempenho das consultas que serão executadas.  
-- [ ] (B) confirmar se o modelo representa corretamente as regras do negócio.  
+- [x] (B) confirmar se o modelo representa corretamente as regras do negócio.  
 - [ ] (C) definir os índices que serão criados no modelo físico.  
 - [ ] (D) estabelecer a política de backup do banco de dados.  
 - [ ] (E) determinar o particionamento físico das tabelas.
@@ -190,11 +190,11 @@ A área de negócio informou que todo projeto deve possuir, obrigatoriamente, ao
 
 A correção necessária no modelo consiste em alterar a cardinalidade
 
-(A) mínima do lado Projeto para 1.  
-(B) mínima do lado Funcionario para 1.  
-(C) máxima do lado Projeto para 1.  
-(D) máxima do lado Funcionario para 1.  
-(E) mínima de ambos os lados para 1.
+- [ ] (A) mínima do lado Projeto para 1.  
+- [ ] (B) mínima do lado Funcionario para 1.  
+- [ ] (C) máxima do lado Projeto para 1.  
+- [ ] (D) máxima do lado Funcionario para 1.  
+- [ ] (E) mínima de ambos os lados para 1.
 
 ---
 
