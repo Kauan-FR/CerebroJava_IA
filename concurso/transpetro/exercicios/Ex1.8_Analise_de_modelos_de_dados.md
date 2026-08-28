@@ -252,11 +252,11 @@ Em relação a esses requisitos, o modelo apresenta
 
 Na avaliação de modelos de dados, a **flexibilidade** de um modelo refere-se à sua capacidade de
 
-(A) executar consultas com o menor tempo de resposta possível.  
-(B) acomodar mudanças futuras nos requisitos sem exigir reestruturação profunda.  
-(C) armazenar o maior volume de dados no menor espaço físico.  
-(D) dispensar a utilização de restrições de integridade.  
-(E) ser convertido automaticamente em código-fonte de aplicação.
+- [ ] (A) executar consultas com o menor tempo de resposta possível.  
+- [x] (B) acomodar mudanças futuras nos requisitos sem exigir reestruturação profunda.  
+- [ ] (C) armazenar o maior volume de dados no menor espaço físico.  
+- [ ] (D) dispensar a utilização de restrições de integridade.  
+- [ ] (E) ser convertido automaticamente em código-fonte de aplicação.
 
 ---
 
@@ -266,11 +266,11 @@ Um modelo de dados representa a entidade `Produto` com os atributos `preco_2024`
 
 Do ponto de vista da avaliação de qualidade, essa construção é inadequada porque
 
-(A) viola a integridade de entidade da relação Produto.  
-(B) exige alteração da estrutura da tabela a cada novo ano, comprometendo a flexibilidade.  
-(C) impede a criação de chave estrangeira para a entidade Categoria.  
-(D) caracteriza dependência funcional parcial em relação à chave primária.  
-(E) torna obrigatória a adoção de um esquema em floco de neve.
+- [ ] (A) viola a integridade de entidade da relação Produto.  
+- [ ] (B) exige alteração da estrutura da tabela a cada novo ano, comprometendo a flexibilidade.  
+- [ ] (C) impede a criação de chave estrangeira para a entidade Categoria.  
+- [ ] (D) caracteriza dependência funcional parcial em relação à chave primária.  
+- [ ] (E) torna obrigatória a adoção de um esquema em floco de neve.
 
 ---
 
