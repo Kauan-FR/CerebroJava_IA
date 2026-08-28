@@ -294,11 +294,11 @@ A avaliação de um modelo de dados considera diversos critérios de qualidade.
 
 **NÃO** constitui critério de avaliação da qualidade de um modelo de dados a
 
-(A) completude em relação aos requisitos levantados.  
-(B) ausência de redundâncias desnecessárias.  
-(C) clareza da nomenclatura utilizada.  
-(D) quantidade de linhas de código da aplicação que acessará o banco.  
-(E) correção das cardinalidades em relação às regras de negócio.
+- [ ] (A) completude em relação aos requisitos levantados.  
+- [ ] (B) ausência de redundâncias desnecessárias.  
+- [ ] (C) clareza da nomenclatura utilizada.  
+- [ ] (D) quantidade de linhas de código da aplicação que acessará o banco.  
+- [ ] (E) correção das cardinalidades em relação às regras de negócio.
 
 ---
 
