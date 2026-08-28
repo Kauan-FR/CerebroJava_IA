@@ -246,3 +246,26 @@ top-down é de quem? bottom-up?
 ---
 
 ## 1.8 Avaliação de modelos de dados
+
+1.8 → ?
+
+regra de negócio diz "pode" ou "deve"
+ → mexe em qual cardinalidade?
+regra diz "quantos"
+ → qual cardinalidade?
+
+completude verifica o quê?
+minimalidade verifica o quê?
+legibilidade verifica o quê?
+flexibilidade verifica o quê?
+
+verificação confere contra o quê?
+validação confere contra o quê?
+qual das duas é com o usuário?
+
+tabela com 47 colunas, 30 nulas
+ → hipótese?
+preco_2024, preco_2025, preco_2026
+ → qual critério ferido?
+Cliente, Comprador e Consumidor
+ juntos → problema de quê?
