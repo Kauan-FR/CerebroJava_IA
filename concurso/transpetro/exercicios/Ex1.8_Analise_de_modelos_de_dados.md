@@ -67,6 +67,8 @@ Diante dessa informação, o modelo apresenta
 - [ ] (D) uma especialização total representada como parcial.  
 - [ ] (E) uma agregação ausente entre Consulta e Medico.
 
+>[!]
+
 ---
 
 **5**
