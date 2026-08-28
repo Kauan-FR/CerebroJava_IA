@@ -26,7 +26,7 @@ Esse critério de avaliação é denominado
 
 Um modelo de dados é considerado **redundante** quando
 
-- [ ] (A) representa a mesma informação em mais de um ponto do modelo, sem necessidade.  
+- [x] (A) representa a mesma informação em mais de um ponto do modelo, sem necessidade.  
 - [ ] (B) omite entidades identificadas durante o levantamento de requisitos.  
 - [ ] (C) utiliza notação gráfica diferente da adotada pela organização.  
 - [ ] (D) apresenta entidades sem atributos identificadores definidos.  
@@ -40,11 +40,11 @@ Durante a revisão de um modelo conceitual, identificou-se a entidade `Cliente` 
 
 Em relação a esse atributo, a avaliação correta é que ele
 
-(A) viola a Primeira Forma Normal, por não ser atômico.  
-(B) constitui um atributo derivado, cuja manutenção no modelo deve ser justificada.  
-(C) caracteriza uma dependência multivalorada não trivial.  
-(D) impede a definição da chave primária da entidade Cliente.  
-(E) deve obrigatoriamente ser transformado em uma entidade fraca.
+- [ ] (A) viola a Primeira Forma Normal, por não ser atômico.  
+- [ ] (B) constitui um atributo derivado, cuja manutenção no modelo deve ser justificada.  
+- [ ] (C) caracteriza uma dependência multivalorada não trivial.  
+- [ ] (D) impede a definição da chave primária da entidade Cliente.  
+- [ ] (E) deve obrigatoriamente ser transformado em uma entidade fraca.
 
 ---
 
