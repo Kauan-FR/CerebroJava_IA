@@ -30,6 +30,7 @@ criar índice → qual das duas?
 
 existe independência referencial?
 
+---
 ## 1.2 Criação e alteração dos modelos lógicos e físicos
 
 1.2 → ?
@@ -73,6 +74,7 @@ log de transações guarda o quê?
 
 chave natural que muda muito → usar o quê?
 
+---
 ## 1.3 Modelo relacional
 
 1.3 → ?
@@ -122,6 +124,7 @@ autojunção: e1 é qual nível?
              e2 é qual nível?
  netos → retorna e1 ou e2?
 
+---
 ## 1.4 Normalização
 
 1.4 → ?
@@ -163,6 +166,7 @@ extraí 2 determinantes → quantas relações?
 
 4FN elimina o quê?
 
+---
 ## 1.5 Integridade referencial
 
 1.5 → ?
@@ -189,5 +193,56 @@ que é parte da PK — funciona?
 alternativa com "em hipótese alguma"
 → certa ou errada?
 
+---
 ## 1.6 Metadados
 
+1.6 → ?
+
+metadado é estrutura ou conteúdo?
+
+privilégios de usuário:
+ catálogo ou log?
+sequência de operações de transação:
+ catálogo ou log?
+
+schema-on-write valida quando? quem?
+schema-on-read  valida quando? quem?
+no NoSQL a estrutura deixa de existir?
+
+"de onde veio e o que mudou" → ?
+"estatística do dado real" → ?
+"glossário corporativo" → ?
+data lake sem catalogação vira ?
+
+---
+
+## 1.7 Modelagem dimensional
+
+1.7 → ?
+
+grão diário permite análise por hora?
+por quê?
+
+surrogate key serve pra quê?
+SCD 2 funciona sem surrogate key?
+
+ROLAP guarda onde?
+MOLAP guarda onde?
+qual é mais rápido? qual escala melhor?
+
+DEGENERADA fica onde?
+PAPEL: mesmo fato ou fatos diferentes?
+CONFORMADA: mesmo fato ou fatos diferentes?
+JUNK agrupa o quê?
+
+data mart é o quê?
+staging area é o quê?
+DW: schema-on-? · lake: schema-on-?
+
+top-down é de quem? bottom-up?
+
+"cubo degenerado" existe?
+
+---
+
+## 1.8 Avaliação de modelos de dados
