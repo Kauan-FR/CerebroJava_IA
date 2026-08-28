@@ -62,13 +62,17 @@ A área de negócio informou que um paciente pode agendar uma consulta sem que o
 Diante dessa informação, o modelo apresenta
 
 - [ ] (A) uma entidade fraca indevidamente representada.  
-- [ ] (B) uma cardinalidade mínima incompatível com a regra de negócio informada.  
+<font color="#00b050">- [ ] (B) uma cardinalidade mínima incompatível com a regra de negócio informada.  </font>
 <font color="#ff0000">- [x] (C) um relacionamento ternário indevidamente decomposto.  </font>
 - [ ] (D) uma especialização total representada como parcial.  
 - [ ] (E) uma agregação ausente entre Consulta e Medico.
 
 >[!fail] Cardinalidade mínima
+>Regra informada: _o paciente pode agendar uma consulta sem que o médico tenha sido definido_.
+>Olhe o segundo relacionamento. O `(1,1)` colado em Consulta diz: **cada consulta participa de no mínimo 1 relacionamento Atende** — ou seja, toda consulta tem médico obrigatoriamente. Mas o negócio acabou de dizer que pode não ter.
+>Contradição entre modelo e regra. A correção é o **mínimo** virar 0: `(0,1)`.
 >
+>**Regra:** quando a regra de negócio fala em _poder_ ou _dever_, _ter que_ ou _não precisar_, o defeito está na **cardinalidade mínima**. Quando fala em _quantos_, está na máxima.
 
 ---
 
