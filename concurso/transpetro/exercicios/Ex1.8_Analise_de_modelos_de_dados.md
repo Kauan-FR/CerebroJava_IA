@@ -131,7 +131,7 @@ A área de negócio informou que um mesmo empréstimo pode conter vários livros
 Diante dessa informação, o modelo
 
 - [ ] (A) atende ao requisito, pois a tabela Emprestimo já possui o atributo ISBN.  
-- [ ] (B) não atende ao requisito, sendo necessária uma tabela associativa entre Emprestimo e Livro.  
+- [x] (B) não atende ao requisito, sendo necessária uma tabela associativa entre Emprestimo e Livro.  
 - [ ] (C) não atende ao requisito, sendo necessário tornar ISBN um atributo multivalorado.  
 - [ ] (D) atende ao requisito mediante a criação de um índice sobre a coluna ISBN.  
 - [ ] (E) não atende ao requisito, sendo necessário eliminar a tabela Editora.
