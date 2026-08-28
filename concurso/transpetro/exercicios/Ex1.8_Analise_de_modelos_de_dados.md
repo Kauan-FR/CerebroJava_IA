@@ -190,7 +190,7 @@ A área de negócio informou que todo projeto deve possuir, obrigatoriamente, ao
 
 A correção necessária no modelo consiste em alterar a cardinalidade
 
-- [ ] (A) mínima do lado Projeto para 1.  
+- [x] (A) mínima do lado Projeto para 1.  
 - [ ] (B) mínima do lado Funcionario para 1.  
 - [ ] (C) máxima do lado Projeto para 1.  
 - [ ] (D) máxima do lado Funcionario para 1.  
@@ -204,11 +204,11 @@ Um modelo de dados corporativo apresenta as entidades `Cliente`, `Comprador` e `
 
 Essa situação caracteriza um problema de
 
-(A) granularidade.  
-(B) integração e padronização semântica entre modelos.  
-(C) integridade de entidade.  
-(D) desnormalização excessiva.  
-(E) dependência funcional transitiva.
+- [ ] (A) granularidade.  
+- [ ] (B) integração e padronização semântica entre modelos.  
+- [ ] (C) integridade de entidade.  
+- [ ] (D) desnormalização excessiva.  
+- [ ] (E) dependência funcional transitiva.
 
 ---
 
