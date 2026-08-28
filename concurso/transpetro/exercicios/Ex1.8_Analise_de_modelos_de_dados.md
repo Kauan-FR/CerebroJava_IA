@@ -281,7 +281,7 @@ Um analista compara duas propostas de modelo para o mesmo domínio de negócio. 
 Considerando-se os critérios de avaliação de modelos de dados, a segunda proposta é superior quanto à
 
 - [ ] (A) completude.  
-- [ ] (B) minimalidade.  
+- [x] (B) minimalidade.  
 - [ ] (C) integridade referencial.  
 - [ ] (D) aditividade das medidas.  
 - [ ] (E) volatilidade dos dados.
