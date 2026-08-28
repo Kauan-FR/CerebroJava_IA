@@ -310,6 +310,6 @@ Um modelo de dados foi submetido a revisão técnica.
 
 - [ ] (A) presença de entidades sem qualquer relacionamento com as demais.  
 - [ ] (B) existência de atributos com o mesmo significado em múltiplas entidades.  
-- [ ] (C) utilização de chaves substitutas nas tabelas de dimensão de um data warehouse.  
+- [x] (C) utilização de chaves substitutas nas tabelas de dimensão de um data warehouse.  
 - [ ] (D) ausência de identificadores em determinadas entidades do modelo.  
 - [ ] (E) representação de um relacionamento N:M sem os atributos que lhe são próprios.
