@@ -75,7 +75,7 @@ Ao avaliar um modelo de dados, a equipe verifica se cada elemento representado �
 
 Esse critério é denominado
 
-- [ ] (A) minimalidade.  
+- [x] (A) minimalidade.  
 - [ ] (B) completude.  
 - [ ] (C) integridade referencial.  
 - [ ] (D) granularidade.  
@@ -94,11 +94,11 @@ Cargo        (ID_Cargo, Nome_Cargo, Salario_Base)
 
 Na avaliação desse modelo, constata-se
 
-(A) ausência de chave primária na tabela Cargo.  
-(B) redundância decorrente da repetição do atributo Nome_Cargo em duas relações.  
-(C) violação da integridade de entidade na tabela Empregado.  
-(D) impossibilidade de estabelecer relacionamento entre as duas relações.  
-(E) presença de atributo multivalorado na tabela Empregado.
+- [ ] (A) ausência de chave primária na tabela Cargo.  
+- [ ] (B) redundância decorrente da repetição do atributo Nome_Cargo em duas relações.  
+- [ ] (C) violação da integridade de entidade na tabela Empregado.  
+- [ ] (D) impossibilidade de estabelecer relacionamento entre as duas relações.  
+- [ ] (E) presença de atributo multivalorado na tabela Empregado.
 
 ---
 
