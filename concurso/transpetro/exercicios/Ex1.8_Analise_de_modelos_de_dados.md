@@ -14,7 +14,7 @@ Ao avaliar a qualidade de um modelo de dados, verifica-se se ele representa fiel
 
 Esse critério de avaliação é denominado
 
-- [ ] (A) completude.  
+- [x] (A) completude.  
 - [ ] (B) minimalidade.  
 - [ ] (C) legibilidade.  
 - [ ] (D) desempenho.  
@@ -26,11 +26,11 @@ Esse critério de avaliação é denominado
 
 Um modelo de dados é considerado **redundante** quando
 
-(A) representa a mesma informação em mais de um ponto do modelo, sem necessidade.  
-(B) omite entidades identificadas durante o levantamento de requisitos.  
-(C) utiliza notação gráfica diferente da adotada pela organização.  
-(D) apresenta entidades sem atributos identificadores definidos.  
-(E) possui cardinalidades mínimas iguais a zero em todos os relacionamentos.
+- [ ] (A) representa a mesma informação em mais de um ponto do modelo, sem necessidade.  
+- [ ] (B) omite entidades identificadas durante o levantamento de requisitos.  
+- [ ] (C) utiliza notação gráfica diferente da adotada pela organização.  
+- [ ] (D) apresenta entidades sem atributos identificadores definidos.  
+- [ ] (E) possui cardinalidades mínimas iguais a zero em todos os relacionamentos.
 
 ---
 
