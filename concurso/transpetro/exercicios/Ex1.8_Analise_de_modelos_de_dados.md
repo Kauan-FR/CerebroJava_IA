@@ -63,7 +63,7 @@ Diante dessa informação, o modelo apresenta
 
 - [ ] (A) uma entidade fraca indevidamente representada.  
 - [ ] (B) uma cardinalidade mínima incompatível com a regra de negócio informada.  
-- [ ] (C) um relacionamento ternário indevidamente decomposto.  
+- [x] (C) um relacionamento ternário indevidamente decomposto.  
 - [ ] (D) uma especialização total representada como parcial.  
 - [ ] (E) uma agregação ausente entre Consulta e Medico.
 
@@ -75,11 +75,11 @@ Ao avaliar um modelo de dados, a equipe verifica se cada elemento representado �
 
 Esse critério é denominado
 
-(A) minimalidade.  
-(B) completude.  
-(C) integridade referencial.  
-(D) granularidade.  
-(E) volatilidade.
+- [ ] (A) minimalidade.  
+- [ ] (B) completude.  
+- [ ] (C) integridade referencial.  
+- [ ] (D) granularidade.  
+- [ ] (E) volatilidade.
 
 ---
 
