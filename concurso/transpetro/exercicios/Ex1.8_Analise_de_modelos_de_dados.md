@@ -267,7 +267,7 @@ Um modelo de dados representa a entidade `Produto` com os atributos `preco_2024`
 Do ponto de vista da avaliação de qualidade, essa construção é inadequada porque
 
 - [ ] (A) viola a integridade de entidade da relação Produto.  
-- [ ] (B) exige alteração da estrutura da tabela a cada novo ano, comprometendo a flexibilidade.  
+- [x] (B) exige alteração da estrutura da tabela a cada novo ano, comprometendo a flexibilidade.  
 - [ ] (C) impede a criação de chave estrangeira para a entidade Categoria.  
 - [ ] (D) caracteriza dependência funcional parcial em relação à chave primária.  
 - [ ] (E) torna obrigatória a adoção de um esquema em floco de neve.
@@ -280,11 +280,11 @@ Um analista compara duas propostas de modelo para o mesmo domínio de negócio. 
 
 Considerando-se os critérios de avaliação de modelos de dados, a segunda proposta é superior quanto à
 
-(A) completude.  
-(B) minimalidade.  
-(C) integridade referencial.  
-(D) aditividade das medidas.  
-(E) volatilidade dos dados.
+- [ ] (A) completude.  
+- [ ] (B) minimalidade.  
+- [ ] (C) integridade referencial.  
+- [ ] (D) aditividade das medidas.  
+- [ ] (E) volatilidade dos dados.
 
 ---
 
