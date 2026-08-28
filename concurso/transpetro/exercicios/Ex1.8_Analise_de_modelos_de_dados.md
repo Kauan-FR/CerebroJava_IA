@@ -95,7 +95,7 @@ Cargo        (ID_Cargo, Nome_Cargo, Salario_Base)
 Na avaliação desse modelo, constata-se
 
 - [ ] (A) ausência de chave primária na tabela Cargo.  
-- [ ] (B) redundância decorrente da repetição do atributo Nome_Cargo em duas relações.  
+- [x] (B) redundância decorrente da repetição do atributo Nome_Cargo em duas relações.  
 - [ ] (C) violação da integridade de entidade na tabela Empregado.  
 - [ ] (D) impossibilidade de estabelecer relacionamento entre as duas relações.  
 - [ ] (E) presença de atributo multivalorado na tabela Empregado.
@@ -108,11 +108,11 @@ Um analista revisou um modelo conceitual e constatou que a entidade `Endereco` p
 
 Nesse caso, a avaliação mais adequada é que a entidade `Endereco`
 
-(A) deve ser transformada em entidade fraca de Cliente.  
-(B) poderia ser representada como atributo composto de Cliente, simplificando o modelo.  
-(C) viola a Terceira Forma Normal por conter dependência transitiva.  
-(D) exige a criação de uma agregação com a entidade Cliente.  
-(E) deve ser especializada em subtipos por tipo de logradouro.
+- [ ] (A) deve ser transformada em entidade fraca de Cliente.  
+- [ ] (B) poderia ser representada como atributo composto de Cliente, simplificando o modelo.  
+- [ ] (C) viola a Terceira Forma Normal por conter dependência transitiva.  
+- [ ] (D) exige a criação de uma agregação com a entidade Cliente.  
+- [ ] (E) deve ser especializada em subtipos por tipo de logradouro.
 
 ---
 
