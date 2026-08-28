@@ -142,11 +142,11 @@ Diante dessa informação, o modelo
 
 Ao avaliar modelos de dados, considera-se que um modelo possui boa **legibilidade** quando
 
-(A) utiliza a menor quantidade possível de tabelas físicas.  
-(B) é compreensível por seus leitores, com nomenclatura padronizada e organização clara.  
-(C) dispensa a documentação de regras de negócio associadas.  
-(D) apresenta desempenho superior nas consultas analíticas.  
-(E) elimina completamente o uso de chaves substitutas.
+- [ ] (A) utiliza a menor quantidade possível de tabelas físicas.  
+- [x] (B) é compreensível por seus leitores, com nomenclatura padronizada e organização clara.  
+- [ ] (C) dispensa a documentação de regras de negócio associadas.  
+- [ ] (D) apresenta desempenho superior nas consultas analíticas.  
+- [ ] (E) elimina completamente o uso de chaves substitutas.
 
 ---
 
@@ -156,11 +156,11 @@ Um modelo de dados foi construído com as entidades denominadas `TB01`, `TB02` e
 
 A principal deficiência desse modelo, do ponto de vista de avaliação de qualidade, é a
 
-(A) ausência de integridade referencial entre as entidades.  
-(B) baixa expressividade semântica da nomenclatura adotada.  
-(C) violação da Segunda Forma Normal.  
-(D) granularidade inadequada das tabelas de fato.  
-(E) ausência de dimensões conformadas.
+- [ ] (A) ausência de integridade referencial entre as entidades.  
+- [x] (B) baixa expressividade semântica da nomenclatura adotada.  
+- [ ] (C) violação da Segunda Forma Normal.  
+- [ ] (D) granularidade inadequada das tabelas de fato.  
+- [ ] (E) ausência de dimensões conformadas.
 
 ---
 
@@ -170,11 +170,11 @@ Durante a validação de um modelo conceitual junto às áreas de negócio, a eq
 
 Essa prática tem por finalidade principal
 
-(A) otimizar o desempenho das consultas que serão executadas.  
-(B) confirmar se o modelo representa corretamente as regras do negócio.  
-(C) definir os índices que serão criados no modelo físico.  
-(D) estabelecer a política de backup do banco de dados.  
-(E) determinar o particionamento físico das tabelas.
+- [ ] (A) otimizar o desempenho das consultas que serão executadas.  
+- [ ] (B) confirmar se o modelo representa corretamente as regras do negócio.  
+- [ ] (C) definir os índices que serão criados no modelo físico.  
+- [ ] (D) estabelecer a política de backup do banco de dados.  
+- [ ] (E) determinar o particionamento físico das tabelas.
 
 ---
 
