@@ -241,7 +241,7 @@ A área de negócio informou que é necessário registrar quais alunos cursam qu
 Em relação a esses requisitos, o modelo apresenta
 
 - [ ] (A) completude adequada, pois todas as entidades necessárias estão representadas.  
-- [ ] (B) ausência de representação dos relacionamentos entre as entidades.  
+- [x] (B) ausência de representação dos relacionamentos entre as entidades.  
 - [ ] (C) redundância entre as entidades Aluno e Professor.  
 - [ ] (D) violação da Primeira Forma Normal na entidade Disciplina.  
 - [ ] (E) granularidade inadequada na entidade Aluno.
