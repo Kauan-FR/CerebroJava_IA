@@ -41,7 +41,7 @@ Durante a revisão de um modelo conceitual, identificou-se a entidade `Cliente` 
 Em relação a esse atributo, a avaliação correta é que ele
 
 - [ ] (A) viola a Primeira Forma Normal, por não ser atômico.  
-- [ ] (B) constitui um atributo derivado, cuja manutenção no modelo deve ser justificada.  
+- [x] (B) constitui um atributo derivado, cuja manutenção no modelo deve ser justificada.  
 - [ ] (C) caracteriza uma dependência multivalorada não trivial.  
 - [ ] (D) impede a definição da chave primária da entidade Cliente.  
 - [ ] (E) deve obrigatoriamente ser transformado em uma entidade fraca.
@@ -61,11 +61,11 @@ A área de negócio informou que um paciente pode agendar uma consulta sem que o
 
 Diante dessa informação, o modelo apresenta
 
-(A) uma entidade fraca indevidamente representada.  
-(B) uma cardinalidade mínima incompatível com a regra de negócio informada.  
-(C) um relacionamento ternário indevidamente decomposto.  
-(D) uma especialização total representada como parcial.  
-(E) uma agregação ausente entre Consulta e Medico.
+- [ ] (A) uma entidade fraca indevidamente representada.  
+- [ ] (B) uma cardinalidade mínima incompatível com a regra de negócio informada.  
+- [ ] (C) um relacionamento ternário indevidamente decomposto.  
+- [ ] (D) uma especialização total representada como parcial.  
+- [ ] (E) uma agregação ausente entre Consulta e Medico.
 
 ---
 
