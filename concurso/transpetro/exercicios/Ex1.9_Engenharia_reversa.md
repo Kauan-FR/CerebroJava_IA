@@ -118,7 +118,7 @@ AlunoDisciplina (ID_Aluno, ID_Disciplina, Nota)
 No modelo conceitual reconstruído, essa tabela corresponde a
 
 - [ ] (A) uma entidade fraca dependente de Aluno.  
-- [ ] (B) um relacionamento N:M entre Aluno e Disciplina, com atributo próprio.  
+- [x] (B) um relacionamento N:M entre Aluno e Disciplina, com atributo próprio.  
 - [ ] (C) uma especialização da entidade Aluno.  
 - [ ] (D) uma agregação entre Aluno e Disciplina.  
 - [ ] (E) um relacionamento ternário entre Aluno, Disciplina e Nota.
@@ -136,11 +136,11 @@ Empregado (Matricula, Nome, Matricula_Gerente)
 
 No modelo conceitual reconstruído, essa estrutura corresponde a
 
-(A) um relacionamento ternário.  
-(B) um autorrelacionamento na entidade Empregado.  
-(C) uma entidade fraca com relacionamento identificador.  
-(D) uma generalização com duas subclasses.  
-(E) uma dimensão de variação lenta do tipo 2.
+- [ ] (A) um relacionamento ternário.  
+- [ ] (B) um autorrelacionamento na entidade Empregado.  
+- [ ] (C) uma entidade fraca com relacionamento identificador.  
+- [ ] (D) uma generalização com duas subclasses.  
+- [ ] (E) uma dimensão de variação lenta do tipo 2.
 
 ---
 
