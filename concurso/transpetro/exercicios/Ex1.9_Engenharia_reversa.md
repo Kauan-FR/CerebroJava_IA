@@ -97,7 +97,7 @@ Após a engenharia reversa de um banco de dados legado, constatou-se que o model
 Diante desse resultado, é correto afirmar que
 
 - [ ] (A) a ferramenta executou o processo de forma incorreta, devendo ser substituída.  
-- [ ] (B) o modelo obtido reflete o banco existente, cabendo à equipe decidir sobre eventual normalização posterior.  
+- [x] (B) o modelo obtido reflete o banco existente, cabendo à equipe decidir sobre eventual normalização posterior.  
 - [ ] (C) a engenharia reversa normaliza automaticamente as estruturas obtidas até a Terceira Forma Normal.  
 - [ ] (D) o resultado indica que o banco de origem não possui chaves primárias definidas.  
 - [ ] (E) o processo deve ser reexecutado a partir do modelo conceitual original.
@@ -117,11 +117,11 @@ AlunoDisciplina (ID_Aluno, ID_Disciplina, Nota)
 
 No modelo conceitual reconstruído, essa tabela corresponde a
 
-(A) uma entidade fraca dependente de Aluno.  
-(B) um relacionamento N:M entre Aluno e Disciplina, com atributo próprio.  
-(C) uma especialização da entidade Aluno.  
-(D) uma agregação entre Aluno e Disciplina.  
-(E) um relacionamento ternário entre Aluno, Disciplina e Nota.
+- [ ] (A) uma entidade fraca dependente de Aluno.  
+- [ ] (B) um relacionamento N:M entre Aluno e Disciplina, com atributo próprio.  
+- [ ] (C) uma especialização da entidade Aluno.  
+- [ ] (D) uma agregação entre Aluno e Disciplina.  
+- [ ] (E) um relacionamento ternário entre Aluno, Disciplina e Nota.
 
 ---
 
