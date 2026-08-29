@@ -55,7 +55,7 @@ Uma equipe utiliza uma ferramenta que mantém o modelo de dados e o banco de dad
 Esse recurso é denominado
 
 - [ ] (A) engenharia reversa parcial.  
-- [ ] (B) round-trip engineering.  
+- [x] (B) round-trip engineering.  
 - [ ] (C) normalização automática.  
 - [ ] (D) replicação assíncrona.  
 - [ ] (E) particionamento lógico.
@@ -68,11 +68,11 @@ Ao executar a engenharia reversa de um banco de dados relacional, uma ferramenta
 
 A fonte primária dessas informações é
 
-(A) o catálogo do sistema (dicionário de dados).  
-(B) o log de transações do SGBD.  
-(C) o conteúdo das tuplas armazenadas.  
-(D) o plano de execução gerado pelo otimizador.  
-(E) o código-fonte das aplicações que acessam o banco.
+- [x] (A) o catálogo do sistema (dicionário de dados).  
+- [ ] (B) o log de transações do SGBD.  
+- [ ] (C) o conteúdo das tuplas armazenadas.  
+- [ ] (D) o plano de execução gerado pelo otimizador.  
+- [ ] (E) o código-fonte das aplicações que acessam o banco.
 
 ---
 
@@ -82,11 +82,11 @@ Durante a engenharia reversa de um sistema legado, constatou-se que nenhuma clá
 
 Nessa situação, a ferramenta de engenharia reversa
 
-(A) reconstruirá automaticamente todos os relacionamentos, com base nos valores armazenados.  
-(B) não conseguirá inferir os relacionamentos a partir do catálogo, exigindo análise complementar de nomenclatura, dados e documentação.  
-(C) rejeitará a execução do processo, por ausência de integridade referencial.  
-(D) converterá automaticamente as colunas de ligação em chaves primárias compostas.  
-(E) obterá os relacionamentos a partir do log de transações do SGBD.
+- [ ] (A) reconstruirá automaticamente todos os relacionamentos, com base nos valores armazenados.  
+- [ ] (B) não conseguirá inferir os relacionamentos a partir do catálogo, exigindo análise complementar de nomenclatura, dados e documentação.  
+- [ ] (C) rejeitará a execução do processo, por ausência de integridade referencial.  
+- [ ] (D) converterá automaticamente as colunas de ligação em chaves primárias compostas.  
+- [ ] (E) obterá os relacionamentos a partir do log de transações do SGBD.
 
 ---
 
