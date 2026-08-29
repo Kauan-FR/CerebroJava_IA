@@ -83,7 +83,7 @@ Durante a engenharia reversa de um sistema legado, constatou-se que nenhuma clá
 Nessa situação, a ferramenta de engenharia reversa
 
 - [ ] (A) reconstruirá automaticamente todos os relacionamentos, com base nos valores armazenados.  
-- [ ] (B) não conseguirá inferir os relacionamentos a partir do catálogo, exigindo análise complementar de nomenclatura, dados e documentação.  
+- [x] (B) não conseguirá inferir os relacionamentos a partir do catálogo, exigindo análise complementar de nomenclatura, dados e documentação.  
 - [ ] (C) rejeitará a execução do processo, por ausência de integridade referencial.  
 - [ ] (D) converterá automaticamente as colunas de ligação em chaves primárias compostas.  
 - [ ] (E) obterá os relacionamentos a partir do log de transações do SGBD.
@@ -96,11 +96,11 @@ Após a engenharia reversa de um banco de dados legado, constatou-se que o model
 
 Diante desse resultado, é correto afirmar que
 
-(A) a ferramenta executou o processo de forma incorreta, devendo ser substituída.  
-(B) o modelo obtido reflete o banco existente, cabendo à equipe decidir sobre eventual normalização posterior.  
-(C) a engenharia reversa normaliza automaticamente as estruturas obtidas até a Terceira Forma Normal.  
-(D) o resultado indica que o banco de origem não possui chaves primárias definidas.  
-(E) o processo deve ser reexecutado a partir do modelo conceitual original.
+- [ ] (A) a ferramenta executou o processo de forma incorreta, devendo ser substituída.  
+- [ ] (B) o modelo obtido reflete o banco existente, cabendo à equipe decidir sobre eventual normalização posterior.  
+- [ ] (C) a engenharia reversa normaliza automaticamente as estruturas obtidas até a Terceira Forma Normal.  
+- [ ] (D) o resultado indica que o banco de origem não possui chaves primárias definidas.  
+- [ ] (E) o processo deve ser reexecutado a partir do modelo conceitual original.
 
 ---
 
