@@ -137,7 +137,7 @@ Empregado (Matricula, Nome, Matricula_Gerente)
 No modelo conceitual reconstruído, essa estrutura corresponde a
 
 - [ ] (A) um relacionamento ternário.  
-- [ ] (B) um autorrelacionamento na entidade Empregado.  
+- [x] (B) um autorrelacionamento na entidade Empregado.  
 - [ ] (C) uma entidade fraca com relacionamento identificador.  
 - [ ] (D) uma generalização com duas subclasses.  
 - [ ] (E) uma dimensão de variação lenta do tipo 2.
