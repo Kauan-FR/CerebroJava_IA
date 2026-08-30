@@ -180,7 +180,7 @@ Esse conjunto de atividades caracteriza um processo de
 
 - [ ] (A) reengenharia.  
 - [ ] (B) engenharia reversa exclusivamente.  
-- [ ] (C) engenharia direta exclusivamente.  
+- [x] (C) engenharia direta exclusivamente.  
 - [ ] (D) desnormalização controlada.  
 - [ ] (E) migração de dados mestres.
 
@@ -192,11 +192,11 @@ O modelo de dados mantido pela equipe de arquitetura encontra-se desatualizado e
 
 O recurso adequado para identificar e incorporar essas diferenças ao modelo é a
 
-(A) comparação e sincronização de esquemas (schema compare).  
-(B) criação de índices sobre as tabelas alteradas.  
-(C) execução de backup incremental do banco.  
-(D) normalização das tabelas até a Forma Normal de Boyce-Codd.  
-(E) definição de dimensões conformadas.
+- [ ] (A) comparação e sincronização de esquemas (schema compare).  
+- [ ] (B) criação de índices sobre as tabelas alteradas.  
+- [ ] (C) execução de backup incremental do banco.  
+- [ ] (D) normalização das tabelas até a Forma Normal de Boyce-Codd.  
+- [ ] (E) definição de dimensões conformadas.
 
 ---
 
