@@ -206,7 +206,7 @@ Durante a engenharia reversa de um banco de dados sem restrições declaradas, u
 
 Essa técnica é denominada
 
-- [ ] (A) perfilamento de dados (data profiling).  
+- [x] (A) perfilamento de dados (data profiling).  
 - [ ] (B) modelagem dimensional.  
 - [ ] (C) controle de concorrência otimista.  
 - [ ] (D) tuning de consultas.  
@@ -220,11 +220,11 @@ Uma organização precisa migrar seu banco de dados de um SGBD para outro, de fa
 
 Uma sequência adequada de atividades, do ponto de vista de modelagem, consiste em
 
-(A) executar engenharia reversa do banco de origem, ajustar o modelo às características do SGBD de destino e executar engenharia direta.  
-(B) executar engenharia direta no banco de origem e engenharia reversa no banco de destino.  
-(C) copiar os arquivos físicos de dados do SGBD de origem para o de destino.  
-(D) normalizar o banco de destino até a Terceira Forma Normal antes de qualquer análise.  
-(E) executar o log de transações do banco de origem no SGBD de destino.
+- [ ] (A) executar engenharia reversa do banco de origem, ajustar o modelo às características do SGBD de destino e executar engenharia direta.  
+- [ ] (B) executar engenharia direta no banco de origem e engenharia reversa no banco de destino.  
+- [ ] (C) copiar os arquivos físicos de dados do SGBD de origem para o de destino.  
+- [ ] (D) normalizar o banco de destino até a Terceira Forma Normal antes de qualquer análise.  
+- [ ] (E) executar o log de transações do banco de origem no SGBD de destino.
 
 ---
 
