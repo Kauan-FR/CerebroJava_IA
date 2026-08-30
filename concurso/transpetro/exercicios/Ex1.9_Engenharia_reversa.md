@@ -164,11 +164,11 @@ Uma equipe realizou a engenharia reversa de um banco de dados e obteve o modelo 
 
 Esse resultado ocorre porque a engenharia reversa de banco de dados
 
-(A) descarta deliberadamente as regras de negócio identificadas no catálogo.  
-(B) recupera apenas o que está declarado nas estruturas do banco de dados.  
-(C) exige a execução prévia de um processo de normalização.  
-(D) depende da existência de um data warehouse corporativo.  
-(E) somente é aplicável a bancos de dados NoSQL.
+- [ ] (A) descarta deliberadamente as regras de negócio identificadas no catálogo.  
+- [ ] (B) recupera apenas o que está declarado nas estruturas do banco de dados.  
+- [ ] (C) exige a execução prévia de um processo de normalização.  
+- [ ] (D) depende da existência de um data warehouse corporativo.  
+- [ ] (E) somente é aplicável a bancos de dados NoSQL.
 
 ---
 
