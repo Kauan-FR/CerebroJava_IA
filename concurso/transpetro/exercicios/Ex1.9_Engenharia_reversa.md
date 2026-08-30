@@ -220,7 +220,7 @@ Uma organização precisa migrar seu banco de dados de um SGBD para outro, de fa
 
 Uma sequência adequada de atividades, do ponto de vista de modelagem, consiste em
 
-- [ ] (A) executar engenharia reversa do banco de origem, ajustar o modelo às características do SGBD de destino e executar engenharia direta.  
+- [x] (A) executar engenharia reversa do banco de origem, ajustar o modelo às características do SGBD de destino e executar engenharia direta.  
 - [ ] (B) executar engenharia direta no banco de origem e engenharia reversa no banco de destino.  
 - [ ] (C) copiar os arquivos físicos de dados do SGBD de origem para o de destino.  
 - [ ] (D) normalizar o banco de destino até a Terceira Forma Normal antes de qualquer análise.  
@@ -244,11 +244,11 @@ PessoaJuridica(ID_Pessoa, CNPJ, Razao_Social)
 
 No modelo conceitual reconstruído, essa estrutura indica
 
-(A) um relacionamento N:M entre as três tabelas.  
-(B) uma generalização/especialização, com Pessoa como superclasse.  
-(C) três entidades independentes, sem relacionamento entre si.  
-(D) uma agregação entre PessoaFisica e PessoaJuridica.  
-(E) uma dimensão degenerada do modelo dimensional.
+- [ ] (A) um relacionamento N:M entre as três tabelas.  
+- [ ] (B) uma generalização/especialização, com Pessoa como superclasse.  
+- [ ] (C) três entidades independentes, sem relacionamento entre si.  
+- [ ] (D) uma agregação entre PessoaFisica e PessoaJuridica.  
+- [ ] (E) uma dimensão degenerada do modelo dimensional.
 
 ---
 
