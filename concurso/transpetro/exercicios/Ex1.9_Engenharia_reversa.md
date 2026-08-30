@@ -150,11 +150,11 @@ Um banco de dados legado submetido a engenharia reversa possui tabelas denominad
 
 Em relação ao modelo obtido, é correto afirmar que ele
 
-(A) não poderá ser gerado, pois a ferramenta exige nomenclatura significativa.  
-(B) reproduzirá a estrutura corretamente, mas com baixa expressividade semântica, exigindo interpretação complementar.  
-(C) atribuirá automaticamente nomes significativos, com base no conteúdo das colunas.  
-(D) violará a Primeira Forma Normal em razão da nomenclatura adotada.  
-(E) será equivalente a um modelo conceitual validado pelas áreas de negócio.
+- [ ] (A) não poderá ser gerado, pois a ferramenta exige nomenclatura significativa.  
+- [ ] (B) reproduzirá a estrutura corretamente, mas com baixa expressividade semântica, exigindo interpretação complementar.  
+- [ ] (C) atribuirá automaticamente nomes significativos, com base no conteúdo das colunas.  
+- [ ] (D) violará a Primeira Forma Normal em razão da nomenclatura adotada.  
+- [ ] (E) será equivalente a um modelo conceitual validado pelas áreas de negócio.
 
 ---
 
