@@ -165,7 +165,7 @@ Uma equipe realizou a engenharia reversa de um banco de dados e obteve o modelo 
 Esse resultado ocorre porque a engenharia reversa de banco de dados
 
 - [ ] (A) descarta deliberadamente as regras de negócio identificadas no catálogo.  
-- [ ] (B) recupera apenas o que está declarado nas estruturas do banco de dados.  
+- [x] (B) recupera apenas o que está declarado nas estruturas do banco de dados.  
 - [ ] (C) exige a execução prévia de um processo de normalização.  
 - [ ] (D) depende da existência de um data warehouse corporativo.  
 - [ ] (E) somente é aplicável a bancos de dados NoSQL.
@@ -178,11 +178,11 @@ Uma organização decidiu modernizar um sistema legado. Para isso, obteve o mode
 
 Esse conjunto de atividades caracteriza um processo de
 
-(A) reengenharia.  
-(B) engenharia reversa exclusivamente.  
-(C) engenharia direta exclusivamente.  
-(D) desnormalização controlada.  
-(E) migração de dados mestres.
+- [ ] (A) reengenharia.  
+- [ ] (B) engenharia reversa exclusivamente.  
+- [ ] (C) engenharia direta exclusivamente.  
+- [ ] (D) desnormalização controlada.  
+- [ ] (E) migração de dados mestres.
 
 ---
 
