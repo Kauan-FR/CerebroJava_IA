@@ -192,7 +192,7 @@ O modelo de dados mantido pela equipe de arquitetura encontra-se desatualizado e
 
 O recurso adequado para identificar e incorporar essas diferenças ao modelo é a
 
-- [ ] (A) comparação e sincronização de esquemas (schema compare).  
+- [x] (A) comparação e sincronização de esquemas (schema compare).  
 - [ ] (B) criação de índices sobre as tabelas alteradas.  
 - [ ] (C) execução de backup incremental do banco.  
 - [ ] (D) normalização das tabelas até a Forma Normal de Boyce-Codd.  
