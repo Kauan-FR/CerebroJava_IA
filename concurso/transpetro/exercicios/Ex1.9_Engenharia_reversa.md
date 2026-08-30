@@ -206,11 +206,11 @@ Durante a engenharia reversa de um banco de dados sem restrições declaradas, u
 
 Essa técnica é denominada
 
-(A) perfilamento de dados (data profiling).  
-(B) modelagem dimensional.  
-(C) controle de concorrência otimista.  
-(D) tuning de consultas.  
-(E) mascaramento de dados.
+- [ ] (A) perfilamento de dados (data profiling).  
+- [ ] (B) modelagem dimensional.  
+- [ ] (C) controle de concorrência otimista.  
+- [ ] (D) tuning de consultas.  
+- [ ] (E) mascaramento de dados.
 
 ---
 
