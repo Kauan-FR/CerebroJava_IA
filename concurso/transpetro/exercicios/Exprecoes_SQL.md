@@ -326,11 +326,11 @@ Uma consulta SQL feita para exibir o nome do superior do superior de Ana retorna
 
 A expressão, em linguagem SQL, dessa consulta é
 
-- [ ] (A) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
+<font color="#00b050">- [ ] (A) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`</font>
 
 - [ ] (B) `SELECT c1.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
 
-- [x] (C) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.funcionario = c2.superior WHERE c1.funcionario = 'Ana';`
+- [x]<font color="#ff0000"> (C) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.funcionario = c2.superior WHERE c1.funcionario = 'Ana';`</font>
 
 - [ ] (D) `SELECT c2.funcionario FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
 
@@ -374,3 +374,11 @@ O resultado retornado é
 - [ ] (C) 5  
 - [ ] (D) 6  
 - [ ] (E) 25
+
+1. FROM        →  de onde vêm as linhas
+2. JOIN        →  quais linhas se combinam
+3. WHERE       →  quais linhas sobrevivem
+4. GROUP BY    →  como as linhas se agrupam
+5. HAVING      →  quais grupos sobrevivem
+6. SELECT      →  quais colunas saem
+7. ORDER BY    →  em que ordem
