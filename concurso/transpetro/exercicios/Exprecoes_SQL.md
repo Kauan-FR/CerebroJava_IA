@@ -104,6 +104,7 @@ A quantidade de linhas retornadas é
 <font color="#00b050">- [ ] (D) 7  </font>
 - [ ] (E) 8
 
+
 ---
 
 **5**
@@ -262,10 +263,13 @@ FROM   Produto, Categoria;
 O resultado retornado é
 
 - [ ] (A) 4  
-- [x] (B) 7  
+<font color="#ff0000">- [x] (B) 7  </font>
 - [ ] (C) 9  
-- [ ] (D) 12  
+<font color="#00b050">- [ ] (D) 12  </font>
 - [ ] (E) 16
+
+>[!fail] COUNT() tira o produto cartesiano
+>No produto cartesiano, **linhas multiplicam, colunas somam**. Cada linha de uma se combina com cada linha da outra.
 
 ---
 
