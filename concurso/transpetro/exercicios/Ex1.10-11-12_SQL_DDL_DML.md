@@ -232,7 +232,16 @@ O resultado retornado apresenta
 - [ ] (E) quatro linhas, referentes a todos os departamentos e ao valor nulo.
 
 >[!fail] `GROUP BY` e `HAVING`
+>|ID_Depto|Linhas|Passa em COUNT(*) > 1?|
+|---|---|---|
+|10|Ana, Carla → 2|✅|
+|20|Bruno → 1|❌|
+|30|Elisa → 1|❌|
+>|_(nulo)_|Diego → 1|❌|
 >
+>O `HAVING` existe justamente para descartar grupos, e é o que separa esta questão de um `GROUP BY` simples.
+>
+>Detalhe que vale saber, embora não decidisse aqui: o `GROUP BY` **agrupa os nulos juntos**, criando um grupo próprio. É a única situação em SQL onde nulos são tratados como iguais entre si.
 
 ---
 
@@ -264,11 +273,14 @@ SELECT Cidade FROM Fornecedor;
 
 Em relação ao resultado obtido, é correto afirmar que ele
 
-- [x] (A) apresenta todas as ocorrências das duas consultas, inclusive as repetidas.  
-- [ ] (B) elimina as linhas duplicadas entre as duas consultas.  
+<font color="#ff0000">- [x] (A) apresenta todas as ocorrências das duas consultas, inclusive as repetidas.  </font>
+<font color="#00b050">- [ ] (B) elimina as linhas duplicadas entre as duas consultas.  </font>
 - [ ] (C) retorna apenas as cidades presentes simultaneamente nas duas tabelas.  
 - [ ] (D) retorna apenas as cidades presentes na primeira tabela e ausentes na segunda.  
 - [ ] (E) combina cada linha da primeira consulta com cada linha da segunda.
+
+>[!fail] `UNION` 
+>
 
 ---
 
