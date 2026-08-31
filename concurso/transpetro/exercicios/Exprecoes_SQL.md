@@ -242,7 +242,7 @@ GROUP BY C.Nome;
 
 O resultado retornado apresenta
 
-- [ ] (A) Fixação com 2, Acessórios com 1 e Ferramentas com 0.  
+- [x] (A) Fixação com 2, Acessórios com 1 e Ferramentas com 0.  
 - [ ] (B) Fixação com 2, Acessórios com 1 e Ferramentas com 1.  
 - [ ] (C) Fixação com 2 e Acessórios com 1, apenas.  
 - [ ] (D) Fixação com 2, Acessórios com 1, Ferramentas com 0 e uma linha nula com 1.  
@@ -261,11 +261,11 @@ FROM   Produto, Categoria;
 
 O resultado retornado é
 
-(A) 4  
-(B) 7  
-(C) 9  
-(D) 12  
-(E) 16
+- [ ] (A) 4  
+- [x] (B) 7  
+- [ ] (C) 9  
+- [ ] (D) 12  
+- [ ] (E) 16
 
 ---
 
@@ -280,11 +280,11 @@ WHERE  Preco > (SELECT AVG(Preco) FROM Produto);
 
 O resultado retornado apresenta
 
-(A) Parafuso e Porca.  
-(B) Prego, apenas.  
-(C) Porca e Prego.  
-(D) Arruela, apenas.  
-(E) nenhuma linha.
+- [ ] (A) Parafuso e Porca.  
+- [ ] (B) Prego, apenas.  
+- [ ] (C) Porca e Prego.  
+- [ ] (D) Arruela, apenas.  
+- [ ] (E) nenhuma linha.
 
 ---
 
