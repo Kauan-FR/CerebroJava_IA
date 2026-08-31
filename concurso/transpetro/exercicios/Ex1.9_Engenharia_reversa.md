@@ -289,7 +289,7 @@ A engenharia reversa de bancos de dados apresenta finalidades bem delimitadas.
 - [ ] (A) documentação de sistemas legados sem modelo de dados disponível.  
 - [ ] (B) atualização de modelos desatualizados em relação ao ambiente em produção.  
 - [ ] (C) apoio à análise de impacto de alterações estruturais.  
-- [ ] (D) melhoria automática do desempenho das consultas executadas no banco.  
+- [x] (D) melhoria automática do desempenho das consultas executadas no banco.  
 - [ ] (E) obtenção de subsídios para processos de migração entre SGBDs.
 
 ---
@@ -300,8 +300,8 @@ Um analista listou informações que pretende obter por meio da engenharia rever
 
 **NÃO** é obtida diretamente por esse processo a
 
-(A) relação de tabelas e colunas existentes no banco.  
-(B) definição dos tipos de dados de cada coluna.  
-(C) intenção de negócio que motivou a criação de cada entidade.  
-(D) relação de chaves primárias e estrangeiras declaradas.  
-(E) relação de índices criados sobre as tabelas.
+- [ ] (A) relação de tabelas e colunas existentes no banco.  
+- [ ] (B) definição dos tipos de dados de cada coluna.  
+- [x] (C) intenção de negócio que motivou a criação de cada entidade.  
+- [ ] (D) relação de chaves primárias e estrangeiras declaradas.  
+- [ ] (E) relação de índices criados sobre as tabelas.
