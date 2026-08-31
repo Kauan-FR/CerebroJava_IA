@@ -309,7 +309,7 @@ A expressão, em linguagem SQL, dessa consulta é
 
 - [ ] (B) `SELECT e1.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
 
-- [ ] (C) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.empregado = e2.chefe WHERE e1.empregado = 'Ana';`
+- [x] (C) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.empregado = e2.chefe WHERE e1.empregado = 'Ana';`
 
 - [ ] (D) `SELECT e2.empregado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
 
@@ -323,11 +323,11 @@ Um analista precisa criar um objeto que apresente, de forma permanente e consult
 
 O comando adequado é
 
-(A) `CREATE TABLE`  
-(B) `CREATE VIEW`  
-(C) `CREATE INDEX`  
-(D) `INSERT INTO SELECT`  
-(E) `CREATE SEQUENCE`
+- [ ] (A) `CREATE TABLE`  
+- [ ] (B) `CREATE VIEW`  
+- [ ] (C) `CREATE INDEX`  
+- [ ] (D) `INSERT INTO SELECT`  
+- [ ] (E) `CREATE SEQUENCE`
 
 ---
 
