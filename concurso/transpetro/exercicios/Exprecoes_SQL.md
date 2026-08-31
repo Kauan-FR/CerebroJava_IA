@@ -221,11 +221,11 @@ RIGHT JOIN Categoria C ON P.ID_Categoria = C.ID_Categoria;
 
 O resultado retornado é
 
-(A) 2  
-(B) 3  
-(C) 4  
-(D) 5  
-(E) 6
+- [x] (A) 2  
+- [ ] (B) 3  
+- [ ] (C) 4  
+- [ ] (D) 5  
+- [ ] (E) 6
 
 ---
 
@@ -242,11 +242,11 @@ GROUP BY C.Nome;
 
 O resultado retornado apresenta
 
-(A) Fixação com 2, Acessórios com 1 e Ferramentas com 0.  
-(B) Fixação com 2, Acessórios com 1 e Ferramentas com 1.  
-(C) Fixação com 2 e Acessórios com 1, apenas.  
-(D) Fixação com 2, Acessórios com 1, Ferramentas com 0 e uma linha nula com 1.  
-(E) todas as categorias com 1.
+- [ ] (A) Fixação com 2, Acessórios com 1 e Ferramentas com 0.  
+- [ ] (B) Fixação com 2, Acessórios com 1 e Ferramentas com 1.  
+- [ ] (C) Fixação com 2 e Acessórios com 1, apenas.  
+- [ ] (D) Fixação com 2, Acessórios com 1, Ferramentas com 0 e uma linha nula com 1.  
+- [ ] (E) todas as categorias com 1.
 
 ---
 
