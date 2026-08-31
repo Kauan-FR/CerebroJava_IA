@@ -70,11 +70,11 @@ Uma equipe precisa remover todas as linhas de uma tabela com dez milhões de reg
 
 O comando adequado a essa finalidade é
 
-(A) `DELETE FROM tabela;`  
-(B) `TRUNCATE TABLE tabela;`  
-(C) `DROP TABLE tabela;`  
-(D) `ALTER TABLE tabela DROP COLUMN;`  
-(E) `UPDATE tabela SET coluna = NULL;`
+- [ ] (A) `DELETE FROM tabela;`  
+- [x] (B) `TRUNCATE TABLE tabela;`  
+- [ ] (C) `DROP TABLE tabela;`  
+- [ ] (D) `ALTER TABLE tabela DROP COLUMN;`  
+- [ ] (E) `UPDATE tabela SET coluna = NULL;`
 
 ---
 
@@ -84,11 +84,11 @@ Considere os comandos `DELETE`, `TRUNCATE` e `DROP`, aplicados a uma tabela exis
 
 Em relação a esses comandos, é correto afirmar que
 
-(A) os três removem a estrutura da tabela do banco de dados.  
-(B) `DELETE` remove linhas e admite cláusula `WHERE`; `TRUNCATE` remove todas as linhas e preserva a estrutura; `DROP` remove a tabela e sua estrutura.  
-(C) `TRUNCATE` admite cláusula `WHERE` para remoção seletiva de linhas.  
-(D) `DROP` preserva a estrutura da tabela, removendo apenas seu conteúdo.  
-(E) `DELETE` pertence à DDL, enquanto `TRUNCATE` e `DROP` pertencem à DML.
+- [ ] (A) os três removem a estrutura da tabela do banco de dados.  
+- [x] (B) `DELETE` remove linhas e admite cláusula `WHERE`; `TRUNCATE` remove todas as linhas e preserva a estrutura; `DROP` remove a tabela e sua estrutura.  
+- [ ] (C) `TRUNCATE` admite cláusula `WHERE` para remoção seletiva de linhas.  
+- [ ] (D) `DROP` preserva a estrutura da tabela, removendo apenas seu conteúdo.  
+- [ ] (E) `DELETE` pertence à DDL, enquanto `TRUNCATE` e `DROP` pertencem à DML.
 
 ---
 
@@ -98,11 +98,11 @@ Um analista precisa acrescentar uma restrição que garanta que a coluna `email`
 
 O comando adequado é
 
-(A) `ALTER TABLE Cliente ADD CONSTRAINT uk_email UNIQUE (email);`  
-(B) `UPDATE Cliente SET email = UNIQUE;`  
-(C) `CREATE UNIQUE Cliente (email);`  
-(D) `INSERT INTO Cliente CONSTRAINT UNIQUE (email);`  
-(E) `GRANT UNIQUE ON Cliente(email) TO PUBLIC;`
+- [ ] (A) `ALTER TABLE Cliente ADD CONSTRAINT uk_email UNIQUE (email);`  
+- [ ] (B) `UPDATE Cliente SET email = UNIQUE;`  
+- [ ] (C) `CREATE UNIQUE Cliente (email);`  
+- [ ] (D) `INSERT INTO Cliente CONSTRAINT UNIQUE (email);`  
+- [ ] (E) `GRANT UNIQUE ON Cliente(email) TO PUBLIC;`
 
 ---
 
