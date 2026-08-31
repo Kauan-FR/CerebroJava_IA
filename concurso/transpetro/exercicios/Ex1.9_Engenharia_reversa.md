@@ -245,7 +245,7 @@ PessoaJuridica(ID_Pessoa, CNPJ, Razao_Social)
 No modelo conceitual reconstruído, essa estrutura indica
 
 - [ ] (A) um relacionamento N:M entre as três tabelas.  
-- [ ] (B) uma generalização/especialização, com Pessoa como superclasse.  
+- [x] (B) uma generalização/especialização, com Pessoa como superclasse.  
 - [ ] (C) três entidades independentes, sem relacionamento entre si.  
 - [ ] (D) uma agregação entre PessoaFisica e PessoaJuridica.  
 - [ ] (E) uma dimensão degenerada do modelo dimensional.
