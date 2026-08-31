@@ -177,7 +177,7 @@ O comando que atende a esse requisito é
 
 - [ ] (A) `SELECT D.Nome FROM Departamento D INNER JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
 - [ ] (B) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
-- [ ] (C) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NOT NULL;`  
+- [x] (C) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NOT NULL;`  
 - [ ] (D) `SELECT D.Nome FROM Departamento D, Funcionario F WHERE D.ID_Depto = F.ID_Depto;`  
 - [ ] (E) `SELECT D.Nome FROM Departamento D WHERE D.ID_Depto IS NULL;`
 
@@ -198,11 +198,11 @@ HAVING COUNT(*) > 1;
 
 O resultado retornado apresenta
 
-(A) nenhuma linha.  
-(B) uma linha, referente ao departamento 10.  
-(C) duas linhas, referentes aos departamentos 10 e 20.  
-(D) três linhas, referentes aos departamentos 10, 20 e 30.  
-(E) quatro linhas, referentes a todos os departamentos e ao valor nulo.
+- [ ] (A) nenhuma linha.  
+- [ ] (B) uma linha, referente ao departamento 10.  
+- [ ] (C) duas linhas, referentes aos departamentos 10 e 20.  
+- [ ] (D) três linhas, referentes aos departamentos 10, 20 e 30.  
+- [ ] (E) quatro linhas, referentes a todos os departamentos e ao valor nulo.
 
 ---
 
