@@ -259,7 +259,7 @@ Uma equipe executou a engenharia reversa de um banco de dados NoSQL orientado a 
 Nesse cenário, a obtenção da estrutura dos dados depende
 
 - [ ] (A) da consulta ao catálogo do sistema, que registra o esquema de cada coleção.  
-- [ ] (B) da análise dos documentos armazenados, inferindo-se campos, tipos e variações estruturais. 
+- [x] (B) da análise dos documentos armazenados, inferindo-se campos, tipos e variações estruturais. 
 - [ ] (C) da leitura das restrições de integridade declaradas nas coleções.  
 - [ ] (D) da execução prévia da normalização das coleções até a Terceira Forma Normal.  
 - [ ] (E) da conversão obrigatória do banco para o modelo relacional.
@@ -272,11 +272,11 @@ Durante a engenharia reversa de um sistema de vendas, identificou-se a tabela `P
 
 A avaliação correta dessa estrutura, no modelo obtido, é que ela
 
-(A) indica desnormalização existente no banco de origem, que deve ser avaliada pela equipe.  
-(B) resulta de erro da ferramenta de engenharia reversa na leitura do catálogo.  
-(C) caracteriza violação da integridade de entidade da tabela Pedido.  
-(D) impede a reconstrução do relacionamento entre Pedido e Cliente.  
-(E) demonstra que a tabela Pedido não possui chave primária definida.
+- [ ] (A) indica desnormalização existente no banco de origem, que deve ser avaliada pela equipe.  
+- [ ] (B) resulta de erro da ferramenta de engenharia reversa na leitura do catálogo.  
+- [ ] (C) caracteriza violação da integridade de entidade da tabela Pedido.  
+- [ ] (D) impede a reconstrução do relacionamento entre Pedido e Cliente.  
+- [ ] (E) demonstra que a tabela Pedido não possui chave primária definida.
 
 ---
 
