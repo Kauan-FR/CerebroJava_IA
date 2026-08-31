@@ -362,7 +362,7 @@ Os comandos SQL são classificados segundo sua sublinguagem.
 - [ ] (A) `CREATE`  
 - [ ] (B) `ALTER`  
 - [ ] (C) `DROP`  
-- [ ] (D) `UPDATE`  
+- [x] (D) `UPDATE`  
 - [ ] (E) `TRUNCATE`
 
 ---
@@ -373,8 +373,8 @@ Um analista relacionou afirmações sobre comandos da linguagem SQL.
 
 **NÃO** é característica dos comandos da Linguagem de Manipulação de Dados (DML) a
 
-(A) inserção de novas linhas em tabelas existentes.  
-(B) alteração de valores armazenados em colunas de tabelas.  
-(C) remoção seletiva de linhas mediante condição.  
-(D) modificação da estrutura das tabelas do banco de dados.  
-(E) consulta aos dados armazenados nas tabelas.
+- [ ] (A) inserção de novas linhas em tabelas existentes.  
+- [ ] (B) alteração de valores armazenados em colunas de tabelas.  
+- [ ] (C) remoção seletiva de linhas mediante condição.  
+- [x] (D) modificação da estrutura das tabelas do banco de dados.  
+- [ ] (E) consulta aos dados armazenados nas tabelas.
