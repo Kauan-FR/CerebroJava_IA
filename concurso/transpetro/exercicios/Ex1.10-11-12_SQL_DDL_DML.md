@@ -62,7 +62,9 @@ Esse comando pertence à
 - [ ] (D) Linguagem de Controle de Transações (TCL).  
 - [ ] (E) Linguagem de consulta analítica multidimensional.
 
->[!fail] 
+>[!fail] `GRANT` é DCL
+>Todas essas clausulas estão indicando permissões
+>O comando que esta sendo executado é o `GRANT`. O `SELECT` e o `INSERT` não estão sendo executados
 
 ---
 
@@ -122,10 +124,16 @@ FROM Funcionario;
 O resultado retornado é, respectivamente,
 
 - [ ] (A) 5, 5 e 5  
-- [ ] (B) 5, 4 e 4  
-- [x] (C) 4, 4 e 4  
+<font color="#00b050">- [ ] (B) 5, 4 e 4  </font>
+<font color="#ff0000">- [x] (C) 4, 4 e 4  </font>
 - [ ] (D) 5, 5 e 4  
 - [ ] (E) 3, 3 e 3
+
+>[!fail] `COUNT`
+>|Forma|Conta|Resultado|
+|---|---|---|
+|`COUNT(*)`|**linhas**, nulos incluídos|5|
+>|`COUNT(coluna)`|**valores não nulos** daquela coluna|4 e 4|
 
 ---
 
@@ -164,10 +172,13 @@ INNER JOIN Departamento D ON F.ID_Depto = D.ID_Depto;
 A quantidade de linhas retornadas por esse comando é
 
 - [ ] (A) 2  
-- [ ] (B) 3  
-- [x] (C) 4  
+<font color="#00b050">- [ ] (B) 3  </font>
+<font color="#ff0000">- [x] (C) 4  </font>
 - [ ] (D) 5  
 - [ ] (E) 6
+
+>[!fail] `INNER JOIN`
+>
 
 ---
 
@@ -178,8 +189,8 @@ Um analista precisa listar os departamentos que não possuem nenhum funcionário
 O comando que atende a esse requisito é
 
 - [ ] (A) `SELECT D.Nome FROM Departamento D INNER JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
-- [ ] (B) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
-- [x] (C) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NOT NULL;`  
+<font color="#00b050">- [ ] (B) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  </font>
+<font color="#ff0000">- [x] (C) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NOT NULL;`  </font>
 - [ ] (D) `SELECT D.Nome FROM Departamento D, Funcionario F WHERE D.ID_Depto = F.ID_Depto;`  
 - [ ] (E) `SELECT D.Nome FROM Departamento D WHERE D.ID_Depto IS NULL;`
 
@@ -201,9 +212,9 @@ HAVING COUNT(*) > 1;
 O resultado retornado apresenta
 
 - [ ] (A) nenhuma linha.  
-- [ ] (B) uma linha, referente ao departamento 10.  
+<font color="#00b050">- [ ] (B) uma linha, referente ao departamento 10.  </font>
 - [ ] (C) duas linhas, referentes aos departamentos 10 e 20.  
-- [x] (D) três linhas, referentes aos departamentos 10, 20 e 30.  
+<font color="#ff0000">- [x] (D) três linhas, referentes aos departamentos 10, 20 e 30.  </font>
 - [ ] (E) quatro linhas, referentes a todos os departamentos e ao valor nulo.
 
 ---
