@@ -178,11 +178,23 @@ Uma organização decidiu modernizar um sistema legado. Para isso, obteve o mode
 
 Esse conjunto de atividades caracteriza um processo de
 
-- [ ] (A) reengenharia.  
+<font color="#00b050">- [ ] (A) reengenharia.  </font>
 - [ ] (B) engenharia reversa exclusivamente.  
-- [x] (C) engenharia direta exclusivamente.  
+<font color="#ff0000">- [x] (C) engenharia direta exclusivamente.  </font>
 - [ ] (D) desnormalização controlada.  
 - [ ] (E) migração de dados mestres.
+
+>[!fail] Reengenharia
+>**Engenharia Reversa =>** Obter o **MODELO** do banco existente
+>**Reengenharia =>** Promover **CORREÇÕES e MELHORIAS** no modelo
+>**Engenharia Direta =>** Gerou um **NOVO BANCO** do modelo revisado  
+>
+>|Termo|O que é|
+|---|---|
+|**Engenharia reversa**|banco → modelo|
+|**Engenharia direta (forward)**|modelo → banco|
+|**Reengenharia**|banco → modelo → _ajuste_ → banco novo|
+|**Round-trip**|sincronização contínua nos dois sentidos|
 
 ---
 
