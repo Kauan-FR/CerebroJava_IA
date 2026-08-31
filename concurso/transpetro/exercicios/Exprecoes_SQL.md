@@ -141,7 +141,7 @@ HAVING SUM(Valor) > 2000;
 O resultado retornado apresenta
 
 - [ ] (A) nenhuma linha.  
-- [ ] (B) uma linha, referente ao cliente 3.  
+- [x] (B) uma linha, referente ao cliente 3.  
 - [ ] (C) duas linhas, referentes aos clientes 1 e 3.  
 - [ ] (D) três linhas, referentes aos clientes 1, 3 e 6.  
 - [ ] (E) quatro linhas, incluindo a do valor nulo.
@@ -161,11 +161,11 @@ GROUP BY ID_Cliente;
 
 O resultado retornado apresenta
 
-(A) uma linha: cliente 1 com 2.  
-(B) duas linhas: cliente 1 com 1 e cliente 3 com 1.  
-(C) três linhas: cliente 1 com 1, cliente 3 com 1 e cliente 6 com 1.  
-(D) três linhas: cliente 1 com 2, cliente 3 com 2 e cliente 6 com 1.  
-(E) quatro linhas, incluindo a do cliente nulo.
+- [ ] (A) uma linha: cliente 1 com 2.  
+- [ ] (B) duas linhas: cliente 1 com 1 e cliente 3 com 1.  
+- [ ] (C) três linhas: cliente 1 com 1, cliente 3 com 1 e cliente 6 com 1.  
+- [ ] (D) três linhas: cliente 1 com 2, cliente 3 com 2 e cliente 6 com 1.  
+- [ ] (E) quatro linhas, incluindo a do cliente nulo.
 
 ---
 
