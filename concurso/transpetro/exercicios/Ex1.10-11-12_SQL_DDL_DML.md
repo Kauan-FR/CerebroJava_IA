@@ -235,7 +235,7 @@ SELECT Cidade FROM Fornecedor;
 Em relação ao resultado obtido, é correto afirmar que ele
 
 - [ ] (A) apresenta todas as ocorrências das duas consultas, inclusive as repetidas.  
-- [ ] (B) elimina as linhas duplicadas entre as duas consultas.  
+- [x] (B) elimina as linhas duplicadas entre as duas consultas.  
 - [ ] (C) retorna apenas as cidades presentes simultaneamente nas duas tabelas.  
 - [ ] (D) retorna apenas as cidades presentes na primeira tabela e ausentes na segunda.  
 - [ ] (E) combina cada linha da primeira consulta com cada linha da segunda.
@@ -248,11 +248,11 @@ Um analista precisa executar uma consulta que retorne todas as linhas de duas co
 
 O operador adequado é
 
-(A) `UNION`  
-(B) `UNION ALL`  
-(C) `INTERSECT`  
-(D) `EXCEPT`  
-(E) `CROSS JOIN`
+- [ ] (A) `UNION`  
+- [ ] (B) `UNION ALL`  
+- [ ] (C) `INTERSECT`  
+- [ ] (D) `EXCEPT`  
+- [ ] (E) `CROSS JOIN`
 
 ---
 
