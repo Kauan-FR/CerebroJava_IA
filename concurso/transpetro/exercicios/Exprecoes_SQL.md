@@ -333,7 +333,7 @@ WHERE  c2.superior = 'Carla';
 O resultado retornado apresenta
 
 - [ ] (A) Ana e Elisa.  
-- [ ] (B) Bruno, apenas.  
+- [x] (B) Bruno, apenas.  
 - [ ] (C) Ana, apenas.  
 - [ ] (D) Carla e Diego.  
 - [ ] (E) nenhuma linha.
@@ -351,8 +351,8 @@ FROM   Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario;
 
 O resultado retornado é
 
-(A) 3  
-(B) 4  
-(C) 5  
-(D) 6  
-(E) 25
+- [ ] (A) 3  
+- [x] (B) 4  
+- [ ] (C) 5  
+- [ ] (D) 6  
+- [ ] (E) 25
