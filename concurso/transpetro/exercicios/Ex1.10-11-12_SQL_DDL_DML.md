@@ -201,7 +201,7 @@ O resultado retornado apresenta
 - [ ] (A) nenhuma linha.  
 - [ ] (B) uma linha, referente ao departamento 10.  
 - [ ] (C) duas linhas, referentes aos departamentos 10 e 20.  
-- [ ] (D) três linhas, referentes aos departamentos 10, 20 e 30.  
+- [x] (D) três linhas, referentes aos departamentos 10, 20 e 30.  
 - [ ] (E) quatro linhas, referentes a todos os departamentos e ao valor nulo.
 
 ---
@@ -212,11 +212,11 @@ As cláusulas `WHERE` e `HAVING` são utilizadas para filtrar dados em consultas
 
 Uma diferença entre elas é que a cláusula `HAVING`
 
-(A) é aplicada antes do agrupamento, filtrando as linhas individuais.  
-(B) é aplicada após o agrupamento, permitindo filtrar com base em funções de agregação.  
-(C) só pode ser utilizada em conjunto com a cláusula `ORDER BY`.  
-(D) substitui obrigatoriamente a cláusula `WHERE` em consultas com `GROUP BY`.  
-(E) pertence à Linguagem de Definição de Dados, enquanto `WHERE` pertence à DML.
+- [ ] (A) é aplicada antes do agrupamento, filtrando as linhas individuais.  
+- [x] (B) é aplicada após o agrupamento, permitindo filtrar com base em funções de agregação.  
+- [ ] (C) só pode ser utilizada em conjunto com a cláusula `ORDER BY`.  
+- [ ] (D) substitui obrigatoriamente a cláusula `WHERE` em consultas com `GROUP BY`.  
+- [ ] (E) pertence à Linguagem de Definição de Dados, enquanto `WHERE` pertence à DML.
 
 ---
 
@@ -234,11 +234,11 @@ SELECT Cidade FROM Fornecedor;
 
 Em relação ao resultado obtido, é correto afirmar que ele
 
-(A) apresenta todas as ocorrências das duas consultas, inclusive as repetidas.  
-(B) elimina as linhas duplicadas entre as duas consultas.  
-(C) retorna apenas as cidades presentes simultaneamente nas duas tabelas.  
-(D) retorna apenas as cidades presentes na primeira tabela e ausentes na segunda.  
-(E) combina cada linha da primeira consulta com cada linha da segunda.
+- [ ] (A) apresenta todas as ocorrências das duas consultas, inclusive as repetidas.  
+- [ ] (B) elimina as linhas duplicadas entre as duas consultas.  
+- [ ] (C) retorna apenas as cidades presentes simultaneamente nas duas tabelas.  
+- [ ] (D) retorna apenas as cidades presentes na primeira tabela e ausentes na segunda.  
+- [ ] (E) combina cada linha da primeira consulta com cada linha da segunda.
 
 ---
 
