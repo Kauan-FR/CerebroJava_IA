@@ -105,7 +105,19 @@ A quantidade de linhas retornadas é
 - [ ] (E) 8
 
 >[!fail] LEFT JOIN duplica
->O `LEFT JOIN` garante que **todo cliente aparece pelo menos uma vez** — não que apareça _exatamente_ uma vez. Quem tem dois pedidos gera duas linhas.
+>O `LEFT JOIN` garante que **todo cliente aparece pelo menos uma vez** — não que apareça _exatamente_ uma
+>vez. Quem tem dois pedidos gera duas linhas.
+>
+>|Cliente|Pedidos que casam|Linhas geradas|
+|---|---|---|
+|Ana (1)|100, 101|**2**|
+|Bruno (2)|nenhum|1 (com nulos)|
+|Carla (3)|102, 103|**2**|
+|Diego (4)|nenhum|1 (com nulos)|
+|Elisa (5)|nenhum|1 (com nulos)|
+>|||**7**|
+>
+>Repare: os pedidos 104 (cliente 6, inexistente) e 105 (cliente nulo) não entram, porque o lado preservado é o esquerdo, e eles estão no direito sem par.
 
 ---
 
