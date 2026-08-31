@@ -180,7 +180,7 @@ WHERE  ID_Cliente NOT IN (SELECT ID_Cliente FROM Pedido);
 
 O resultado retornado apresenta
 
-- [ ] (A) Bruno, Diego e Elisa.  
+- [x] (A) Bruno, Diego e Elisa.  
 - [ ] (B) Ana e Carla.  
 - [ ] (C) todos os cinco clientes.  
 - [ ] (D) nenhuma linha.  
