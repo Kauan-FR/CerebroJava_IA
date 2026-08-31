@@ -324,7 +324,7 @@ Um analista precisa criar um objeto que apresente, de forma permanente e consult
 O comando adequado é
 
 - [ ] (A) `CREATE TABLE`  
-- [ ] (B) `CREATE VIEW`  
+- [x] (B) `CREATE VIEW`  
 - [ ] (C) `CREATE INDEX`  
 - [ ] (D) `INSERT INTO SELECT`  
 - [ ] (E) `CREATE SEQUENCE`
@@ -345,11 +345,11 @@ ORDER BY Nome DESC;
 
 Esse comando retorna os nomes dos clientes
 
-(A) cuja cidade termina com a letra S, ordenados de forma crescente.  
-(B) cuja cidade começa com a letra S, ordenados de forma decrescente.  
-(C) cuja cidade contém exatamente um caractere após a letra S.  
-(D) de todas as cidades, ordenados pela coluna Cidade.  
-(E) cuja cidade é igual ao literal 'S%', em ordem alfabética.
+- [ ] (A) cuja cidade termina com a letra S, ordenados de forma crescente.  
+- [x] (B) cuja cidade começa com a letra S, ordenados de forma decrescente.  
+- [ ] (C) cuja cidade contém exatamente um caractere após a letra S.  
+- [ ] (D) de todas as cidades, ordenados pela coluna Cidade.  
+- [ ] (E) cuja cidade é igual ao literal 'S%', em ordem alfabética.
 
 ---
 
@@ -359,11 +359,11 @@ Os comandos SQL são classificados segundo sua sublinguagem.
 
 **NÃO** é comando da Linguagem de Definição de Dados (DDL) o
 
-(A) `CREATE`  
-(B) `ALTER`  
-(C) `DROP`  
-(D) `UPDATE`  
-(E) `TRUNCATE`
+- [ ] (A) `CREATE`  
+- [ ] (B) `ALTER`  
+- [ ] (C) `DROP`  
+- [ ] (D) `UPDATE`  
+- [ ] (E) `TRUNCATE`
 
 ---
 
