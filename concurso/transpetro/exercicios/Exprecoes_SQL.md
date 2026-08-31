@@ -300,7 +300,7 @@ O resultado retornado apresenta
 
 - [ ] (A) Parafuso e Porca.  
 - [ ] (B) Prego, apenas.  
-- [x] (C) Porca e Prego.  
+<font color="#00b050">- [x] (C) Porca e Prego.  </font>
 - [ ] (D) Arruela, apenas.  
 - [ ] (E) nenhuma linha.
 
