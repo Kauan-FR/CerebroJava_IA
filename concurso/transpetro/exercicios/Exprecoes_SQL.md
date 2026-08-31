@@ -99,9 +99,9 @@ LEFT JOIN Pedido P ON C.ID_Cliente = P.ID_Cliente;
 A quantidade de linhas retornadas é
 
 - [ ] (A) 4  
-- [x] (B) 5  
+<font color="#ff0000">- [x] (B) 5  </font>
 - [ ] (C) 6  
-- [ ] (D) 7  
+<font color="#00b050">- [ ] (D) 7  </font>
 - [ ] (E) 8
 
 ---
@@ -180,10 +180,10 @@ WHERE  ID_Cliente NOT IN (SELECT ID_Cliente FROM Pedido);
 
 O resultado retornado apresenta
 
-- [x] (A) Bruno, Diego e Elisa.  
+<font color="#ff0000">- [x] (A) Bruno, Diego e Elisa.  </font>
 - [ ] (B) Ana e Carla.  
 - [ ] (C) todos os cinco clientes.  
-- [ ] (D) nenhuma linha.  
+<font color="#00b050">- [ ] (D) nenhuma linha.  </font>
 - [ ] (E) apenas Diego.
 
 ---
