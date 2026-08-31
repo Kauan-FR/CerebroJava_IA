@@ -163,7 +163,7 @@ O resultado retornado apresenta
 
 - [ ] (A) uma linha: cliente 1 com 2.  
 - [ ] (B) duas linhas: cliente 1 com 1 e cliente 3 com 1.  
-- [ ] (C) três linhas: cliente 1 com 1, cliente 3 com 1 e cliente 6 com 1.  
+- [x] (C) três linhas: cliente 1 com 1, cliente 3 com 1 e cliente 6 com 1.  
 - [ ] (D) três linhas: cliente 1 com 2, cliente 3 com 2 e cliente 6 com 1.  
 - [ ] (E) quatro linhas, incluindo a do cliente nulo.
 
@@ -180,11 +180,11 @@ WHERE  ID_Cliente NOT IN (SELECT ID_Cliente FROM Pedido);
 
 O resultado retornado apresenta
 
-(A) Bruno, Diego e Elisa.  
-(B) Ana e Carla.  
-(C) todos os cinco clientes.  
-(D) nenhuma linha.  
-(E) apenas Diego.
+- [ ] (A) Bruno, Diego e Elisa.  
+- [ ] (B) Ana e Carla.  
+- [ ] (C) todos os cinco clientes.  
+- [ ] (D) nenhuma linha.  
+- [ ] (E) apenas Diego.
 
 ---
 
