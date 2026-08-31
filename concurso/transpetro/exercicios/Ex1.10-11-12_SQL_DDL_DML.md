@@ -203,7 +203,10 @@ O comando que atende a esse requisito é
 - [ ] (E) `SELECT D.Nome FROM Departamento D WHERE D.ID_Depto IS NULL;`
 
 >[!fail] Departamento sem funcionario
->
+>O mecanismo, passo a passo:
+>1. `LEFT JOIN` traz **todos** os departamentos, tenham par ou nã
+>2. Vendas e TI casam; RH não casa e vem com todas as colunas de Funcionario **nulas**
+>3. `WHERE F.Matricula IS NULL` isola exatamente as linhas que não casaram → **RH**
 
 ---
 
@@ -227,6 +230,9 @@ O resultado retornado apresenta
 - [ ] (C) duas linhas, referentes aos departamentos 10 e 20.  
 <font color="#ff0000">- [x] (D) três linhas, referentes aos departamentos 10, 20 e 30.  </font>
 - [ ] (E) quatro linhas, referentes a todos os departamentos e ao valor nulo.
+
+>[!fail] `GROUP BY` e `HAVING`
+>
 
 ---
 
