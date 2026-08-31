@@ -121,7 +121,7 @@ O resultado retornado é, respectivamente,
 
 - [ ] (A) 5, 5 e 5  
 - [ ] (B) 5, 4 e 4  
-- [ ] (C) 4, 4 e 4  
+- [x] (C) 4, 4 e 4  
 - [ ] (D) 5, 5 e 4  
 - [ ] (E) 3, 3 e 3
 
@@ -139,11 +139,11 @@ SELECT AVG(Salario) FROM Funcionario;
 
 O valor retornado é
 
-(A) 3600  
-(B) 4000  
-(C) 4500  
-(D) 5000  
-(E) nulo, em razão da presença de valor nulo na coluna
+- [ ] (A) 3600  
+- [ ] (B) 4000  
+- [ ] (C) 4500  
+- [ ] (D) 5000  
+- [ ] (E) nulo, em razão da presença de valor nulo na coluna
 
 ---
 
