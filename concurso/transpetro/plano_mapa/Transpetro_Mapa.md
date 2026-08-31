@@ -37,9 +37,9 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 1.7 Modelagem dimensional
 - [x] 1.8 Avaliação de modelos de dados
 - [x] 1.9 Engenharia reversa de modelos
-- [ ] 1.10 SQL
-- [ ] 1.11 DDL
-- [ ] 1.12 DML
+- [x] 1.10 SQL
+- [x] 1.11 DDL
+- [x] 1.12 DML
 - [ ] 1.13 SGBD
 - [ ] 1.14 ACID
 - [ ] 1.15 Independência de dados
