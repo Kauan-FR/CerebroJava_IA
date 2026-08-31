@@ -234,8 +234,8 @@ SELECT Cidade FROM Fornecedor;
 
 Em relação ao resultado obtido, é correto afirmar que ele
 
-- [ ] (A) apresenta todas as ocorrências das duas consultas, inclusive as repetidas.  
-- [x] (B) elimina as linhas duplicadas entre as duas consultas.  
+- [x] (A) apresenta todas as ocorrências das duas consultas, inclusive as repetidas.  
+- [ ] (B) elimina as linhas duplicadas entre as duas consultas.  
 - [ ] (C) retorna apenas as cidades presentes simultaneamente nas duas tabelas.  
 - [ ] (D) retorna apenas as cidades presentes na primeira tabela e ausentes na segunda.  
 - [ ] (E) combina cada linha da primeira consulta com cada linha da segunda.
@@ -249,7 +249,7 @@ Um analista precisa executar uma consulta que retorne todas as linhas de duas co
 O operador adequado é
 
 - [ ] (A) `UNION`  
-- [ ] (B) `UNION ALL`  
+- [x] (B) `UNION ALL`  
 - [ ] (C) `INTERSECT`  
 - [ ] (D) `EXCEPT`  
 - [ ] (E) `CROSS JOIN`
@@ -268,11 +268,11 @@ UPDATE Produto SET Preco = Preco * 1.10;
 
 Em relação a esse comando, é correto afirmar que ele
 
-(A) será rejeitado, pois o comando `UPDATE` exige a cláusula `WHERE`.  
-(B) atualizará o preço de todas as linhas da tabela Produto.  
-(C) atualizará apenas a primeira linha da tabela Produto.  
-(D) criará uma nova coluna com os preços atualizados.  
-(E) removerá as linhas cujo preço seja nulo.
+- [ ] (A) será rejeitado, pois o comando `UPDATE` exige a cláusula `WHERE`.  
+- [x] (B) atualizará o preço de todas as linhas da tabela Produto.  
+- [ ] (C) atualizará apenas a primeira linha da tabela Produto.  
+- [ ] (D) criará uma nova coluna com os preços atualizados.  
+- [ ] (E) removerá as linhas cujo preço seja nulo.
 
 ---
 
@@ -282,11 +282,11 @@ Um analista precisa identificar os clientes que possuem ao menos um pedido regis
 
 O comando que atende a esse requisito é
 
-(A) `SELECT Nome FROM Cliente C WHERE EXISTS (SELECT 1 FROM Pedido P WHERE P.ID_Cliente = C.ID_Cliente);`  
-(B) `SELECT Nome FROM Cliente C WHERE NOT EXISTS (SELECT 1 FROM Pedido P WHERE P.ID_Cliente = C.ID_Cliente);`  
-(C) `SELECT Nome FROM Cliente C WHERE C.ID_Cliente IS NOT NULL;`  
-(D) `SELECT Nome FROM Cliente C, Pedido P;`  
-(E) `SELECT Nome FROM Cliente C WHERE C.ID_Cliente NOT IN (SELECT ID_Cliente FROM Pedido);`
+- [ ] (A) `SELECT Nome FROM Cliente C WHERE EXISTS (SELECT 1 FROM Pedido P WHERE P.ID_Cliente = C.ID_Cliente);`  
+- [ ] (B) `SELECT Nome FROM Cliente C WHERE NOT EXISTS (SELECT 1 FROM Pedido P WHERE P.ID_Cliente = C.ID_Cliente);`  
+- [ ] (C) `SELECT Nome FROM Cliente C WHERE C.ID_Cliente IS NOT NULL;`  
+- [ ] (D) `SELECT Nome FROM Cliente C, Pedido P;`  
+- [ ] (E) `SELECT Nome FROM Cliente C WHERE C.ID_Cliente NOT IN (SELECT ID_Cliente FROM Pedido);`
 
 ---
 
