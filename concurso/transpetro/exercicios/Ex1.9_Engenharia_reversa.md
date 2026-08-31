@@ -272,7 +272,7 @@ Durante a engenharia reversa de um sistema de vendas, identificou-se a tabela `P
 
 A avaliação correta dessa estrutura, no modelo obtido, é que ela
 
-- [ ] (A) indica desnormalização existente no banco de origem, que deve ser avaliada pela equipe.  
+- [x] (A) indica desnormalização existente no banco de origem, que deve ser avaliada pela equipe.  
 - [ ] (B) resulta de erro da ferramenta de engenharia reversa na leitura do catálogo.  
 - [ ] (C) caracteriza violação da integridade de entidade da tabela Pedido.  
 - [ ] (D) impede a reconstrução do relacionamento entre Pedido e Cliente.  
@@ -286,11 +286,11 @@ A engenharia reversa de bancos de dados apresenta finalidades bem delimitadas.
 
 **NÃO** constitui finalidade da engenharia reversa de banco de dados a
 
-(A) documentação de sistemas legados sem modelo de dados disponível.  
-(B) atualização de modelos desatualizados em relação ao ambiente em produção.  
-(C) apoio à análise de impacto de alterações estruturais.  
-(D) melhoria automática do desempenho das consultas executadas no banco.  
-(E) obtenção de subsídios para processos de migração entre SGBDs.
+- [ ] (A) documentação de sistemas legados sem modelo de dados disponível.  
+- [ ] (B) atualização de modelos desatualizados em relação ao ambiente em produção.  
+- [ ] (C) apoio à análise de impacto de alterações estruturais.  
+- [ ] (D) melhoria automática do desempenho das consultas executadas no banco.  
+- [ ] (E) obtenção de subsídios para processos de migração entre SGBDs.
 
 ---
 
