@@ -269,3 +269,24 @@ preco_2024, preco_2025, preco_2026
  → qual critério ferido?
 Cliente, Comprador e Consumidor
  juntos → problema de quê?
+
+---
+
+## 1.9_Engenharia_reversa
+
+1.9 → ?
+
+banco → modelo = ?
+modelo → banco = ?
+corrige e regera = ?
+sincroniza nos 2 sentidos = ?
+
+reengenharia tem quantos passos?
+
+banco sem restrições:
+ analisar conteúdo pra inferir chave = ?
+modelo desatualizado vs produção:
+ recurso = ?
+
+engenharia reversa recupera a
+INTENÇÃO DE NEGÓCIO da entidade?
