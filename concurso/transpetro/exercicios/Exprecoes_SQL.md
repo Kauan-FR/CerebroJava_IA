@@ -282,7 +282,7 @@ O resultado retornado apresenta
 
 - [ ] (A) Parafuso e Porca.  
 - [ ] (B) Prego, apenas.  
-- [ ] (C) Porca e Prego.  
+- [x] (C) Porca e Prego.  
 - [ ] (D) Arruela, apenas.  
 - [ ] (E) nenhuma linha.
 
