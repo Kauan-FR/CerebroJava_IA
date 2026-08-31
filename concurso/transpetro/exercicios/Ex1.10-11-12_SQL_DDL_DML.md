@@ -98,7 +98,7 @@ Um analista precisa acrescentar uma restrição que garanta que a coluna `email`
 
 O comando adequado é
 
-- [ ] (A) `ALTER TABLE Cliente ADD CONSTRAINT uk_email UNIQUE (email);`  
+- [x] (A) `ALTER TABLE Cliente ADD CONSTRAINT uk_email UNIQUE (email);`  
 - [ ] (B) `UPDATE Cliente SET email = UNIQUE;`  
 - [ ] (C) `CREATE UNIQUE Cliente (email);`  
 - [ ] (D) `INSERT INTO Cliente CONSTRAINT UNIQUE (email);`  
@@ -119,11 +119,11 @@ FROM Funcionario;
 
 O resultado retornado é, respectivamente,
 
-(A) 5, 5 e 5  
-(B) 5, 4 e 4  
-(C) 4, 4 e 4  
-(D) 5, 5 e 4  
-(E) 3, 3 e 3
+- [ ] (A) 5, 5 e 5  
+- [ ] (B) 5, 4 e 4  
+- [ ] (C) 4, 4 e 4  
+- [ ] (D) 5, 5 e 4  
+- [ ] (E) 3, 3 e 3
 
 ---
 
