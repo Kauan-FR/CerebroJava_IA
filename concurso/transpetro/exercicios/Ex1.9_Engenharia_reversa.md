@@ -258,11 +258,11 @@ Uma equipe executou a engenharia reversa de um banco de dados NoSQL orientado a 
 
 Nesse cenário, a obtenção da estrutura dos dados depende
 
-(A) da consulta ao catálogo do sistema, que registra o esquema de cada coleção.  
-(B) da análise dos documentos armazenados, inferindo-se campos, tipos e variações estruturais.  
-(C) da leitura das restrições de integridade declaradas nas coleções.  
-(D) da execução prévia da normalização das coleções até a Terceira Forma Normal.  
-(E) da conversão obrigatória do banco para o modelo relacional.
+- [ ] (A) da consulta ao catálogo do sistema, que registra o esquema de cada coleção.  
+- [ ] (B) da análise dos documentos armazenados, inferindo-se campos, tipos e variações estruturais. 
+- [ ] (C) da leitura das restrições de integridade declaradas nas coleções.  
+- [ ] (D) da execução prévia da normalização das coleções até a Terceira Forma Normal.  
+- [ ] (E) da conversão obrigatória do banco para o modelo relacional.
 
 ---
 
