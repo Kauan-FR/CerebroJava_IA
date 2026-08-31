@@ -104,6 +104,8 @@ A quantidade de linhas retornadas é
 <font color="#00b050">- [ ] (D) 7  </font>
 - [ ] (E) 8
 
+>[!fail] LEFT JOIN duplica
+>O `LEFT JOIN` garante que **todo cliente aparece pelo menos uma vez** — não que apareça _exatamente_ uma vez. Quem tem dois pedidos gera duas linhas.
 
 ---
 
