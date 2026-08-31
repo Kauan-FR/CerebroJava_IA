@@ -280,7 +280,10 @@ Em relação ao resultado obtido, é correto afirmar que ele
 - [ ] (E) combina cada linha da primeira consulta com cada linha da segunda.
 
 >[!fail] `UNION` 
->
+>|Operador|Duplicatas|Custo|
+|---|---|---|
+|`UNION`|**elimina**|maior — precisa ordenar e comparar tudo|
+|`UNION ALL`|**mantém**|menor — só empilha|
 
 ---
 
@@ -347,15 +350,21 @@ Uma consulta SQL feita para exibir o nome do chefe do chefe de Ana retorna o nom
 
 A expressão, em linguagem SQL, dessa consulta é
 
-- [ ] (A) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
+<font color="#00b050">- [ ] (A) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`</font>
 
 - [ ] (B) `SELECT e1.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
 
-- [x] (C) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.empregado = e2.chefe WHERE e1.empregado = 'Ana';`
+<font color="#ff0000">- [x] (C) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.empregado = e2.chefe WHERE e1.empregado = 'Ana';`</font>
 
 - [ ] (D) `SELECT e2.empregado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
 
 - [ ] (E) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.chefe WHERE e1.empregado = 'Ana';`
+
+>[!fail] Autojunção 
+>Execução:
+>1. `e1` onde `empregado = 'Ana'` → linha (Ana, Bruno). Logo `e1.chefe = 'Bruno'`
+>2. `e1.chefe = e2.empregado` → procura em `e2` a linha cujo empregado é **Bruno** → (Bruno, Diego)
+>3. `SELECT e2.chefe` → **Diego** ✓
 
 ---
 
