@@ -308,15 +308,15 @@ Uma consulta SQL feita para exibir o nome do superior do superior de Ana retorna
 
 A expressão, em linguagem SQL, dessa consulta é
 
-(A) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
+- [ ] (A) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
 
-(B) `SELECT c1.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
+- [ ] (B) `SELECT c1.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
 
-(C) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.funcionario = c2.superior WHERE c1.funcionario = 'Ana';`
+- [x] (C) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.funcionario = c2.superior WHERE c1.funcionario = 'Ana';`
 
-(D) `SELECT c2.funcionario FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
+- [ ] (D) `SELECT c2.funcionario FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
 
-(E) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.superior WHERE c1.funcionario = 'Ana';`
+- [ ] (E) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.superior WHERE c1.funcionario = 'Ana';`
 
 ---
 
@@ -332,11 +332,11 @@ WHERE  c2.superior = 'Carla';
 
 O resultado retornado apresenta
 
-(A) Ana e Elisa.  
-(B) Bruno, apenas.  
-(C) Ana, apenas.  
-(D) Carla e Diego.  
-(E) nenhuma linha.
+- [ ] (A) Ana e Elisa.  
+- [ ] (B) Bruno, apenas.  
+- [ ] (C) Ana, apenas.  
+- [ ] (D) Carla e Diego.  
+- [ ] (E) nenhuma linha.
 
 ---
 
