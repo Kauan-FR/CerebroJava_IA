@@ -310,13 +310,13 @@ O resultado retornado apresenta
 
 **Cargo**
 
-|Funcionario|Superior|
-|---|---|
-|Ana|Bruno|
-|Bruno|Carla|
-|Carla|Diego|
-|Elisa|Bruno|
-|Fabio|Ana|
+| Funcionario | Superior |
+| ----------- | -------- |
+| Ana         | Bruno    |
+| Bruno       | Carla    |
+| Carla       | Diego    |
+| Elisa       | Bruno    |
+| Fabio       | Ana      |
 
 ---
 
