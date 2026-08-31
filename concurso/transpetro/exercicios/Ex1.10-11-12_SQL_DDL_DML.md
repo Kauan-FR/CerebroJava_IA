@@ -57,10 +57,12 @@ GRANT SELECT, INSERT ON Cliente TO analista_vendas;
 Esse comando pertence à
 
 - [ ] (A) Linguagem de Definição de Dados (DDL).  
-- [x] (B) Linguagem de Manipulação de Dados (DML).  
-- [ ] (C) Linguagem de Controle de Dados (DCL).  
+<font color="#ff0000">- [x] (B) Linguagem de Manipulação de Dados (DML).  </font>
+<font color="#00b050">- [ ] (C) Linguagem de Controle de Dados (DCL).  </font>
 - [ ] (D) Linguagem de Controle de Transações (TCL).  
 - [ ] (E) Linguagem de consulta analítica multidimensional.
+
+>[!fail] 
 
 ---
 
