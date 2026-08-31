@@ -178,7 +178,15 @@ A quantidade de linhas retornadas por esse comando é
 - [ ] (E) 6
 
 >[!fail] `INNER JOIN`
+>|Funcionário|ID_Depto|Existe em Departamento?|Entra?|
+|---|---|---|---|
+|Ana|10|sim (Vendas)|✅|
+|Bruno|20|sim (TI)|✅|
+|Carla|10|sim (Vendas)|✅|
+|Diego|_(nulo)_|nulo não casa com nada|❌|
+>|Elisa|30|**30 não existe** na tabela|❌|
 >
+>Duas exclusões, por motivos diferentes. O Diego sai porque **nulo nunca é igual a nada** — nem a outro nulo. A Elisa sai porque o departamento 30 simplesmente não está cadastrado
 
 ---
 
@@ -193,6 +201,9 @@ O comando que atende a esse requisito é
 <font color="#ff0000">- [x] (C) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NOT NULL;`  </font>
 - [ ] (D) `SELECT D.Nome FROM Departamento D, Funcionario F WHERE D.ID_Depto = F.ID_Depto;`  
 - [ ] (E) `SELECT D.Nome FROM Departamento D WHERE D.ID_Depto IS NULL;`
+
+>[!fail] Departamento sem funcionario
+>
 
 ---
 
