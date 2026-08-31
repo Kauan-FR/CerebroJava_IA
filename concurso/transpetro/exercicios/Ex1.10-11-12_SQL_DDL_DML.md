@@ -163,7 +163,7 @@ A quantidade de linhas retornadas por esse comando é
 
 - [ ] (A) 2  
 - [ ] (B) 3  
-- [ ] (C) 4  
+- [x] (C) 4  
 - [ ] (D) 5  
 - [ ] (E) 6
 
@@ -175,11 +175,11 @@ Um analista precisa listar os departamentos que não possuem nenhum funcionário
 
 O comando que atende a esse requisito é
 
-(A) `SELECT D.Nome FROM Departamento D INNER JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
-(B) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
-(C) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NOT NULL;`  
-(D) `SELECT D.Nome FROM Departamento D, Funcionario F WHERE D.ID_Depto = F.ID_Depto;`  
-(E) `SELECT D.Nome FROM Departamento D WHERE D.ID_Depto IS NULL;`
+- [ ] (A) `SELECT D.Nome FROM Departamento D INNER JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
+- [ ] (B) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NULL;`  
+- [ ] (C) `SELECT D.Nome FROM Departamento D LEFT JOIN Funcionario F ON D.ID_Depto = F.ID_Depto WHERE F.Matricula IS NOT NULL;`  
+- [ ] (D) `SELECT D.Nome FROM Departamento D, Funcionario F WHERE D.ID_Depto = F.ID_Depto;`  
+- [ ] (E) `SELECT D.Nome FROM Departamento D WHERE D.ID_Depto IS NULL;`
 
 ---
 
