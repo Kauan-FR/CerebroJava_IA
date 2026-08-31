@@ -282,7 +282,7 @@ Um analista precisa identificar os clientes que possuem ao menos um pedido regis
 
 O comando que atende a esse requisito é
 
-- [ ] (A) `SELECT Nome FROM Cliente C WHERE EXISTS (SELECT 1 FROM Pedido P WHERE P.ID_Cliente = C.ID_Cliente);`  
+- [x] (A) `SELECT Nome FROM Cliente C WHERE EXISTS (SELECT 1 FROM Pedido P WHERE P.ID_Cliente = C.ID_Cliente);`  
 - [ ] (B) `SELECT Nome FROM Cliente C WHERE NOT EXISTS (SELECT 1 FROM Pedido P WHERE P.ID_Cliente = C.ID_Cliente);`  
 - [ ] (C) `SELECT Nome FROM Cliente C WHERE C.ID_Cliente IS NOT NULL;`  
 - [ ] (D) `SELECT Nome FROM Cliente C, Pedido P;`  
@@ -305,15 +305,15 @@ Uma consulta SQL feita para exibir o nome do chefe do chefe de Ana retorna o nom
 
 A expressão, em linguagem SQL, dessa consulta é
 
-(A) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
+- [ ] (A) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
 
-(B) `SELECT e1.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
+- [ ] (B) `SELECT e1.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
 
-(C) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.empregado = e2.chefe WHERE e1.empregado = 'Ana';`
+- [ ] (C) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.empregado = e2.chefe WHERE e1.empregado = 'Ana';`
 
-(D) `SELECT e2.empregado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
+- [ ] (D) `SELECT e2.empregado FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.empregado WHERE e1.empregado = 'Ana';`
 
-(E) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.chefe WHERE e1.empregado = 'Ana';`
+- [ ] (E) `SELECT e2.chefe FROM Empregado e1 INNER JOIN Empregado e2 ON e1.chefe = e2.chefe WHERE e1.empregado = 'Ana';`
 
 ---
 
