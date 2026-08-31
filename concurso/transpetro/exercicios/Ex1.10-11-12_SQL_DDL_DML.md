@@ -141,7 +141,7 @@ O valor retornado é
 
 - [ ] (A) 3600  
 - [ ] (B) 4000  
-- [ ] (C) 4500  
+- [x] (C) 4500  
 - [ ] (D) 5000  
 - [ ] (E) nulo, em razão da presença de valor nulo na coluna
 
@@ -161,11 +161,11 @@ INNER JOIN Departamento D ON F.ID_Depto = D.ID_Depto;
 
 A quantidade de linhas retornadas por esse comando é
 
-(A) 2  
-(B) 3  
-(C) 4  
-(D) 5  
-(E) 6
+- [ ] (A) 2  
+- [ ] (B) 3  
+- [ ] (C) 4  
+- [ ] (D) 5  
+- [ ] (E) 6
 
 ---
 
