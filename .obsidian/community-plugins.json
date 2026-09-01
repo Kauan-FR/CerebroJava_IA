@@ -3,7 +3,6 @@
   "obsidian42-brat",
   "claude-code-ide",
   "ninja-cursor",
-  "editing-toolbar",
   "obsidian-style-settings",
   "templater-obsidian",
   "table-editor-obsidian",
@@ -11,5 +10,6 @@
   "url-into-selection",
   "omnisearch",
   "obsidian-admonition",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "editing-toolbar"
 ]

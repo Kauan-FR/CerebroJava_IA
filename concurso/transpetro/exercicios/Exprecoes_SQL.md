@@ -310,16 +310,70 @@ O resultado retornado apresenta
 
 **Cargo**
 
-|Funcionario|Superior|
-|---|---|
-|Ana|Bruno|
-|Bruno|Carla|
-|Carla|Diego|
-|Elisa|Bruno|
-|Fabio|Ana|
+| Funcionario | Superior |
+| ----------- | -------- |
+| Ana         | Bruno    |
+| Bruno       | Carla    |
+| Carla       | Diego    |
+| Elisa       | Bruno    |
+| Fabio       | Ana      |
 
 ---
 
+**13**
+
+Uma consulta SQL feita para exibir o nome do superior do superior de Ana retorna o nome Carla.
+
+A expressão, em linguagem SQL, dessa consulta é
+
+(A) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
+
+(B) `SELECT c1.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
+
+(C) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.funcionario = c2.superior WHERE c1.funcionario = 'Ana';`
+
+(D) `SELECT c2.funcionario FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario WHERE c1.funcionario = 'Ana';`
+
+(E) `SELECT c2.superior FROM Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.superior WHERE c1.funcionario = 'Ana';`
+
+---
+
+**14**
+
+sql
+
+```sql
+SELECT c1.funcionario
+FROM   Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario
+WHERE  c2.superior = 'Carla';
+```
+
+O resultado retornado apresenta
+
+(A) Ana e Elisa.  
+(B) Bruno, apenas.  
+(C) Ana, apenas.  
+(D) Carla e Diego.  
+(E) nenhuma linha.
+
+---
+
+**15**
+
+sql
+
+```sql
+SELECT COUNT(*)
+FROM   Cargo c1 INNER JOIN Cargo c2 ON c1.superior = c2.funcionario;
+```
+
+O resultado retornado é
+
+(A) 3  
+(B) 4  
+(C) 5  
+(D) 6  
+(E) 25
 
 1. FROM        →  de onde vêm as linhas
 2. JOIN        →  quais linhas se combinam
