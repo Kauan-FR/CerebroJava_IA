@@ -375,10 +375,3 @@ O resultado retornado é
 (D) 6  
 (E) 25
 
-1. FROM        →  de onde vêm as linhas
-2. JOIN        →  quais linhas se combinam
-3. WHERE       →  quais linhas sobrevivem
-4. GROUP BY    →  como as linhas se agrupam
-5. HAVING      →  quais grupos sobrevivem
-6. SELECT      →  quais colunas saem
-7. ORDER BY    →  em que ordem
