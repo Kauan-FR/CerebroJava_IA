@@ -70,7 +70,7 @@ A descrição correta das quatro propriedades ACID é:
 
 - [ ] (A) Atomicidade: o banco permanece em estado válido após a transação. Consistência: a transação é executada integralmente ou não é executada. Isolamento: os efeitos da transação são permanentes. Durabilidade: transações simultâneas não interferem entre si.
 
-- [ ] (B) Atomicidade: a transação é executada integralmente ou não é executada. Consistência: o banco permanece em estado válido, respeitando as restrições definidas. Isolamento: transações simultâneas não interferem entre si. Durabilidade: os efeitos da transação confirmada são permanentes.
+- [x] (B) Atomicidade: a transação é executada integralmente ou não é executada. Consistência: o banco permanece em estado válido, respeitando as restrições definidas. Isolamento: transações simultâneas não interferem entre si. Durabilidade: os efeitos da transação confirmada são permanentes.
 
 - [ ] (C) Atomicidade: transações simultâneas não interferem entre si. Consistência: a transação é dividida em subtransações menores. Isolamento: o banco permanece em estado válido. Durabilidade: a transação é executada integralmente ou não é executada.
 
@@ -84,11 +84,11 @@ A descrição correta das quatro propriedades ACID é:
 
 Os comandos `COMMIT`, `ROLLBACK` e `SAVEPOINT` pertencem à
 
-(A) Linguagem de Definição de Dados (DDL).  
-(B) Linguagem de Manipulação de Dados (DML).  
-(C) Linguagem de Controle de Dados (DCL).  
-(D) Linguagem de Controle de Transações (TCL).  
-(E) Linguagem de consulta multidimensional.
+- [ ] (A) Linguagem de Definição de Dados (DDL).  
+- [ ] (B) Linguagem de Manipulação de Dados (DML).  
+- [ ] (C) Linguagem de Controle de Dados (DCL).  
+- [ ] (D) Linguagem de Controle de Transações (TCL).  
+- [ ] (E) Linguagem de consulta multidimensional.
 
 ---
 
