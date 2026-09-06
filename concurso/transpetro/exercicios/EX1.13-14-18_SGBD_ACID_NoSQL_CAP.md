@@ -13,7 +13,7 @@ Tipo:
 Em um Sistema Gerenciador de Banco de Dados (SGBD), a independência de dados física caracteriza-se por permitir que
 
 - [ ] (A) alterações no esquema conceitual não afetem as aplicações existentes.  
-- [ ] (B) alterações na forma de armazenamento não afetem o esquema conceitual nem as aplicações.  
+- [x] (B) alterações na forma de armazenamento não afetem o esquema conceitual nem as aplicações.  
 - [ ] (C) as chaves estrangeiras sejam declaradas sem tabela referenciada.  
 - [ ] (D) as transações sejam executadas sem controle de concorrência.  
 - [ ] (E) os metadados sejam armazenados fora do catálogo do sistema.
@@ -26,11 +26,11 @@ Uma das funções essenciais de um SGBD é assegurar que, após a confirmação 
 
 O recurso utilizado pelo SGBD para viabilizar essa garantia é o(a)
 
-(A) log de transações.  
-(B) catálogo do sistema.  
-(C) plano de execução do otimizador.  
-(D) índice composto sobre a chave primária.  
-(E) área de estágio do processo de ETL.
+- [ ] (A) log de transações.  
+- [x] (B) catálogo do sistema.  
+- [ ] (C) plano de execução do otimizador.  
+- [ ] (D) índice composto sobre a chave primária.  
+- [ ] (E) área de estágio do processo de ETL.
 
 ---
 
@@ -40,11 +40,11 @@ Uma transação bancária transfere R$ 500,00 da conta A para a conta B, executa
 
 A propriedade ACID que assegura esse comportamento é a
 
-(A) atomicidade.  
-(B) consistência.  
-(C) isolamento.  
-(D) durabilidade.  
-(E) concorrência.
+- [x] (A) atomicidade.  
+- [ ] (B) consistência.  
+- [ ] (C) isolamento.  
+- [ ] (D) durabilidade.  
+- [ ] (E) concorrência.
 
 ---
 
@@ -54,11 +54,11 @@ Duas transações simultâneas acessam a mesma tabela. O SGBD assegura que cada 
 
 A propriedade ACID correspondente é a
 
-(A) atomicidade.  
-(B) consistência.  
-(C) isolamento.  
-(D) durabilidade.  
-(E) integridade referencial.
+- [ ] (A) atomicidade.  
+- [ ] (B) consistência.  
+- [x] (C) isolamento.  
+- [ ] (D) durabilidade.  
+- [ ] (E) integridade referencial.
 
 ---
 
@@ -68,15 +68,15 @@ As propriedades ACID são fundamentais para garantir a confiabilidade das transa
 
 A descrição correta das quatro propriedades ACID é:
 
-(A) Atomicidade: o banco permanece em estado válido após a transação. Consistência: a transação é executada integralmente ou não é executada. Isolamento: os efeitos da transação são permanentes. Durabilidade: transações simultâneas não interferem entre si.
+- [ ] (A) Atomicidade: o banco permanece em estado válido após a transação. Consistência: a transação é executada integralmente ou não é executada. Isolamento: os efeitos da transação são permanentes. Durabilidade: transações simultâneas não interferem entre si.
 
-(B) Atomicidade: a transação é executada integralmente ou não é executada. Consistência: o banco permanece em estado válido, respeitando as restrições definidas. Isolamento: transações simultâneas não interferem entre si. Durabilidade: os efeitos da transação confirmada são permanentes.
+- [ ] (B) Atomicidade: a transação é executada integralmente ou não é executada. Consistência: o banco permanece em estado válido, respeitando as restrições definidas. Isolamento: transações simultâneas não interferem entre si. Durabilidade: os efeitos da transação confirmada são permanentes.
 
-(C) Atomicidade: transações simultâneas não interferem entre si. Consistência: a transação é dividida em subtransações menores. Isolamento: o banco permanece em estado válido. Durabilidade: a transação é executada integralmente ou não é executada.
+- [ ] (C) Atomicidade: transações simultâneas não interferem entre si. Consistência: a transação é dividida em subtransações menores. Isolamento: o banco permanece em estado válido. Durabilidade: a transação é executada integralmente ou não é executada.
 
-(D) Atomicidade: os efeitos da transação confirmada são permanentes. Consistência: transações simultâneas não interferem entre si. Isolamento: a transação é executada integralmente ou não é executada. Durabilidade: o banco permanece em estado válido.
+- [ ] (D) Atomicidade: os efeitos da transação confirmada são permanentes. Consistência: transações simultâneas não interferem entre si. Isolamento: a transação é executada integralmente ou não é executada. Durabilidade: o banco permanece em estado válido.
 
-(E) Atomicidade: a transação é dividida em subtransações menores. Consistência: os efeitos da transação são permanentes. Isolamento: o banco permanece em estado válido. Durabilidade: transações simultâneas não interferem entre si.
+- [ ] (E) Atomicidade: a transação é dividida em subtransações menores. Consistência: os efeitos da transação são permanentes. Isolamento: o banco permanece em estado válido. Durabilidade: transações simultâneas não interferem entre si.
 
 ---
 
