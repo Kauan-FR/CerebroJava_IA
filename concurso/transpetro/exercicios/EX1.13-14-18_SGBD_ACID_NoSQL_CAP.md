@@ -87,7 +87,7 @@ Os comandos `COMMIT`, `ROLLBACK` e `SAVEPOINT` pertencem à
 - [ ] (A) Linguagem de Definição de Dados (DDL).  
 - [ ] (B) Linguagem de Manipulação de Dados (DML).  
 - [ ] (C) Linguagem de Controle de Dados (DCL).  
-- [ ] (D) Linguagem de Controle de Transações (TCL).  
+- [x] (D) Linguagem de Controle de Transações (TCL).  
 - [ ] (E) Linguagem de consulta multidimensional.
 
 ---
@@ -98,11 +98,11 @@ Uma transação T1 alterou o salário de um empregado e ainda não confirmou a o
 
 O problema de concorrência caracterizado nessa situação é a
 
-(A) leitura suja (dirty read).  
-(B) leitura não repetível (non-repeatable read).  
-(C) leitura fantasma (phantom read).  
-(D) perda de atualização (lost update).  
-(E) escrita suja (dirty write).
+- [ ] (A) leitura suja (dirty read).  
+- [ ] (B) leitura não repetível (non-repeatable read).  
+- [ ] (C) leitura fantasma (phantom read).  
+- [ ] (D) perda de atualização (lost update).  
+- [ ] (E) escrita suja (dirty write).
 
 ---
 
