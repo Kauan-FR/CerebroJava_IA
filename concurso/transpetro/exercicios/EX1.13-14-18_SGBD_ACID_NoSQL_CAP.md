@@ -112,7 +112,7 @@ Uma transação T1 executou uma consulta que retornou 20 linhas. Em seguida, a t
 
 O problema de concorrência caracterizado nessa situação é a
 
-- [ ] (A) leitura suja.  
+- [x] (A) leitura suja.  
 - [ ] (B) leitura não repetível.  
 - [ ] (C) leitura fantasma.  
 - [ ] (D) perda de atualização.  
@@ -126,11 +126,11 @@ Um analista precisa configurar o nível de isolamento que impede a ocorrência d
 
 O nível de isolamento adequado é
 
-(A) READ UNCOMMITTED.  
-(B) READ COMMITTED.  
-(C) REPEATABLE READ.  
-(D) SERIALIZABLE.  
-(E) SNAPSHOT ISOLATION.
+- [ ] (A) READ UNCOMMITTED.  
+- [ ] (B) READ COMMITTED.  
+- [ ] (C) REPEATABLE READ.  
+- [ ] (D) SERIALIZABLE.  
+- [ ] (E) SNAPSHOT ISOLATION.
 
 ---
 
