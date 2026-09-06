@@ -100,7 +100,7 @@ O problema de concorrência caracterizado nessa situação é a
 
 - [ ] (A) leitura suja (dirty read).  
 - [ ] (B) leitura não repetível (non-repeatable read).  
-- [ ] (C) leitura fantasma (phantom read).  
+- [x] (C) leitura fantasma (phantom read).  
 - [ ] (D) perda de atualização (lost update).  
 - [ ] (E) escrita suja (dirty write).
 
