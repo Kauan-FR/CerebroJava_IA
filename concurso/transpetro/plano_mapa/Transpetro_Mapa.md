@@ -40,12 +40,12 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 1.10 SQL
 - [x] 1.11 DDL
 - [x] 1.12 DML
-- [ ] 1.13 SGBD
-- [ ] 1.14 ACID
+- [x] 1.13 SGBD
+- [x] 1.14 ACID
 - [ ] 1.15 Independência de dados
 - [ ] 1.16 Transações
 - [ ] 1.17 Performance de banco
-- [ ] 1.18 NoSQL
+- [x] 1.18 NoSQL
 - [ ] 1.19 Integração: ETL, transferência de arquivos
 - [ ] 1.20 Banco em memória
 - [ ] 1.21 Qualidade de dados e dados mestres
