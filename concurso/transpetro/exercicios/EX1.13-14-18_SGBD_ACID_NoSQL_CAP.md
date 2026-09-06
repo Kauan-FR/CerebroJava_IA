@@ -112,11 +112,11 @@ Uma transação T1 executou uma consulta que retornou 20 linhas. Em seguida, a t
 
 O problema de concorrência caracterizado nessa situação é a
 
-(A) leitura suja.  
-(B) leitura não repetível.  
-(C) leitura fantasma.  
-(D) perda de atualização.  
-(E) violação de atomicidade.
+- [ ] (A) leitura suja.  
+- [ ] (B) leitura não repetível.  
+- [ ] (C) leitura fantasma.  
+- [ ] (D) perda de atualização.  
+- [ ] (E) violação de atomicidade.
 
 ---
 
