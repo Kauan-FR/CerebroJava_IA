@@ -298,7 +298,6 @@ O uso de índices em bancos de dados relacionais envolve benefícios e custos.
 - [ ] (E) esforço adicional do otimizador na avaliação dos planos disponíveis.
 
 
-
 ---
 
 **20**
