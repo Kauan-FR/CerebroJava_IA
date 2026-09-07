@@ -174,10 +174,17 @@ Bancos de dados NoSQL classificam-se em diferentes categorias, conforme o modelo
 O banco de dados que armazena entidades e as relações entre elas como estruturas de primeira classe, sendo especialmente adequado a análises de redes sociais e detecção de fraudes, é o orientado a
 
 - [ ] (A) chave-valor.  
-- [x] (B) documentos.  
+<font color="#ff0000">- [x] (B) documentos.  </font>
 - [ ] (C) colunas (família de colunas).  
-- [ ] (D) grafos.  
+<font color="#00b050">- [ ] (D) grafos.  </font>
 - [ ] (E) objetos relacionais.
+>[!fail] NoSQL
+>|Tipo|Armazena|Caso típico|
+|---|---|---|
+|**Chave-valor**|par chave → valor opaco|sessão, cache, carrinho|
+|**Documentos**|JSON/BSON com estrutura aninhada|catálogo, perfil, CMS|
+|**Colunas**|famílias de colunas, otimizado para escrita massiva|série temporal, log, IoT|
+|**Grafos**|nós e **arestas** como cidadãos de primeira classe|rede social, fraude, recomendação|
 
 ---
 
