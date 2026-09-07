@@ -209,7 +209,7 @@ Em relação a esse caso, é correto afirmar que houve
 
 - [ ] (A) plena independência de dados lógica.  
 - [ ] (B) plena independência de dados física.  
-- [ ] (C) limitação da independência de dados lógica, pois a alteração conceitual afetou as aplicações.  
+- [x] (C) limitação da independência de dados lógica, pois a alteração conceitual afetou as aplicações.  
 - [ ] (D) violação da independência de dados física, pois alterou-se o armazenamento.  
 - [ ] (E) violação da integridade referencial da tabela Pedido.
 
@@ -221,11 +221,11 @@ A independência de dados constitui um dos principais objetivos dos Sistemas Ger
 
 Nos sistemas tradicionais de arquivos, essa independência inexistia porque
 
-(A) os dados eram armazenados exclusivamente em memória principal.  
-(B) a descrição da estrutura dos dados estava embutida no código dos programas que os manipulavam.  
-(C) não havia possibilidade de definir chaves primárias nos arquivos.  
-(D) todos os programas utilizavam necessariamente o mesmo esquema conceitual.  
-(E) as consultas eram formuladas exclusivamente em linguagem declarativa.
+- [ ] (A) os dados eram armazenados exclusivamente em memória principal.  
+- [ ] (B) a descrição da estrutura dos dados estava embutida no código dos programas que os manipulavam. 
+- [ ] (C) não havia possibilidade de definir chaves primárias nos arquivos.  
+- [ ] (D) todos os programas utilizavam necessariamente o mesmo esquema conceitual.  
+- [ ] (E) as consultas eram formuladas exclusivamente em linguagem declarativa.
 
 ---
 
