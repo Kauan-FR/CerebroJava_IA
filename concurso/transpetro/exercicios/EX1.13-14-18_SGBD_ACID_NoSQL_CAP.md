@@ -283,11 +283,17 @@ Um SGBD utiliza duas técnicas principais para controlar o acesso concorrente à
 
 A técnica que atribui bloqueios aos recursos acessados, impedindo que outra transação os utilize até a liberação, é o controle de concorrência
 
-- [ ] (A) pessimista, por bloqueio (locking).  
-- [x] (B) otimista, por validação ao final da transação.  
+<font color="#00b050">- [ ] (A) pessimista, por bloqueio (locking).  </font>
+<font color="#ff0000">- [x] (B) otimista, por validação ao final da transação.  </font>
 - [ ] (C) por versionamento multiversão sem bloqueio.  
 - [ ] (D) por particionamento horizontal dos dados.  
 - [ ] (E) por replicação assíncrona entre nós.
+
+>[!fail] Pessimista x otimista
+>|Controle|Como funciona|Premissa|
+|---|---|---|
+|**Pessimista** (locking)|**bloqueia** o recurso antes de usar|conflito é provável, previna|
+|**Otimista**|deixa executar e **valida no fim**; se houve conflito, desfaz|conflito é raro, verifique depois|
 
 ---
 
