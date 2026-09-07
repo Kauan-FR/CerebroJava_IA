@@ -26,11 +26,13 @@ Uma das funções essenciais de um SGBD é assegurar que, após a confirmação 
 
 O recurso utilizado pelo SGBD para viabilizar essa garantia é o(a)
 
-- [ ] (A) log de transações.  
-- [x] (B) catálogo do sistema.  
+<font color="#00b050">- [ ] (A) log de transações.  </font>
+<font color="#ff0000">- [x] (B) catálogo do sistema.  </font>
 - [ ] (C) plano de execução do otimizador.  
 - [ ] (D) índice composto sobre a chave primária.  
 - [ ] (E) área de estágio do processo de ETL.
+
+>[!fail] 
 
 ---
 
