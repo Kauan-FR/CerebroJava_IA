@@ -297,6 +297,8 @@ O uso de índices em bancos de dados relacionais envolve benefícios e custos.
 <font color="#00b050">- [ ] (D) redução do tempo de resposta das consultas que utilizam a coluna indexada.  </font>
 - [ ] (E) esforço adicional do otimizador na avaliação dos planos disponíveis.
 
+
+
 ---
 
 **20**
