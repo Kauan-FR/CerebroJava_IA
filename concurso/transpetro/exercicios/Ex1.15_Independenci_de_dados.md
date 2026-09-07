@@ -180,7 +180,14 @@ Essa situação exemplifica a independência de dados
 - [ ] (E) externa, pois alteraram-se as visões dos usuários.
 
 >[!fail] Particionamento é físico
+>**Particionamento não altera a estrutura da tabela.** Ele altera **como as linhas são distribuídas em disco**. A tabela `Movimentacao` continua com as mesmas colunas, a mesma PK, as mesmas FKs. Para quem consulta, nada mudou — é a mesma tabela.
+>O que mudou foi o armazenamento: em vez de um segmento único, agora são vários, um por ano. Isso é nível **interno**, logo **independência física**.
 >
+>**A pergunta que separa os dois casos:**
+>
+> Se eu executasse `SELECT * FROM tabela`, o resultado ou as colunas mudariam? 
+>- **Não muda nada visível** → física (índice, partição, compressão, dispositivo, organização de arquivo)
+>- **Muda coluna, tabela, estrutura** → lógica (adicionar coluna, dividir tabela, normalizar)
 
 ---
 
