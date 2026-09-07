@@ -180,7 +180,7 @@ Uma equipe optou por um banco de dados NoSQL orientado a documentos para armazen
 
 Uma característica desse tipo de banco é
 
-- [ ] (A) exigir a definição prévia de esquema fixo para todas as coleções.  
+- [x] (A) exigir a definição prévia de esquema fixo para todas as coleções.  
 - [ ] (B) permitir que documentos de uma mesma coleção possuam campos distintos entre si.  
 - [ ] (C) impedir o aninhamento de estruturas dentro de um documento.  
 - [ ] (D) garantir integridade referencial declarativa entre coleções.  
@@ -192,11 +192,11 @@ Uma característica desse tipo de banco é
 
 O teorema CAP estabelece que um sistema distribuído de dados não é capaz de garantir simultaneamente as três propriedades
 
-(A) consistência, disponibilidade e tolerância a particionamento.  
-(B) atomicidade, isolamento e durabilidade.  
-(C) confidencialidade, autenticidade e privacidade.  
-(D) completude, minimalidade e legibilidade.  
-(E) concorrência, atomicidade e persistência.
+- [x] (A) consistência, disponibilidade e tolerância a particionamento.  
+- [ ] (B) atomicidade, isolamento e durabilidade.  
+- [ ] (C) confidencialidade, autenticidade e privacidade.  
+- [ ] (D) completude, minimalidade e legibilidade.  
+- [ ] (E) concorrência, atomicidade e persistência.
 
 ---
 
@@ -206,11 +206,11 @@ Em um sistema distribuído sujeito a partições de rede, uma equipe optou por m
 
 De acordo com o teorema CAP, essa escolha privilegia
 
-(A) consistência e tolerância a particionamento.  
-(B) disponibilidade e tolerância a particionamento.  
-(C) consistência e disponibilidade.  
-(D) atomicidade e durabilidade.  
-(E) isolamento e consistência.
+- [ ] (A) consistência e tolerância a particionamento.  
+- [ ] (B) disponibilidade e tolerância a particionamento.  
+- [ ] (C) consistência e disponibilidade.  
+- [ ] (D) atomicidade e durabilidade.  
+- [ ] (E) isolamento e consistência.
 
 ---
 
