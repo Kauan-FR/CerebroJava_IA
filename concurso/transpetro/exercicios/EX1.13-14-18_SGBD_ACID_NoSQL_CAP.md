@@ -153,7 +153,7 @@ Bancos de dados NoSQL classificam-se em diferentes categorias, conforme o modelo
 O banco de dados que armazena entidades e as relações entre elas como estruturas de primeira classe, sendo especialmente adequado a análises de redes sociais e detecção de fraudes, é o orientado a
 
 - [ ] (A) chave-valor.  
-- [ ] (B) documentos.  
+- [x] (B) documentos.  
 - [ ] (C) colunas (família de colunas).  
 - [ ] (D) grafos.  
 - [ ] (E) objetos relacionais.
@@ -166,11 +166,11 @@ Uma aplicação precisa armazenar sessões de usuários, com acesso extremamente
 
 O tipo de banco NoSQL mais adequado a esse requisito é o orientado a
 
-(A) chave-valor.  
-(B) documentos.  
-(C) grafos.  
-(D) colunas.  
-(E) relacional normalizado.
+- [x] (A) chave-valor.  
+- [ ] (B) documentos.  
+- [ ] (C) grafos.  
+- [ ] (D) colunas.  
+- [ ] (E) relacional normalizado.
 
 ---
 
@@ -180,11 +180,11 @@ Uma equipe optou por um banco de dados NoSQL orientado a documentos para armazen
 
 Uma característica desse tipo de banco é
 
-(A) exigir a definição prévia de esquema fixo para todas as coleções.  
-(B) permitir que documentos de uma mesma coleção possuam campos distintos entre si.  
-(C) impedir o aninhamento de estruturas dentro de um documento.  
-(D) garantir integridade referencial declarativa entre coleções.  
-(E) armazenar exclusivamente dados numéricos.
+- [ ] (A) exigir a definição prévia de esquema fixo para todas as coleções.  
+- [ ] (B) permitir que documentos de uma mesma coleção possuam campos distintos entre si.  
+- [ ] (C) impedir o aninhamento de estruturas dentro de um documento.  
+- [ ] (D) garantir integridade referencial declarativa entre coleções.  
+- [ ] (E) armazenar exclusivamente dados numéricos.
 
 ---
 
