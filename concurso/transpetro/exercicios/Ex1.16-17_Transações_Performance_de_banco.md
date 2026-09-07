@@ -125,7 +125,7 @@ Um SGBD detectou um impasse entre duas transações concorrentes.
 A providência usualmente adotada pelo SGBD nessa situação é
 
 - [ ] (A) confirmar automaticamente ambas as transações.  
-- [ ] (B) abortar uma das transações envolvidas, desfazendo suas operações.  
+- [x] (B) abortar uma das transações envolvidas, desfazendo suas operações.  
 - [ ] (C) suspender indefinidamente as duas transações até intervenção manual.  
 - [ ] (D) converter as transações em consultas somente leitura.  
 - [ ] (E) remover os índices das tabelas envolvidas.
@@ -138,11 +138,11 @@ Uma equipe identificou que determinada consulta apresenta tempo de resposta elev
 
 O recurso adequado a essa análise é
 
-(A) o plano de execução gerado pelo otimizador.  
-(B) o log de transações do SGBD.  
-(C) o catálogo do sistema.  
-(D) o backup incremental do banco.  
-(E) a área de estágio do processo de ETL.
+- [x] (A) o plano de execução gerado pelo otimizador.  
+- [ ] (B) o log de transações do SGBD.  
+- [ ] (C) o catálogo do sistema.  
+- [ ] (D) o backup incremental do banco.  
+- [ ] (E) a área de estágio do processo de ETL.
 
 ---
 
@@ -152,11 +152,11 @@ Um administrador criou um índice sobre a coluna `data_pedido` de uma tabela que
 
 Um efeito colateral esperado dessa criação é o(a)
 
-(A) aumento do tempo necessário para as operações de inserção e atualização.  
-(B) redução do espaço total ocupado pelo banco de dados.  
-(C) impossibilidade de executar consultas sobre as demais colunas.  
-(D) perda da integridade referencial com as tabelas relacionadas.  
-(E) eliminação da necessidade de coleta de estatísticas.
+- [ ] (A) aumento do tempo necessário para as operações de inserção e atualização.  
+- [ ] (B) redução do espaço total ocupado pelo banco de dados.  
+- [ ] (C) impossibilidade de executar consultas sobre as demais colunas.  
+- [ ] (D) perda da integridade referencial com as tabelas relacionadas.  
+- [ ] (E) eliminação da necessidade de coleta de estatísticas.
 
 ---
 
