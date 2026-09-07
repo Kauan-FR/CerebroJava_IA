@@ -114,7 +114,7 @@ Um sistema legado acessa diretamente a tabela `Empregado`. A equipe precisa divi
 O recurso adequado para preservar o acesso das aplicações é a criação de
 
 - [ ] (A) um índice composto sobre as duas novas tabelas.  
-- [ ] (B) uma visão (view) com a estrutura original da tabela.  
+- [x] (B) uma visão (view) com a estrutura original da tabela.  
 - [ ] (C) uma restrição CHECK sobre as colunas migradas.  
 - [ ] (D) uma sequência para geração das novas chaves primárias.  
 - [ ] (E) um gatilho de auditoria sobre as tabelas resultantes.
@@ -125,11 +125,11 @@ O recurso adequado para preservar o acesso das aplicações é a criação de
 
 As visões (views) desempenham papel relevante na arquitetura de banco de dados porque
 
-(A) armazenam fisicamente cópias dos dados das tabelas de origem.  
-(B) implementam o nível externo, sustentando a independência de dados lógica.  
-(C) substituem as restrições de integridade referencial declaradas.  
-(D) eliminam a necessidade de índices sobre as tabelas consultadas.  
-(E) impedem a execução de operações de junção entre tabelas.
+- [ ] (A) armazenam fisicamente cópias dos dados das tabelas de origem.  
+- [ ] (B) implementam o nível externo, sustentando a independência de dados lógica.  
+- [ ] (C) substituem as restrições de integridade referencial declaradas.  
+- [ ] (D) eliminam a necessidade de índices sobre as tabelas consultadas.  
+- [ ] (E) impedem a execução de operações de junção entre tabelas.
 
 ---
 
