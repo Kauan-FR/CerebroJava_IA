@@ -127,7 +127,7 @@ O problema de concorrência caracterizado nessa situação é a
 >[!fail] Problema de conceito (Q7, Q8, Q9)
 >|Problema|O que aconteceu|Confirmado?|
 |---|---|---|
-|**Leitura suja**|leu valor alterado sem ter confirmado, por outra transação|**não** — pode sumir|
+|**Leitura suja**|leu valor alterado por outra transação|**não** — pode sumir|
 |**Leitura não repetível**|releu a **mesma linha** com valor diferente|sim, houve `UPDATE`|
 |**Leitura fantasma**|reexecutou a consulta e apareceram **linhas novas**|sim, houve `INSERT`|
 
