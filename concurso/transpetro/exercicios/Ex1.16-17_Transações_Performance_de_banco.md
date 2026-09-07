@@ -110,7 +110,7 @@ Duas transações aguardam, cada uma, a liberação de um recurso bloqueado pela
 
 Essa situação é denominada
 
-- [ ] (A) impasse (deadlock).  
+- [x] (A) impasse (deadlock).  
 - [ ] (B) leitura fantasma.  
 - [ ] (C) inanição de índice.  
 - [ ] (D) fragmentação de tablespace.  
@@ -124,11 +124,11 @@ Um SGBD detectou um impasse entre duas transações concorrentes.
 
 A providência usualmente adotada pelo SGBD nessa situação é
 
-(A) confirmar automaticamente ambas as transações.  
-(B) abortar uma das transações envolvidas, desfazendo suas operações.  
-(C) suspender indefinidamente as duas transações até intervenção manual.  
-(D) converter as transações em consultas somente leitura.  
-(E) remover os índices das tabelas envolvidas.
+- [ ] (A) confirmar automaticamente ambas as transações.  
+- [ ] (B) abortar uma das transações envolvidas, desfazendo suas operações.  
+- [ ] (C) suspender indefinidamente as duas transações até intervenção manual.  
+- [ ] (D) converter as transações em consultas somente leitura.  
+- [ ] (E) remover os índices das tabelas envolvidas.
 
 ---
 
