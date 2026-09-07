@@ -154,7 +154,7 @@ Um efeito colateral esperado dessa criação é o(a)
 
 - [ ] (A) aumento do tempo necessário para as operações de inserção e atualização.  
 - [ ] (B) redução do espaço total ocupado pelo banco de dados.  
-- [ ] (C) impossibilidade de executar consultas sobre as demais colunas.  
+- [x] (C) impossibilidade de executar consultas sobre as demais colunas.  
 - [ ] (D) perda da integridade referencial com as tabelas relacionadas.  
 - [ ] (E) eliminação da necessidade de coleta de estatísticas.
 
@@ -172,11 +172,11 @@ CREATE INDEX idx_venda ON Venda (id_loja, data_venda);
 
 Esse índice é aproveitado com maior eficiência por consultas que filtram
 
-(A) apenas pela coluna data_venda.  
-(B) pela coluna id_loja, isoladamente ou combinada com data_venda.  
-(C) apenas por colunas que não integram o índice.  
-(D) exclusivamente pelas duas colunas em conjunto, nunca isoladamente.  
-(E) pela coluna data_venda, isoladamente ou combinada com id_loja.
+- [ ] (A) apenas pela coluna data_venda.  
+- [x] (B) pela coluna id_loja, isoladamente ou combinada com data_venda.  
+- [ ] (C) apenas por colunas que não integram o índice.  
+- [ ] (D) exclusivamente pelas duas colunas em conjunto, nunca isoladamente.  
+- [ ] (E) pela coluna data_venda, isoladamente ou combinada com id_loja.
 
 ---
 
@@ -184,11 +184,11 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 
 O otimizador de consultas de um SGBD relacional baseado em custo utiliza, para escolher o plano de execução, principalmente
 
-(A) as estatísticas mantidas sobre a distribuição dos dados nas tabelas.  
-(B) a ordem em que as tabelas aparecem na cláusula FROM.  
-(C) a quantidade de caracteres da consulta submetida.  
-(D) o nível de isolamento configurado para a sessão.  
-(E) o conteúdo do log de transações.
+- [ ] (A) as estatísticas mantidas sobre a distribuição dos dados nas tabelas.  
+- [ ] (B) a ordem em que as tabelas aparecem na cláusula FROM.  
+- [ ] (C) a quantidade de caracteres da consulta submetida.  
+- [ ] (D) o nível de isolamento configurado para a sessão.  
+- [ ] (E) o conteúdo do log de transações.
 
 ---
 
