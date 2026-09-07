@@ -249,7 +249,7 @@ Um SGBD utiliza duas técnicas principais para controlar o acesso concorrente à
 A técnica que atribui bloqueios aos recursos acessados, impedindo que outra transação os utilize até a liberação, é o controle de concorrência
 
 - [ ] (A) pessimista, por bloqueio (locking).  
-- [ ] (B) otimista, por validação ao final da transação.  
+- [x] (B) otimista, por validação ao final da transação.  
 - [ ] (C) por versionamento multiversão sem bloqueio.  
 - [ ] (D) por particionamento horizontal dos dados.  
 - [ ] (E) por replicação assíncrona entre nós.
@@ -262,11 +262,11 @@ Os bancos de dados NoSQL apresentam características que os distinguem dos banco
 
 **NÃO** constitui característica típica dos bancos de dados NoSQL a
 
-(A) escalabilidade horizontal por meio da adição de nós.  
-(B) flexibilidade de esquema entre registros de uma mesma coleção.  
-(C) adoção frequente do modelo de consistência eventual.  
-(D) garantia obrigatória de conformidade integral com as propriedades ACID.  
-(E) adequação ao armazenamento de grandes volumes de dados heterogêneos.
+- [ ] (A) escalabilidade horizontal por meio da adição de nós.  
+- [ ] (B) flexibilidade de esquema entre registros de uma mesma coleção.  
+- [ ] (C) adoção frequente do modelo de consistência eventual.  
+- [x] (D) garantia obrigatória de conformidade integral com as propriedades ACID.  
+- [ ] (E) adequação ao armazenamento de grandes volumes de dados heterogêneos.
 
 ---
 
@@ -276,8 +276,8 @@ Um analista relacionou funções desempenhadas por um Sistema Gerenciador de Ban
 
 **NÃO** constitui função de um SGBD a
 
-(A) controle de acesso concorrente às informações armazenadas.  
-(B) recuperação do banco de dados após falhas.  
-(C) gerenciamento de autorizações e privilégios de usuários.  
-(D) definição das regras de negócio da aplicação que consome os dados.  
-(E) otimização das consultas submetidas ao banco.
+- [ ] (A) controle de acesso concorrente às informações armazenadas.  
+- [ ] (B) recuperação do banco de dados após falhas.  
+- [ ] (C) gerenciamento de autorizações e privilégios de usuários.  
+- [ ] (D) definição das regras de negócio da aplicação que consome os dados.  
+- [ ] (E) otimização das consultas submetidas ao banco.
