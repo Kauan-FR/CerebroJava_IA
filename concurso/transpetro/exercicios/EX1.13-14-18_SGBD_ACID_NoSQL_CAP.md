@@ -234,7 +234,7 @@ Uma instituição financeira precisa registrar transferências bancárias, com g
 
 Para esse requisito, é mais adequado adotar
 
-- [ ] (A) um banco de dados relacional com propriedades ACID.  
+- [x] (A) um banco de dados relacional com propriedades ACID.  
 - [ ] (B) um banco de dados chave-valor com consistência eventual.  
 - [ ] (C) um data lake com esquema definido na leitura.  
 - [ ] (D) um banco de dados orientado a documentos sem esquema.  
@@ -248,11 +248,11 @@ Um SGBD utiliza duas técnicas principais para controlar o acesso concorrente à
 
 A técnica que atribui bloqueios aos recursos acessados, impedindo que outra transação os utilize até a liberação, é o controle de concorrência
 
-(A) pessimista, por bloqueio (locking).  
-(B) otimista, por validação ao final da transação.  
-(C) por versionamento multiversão sem bloqueio.  
-(D) por particionamento horizontal dos dados.  
-(E) por replicação assíncrona entre nós.
+- [ ] (A) pessimista, por bloqueio (locking).  
+- [ ] (B) otimista, por validação ao final da transação.  
+- [ ] (C) por versionamento multiversão sem bloqueio.  
+- [ ] (D) por particionamento horizontal dos dados.  
+- [ ] (E) por replicação assíncrona entre nós.
 
 ---
 
