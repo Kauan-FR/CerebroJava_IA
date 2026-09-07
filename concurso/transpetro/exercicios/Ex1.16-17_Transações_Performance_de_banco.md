@@ -263,7 +263,7 @@ Existe um índice comum criado sobre a coluna `nome_cliente`.
 Em relação a essa consulta, é correto afirmar que o índice
 
 - [ ] (A) será utilizado normalmente, pois a coluna está indexada.  
-- [ ] (B) tende a não ser utilizado, pois a aplicação de função sobre a coluna impede o uso do índice comum.  
+- [x] (B) tende a não ser utilizado, pois a aplicação de função sobre a coluna impede o uso do índice comum.  
 - [ ] (C) será convertido automaticamente em índice composto pelo SGBD.  
 - [ ] (D) impedirá a execução da consulta, por incompatibilidade de tipo.  
 - [ ] (E) provocará a recriação automática das estatísticas da tabela.
@@ -276,11 +276,11 @@ O uso de índices em bancos de dados relacionais envolve benefícios e custos.
 
 **NÃO** constitui custo associado à criação de um índice a
 
-(A) ocupação adicional de espaço em disco.  
-(B) sobrecarga nas operações de inserção, atualização e exclusão.  
-(C) necessidade de manutenção e reorganização periódica.  
-(D) redução do tempo de resposta das consultas que utilizam a coluna indexada.  
-(E) esforço adicional do otimizador na avaliação dos planos disponíveis.
+- [ ] (A) ocupação adicional de espaço em disco.  
+- [ ] (B) sobrecarga nas operações de inserção, atualização e exclusão.  
+- [ ] (C) necessidade de manutenção e reorganização periódica.  
+- [ ] (D) redução do tempo de resposta das consultas que utilizam a coluna indexada.  
+- [ ] (E) esforço adicional do otimizador na avaliação dos planos disponíveis.
 
 ---
 
@@ -290,8 +290,8 @@ Um analista relacionou providências para melhoria de desempenho de um banco de 
 
 **NÃO** constitui técnica de melhoria de desempenho a
 
-(A) criação de índices sobre colunas frequentemente utilizadas em filtros.  
-(B) particionamento de tabelas de grande volume.  
-(C) atualização periódica das estatísticas utilizadas pelo otimizador.  
-(D) remoção das restrições de integridade referencial declaradas.  
-(E) reescrita de consultas para evitar varreduras completas desnecessárias.
+- [ ] (A) criação de índices sobre colunas frequentemente utilizadas em filtros.  
+- [ ] (B) particionamento de tabelas de grande volume.  
+- [ ] (C) atualização periódica das estatísticas utilizadas pelo otimizador.  
+- [ ] (D) remoção das restrições de integridade referencial declaradas.  
+- [ ] (E) reescrita de consultas para evitar varreduras completas desnecessárias.
