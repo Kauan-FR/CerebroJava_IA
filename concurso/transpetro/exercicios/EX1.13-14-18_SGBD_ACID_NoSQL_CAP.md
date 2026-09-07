@@ -208,11 +208,18 @@ Uma equipe optou por um banco de dados NoSQL orientado a documentos para armazen
 
 Uma característica desse tipo de banco é
 
-- [x] (A) exigir a definição prévia de esquema fixo para todas as coleções.  
-- [ ] (B) permitir que documentos de uma mesma coleção possuam campos distintos entre si.  
+<font color="#ff0000">- [x] (A) exigir a definição prévia de esquema fixo para todas as coleções.  </font>
+<font color="#00b050">- [ ] (B) permitir que documentos de uma mesma coleção possuam campos distintos entre si.  </font>
 - [ ] (C) impedir o aninhamento de estruturas dentro de um documento.  
 - [ ] (D) garantir integridade referencial declarativa entre coleções.  
 - [ ] (E) armazenar exclusivamente dados numéricos.
+
+>[!fail] Documentos
+>Bancos de documentos permitem que documentos da mesma coleção tenham campos diferentes entre si
+>```json
+>{ "id": 1, "nome": "Ana", "email": "ana@x.com" }
+{ "id": 2, "nome": "Bruno", "telefone": "999", "endereco": {...} }
+>```
 
 ---
 
