@@ -140,7 +140,7 @@ Um administrador migrou os arquivos de dados de uma tabela para um novo disposit
 Em relação às aplicações que consultam essa tabela, essa alteração
 
 - [ ] (A) exigirá a reescrita das consultas SQL executadas.  
-- [ ] (B) não produzirá qualquer impacto, em razão da independência de dados física.  
+- [x] (B) não produzirá qualquer impacto, em razão da independência de dados física.  
 - [ ] (C) exigirá a recriação de todas as visões existentes.  
 - [ ] (D) invalidará as restrições de integridade referencial declaradas.  
 - [ ] (E) exigirá a renormalização das tabelas envolvidas.
@@ -153,11 +153,11 @@ Na arquitetura de três níveis, o SGBD mantém correspondências que permitem t
 
 Essas correspondências são denominadas
 
-(A) mapeamentos.  
-(B) restrições de integridade.  
-(C) planos de execução.  
-(D) dependências funcionais.  
-(E) chaves substitutas.
+- [ ] (A) mapeamentos.  
+- [ ] (B) restrições de integridade.  
+- [ ] (C) planos de execução.  
+- [ ] (D) dependências funcionais.  
+- [ ] (E) chaves substitutas.
 
 ---
 
