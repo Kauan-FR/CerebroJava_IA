@@ -222,7 +222,7 @@ A independência de dados constitui um dos principais objetivos dos Sistemas Ger
 Nos sistemas tradicionais de arquivos, essa independência inexistia porque
 
 - [ ] (A) os dados eram armazenados exclusivamente em memória principal.  
-- [ ] (B) a descrição da estrutura dos dados estava embutida no código dos programas que os manipulavam. 
+- [x] (B) a descrição da estrutura dos dados estava embutida no código dos programas que os manipulavam. 
 - [ ] (C) não havia possibilidade de definir chaves primárias nos arquivos.  
 - [ ] (D) todos os programas utilizavam necessariamente o mesmo esquema conceitual.  
 - [ ] (E) as consultas eram formuladas exclusivamente em linguagem declarativa.
@@ -235,11 +235,11 @@ Uma equipe reorganizou a tabela `Cliente`, aplicando normalização até a Terce
 
 Nesse cenário, a visão atua
 
-(A) no nível interno, otimizando o acesso físico aos dados.  
-(B) no nível externo, preservando a independência de dados lógica.  
-(C) no nível conceitual, substituindo o modelo de dados original.  
-(D) como restrição de integridade referencial entre as três tabelas.  
-(E) como mecanismo de controle de concorrência entre transações.
+- [ ] (A) no nível interno, otimizando o acesso físico aos dados.  
+- [ ] (B) no nível externo, preservando a independência de dados lógica.  
+- [ ] (C) no nível conceitual, substituindo o modelo de dados original.  
+- [ ] (D) como restrição de integridade referencial entre as três tabelas.  
+- [ ] (E) como mecanismo de controle de concorrência entre transações.
 
 ---
 
