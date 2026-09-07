@@ -153,7 +153,7 @@ Na arquitetura de três níveis, o SGBD mantém correspondências que permitem t
 
 Essas correspondências são denominadas
 
-- [ ] (A) mapeamentos.  
+- [x] (A) mapeamentos.  
 - [ ] (B) restrições de integridade.  
 - [ ] (C) planos de execução.  
 - [ ] (D) dependências funcionais.  
@@ -167,11 +167,11 @@ Uma organização adotou o particionamento horizontal da tabela `Movimentacao`, 
 
 Essa situação exemplifica a independência de dados
 
-(A) lógica, pois alterou-se a estrutura das tabelas.  
-(B) física, pois alterou-se apenas a forma de armazenamento.  
-(C) semântica, pois alterou-se o significado dos dados.  
-(D) referencial, pois preservaram-se as chaves estrangeiras.  
-(E) externa, pois alteraram-se as visões dos usuários.
+- [x] (A) lógica, pois alterou-se a estrutura das tabelas.  
+- [ ] (B) física, pois alterou-se apenas a forma de armazenamento.  
+- [ ] (C) semântica, pois alterou-se o significado dos dados.  
+- [ ] (D) referencial, pois preservaram-se as chaves estrangeiras.  
+- [ ] (E) externa, pois alteraram-se as visões dos usuários.
 
 ---
 
@@ -181,11 +181,11 @@ Diferentes grupos de usuários acessam o mesmo banco de dados corporativo. A equ
 
 Essa configuração é implementada no nível
 
-(A) interno, mediante particionamento físico.  
-(B) externo, mediante visões distintas sobre o mesmo esquema conceitual.  
-(C) conceitual, mediante duplicação das tabelas de origem.  
-(D) transacional, mediante controle de concorrência.  
-(E) dimensional, mediante dimensões conformadas.
+- [ ] (A) interno, mediante particionamento físico.  
+- [ ] (B) externo, mediante visões distintas sobre o mesmo esquema conceitual.  
+- [ ] (C) conceitual, mediante duplicação das tabelas de origem.  
+- [ ] (D) transacional, mediante controle de concorrência.  
+- [ ] (E) dimensional, mediante dimensões conformadas.
 
 ---
 
