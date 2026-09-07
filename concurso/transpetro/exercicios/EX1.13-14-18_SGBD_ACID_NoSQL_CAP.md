@@ -124,6 +124,13 @@ O problema de concorrência caracterizado nessa situação é a
 - [ ] (D) perda de atualização.  
 - [ ] (E) violação de atomicidade.
 
+>[!fail] Problema de conceito (Q7, Q8, Q9)
+>|Problema|O que aconteceu|Confirmado?|
+|---|---|---|
+|**Leitura suja**|leu valor alterado sem ter confirmado, por outra transação|**não** — pode sumir|
+|**Leitura não repetível**|releu a **mesma linha** com valor diferente|sim, houve `UPDATE`|
+|**Leitura fantasma**|reexecutou a consulta e apareceram **linhas novas**|sim, houve `INSERT`|
+
 ---
 
 **9**
@@ -137,13 +144,6 @@ O nível de isolamento adequado é
 <font color="#ff0000">- [x] (C) REPEATABLE READ.  </font>
 - [ ] (D) SERIALIZABLE.  
 - [ ] (E) SNAPSHOT ISOLATION.
-
->[!fail] Problema de conceito (Q7, Q8, Q9)
->|Problema|O que aconteceu|Confirmado?|
-|---|---|---|
-|**Leitura suja**|leu valor alterado sem ter confirmado, por outra transação|**não** — pode sumir|
-|**Leitura não repetível**|releu a **mesma linha** com valor diferente|sim, houve `UPDATE`|
-|**Leitura fantasma**|reexecutou a consulta e apareceram **linhas novas**|sim, houve `INSERT`|
 
 ---
 
