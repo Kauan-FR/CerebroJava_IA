@@ -207,7 +207,7 @@ Em um sistema distribuído sujeito a partições de rede, uma equipe optou por m
 De acordo com o teorema CAP, essa escolha privilegia
 
 - [ ] (A) consistência e tolerância a particionamento.  
-- [ ] (B) disponibilidade e tolerância a particionamento.  
+- [x] (B) disponibilidade e tolerância a particionamento.  
 - [ ] (C) consistência e disponibilidade.  
 - [ ] (D) atomicidade e durabilidade.  
 - [ ] (E) isolamento e consistência.
@@ -220,11 +220,11 @@ Diversos bancos de dados NoSQL adotam o modelo BASE, em contraposição ao model
 
 No modelo BASE, a consistência eventual significa que
 
-(A) o sistema nunca atinge um estado consistente entre seus nós.  
-(B) todos os nós convergem para o mesmo estado após um intervalo de tempo, na ausência de novas atualizações.  
-(C) a consistência é verificada antes da confirmação de cada transação em todos os nós.  
-(D) as transações são serializadas em um único nó central.  
-(E) as restrições de integridade são verificadas exclusivamente na leitura.
+- [ ] (A) o sistema nunca atinge um estado consistente entre seus nós.  
+- [x] (B) todos os nós convergem para o mesmo estado após um intervalo de tempo, na ausência de novas atualizações.  
+- [ ] (C) a consistência é verificada antes da confirmação de cada transação em todos os nós.  
+- [ ] (D) as transações são serializadas em um único nó central.  
+- [ ] (E) as restrições de integridade são verificadas exclusivamente na leitura.
 
 ---
 
@@ -234,11 +234,11 @@ Uma instituição financeira precisa registrar transferências bancárias, com g
 
 Para esse requisito, é mais adequado adotar
 
-(A) um banco de dados relacional com propriedades ACID.  
-(B) um banco de dados chave-valor com consistência eventual.  
-(C) um data lake com esquema definido na leitura.  
-(D) um banco de dados orientado a documentos sem esquema.  
-(E) um cubo OLAP multidimensional.
+- [ ] (A) um banco de dados relacional com propriedades ACID.  
+- [ ] (B) um banco de dados chave-valor com consistência eventual.  
+- [ ] (C) um data lake com esquema definido na leitura.  
+- [ ] (D) um banco de dados orientado a documentos sem esquema.  
+- [ ] (E) um cubo OLAP multidimensional.
 
 ---
 
