@@ -182,7 +182,7 @@ Diferentes grupos de usuários acessam o mesmo banco de dados corporativo. A equ
 Essa configuração é implementada no nível
 
 - [ ] (A) interno, mediante particionamento físico.  
-- [ ] (B) externo, mediante visões distintas sobre o mesmo esquema conceitual.  
+- [x] (B) externo, mediante visões distintas sobre o mesmo esquema conceitual.  
 - [ ] (C) conceitual, mediante duplicação das tabelas de origem.  
 - [ ] (D) transacional, mediante controle de concorrência.  
 - [ ] (E) dimensional, mediante dimensões conformadas.
@@ -193,11 +193,11 @@ Essa configuração é implementada no nível
 
 Em um banco de dados, o esquema conceitual descreve
 
-(A) as estruturas de arquivos e os métodos de acesso utilizados em disco.  
-(B) a estrutura lógica global do banco, com entidades, atributos e relacionamentos, sem detalhes de armazenamento.  
-(C) a visão parcial de cada aplicação sobre os dados disponíveis.  
-(D) o plano de execução escolhido pelo otimizador de consultas.  
-(E) as permissões concedidas a cada usuário do banco de dados.
+- [ ] (A) as estruturas de arquivos e os métodos de acesso utilizados em disco.  
+- [x] (B) a estrutura lógica global do banco, com entidades, atributos e relacionamentos, sem detalhes de armazenamento.  
+- [ ] (C) a visão parcial de cada aplicação sobre os dados disponíveis.  
+- [ ] (D) o plano de execução escolhido pelo otimizador de consultas.  
+- [ ] (E) as permissões concedidas a cada usuário do banco de dados.
 
 ---
 
@@ -207,11 +207,11 @@ Uma equipe alterou o tipo de dado de uma coluna da tabela `Pedido`, de `INT` par
 
 Em relação a esse caso, é correto afirmar que houve
 
-(A) plena independência de dados lógica.  
-(B) plena independência de dados física.  
-(C) limitação da independência de dados lógica, pois a alteração conceitual afetou as aplicações.  
-(D) violação da independência de dados física, pois alterou-se o armazenamento.  
-(E) violação da integridade referencial da tabela Pedido.
+- [ ] (A) plena independência de dados lógica.  
+- [ ] (B) plena independência de dados física.  
+- [ ] (C) limitação da independência de dados lógica, pois a alteração conceitual afetou as aplicações.  
+- [ ] (D) violação da independência de dados física, pois alterou-se o armazenamento.  
+- [ ] (E) violação da integridade referencial da tabela Pedido.
 
 ---
 
