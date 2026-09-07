@@ -290,3 +290,54 @@ modelo desatualizado vs produção:
 
 engenharia reversa recupera a
 INTENÇÃO DE NEGÓCIO da entidade?
+
+---
+
+## 1.13-14-18_SGBD_ACID_NoSQL_CAP
+
+SGBD/ACID/NoSQL/CAP → ?
+
+view guarda dado próprio?
+view materializada guarda?
+
+ANSI/SPARC: os 3 níveis?
+indep. lógica fica entre quais?
+indep. física entre quais?
+
+ACID: A? C? I? D?
+"tudo ou nada" = ?
+"paralelas não interferem" = ?
+
+NoSQL: os 4 modelos?
+qual foca em relacionamento?
+cache rápido → qual modelo?
+
+ACID = consistência imediata ou eventual?
+BASE = ?
+
+CAP: as 3 letras?
+quantas dá pra garantir juntas?
+partição sempre pode ocorrer → escolho?
+
+⚠ consistência do CAP é igual
+  à do ACID?
+
+CONCORRÊNCIA → ?
+
+leu valor não confirmado = ?
+releu mesma linha, mudou = ?
+reexecutou, linhas novas = ?
+
+não repetível vs fantasma:
+ qual é linha que mudou?
+ qual é linha que surgiu?
+
+READ COMMITTED impede o quê?
+SERIALIZABLE impede o quê?
+qual nível tem maior custo?
+
+bloqueia ANTES = pessimista ou otimista?
+valida DEPOIS = ?
+
+durabilidade vem do log ou do catálogo?
+REDO refaz o quê? UNDO desfaz o quê?
