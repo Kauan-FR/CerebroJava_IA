@@ -126,7 +126,7 @@ O recurso adequado para preservar o acesso das aplicações é a criação de
 As visões (views) desempenham papel relevante na arquitetura de banco de dados porque
 
 - [ ] (A) armazenam fisicamente cópias dos dados das tabelas de origem.  
-- [ ] (B) implementam o nível externo, sustentando a independência de dados lógica.  
+- [x] (B) implementam o nível externo, sustentando a independência de dados lógica.  
 - [ ] (C) substituem as restrições de integridade referencial declaradas.  
 - [ ] (D) eliminam a necessidade de índices sobre as tabelas consultadas.  
 - [ ] (E) impedem a execução de operações de junção entre tabelas.
@@ -139,11 +139,11 @@ Um administrador migrou os arquivos de dados de uma tabela para um novo disposit
 
 Em relação às aplicações que consultam essa tabela, essa alteração
 
-(A) exigirá a reescrita das consultas SQL executadas.  
-(B) não produzirá qualquer impacto, em razão da independência de dados física.  
-(C) exigirá a recriação de todas as visões existentes.  
-(D) invalidará as restrições de integridade referencial declaradas.  
-(E) exigirá a renormalização das tabelas envolvidas.
+- [ ] (A) exigirá a reescrita das consultas SQL executadas.  
+- [ ] (B) não produzirá qualquer impacto, em razão da independência de dados física.  
+- [ ] (C) exigirá a recriação de todas as visões existentes.  
+- [ ] (D) invalidará as restrições de integridade referencial declaradas.  
+- [ ] (E) exigirá a renormalização das tabelas envolvidas.
 
 ---
 
