@@ -124,7 +124,7 @@ O problema de concorrência caracterizado nessa situação é a
 - [ ] (D) perda de atualização.  
 - [ ] (E) violação de atomicidade.
 
->[!fail] Problema de conceito (Q7, Q8, Q9)
+>[!fail] Problema de conceito (Q7, Q8)
 >|Problema|O que aconteceu|Confirmado?|
 |---|---|---|
 |**Leitura suja**|leu valor alterado por outra transação|**não** — pode sumir|
@@ -144,6 +144,8 @@ O nível de isolamento adequado é
 <font color="#ff0000">- [x] (C) REPEATABLE READ.  </font>
 - [ ] (D) SERIALIZABLE.  
 - [ ] (E) SNAPSHOT ISOLATION.
+
+
 
 ---
 
