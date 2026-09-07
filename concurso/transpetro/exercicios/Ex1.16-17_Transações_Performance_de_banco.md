@@ -227,7 +227,7 @@ Uma tabela armazena quinze anos de lançamentos contábeis, e as consultas mais 
 A técnica de modelo físico indicada para esse cenário é o(a)
 
 - [ ] (A) particionamento da tabela por faixa de datas.  
-- [ ] (B) criação de restrição CHECK sobre a coluna de data.  
+- [x] (B) criação de restrição CHECK sobre a coluna de data.  
 - [ ] (C) normalização até a Forma Normal de Boyce-Codd.  
 - [ ] (D) conversão da chave primária em chave composta.  
 - [ ] (E) criação de uma dimensão degenerada.
@@ -240,11 +240,11 @@ Um analista precisa disponibilizar, para consultas analíticas frequentes, o res
 
 O recurso adequado a essa finalidade é a criação de
 
-(A) uma visão comum (view).  
-(B) uma visão materializada.  
-(C) um gatilho de auditoria.  
-(D) uma sequência (sequence).  
-(E) uma restrição UNIQUE.
+- [ ] (A) uma visão comum (view).  
+- [x] (B) uma visão materializada.  
+- [ ] (C) um gatilho de auditoria.  
+- [ ] (D) uma sequência (sequence).  
+- [ ] (E) uma restrição UNIQUE.
 
 ---
 
@@ -262,11 +262,11 @@ Existe um índice comum criado sobre a coluna `nome_cliente`.
 
 Em relação a essa consulta, é correto afirmar que o índice
 
-(A) será utilizado normalmente, pois a coluna está indexada.  
-(B) tende a não ser utilizado, pois a aplicação de função sobre a coluna impede o uso do índice comum.  
-(C) será convertido automaticamente em índice composto pelo SGBD.  
-(D) impedirá a execução da consulta, por incompatibilidade de tipo.  
-(E) provocará a recriação automática das estatísticas da tabela.
+- [ ] (A) será utilizado normalmente, pois a coluna está indexada.  
+- [ ] (B) tende a não ser utilizado, pois a aplicação de função sobre a coluna impede o uso do índice comum.  
+- [ ] (C) será convertido automaticamente em índice composto pelo SGBD.  
+- [ ] (D) impedirá a execução da consulta, por incompatibilidade de tipo.  
+- [ ] (E) provocará a recriação automática das estatísticas da tabela.
 
 ---
 
