@@ -75,7 +75,7 @@ Essa situação exemplifica a independência de dados
 
 A independência de dados física caracteriza-se pela possibilidade de alterar o esquema
 
-- [ ] (A) interno sem alterar o esquema conceitual nem as aplicações.  
+- [x] (A) interno sem alterar o esquema conceitual nem as aplicações.  
 - [ ] (B) conceitual sem alterar o esquema interno.  
 - [ ] (C) externo sem alterar as visões dos usuários.  
 - [ ] (D) conceitual sem alterar as regras de negócio da aplicação.  
@@ -87,11 +87,11 @@ A independência de dados física caracteriza-se pela possibilidade de alterar o
 
 A independência de dados lógica caracteriza-se pela possibilidade de alterar o esquema
 
-(A) interno sem alterar o esquema conceitual.  
-(B) conceitual sem alterar os esquemas externos nem as aplicações.  
-(C) externo sem alterar o esquema interno.  
-(D) físico sem alterar os índices existentes.  
-(E) conceitual mediante reorganização obrigatória dos arquivos em disco.
+- [ ] (A) interno sem alterar o esquema conceitual.  
+- [ ] (B) conceitual sem alterar os esquemas externos nem as aplicações.  
+- [x] (C) externo sem alterar o esquema interno.  
+- [ ] (D) físico sem alterar os índices existentes.  
+- [ ] (E) conceitual mediante reorganização obrigatória dos arquivos em disco.
 
 ---
 
@@ -99,11 +99,11 @@ A independência de dados lógica caracteriza-se pela possibilidade de alterar o
 
 Segundo a literatura de banco de dados, a independência de dados lógica é considerada mais difícil de alcançar do que a independência física porque
 
-(A) o nível interno é gerenciado diretamente pelas aplicações.  
-(B) as aplicações costumam depender diretamente da estrutura lógica dos dados que manipulam.  
-(C) os índices precisam ser recriados a cada alteração conceitual.  
-(D) o nível externo não pode ser modificado após a criação do banco.  
-(E) o SGBD não mantém mapeamento entre os níveis conceitual e interno.
+- [ ] (A) o nível interno é gerenciado diretamente pelas aplicações.  
+- [ ] (B) as aplicações costumam depender diretamente da estrutura lógica dos dados que manipulam.  
+- [ ] (C) os índices precisam ser recriados a cada alteração conceitual.  
+- [ ] (D) o nível externo não pode ser modificado após a criação do banco.  
+- [ ] (E) o SGBD não mantém mapeamento entre os níveis conceitual e interno.
 
 ---
 
