@@ -128,7 +128,7 @@ O nível de isolamento adequado é
 
 - [ ] (A) READ UNCOMMITTED.  
 - [ ] (B) READ COMMITTED.  
-- [ ] (C) REPEATABLE READ.  
+- [x] (C) REPEATABLE READ.  
 - [ ] (D) SERIALIZABLE.  
 - [ ] (E) SNAPSHOT ISOLATION.
 
@@ -138,11 +138,11 @@ O nível de isolamento adequado é
 
 Em relação aos níveis de isolamento definidos pelo padrão SQL, é correto afirmar que o nível
 
-(A) READ UNCOMMITTED oferece o maior grau de isolamento e o menor desempenho.  
-(B) SERIALIZABLE oferece o maior grau de isolamento e o maior custo de concorrência.  
-(C) READ COMMITTED impede a ocorrência de leitura fantasma.  
-(D) REPEATABLE READ permite a ocorrência de leitura suja.  
-(E) SERIALIZABLE dispensa o uso do log de transações.
+- [ ] (A) READ UNCOMMITTED oferece o maior grau de isolamento e o menor desempenho.  
+- [ ] (B) SERIALIZABLE oferece o maior grau de isolamento e o maior custo de concorrência.  
+- [ ] (C) READ COMMITTED impede a ocorrência de leitura fantasma.  
+- [ ] (D) REPEATABLE READ permite a ocorrência de leitura suja.  
+- [ ] (E) SERIALIZABLE dispensa o uso do log de transações.
 
 ---
 
