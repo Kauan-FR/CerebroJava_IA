@@ -184,7 +184,7 @@ Esse índice é aproveitado com maior eficiência por consultas que filtram
 
 O otimizador de consultas de um SGBD relacional baseado em custo utiliza, para escolher o plano de execução, principalmente
 
-- [ ] (A) as estatísticas mantidas sobre a distribuição dos dados nas tabelas.  
+- [x] (A) as estatísticas mantidas sobre a distribuição dos dados nas tabelas.  
 - [ ] (B) a ordem em que as tabelas aparecem na cláusula FROM.  
 - [ ] (C) a quantidade de caracteres da consulta submetida.  
 - [ ] (D) o nível de isolamento configurado para a sessão.  
@@ -198,11 +198,11 @@ Uma consulta executada sobre uma tabela de dez milhões de linhas apresenta, em 
 
 A providência mais adequada para melhorar o desempenho dessa consulta é
 
-(A) criar um índice sobre a coluna utilizada no filtro.  
-(B) aumentar o nível de isolamento da transação.  
-(C) converter a tabela para o modelo dimensional.  
-(D) remover as chaves estrangeiras da tabela.  
-(E) executar o comando TRUNCATE sobre a tabela.
+- [x] (A) criar um índice sobre a coluna utilizada no filtro.  
+- [ ] (B) aumentar o nível de isolamento da transação.  
+- [ ] (C) converter a tabela para o modelo dimensional.  
+- [ ] (D) remover as chaves estrangeiras da tabela.  
+- [ ] (E) executar o comando TRUNCATE sobre a tabela.
 
 ---
 
@@ -212,11 +212,11 @@ Após medir a lentidão de relatórios que exigiam múltiplas junções, uma equ
 
 Essa decisão de projeto físico é denominada
 
-(A) normalização.  
-(B) desnormalização.  
-(C) particionamento vertical.  
-(D) engenharia reversa.  
-(E) controle de concorrência otimista.
+- [ ] (A) normalização.  
+- [x] (B) desnormalização.  
+- [ ] (C) particionamento vertical.  
+- [ ] (D) engenharia reversa.  
+- [ ] (E) controle de concorrência otimista.
 
 ---
 
@@ -226,11 +226,11 @@ Uma tabela armazena quinze anos de lançamentos contábeis, e as consultas mais 
 
 A técnica de modelo físico indicada para esse cenário é o(a)
 
-(A) particionamento da tabela por faixa de datas.  
-(B) criação de restrição CHECK sobre a coluna de data.  
-(C) normalização até a Forma Normal de Boyce-Codd.  
-(D) conversão da chave primária em chave composta.  
-(E) criação de uma dimensão degenerada.
+- [ ] (A) particionamento da tabela por faixa de datas.  
+- [ ] (B) criação de restrição CHECK sobre a coluna de data.  
+- [ ] (C) normalização até a Forma Normal de Boyce-Codd.  
+- [ ] (D) conversão da chave primária em chave composta.  
+- [ ] (E) criação de uma dimensão degenerada.
 
 ---
 
