@@ -12,11 +12,11 @@ Tipo:
 
 Uma transação, em um Sistema Gerenciador de Banco de Dados, é definida como
 
-(A) o conjunto de índices criados sobre uma tabela.  
-(B) uma unidade lógica de trabalho, composta por uma ou mais operações, executada integralmente ou não executada.  
-(C) a estrutura de armazenamento adotada para os arquivos de dados.  
-(D) o plano de execução escolhido pelo otimizador de consultas.  
-(E) o conjunto de privilégios concedidos a um usuário do banco.
+- [ ] (A) o conjunto de índices criados sobre uma tabela.  
+- [x] (B) uma unidade lógica de trabalho, composta por uma ou mais operações, executada integralmente ou não executada.  
+- [ ] (C) a estrutura de armazenamento adotada para os arquivos de dados.  
+- [ ] (D) o plano de execução escolhido pelo otimizador de consultas.  
+- [ ] (E) o conjunto de privilégios concedidos a um usuário do banco.
 
 ---
 
@@ -26,11 +26,11 @@ Um analista executou uma sequência de comandos `INSERT` e `UPDATE` e, ao consta
 
 O comando adequado a essa finalidade é
 
-(A) `COMMIT`  
-(B) `ROLLBACK`  
-(C) `SAVEPOINT`  
-(D) `TRUNCATE`  
-(E) `REVOKE`
+- [ ] (A) `COMMIT`  
+- [x] (B) `ROLLBACK`  
+- [ ] (C) `SAVEPOINT`  
+- [ ] (D) `TRUNCATE`  
+- [ ] (E) `REVOKE`
 
 ---
 
@@ -40,11 +40,11 @@ Em uma transação longa, um analista deseja marcar um ponto intermediário, de 
 
 O comando adequado a essa finalidade é
 
-(A) `COMMIT`  
-(B) `ROLLBACK`  
-(C) `SAVEPOINT`  
-(D) `CHECKPOINT`  
-(E) `GRANT`
+- [ ] (A) `COMMIT`  
+- [ ] (B) `ROLLBACK`  
+- [x] (C) `SAVEPOINT`  
+- [ ] (D) `CHECKPOINT`  
+- [ ] (E) `GRANT`
 
 ---
 
@@ -54,11 +54,11 @@ Uma transação T1 alterou o valor de uma linha e ainda não confirmou a operaç
 
 O problema de concorrência caracterizado é a
 
-(A) leitura suja (dirty read).  
-(B) leitura não repetível (non-repeatable read).  
-(C) leitura fantasma (phantom read).  
-(D) perda de atualização (lost update).  
-(E) violação de durabilidade.
+- [x] (A) leitura suja (dirty read).  
+- [ ] (B) leitura não repetível (non-repeatable read).  
+- [ ] (C) leitura fantasma (phantom read).  
+- [ ] (D) perda de atualização (lost update).  
+- [ ] (E) violação de durabilidade.
 
 ---
 
@@ -68,11 +68,11 @@ Uma transação T1 leu o salário de um empregado, obtendo R$ 5.000,00. Em segui
 
 O problema de concorrência caracterizado é a
 
-(A) leitura suja.  
-(B) leitura não repetível.  
-(C) leitura fantasma.  
-(D) perda de atualização.  
-(E) escrita suja.
+- [ ] (A) leitura suja.  
+- [x] (B) leitura não repetível.  
+- [ ] (C) leitura fantasma.  
+- [ ] (D) perda de atualização.  
+- [ ] (E) escrita suja.
 
 ---
 
@@ -82,11 +82,11 @@ Uma transação T1 executou uma consulta que retornou 15 linhas. Em seguida, T2 
 
 O problema de concorrência caracterizado é a
 
-(A) leitura suja.  
-(B) leitura não repetível.  
-(C) leitura fantasma.  
-(D) perda de atualização.  
-(E) violação de atomicidade.
+- [ ] (A) leitura suja.  
+- [ ] (B) leitura não repetível.  
+- [x] (C) leitura fantasma.  
+- [ ] (D) perda de atualização.  
+- [ ] (E) violação de atomicidade.
 
 ---
 
@@ -96,11 +96,11 @@ Considere os níveis de isolamento definidos pelo padrão SQL.
 
 O nível que impede leitura suja e leitura não repetível, mas ainda admite leitura fantasma, é
 
-(A) READ UNCOMMITTED.  
-(B) READ COMMITTED.  
-(C) REPEATABLE READ.  
-(D) SERIALIZABLE.  
-(E) DIRTY READ.
+- [ ] (A) READ UNCOMMITTED.  
+- [ ] (B) READ COMMITTED.  
+- [ ] (C) REPEATABLE READ.  
+- [ ] (D) SERIALIZABLE.  
+- [ ] (E) DIRTY READ.
 
 ---
 
