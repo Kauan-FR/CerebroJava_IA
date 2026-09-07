@@ -236,7 +236,7 @@ Uma equipe reorganizou a tabela `Cliente`, aplicando normalização até a Terce
 Nesse cenário, a visão atua
 
 - [ ] (A) no nível interno, otimizando o acesso físico aos dados.  
-- [ ] (B) no nível externo, preservando a independência de dados lógica.  
+- [x] (B) no nível externo, preservando a independência de dados lógica.  
 - [ ] (C) no nível conceitual, substituindo o modelo de dados original.  
 - [ ] (D) como restrição de integridade referencial entre as três tabelas.  
 - [ ] (E) como mecanismo de controle de concorrência entre transações.
@@ -249,11 +249,11 @@ A arquitetura de três níveis apresenta finalidades bem delimitadas.
 
 **NÃO** constitui benefício proporcionado por essa arquitetura a
 
-(A) possibilidade de alterar o armazenamento sem afetar as aplicações.  
-(B) apresentação de visões distintas a diferentes grupos de usuários.  
-(C) separação entre a descrição lógica e a descrição física dos dados.  
-(D) eliminação da necessidade de realizar cópias de segurança do banco.  
-(E) redução do impacto de alterações estruturais sobre os programas existentes.
+- [ ] (A) possibilidade de alterar o armazenamento sem afetar as aplicações.  
+- [ ] (B) apresentação de visões distintas a diferentes grupos de usuários.  
+- [ ] (C) separação entre a descrição lógica e a descrição física dos dados.  
+- [x] (D) eliminação da necessidade de realizar cópias de segurança do banco.  
+- [ ] (E) redução do impacto de alterações estruturais sobre os programas existentes.
 
 ---
 
@@ -263,8 +263,8 @@ Um analista relacionou alterações realizadas em um banco de dados.
 
 **NÃO** é exemplo de alteração amparada pela independência de dados física a
 
-(A) criação de um índice sobre uma coluna consultada com frequência.  
-(B) alteração do método de organização dos arquivos de dados em disco.  
-(C) migração dos arquivos de dados para outro dispositivo de armazenamento.  
-(D) exclusão de uma coluna utilizada pelas aplicações existentes.  
-(E) aplicação de compressão sobre os blocos de dados armazenados.
+- [ ] (A) criação de um índice sobre uma coluna consultada com frequência.  
+- [ ] (B) alteração do método de organização dos arquivos de dados em disco.  
+- [ ] (C) migração dos arquivos de dados para outro dispositivo de armazenamento.  
+- [x] (D) exclusão de uma coluna utilizada pelas aplicações existentes.  
+- [ ] (E) aplicação de compressão sobre os blocos de dados armazenados.
