@@ -139,7 +139,7 @@ O nível de isolamento adequado é
 Em relação aos níveis de isolamento definidos pelo padrão SQL, é correto afirmar que o nível
 
 - [ ] (A) READ UNCOMMITTED oferece o maior grau de isolamento e o menor desempenho.  
-- [ ] (B) SERIALIZABLE oferece o maior grau de isolamento e o maior custo de concorrência.  
+- [x] (B) SERIALIZABLE oferece o maior grau de isolamento e o maior custo de concorrência.  
 - [ ] (C) READ COMMITTED impede a ocorrência de leitura fantasma.  
 - [ ] (D) REPEATABLE READ permite a ocorrência de leitura suja.  
 - [ ] (E) SERIALIZABLE dispensa o uso do log de transações.
@@ -152,11 +152,11 @@ Bancos de dados NoSQL classificam-se em diferentes categorias, conforme o modelo
 
 O banco de dados que armazena entidades e as relações entre elas como estruturas de primeira classe, sendo especialmente adequado a análises de redes sociais e detecção de fraudes, é o orientado a
 
-(A) chave-valor.  
-(B) documentos.  
-(C) colunas (família de colunas).  
-(D) grafos.  
-(E) objetos relacionais.
+- [ ] (A) chave-valor.  
+- [ ] (B) documentos.  
+- [ ] (C) colunas (família de colunas).  
+- [ ] (D) grafos.  
+- [ ] (E) objetos relacionais.
 
 ---
 
