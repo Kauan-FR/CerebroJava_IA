@@ -98,7 +98,7 @@ O nível que impede leitura suja e leitura não repetível, mas ainda admite lei
 
 - [ ] (A) READ UNCOMMITTED.  
 - [ ] (B) READ COMMITTED.  
-- [ ] (C) REPEATABLE READ.  
+- [x] (C) REPEATABLE READ.  
 - [ ] (D) SERIALIZABLE.  
 - [ ] (E) DIRTY READ.
 
@@ -110,11 +110,11 @@ Duas transações aguardam, cada uma, a liberação de um recurso bloqueado pela
 
 Essa situação é denominada
 
-(A) impasse (deadlock).  
-(B) leitura fantasma.  
-(C) inanição de índice.  
-(D) fragmentação de tablespace.  
-(E) violação de consistência.
+- [ ] (A) impasse (deadlock).  
+- [ ] (B) leitura fantasma.  
+- [ ] (C) inanição de índice.  
+- [ ] (D) fragmentação de tablespace.  
+- [ ] (E) violação de consistência.
 
 ---
 
