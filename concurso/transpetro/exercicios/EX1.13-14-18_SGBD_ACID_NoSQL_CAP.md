@@ -145,7 +145,13 @@ O nível de isolamento adequado é
 - [ ] (D) SERIALIZABLE.  
 - [ ] (E) SNAPSHOT ISOLATION.
 
-
+>[!fail] Os níveis de isolamento
+>|Nível|Suja|Não repetível|Fantasma|
+|---|---|---|---|
+|`READ UNCOMMITTED`|permite|permite|permite|
+|`READ COMMITTED`|**impede**|permite|permite|
+|`REPEATABLE READ`|impede|**impede**|permite|
+|`SERIALIZABLE`|impede|impede|**impede**|
 
 ---
 
