@@ -279,5 +279,5 @@ Um analista relacionou funções desempenhadas por um Sistema Gerenciador de Ban
 - [ ] (A) controle de acesso concorrente às informações armazenadas.  
 - [ ] (B) recuperação do banco de dados após falhas.  
 - [ ] (C) gerenciamento de autorizações e privilégios de usuários.  
-- [ ] (D) definição das regras de negócio da aplicação que consome os dados.  
+- [x] (D) definição das regras de negócio da aplicação que consome os dados.  
 - [ ] (E) otimização das consultas submetidas ao banco.
