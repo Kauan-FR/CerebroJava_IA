@@ -154,7 +154,7 @@ Um efeito colateral esperado dessa criação é o(a)
 
 - [ ] (A) aumento do tempo necessário para as operações de inserção e atualização.  
 - [ ] (B) redução do espaço total ocupado pelo banco de dados.  
-- [x] (C) impossibilidade de executar consultas sobre as demais colunas.  
+<font color="#ff0000">- [x] (C) impossibilidade de executar consultas sobre as demais colunas.  </font>
 - [ ] (D) perda da integridade referencial com as tabelas relacionadas.  
 - [ ] (E) eliminação da necessidade de coleta de estatísticas.
 
