@@ -88,10 +88,16 @@ A independência de dados física caracteriza-se pela possibilidade de alterar o
 A independência de dados lógica caracteriza-se pela possibilidade de alterar o esquema
 
 - [ ] (A) interno sem alterar o esquema conceitual.  
-- [ ] (B) conceitual sem alterar os esquemas externos nem as aplicações.  
-- [x] (C) externo sem alterar o esquema interno.  
+<font color="#00b050">- [ ] (B) conceitual sem alterar os esquemas externos nem as aplicações.  </font>
+<font color="#ff0000">- [x] (C) externo sem alterar o esquema interno.  </font>
 - [ ] (D) físico sem alterar os índices existentes.  
 - [ ] (E) conceitual mediante reorganização obrigatória dos arquivos em disco.
+
+>[!fail] Conceitual
+>||Altera o quê|Sem afetar|
+|---|---|---|
+|**Física**|esquema **interno**|conceitual e aplicações|
+|**Lógica**|esquema **conceitual**|externo e aplicações|
 
 ---
 
@@ -167,11 +173,14 @@ Uma organização adotou o particionamento horizontal da tabela `Movimentacao`, 
 
 Essa situação exemplifica a independência de dados
 
-- [x] (A) lógica, pois alterou-se a estrutura das tabelas.  
-- [ ] (B) física, pois alterou-se apenas a forma de armazenamento.  
+<font color="#ff0000">- [x] (A) lógica, pois alterou-se a estrutura das tabelas.  </font>
+<font color="#00b050">- [ ] (B) física, pois alterou-se apenas a forma de armazenamento.  </font>
 - [ ] (C) semântica, pois alterou-se o significado dos dados.  
 - [ ] (D) referencial, pois preservaram-se as chaves estrangeiras.  
 - [ ] (E) externa, pois alteraram-se as visões dos usuários.
+
+>[!fail] Particionamento é físico
+>
 
 ---
 
