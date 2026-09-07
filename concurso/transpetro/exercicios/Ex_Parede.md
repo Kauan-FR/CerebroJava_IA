@@ -341,3 +341,28 @@ valida DEPOIS = ?
 
 durabilidade vem do log ou do catálogo?
 REDO refaz o quê? UNDO desfaz o quê?
+
+---
+
+## 1.16-17_Transações_Performance_de_banco
+
+TRANSAÇÃO / PERFORMANCE → ?
+
+estados: ativa → ? → confirmada
+falha → ?
+COMMIT faz o quê? ROLLBACK?
+
+índice: acelera o quê? custa o quê?
+índice impede consultar outras colunas?
+índice reduz espaço?
+
+objetivo → recurso:
+ validar valor = ?
+ acelerar busca = ?
+ reduzir volume lido = ?
+ evitar join = ?
+
+tabela de 15 anos, lê só o ano atual = ?
+
+custo do índice em questão negativa:
+ qual item é o intruso?
