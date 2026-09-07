@@ -100,7 +100,7 @@ A independência de dados lógica caracteriza-se pela possibilidade de alterar o
 Segundo a literatura de banco de dados, a independência de dados lógica é considerada mais difícil de alcançar do que a independência física porque
 
 - [ ] (A) o nível interno é gerenciado diretamente pelas aplicações.  
-- [ ] (B) as aplicações costumam depender diretamente da estrutura lógica dos dados que manipulam.  
+- [x] (B) as aplicações costumam depender diretamente da estrutura lógica dos dados que manipulam.  
 - [ ] (C) os índices precisam ser recriados a cada alteração conceitual.  
 - [ ] (D) o nível externo não pode ser modificado após a criação do banco.  
 - [ ] (E) o SGBD não mantém mapeamento entre os níveis conceitual e interno.
@@ -113,11 +113,11 @@ Um sistema legado acessa diretamente a tabela `Empregado`. A equipe precisa divi
 
 O recurso adequado para preservar o acesso das aplicações é a criação de
 
-(A) um índice composto sobre as duas novas tabelas.  
-(B) uma visão (view) com a estrutura original da tabela.  
-(C) uma restrição CHECK sobre as colunas migradas.  
-(D) uma sequência para geração das novas chaves primárias.  
-(E) um gatilho de auditoria sobre as tabelas resultantes.
+- [ ] (A) um índice composto sobre as duas novas tabelas.  
+- [ ] (B) uma visão (view) com a estrutura original da tabela.  
+- [ ] (C) uma restrição CHECK sobre as colunas migradas.  
+- [ ] (D) uma sequência para geração das novas chaves primárias.  
+- [ ] (E) um gatilho de auditoria sobre as tabelas resultantes.
 
 ---
 
