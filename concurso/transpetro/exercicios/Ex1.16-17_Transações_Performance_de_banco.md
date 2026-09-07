@@ -278,7 +278,7 @@ O uso de índices em bancos de dados relacionais envolve benefícios e custos.
 
 - [ ] (A) ocupação adicional de espaço em disco.  
 - [ ] (B) sobrecarga nas operações de inserção, atualização e exclusão.  
-- [ ] (C) necessidade de manutenção e reorganização periódica.  
+- [x] (C) necessidade de manutenção e reorganização periódica.  
 - [ ] (D) redução do tempo de resposta das consultas que utilizam a coluna indexada.  
 - [ ] (E) esforço adicional do otimizador na avaliação dos planos disponíveis.
 
@@ -293,5 +293,5 @@ Um analista relacionou providências para melhoria de desempenho de um banco de 
 - [ ] (A) criação de índices sobre colunas frequentemente utilizadas em filtros.  
 - [ ] (B) particionamento de tabelas de grande volume.  
 - [ ] (C) atualização periódica das estatísticas utilizadas pelo otimizador.  
-- [ ] (D) remoção das restrições de integridade referencial declaradas.  
+- [x] (D) remoção das restrições de integridade referencial declaradas.  
 - [ ] (E) reescrita de consultas para evitar varreduras completas desnecessárias.
