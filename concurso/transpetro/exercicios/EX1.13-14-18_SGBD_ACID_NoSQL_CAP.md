@@ -32,7 +32,11 @@ O recurso utilizado pelo SGBD para viabilizar essa garantia é o(a)
 - [ ] (D) índice composto sobre a chave primária.  
 - [ ] (E) área de estágio do processo de ETL.
 
->[!fail] 
+>[!fail] Log de transações
+>||Guarda|Para quê|
+|---|---|---|
+|**Catálogo**|estrutura: tabelas, colunas, tipos, índices, privilégios|descrever o banco|
+|**Log de transações**|operações: o que mudou, quando, por qual transação|**recuperar** após falha|
 
 ---
 
@@ -100,9 +104,9 @@ Uma transação T1 alterou o salário de um empregado e ainda não confirmou a o
 
 O problema de concorrência caracterizado nessa situação é a
 
-- [ ] (A) leitura suja (dirty read).  
+<font color="#00b050">- [ ] (A) leitura suja (dirty read).  </font>
 - [ ] (B) leitura não repetível (non-repeatable read).  
-- [x] (C) leitura fantasma (phantom read).  
+<font color="#ff0000">- [x] (C) leitura fantasma (phantom read).  </font>
 - [ ] (D) perda de atualização (lost update).  
 - [ ] (E) escrita suja (dirty write).
 
@@ -114,9 +118,9 @@ Uma transação T1 executou uma consulta que retornou 20 linhas. Em seguida, a t
 
 O problema de concorrência caracterizado nessa situação é a
 
-- [x] (A) leitura suja.  
+<font color="#ff0000">- [x] (A) leitura suja.  </font>
 - [ ] (B) leitura não repetível.  
-- [ ] (C) leitura fantasma.  
+<font color="#00b050">- [ ] (C) leitura fantasma.  </font>
 - [ ] (D) perda de atualização.  
 - [ ] (E) violação de atomicidade.
 
@@ -129,10 +133,12 @@ Um analista precisa configurar o nível de isolamento que impede a ocorrência d
 O nível de isolamento adequado é
 
 - [ ] (A) READ UNCOMMITTED.  
-- [ ] (B) READ COMMITTED.  
-- [x] (C) REPEATABLE READ.  
+<font color="#00b050">- [ ] (B) READ COMMITTED.  </font>
+<font color="#ff0000">- [x] (C) REPEATABLE READ.  </font>
 - [ ] (D) SERIALIZABLE.  
 - [ ] (E) SNAPSHOT ISOLATION.
+
+>[!fail] 
 
 ---
 
