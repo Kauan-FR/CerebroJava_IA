@@ -138,7 +138,12 @@ O nível de isolamento adequado é
 - [ ] (D) SERIALIZABLE.  
 - [ ] (E) SNAPSHOT ISOLATION.
 
->[!fail] 
+>[!fail] Problema de conceito (Q7, Q8, Q9)
+>|Problema|O que aconteceu|Confirmado?|
+|---|---|---|
+|**Leitura suja**|leu valor alterado por outra transação|**não** — pode sumir|
+|**Leitura não repetível**|releu a **mesma linha** com valor diferente|sim, houve `UPDATE`|
+|**Leitura fantasma**|reexecutou a consulta e apareceram **linhas novas**|sim, houve `INSERT`|
 
 ---
 
