@@ -234,11 +234,18 @@ Uma tabela armazena quinze anos de lançamentos contábeis, e as consultas mais 
 
 A técnica de modelo físico indicada para esse cenário é o(a)
 
-- [ ] (A) particionamento da tabela por faixa de datas.  
-- [x] (B) criação de restrição CHECK sobre a coluna de data.  
+<font color="#00b050">- [ ] (A) particionamento da tabela por faixa de datas.  </font>
+<font color="#ff0000">- [x] (B) criação de restrição CHECK sobre a coluna de data.  </font>
 - [ ] (C) normalização até a Forma Normal de Boyce-Codd.  
 - [ ] (D) conversão da chave primária em chave composta.  
 - [ ] (E) criação de uma dimensão degenerada.
+
+>[!fail] Particionamento
+>|Recurso|O que faz|
+|---|---|
+|`CHECK`|**valida** valor na escrita|
+|Índice|**acelera** busca por valor|
+|Partição|**reduz** o volume lido|
 
 ---
 
@@ -286,8 +293,8 @@ O uso de índices em bancos de dados relacionais envolve benefícios e custos.
 
 - [ ] (A) ocupação adicional de espaço em disco.  
 - [ ] (B) sobrecarga nas operações de inserção, atualização e exclusão.  
-- [x] (C) necessidade de manutenção e reorganização periódica.  
-- [ ] (D) redução do tempo de resposta das consultas que utilizam a coluna indexada.  
+<font color="#ff0000">- [x] (C) necessidade de manutenção e reorganização periódica.  </font>
+<font color="#00b050">- [ ] (D) redução do tempo de resposta das consultas que utilizam a coluna indexada.  </font>
 - [ ] (E) esforço adicional do otimizador na avaliação dos planos disponíveis.
 
 ---
