@@ -11,11 +11,11 @@ Tipo:
 
 A arquitetura de três níveis proposta pelo ANSI/SPARC organiza a descrição de um banco de dados nos níveis
 
-(A) conceitual, lógico e físico.  
-(B) externo, conceitual e interno.  
-(C) dimensional, relacional e hierárquico.  
-(D) operacional, tático e estratégico.  
-(E) transacional, analítico e distribuído.
+- [ ] (A) conceitual, lógico e físico.  
+- [x] (B) externo, conceitual e interno.  
+- [ ] (C) dimensional, relacional e hierárquico.  
+- [ ] (D) operacional, tático e estratégico.  
+- [ ] (E) transacional, analítico e distribuído.
 
 ---
 
@@ -23,11 +23,11 @@ A arquitetura de três níveis proposta pelo ANSI/SPARC organiza a descrição d
 
 Na arquitetura de três níveis, o nível que descreve como os dados estão efetivamente armazenados, incluindo estruturas de arquivos, índices e métodos de acesso, é o nível
 
-(A) externo.  
-(B) conceitual.  
-(C) interno.  
-(D) semântico.  
-(E) dimensional.
+- [ ] (A) externo.  
+- [ ] (B) conceitual.  
+- [ ] (C) interno.  
+- [ ] (D) semântico.  
+- [ ] (E) dimensional.
 
 ---
 
