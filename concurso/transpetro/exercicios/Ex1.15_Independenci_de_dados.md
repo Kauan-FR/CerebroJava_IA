@@ -25,7 +25,7 @@ Na arquitetura de três níveis, o nível que descreve como os dados estão efet
 
 - [ ] (A) externo.  
 - [ ] (B) conceitual.  
-- [ ] (C) interno.  
+- [x] (C) interno.  
 - [ ] (D) semântico.  
 - [ ] (E) dimensional.
 
@@ -35,11 +35,11 @@ Na arquitetura de três níveis, o nível que descreve como os dados estão efet
 
 Na arquitetura de três níveis, o nível que apresenta a visão particular de cada grupo de usuários sobre o banco de dados, ocultando as demais informações, é o nível
 
-(A) externo.  
-(B) conceitual.  
-(C) interno.  
-(D) físico.  
-(E) transacional.
+- [x] (A) externo.  
+- [ ] (B) conceitual.  
+- [ ] (C) interno.  
+- [ ] (D) físico.  
+- [ ] (E) transacional.
 
 ---
 
@@ -49,11 +49,11 @@ Um administrador de banco de dados criou um índice sobre a coluna `data_emissao
 
 Essa situação exemplifica a independência de dados
 
-(A) lógica.  
-(B) física.  
-(C) referencial.  
-(D) semântica.  
-(E) transacional.
+- [ ] (A) lógica.  
+- [x] (B) física.  
+- [ ] (C) referencial.  
+- [ ] (D) semântica.  
+- [ ] (E) transacional.
 
 ---
 
@@ -63,11 +63,11 @@ Uma equipe acrescentou a coluna `email_secundario` à tabela `Cliente`. As aplic
 
 Essa situação exemplifica a independência de dados
 
-(A) lógica.  
-(B) física.  
-(C) física e lógica, simultaneamente.  
-(D) de domínio.  
-(E) de entidade.
+- [x] (A) lógica.  
+- [ ] (B) física.  
+- [ ] (C) física e lógica, simultaneamente.  
+- [ ] (D) de domínio.  
+- [ ] (E) de entidade.
 
 ---
 
@@ -75,11 +75,11 @@ Essa situação exemplifica a independência de dados
 
 A independência de dados física caracteriza-se pela possibilidade de alterar o esquema
 
-(A) interno sem alterar o esquema conceitual nem as aplicações.  
-(B) conceitual sem alterar o esquema interno.  
-(C) externo sem alterar as visões dos usuários.  
-(D) conceitual sem alterar as regras de negócio da aplicação.  
-(E) interno mediante reescrita obrigatória das aplicações.
+- [ ] (A) interno sem alterar o esquema conceitual nem as aplicações.  
+- [ ] (B) conceitual sem alterar o esquema interno.  
+- [ ] (C) externo sem alterar as visões dos usuários.  
+- [ ] (D) conceitual sem alterar as regras de negócio da aplicação.  
+- [ ] (E) interno mediante reescrita obrigatória das aplicações.
 
 ---
 
