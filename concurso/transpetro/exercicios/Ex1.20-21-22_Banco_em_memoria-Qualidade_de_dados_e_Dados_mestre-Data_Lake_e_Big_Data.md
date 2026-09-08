@@ -12,11 +12,11 @@ Tipo:
 
 Um banco de dados em memória (_in-memory database_) caracteriza-se por
 
-(A) manter os dados primariamente na memória principal, dispensando o acesso a disco durante as operações rotineiras.  
-(B) armazenar os dados exclusivamente em disco, utilizando memória apenas para o catálogo do sistema.  
-(C) eliminar a necessidade de qualquer mecanismo de recuperação após falhas.  
-(D) impedir a execução de transações com propriedades ACID.  
-(E) restringir-se ao armazenamento de dados não estruturados.
+- [x] (A) manter os dados primariamente na memória principal, dispensando o acesso a disco durante as operações rotineiras.  
+- [ ] (B) armazenar os dados exclusivamente em disco, utilizando memória apenas para o catálogo do sistema.  
+- [ ] (C) eliminar a necessidade de qualquer mecanismo de recuperação após falhas.  
+- [ ] (D) impedir a execução de transações com propriedades ACID.  
+- [ ] (E) restringir-se ao armazenamento de dados não estruturados.
 
 ---
 
