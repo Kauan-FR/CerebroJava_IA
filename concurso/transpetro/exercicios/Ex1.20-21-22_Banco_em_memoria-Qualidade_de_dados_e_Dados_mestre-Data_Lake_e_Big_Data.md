@@ -146,7 +146,7 @@ Uma organização implantou um processo para identificar, consolidar e manter um
 
 Esse processo é denominado gestão de
 
-- [ ] (A) dados mestres (MDM).  
+- [x] (A) dados mestres (MDM).  
 - [ ] (B) transações distribuídas.  
 - [ ] (C) configuração de infraestrutura.  
 - [ ] (D) continuidade de negócios.  
