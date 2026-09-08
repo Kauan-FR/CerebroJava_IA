@@ -240,11 +240,11 @@ Em um processo de integração de dados, uma organização adotou a abordagem em
 
 Essa abordagem é denominada
 
-(A) ETL.  
-(B) ELT.  
-(C) MDM.  
-(D) OLAP.  
-(E) CDC reverso.
+- [ ] (A) ETL.  
+- [ ] (B) ELT.  
+- [ ] (C) MDM.  
+- [ ] (D) OLAP.  
+- [ ] (E) CDC reverso.
 
 ---
 
