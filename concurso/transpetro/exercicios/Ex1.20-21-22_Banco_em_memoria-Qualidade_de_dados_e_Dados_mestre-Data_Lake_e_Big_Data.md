@@ -26,11 +26,11 @@ Uma equipe avalia a adoção de um banco de dados em memória para um sistema de
 
 A principal vantagem dessa tecnologia, nesse cenário, é
 
-(A) a redução do espaço total de armazenamento necessário.  
-(B) a latência significativamente menor no acesso aos dados.  
-(C) a dispensa do uso de índices sobre as estruturas de dados.  
-(D) a eliminação da necessidade de modelagem de dados.  
-(E) a garantia automática de consistência eventual entre nós.
+- [ ] (A) a redução do espaço total de armazenamento necessário.  
+- [x] (B) a latência significativamente menor no acesso aos dados.  
+- [ ] (C) a dispensa do uso de índices sobre as estruturas de dados.  
+- [ ] (D) a eliminação da necessidade de modelagem de dados.  
+- [ ] (E) a garantia automática de consistência eventual entre nós.
 
 ---
 
@@ -38,11 +38,11 @@ A principal vantagem dessa tecnologia, nesse cenário, é
 
 A principal limitação dos bancos de dados em memória, em comparação com os bancos tradicionais em disco, é
 
-(A) a impossibilidade de utilizar linguagem SQL para consultas.  
-(B) a volatilidade da memória principal e o custo por unidade de armazenamento.  
-(C) a incapacidade de processar operações de escrita.  
-(D) a exigência obrigatória de modelagem dimensional.  
-(E) a ausência de suporte a controle de concorrência.
+- [ ] (A) a impossibilidade de utilizar linguagem SQL para consultas.  
+- [x] (B) a volatilidade da memória principal e o custo por unidade de armazenamento.  
+- [ ] (C) a incapacidade de processar operações de escrita.  
+- [ ] (D) a exigência obrigatória de modelagem dimensional.  
+- [ ] (E) a ausência de suporte a controle de concorrência.
 
 ---
 
@@ -50,11 +50,11 @@ A principal limitação dos bancos de dados em memória, em comparação com os 
 
 Para assegurar a durabilidade das transações, um banco de dados em memória utiliza, tipicamente,
 
-(A) exclusivamente a replicação de dados entre processos na mesma máquina.  
-(B) a gravação de log de transações em armazenamento persistente e a geração periódica de _snapshots_.  
-(C) a recriação integral dos dados a partir das aplicações cliente após cada falha.  
-(D) a conversão automática do banco para o modelo dimensional.  
-(E) a desativação do controle de concorrência durante as escritas.
+- [ ] (A) exclusivamente a replicação de dados entre processos na mesma máquina.  
+- [x] (B) a gravação de log de transações em armazenamento persistente e a geração periódica de _snapshots_.  
+- [ ] (C) a recriação integral dos dados a partir das aplicações cliente após cada falha.  
+- [ ] (D) a conversão automática do banco para o modelo dimensional.  
+- [ ] (E) a desativação do controle de concorrência durante as escritas.
 
 ---
 
@@ -64,11 +64,11 @@ Uma organização utiliza uma solução em memória para armazenar temporariamen
 
 Esse uso caracteriza a aplicação de
 
-(A) cache.  
-(B) data lake.  
-(C) engenharia reversa.  
-(D) dimensão degenerada.  
-(E) particionamento vertical.
+- [x] (A) cache.  
+- [ ] (B) data lake.  
+- [ ] (C) engenharia reversa.  
+- [ ] (D) dimensão degenerada.  
+- [ ] (E) particionamento vertical.
 
 ---
 
@@ -76,11 +76,11 @@ Esse uso caracteriza a aplicação de
 
 Na gestão da qualidade de dados, a dimensão que avalia se os dados armazenados correspondem à realidade que representam é a
 
-(A) acurácia.  
-(B) completude.  
-(C) consistência.  
-(D) tempestividade.  
-(E) unicidade.
+- [x] (A) acurácia.  
+- [ ] (B) completude.  
+- [ ] (C) consistência.  
+- [ ] (D) tempestividade.  
+- [ ] (E) unicidade.
 
 ---
 
@@ -90,11 +90,11 @@ Uma organização identificou que 30% dos registros de clientes não possuem o c
 
 A dimensão de qualidade de dados afetada nesse caso é a
 
-(A) acurácia.  
-(B) completude.  
-(C) unicidade.  
-(D) conformidade.  
-(E) tempestividade.
+- [ ] (A) acurácia.  
+- [x] (B) completude.  
+- [ ] (C) unicidade.  
+- [ ] (D) conformidade.  
+- [ ] (E) tempestividade.
 
 ---
 
@@ -104,11 +104,11 @@ Uma análise identificou que o mesmo cliente está cadastrado três vezes na bas
 
 A dimensão de qualidade de dados afetada é a
 
-(A) completude.  
-(B) unicidade.  
-(C) tempestividade.  
-(D) acurácia.  
-(E) validade.
+- [ ] (A) completude.  
+- [x] (B) unicidade.  
+- [ ] (C) tempestividade.  
+- [ ] (D) acurácia.  
+- [ ] (E) validade.
 
 ---
 
@@ -118,11 +118,11 @@ Em duas bases distintas de uma mesma organização, o campo "estado civil" apres
 
 A dimensão de qualidade de dados afetada é a
 
-(A) consistência.  
-(B) completude.  
-(C) tempestividade.  
-(D) unicidade.  
-(E) durabilidade.
+- [x] (A) consistência.  
+- [ ] (B) completude.  
+- [ ] (C) tempestividade.  
+- [ ] (D) unicidade.  
+- [ ] (E) durabilidade.
 
 ---
 
