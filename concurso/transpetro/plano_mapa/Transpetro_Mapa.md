@@ -170,3 +170,17 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 - [ ] Compreensão de texto
 - [ ] Itens gramaticais para compreensão semântica
+
+
+
+
+|Rodada|Assuntos|Denso?|Por quê|
+|---|---|---|---|
+|**1**|Scrum + Kanban + projeto × produto|Leve|Você vive isso no trabalho e no WhatsBotAI|
+|**2**|SAFe + ágil em escala|**Denso, sozinho**|Novo, framework grande|
+|**3**|PMBOK — grupos de processos + áreas de conhecimento|**Denso, sozinho**|Muito vocabulário, números fixos|
+|**4**|PMBOK — PMO + projetos na organização|Leve|Complemento do anterior, curto|
+|**5**|ITIL|**Denso, sozinho**|Ciclo de vida, decoreba pesada|
+|**6**|COBIT|**Denso, sozinho**|Domínios e siglas|
+|**7**|LGPD|**Denso, sozinho**|Lei, cai muito|
+|**8**|Contexto de TI (mercado, inovação, P&D)|Leve|Decoreba rápida, item 4.1–4.4|
