@@ -50,7 +50,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 1.20 Banco em memória
 - [x] 1.21 Qualidade de dados e dados mestres
 - [x] 1.22 Data Lakes e Big Data
-- [ ] 1.23 Relacional × multidimensional × documentos × grafos
+- [x] 1.23 Relacional × multidimensional × documentos × grafos
 
 ## Bloco 7 — Análise de Dados e BI (S3) · ~7 questões
 
