@@ -198,7 +198,7 @@ As características frequentemente associadas ao Big Data são conhecidas como o
 
 Os três "V" originalmente propostos são
 
-- [ ] (A) volume, velocidade e variedade.  
+- [x] (A) volume, velocidade e variedade.  
 - [ ] (B) volume, validade e visibilidade.  
 - [ ] (C) veracidade, valor e visualização.  
 - [ ] (D) velocidade, versionamento e volatilidade.  
@@ -212,11 +212,11 @@ Uma organização armazenou grande volume de arquivos em seu data lake sem catal
 
 Essa degradação caracteriza a formação de um(a)
 
-(A) data mart departamental.  
-(B) data swamp (pântano de dados).  
-(C) esquema em floco de neve.  
-(D) área de estágio do processo de ETL.  
-(E) banco de dados em memória.
+- [ ] (A) data mart departamental.  
+- [ ] (B) data swamp (pântano de dados).  
+- [ ] (C) esquema em floco de neve.  
+- [ ] (D) área de estágio do processo de ETL.  
+- [ ] (E) banco de dados em memória.
 
 ---
 
