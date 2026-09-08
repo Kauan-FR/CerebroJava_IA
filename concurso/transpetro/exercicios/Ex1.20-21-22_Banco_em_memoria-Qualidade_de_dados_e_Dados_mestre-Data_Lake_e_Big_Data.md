@@ -271,5 +271,5 @@ Um analista relacionou características atribuídas aos data lakes.
 - [ ] (A) armazenamento de dados estruturados, semiestruturados e não estruturados.  
 - [ ] (B) aplicação do esquema no momento da leitura.  
 - [ ] (C) custo de armazenamento geralmente inferior ao de um data warehouse.  
-- [ ] (D) exigência de modelagem dimensional prévia à ingestão dos dados.  
+- [x] (D) exigência de modelagem dimensional prévia à ingestão dos dados.  
 - [ ] (E) utilização por cientistas de dados para exploração e análise avançada.
