@@ -158,11 +158,11 @@ Esse processo é denominado gestão de
 
 Em gestão de dados, a expressão "visão única do cliente" (_golden record_) refere-se
 
-(A) ao registro consolidado que representa a versão mais confiável e completa de uma entidade, obtida a partir de múltiplas fontes.  
-(B) ao backup diário dos dados cadastrais dos clientes.  
-(C) ao índice criado sobre a chave primária da tabela de clientes.  
-(D) à visão materializada que apresenta o total de vendas por cliente.  
-(E) ao log de transações que registra as alterações no cadastro.
+- [x] (A) ao registro consolidado que representa a versão mais confiável e completa de uma entidade, obtida a partir de múltiplas fontes.  
+- [ ] (B) ao backup diário dos dados cadastrais dos clientes.  
+- [ ] (C) ao índice criado sobre a chave primária da tabela de clientes.  
+- [ ] (D) à visão materializada que apresenta o total de vendas por cliente.  
+- [ ] (E) ao log de transações que registra as alterações no cadastro.
 
 ---
 
@@ -172,11 +172,11 @@ Um processo de qualidade de dados identifica registros que representam a mesma e
 
 Esse processo é denominado
 
-(A) deduplicação (_record matching_).  
-(B) particionamento horizontal.  
-(C) normalização até a Terceira Forma Normal.  
-(D) engenharia reversa de dados.  
-(E) controle de concorrência otimista.
+- [ ] (A) deduplicação (_record matching_).  
+- [ ] (B) particionamento horizontal.  
+- [ ] (C) normalização até a Terceira Forma Normal.  
+- [ ] (D) engenharia reversa de dados.  
+- [ ] (E) controle de concorrência otimista.
 
 ---
 
