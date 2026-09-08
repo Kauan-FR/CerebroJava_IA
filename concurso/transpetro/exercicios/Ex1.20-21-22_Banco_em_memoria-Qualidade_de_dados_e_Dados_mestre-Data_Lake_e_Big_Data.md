@@ -172,7 +172,7 @@ Um processo de qualidade de dados identifica registros que representam a mesma e
 
 Esse processo é denominado
 
-- [ ] (A) deduplicação (_record matching_).  
+- [x] (A) deduplicação (_record matching_).  
 - [ ] (B) particionamento horizontal.  
 - [ ] (C) normalização até a Terceira Forma Normal.  
 - [ ] (D) engenharia reversa de dados.  
@@ -184,11 +184,11 @@ Esse processo é denominado
 
 Um data lake distingue-se de um data warehouse principalmente porque
 
-(A) armazena dados brutos, em formato original, com esquema aplicado na leitura.  
-(B) armazena exclusivamente dados estruturados previamente modelados.  
-(C) exige modelagem dimensional antes da ingestão dos dados.  
-(D) dispensa qualquer forma de catalogação ou governança.  
-(E) substitui integralmente os sistemas transacionais da organização.
+- [x] (A) armazena dados brutos, em formato original, com esquema aplicado na leitura.  
+- [ ] (B) armazena exclusivamente dados estruturados previamente modelados.  
+- [ ] (C) exige modelagem dimensional antes da ingestão dos dados.  
+- [ ] (D) dispensa qualquer forma de catalogação ou governança.  
+- [ ] (E) substitui integralmente os sistemas transacionais da organização.
 
 ---
 
@@ -198,11 +198,11 @@ As características frequentemente associadas ao Big Data são conhecidas como o
 
 Os três "V" originalmente propostos são
 
-(A) volume, velocidade e variedade.  
-(B) volume, validade e visibilidade.  
-(C) veracidade, valor e visualização.  
-(D) velocidade, versionamento e volatilidade.  
-(E) variedade, virtualização e vulnerabilidade.
+- [ ] (A) volume, velocidade e variedade.  
+- [ ] (B) volume, validade e visibilidade.  
+- [ ] (C) veracidade, valor e visualização.  
+- [ ] (D) velocidade, versionamento e volatilidade.  
+- [ ] (E) variedade, virtualização e vulnerabilidade.
 
 ---
 
