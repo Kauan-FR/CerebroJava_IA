@@ -241,7 +241,7 @@ Em um processo de integração de dados, uma organização adotou a abordagem em
 Essa abordagem é denominada
 
 - [ ] (A) ETL.  
-- [ ] (B) ELT.  
+- [x] (B) ELT.  
 - [ ] (C) MDM.  
 - [ ] (D) OLAP.  
 - [ ] (E) CDC reverso.
@@ -254,11 +254,11 @@ A gestão da qualidade de dados envolve dimensões e práticas bem delimitadas.
 
 **NÃO** constitui dimensão de qualidade de dados a
 
-(A) acurácia dos valores armazenados.  
-(B) completude dos campos obrigatórios.  
-(C) consistência entre diferentes fontes.  
-(D) quantidade de índices criados sobre as tabelas.  
-(E) atualidade dos dados disponibilizados.
+- [ ] (A) acurácia dos valores armazenados.  
+- [ ] (B) completude dos campos obrigatórios.  
+- [ ] (C) consistência entre diferentes fontes.  
+- [x] (D) quantidade de índices criados sobre as tabelas.  
+- [ ] (E) atualidade dos dados disponibilizados.
 
 ---
 
@@ -268,8 +268,8 @@ Um analista relacionou características atribuídas aos data lakes.
 
 **NÃO** constitui característica de um data lake a
 
-(A) armazenamento de dados estruturados, semiestruturados e não estruturados.  
-(B) aplicação do esquema no momento da leitura.  
-(C) custo de armazenamento geralmente inferior ao de um data warehouse.  
-(D) exigência de modelagem dimensional prévia à ingestão dos dados.  
-(E) utilização por cientistas de dados para exploração e análise avançada.
+- [ ] (A) armazenamento de dados estruturados, semiestruturados e não estruturados.  
+- [ ] (B) aplicação do esquema no momento da leitura.  
+- [ ] (C) custo de armazenamento geralmente inferior ao de um data warehouse.  
+- [ ] (D) exigência de modelagem dimensional prévia à ingestão dos dados.  
+- [ ] (E) utilização por cientistas de dados para exploração e análise avançada.
