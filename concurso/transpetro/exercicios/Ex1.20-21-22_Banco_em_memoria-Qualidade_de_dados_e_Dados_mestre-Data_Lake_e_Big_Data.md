@@ -132,11 +132,11 @@ Um relatório gerencial apresenta dados de vendas atualizados até três meses a
 
 A dimensão de qualidade de dados afetada é a
 
-(A) acurácia.  
-(B) completude.  
-(C) tempestividade (atualidade).  
-(D) unicidade.  
-(E) consistência.
+- [ ] (A) acurácia.  
+- [ ] (B) completude.  
+- [x] (C) tempestividade (atualidade).  
+- [ ] (D) unicidade.  
+- [ ] (E) consistência.
 
 ---
 
@@ -146,11 +146,11 @@ Uma organização implantou um processo para identificar, consolidar e manter um
 
 Esse processo é denominado gestão de
 
-(A) dados mestres (MDM).  
-(B) transações distribuídas.  
-(C) configuração de infraestrutura.  
-(D) continuidade de negócios.  
-(E) desempenho de consultas.
+- [ ] (A) dados mestres (MDM).  
+- [ ] (B) transações distribuídas.  
+- [ ] (C) configuração de infraestrutura.  
+- [ ] (D) continuidade de negócios.  
+- [ ] (E) desempenho de consultas.
 
 ---
 
