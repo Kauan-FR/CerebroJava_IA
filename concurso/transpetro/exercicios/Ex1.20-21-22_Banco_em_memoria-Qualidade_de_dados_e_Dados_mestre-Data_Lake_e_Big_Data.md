@@ -213,7 +213,7 @@ Uma organização armazenou grande volume de arquivos em seu data lake sem catal
 Essa degradação caracteriza a formação de um(a)
 
 - [ ] (A) data mart departamental.  
-- [ ] (B) data swamp (pântano de dados).  
+- [x] (B) data swamp (pântano de dados).  
 - [ ] (C) esquema em floco de neve.  
 - [ ] (D) área de estágio do processo de ETL.  
 - [ ] (E) banco de dados em memória.
@@ -226,11 +226,11 @@ Uma arquitetura de dados moderna combina a flexibilidade de armazenamento de um 
 
 Essa arquitetura é denominada
 
-(A) data lakehouse.  
-(B) data mart.  
-(C) esquema estrela.  
-(D) sistema OLTP distribuído.  
-(E) banco de dados hierárquico.
+- [x] (A) data lakehouse.  
+- [ ] (B) data mart.  
+- [ ] (C) esquema estrela.  
+- [ ] (D) sistema OLTP distribuído.  
+- [ ] (E) banco de dados hierárquico.
 
 ---
 
