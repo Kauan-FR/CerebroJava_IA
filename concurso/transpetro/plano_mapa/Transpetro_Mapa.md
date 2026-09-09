@@ -78,7 +78,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 - [x] 2.1 Scrum e Kanban
 - [x] 2.2 Gestão de projeto × gestão de produto
-- [ ] 2.3 SAFe e ágil em escala
+- [x] 2.3 SAFe e ágil em escala
 - [ ] 2.4 PMBOK 7ª edição
 - [ ] 2.5 Projetos e a organização
 - [ ] 2.6 Escritório de projetos (PMO)
