@@ -60,8 +60,8 @@ No SAFe, o conjunto de equipes ágeis que trabalham de forma sincronizada, com c
 
 Em relação à sua adoção pelas equipes, o SAFe caracteriza-se por
 
-- [x] (A) substituir integralmente o Scrum e o Kanban no nível das equipes.  
-- [ ] (B) manter práticas como Scrum e Kanban no nível das equipes, acrescentando camadas de coordenação e alinhamento estratégico.  
+- [ ] (A) substituir integralmente o Scrum e o Kanban no nível das equipes.  
+- [x] (B) manter práticas como Scrum e Kanban no nível das equipes, acrescentando camadas de coordenação e alinhamento estratégico.  
 - [ ] (C) proibir a realização de iterações de duração fixa.  
 - [ ] (D) exigir que todas as equipes adotem exclusivamente o método preditivo.  
 - [ ] (E) dispensar a priorização do trabalho a ser realizado.
@@ -74,7 +74,7 @@ Uma organização adotou o SAFe para alinhar seus investimentos em tecnologia ao
 
 Essa prática corresponde, no SAFe, à gestão de
 
-- [ ] (A) portfólio.  
+- [x] (A) portfólio.  
 - [ ] (B) configuração.  
 - [ ] (C) incidentes.  
 - [ ] (D) capacidade de infraestrutura.  
@@ -86,11 +86,11 @@ Essa prática corresponde, no SAFe, à gestão de
 
 Uma diferença entre o Scrum e o SAFe é que o SAFe
 
-(A) destina-se à coordenação de múltiplas equipes, enquanto o Scrum se aplica ao trabalho de uma única equipe.  
-(B) dispensa a definição de papéis, enquanto o Scrum os prescreve.  
-(C) proíbe entregas incrementais, enquanto o Scrum as determina.  
-(D) aplica-se exclusivamente a projetos de infraestrutura.  
-(E) elimina a necessidade de retrospectivas.
+- [x] (A) destina-se à coordenação de múltiplas equipes, enquanto o Scrum se aplica ao trabalho de uma única equipe.  
+- [ ] (B) dispensa a definição de papéis, enquanto o Scrum os prescreve.  
+- [ ] (C) proíbe entregas incrementais, enquanto o Scrum as determina.  
+- [ ] (D) aplica-se exclusivamente a projetos de infraestrutura.  
+- [ ] (E) elimina a necessidade de retrospectivas.
 
 ---
 
@@ -100,8 +100,8 @@ O SAFe apresenta finalidades e características bem delimitadas.
 
 **NÃO** constitui característica do SAFe a
 
-(A) sincronização de múltiplas equipes por meio de cadência comum.  
-(B) alinhamento das entregas à estratégia de negócio da organização.  
-(C) realização de planejamento conjunto entre equipes interdependentes.  
-(D) eliminação da necessidade de planejamento e de estimativas.  
-(E) realização de entregas incrementais ao longo do tempo.SAFe_e_ágil_em_escala
+- [ ] (A) sincronização de múltiplas equipes por meio de cadência comum.  
+- [ ] (B) alinhamento das entregas à estratégia de negócio da organização.  
+- [ ] (C) realização de planejamento conjunto entre equipes interdependentes.  
+- [x] (D) eliminação da necessidade de planejamento e de estimativas.  
+- [ ] (E) realização de entregas incrementais ao longo do tempo.
