@@ -74,11 +74,11 @@ Uma organização adotou o SAFe para alinhar seus investimentos em tecnologia ao
 
 Essa prática corresponde, no SAFe, à gestão de
 
-(A) portfólio.  
-(B) configuração.  
-(C) incidentes.  
-(D) capacidade de infraestrutura.  
-(E) continuidade de negócios.
+- [ ] (A) portfólio.  
+- [ ] (B) configuração.  
+- [ ] (C) incidentes.  
+- [ ] (D) capacidade de infraestrutura.  
+- [ ] (E) continuidade de negócios.
 
 ---
 
