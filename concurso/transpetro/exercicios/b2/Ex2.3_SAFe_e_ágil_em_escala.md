@@ -60,7 +60,7 @@ No SAFe, o conjunto de equipes ágeis que trabalham de forma sincronizada, com c
 
 Em relação à sua adoção pelas equipes, o SAFe caracteriza-se por
 
-- [ ] (A) substituir integralmente o Scrum e o Kanban no nível das equipes.  
+- [x] (A) substituir integralmente o Scrum e o Kanban no nível das equipes.  
 - [ ] (B) manter práticas como Scrum e Kanban no nível das equipes, acrescentando camadas de coordenação e alinhamento estratégico.  
 - [ ] (C) proibir a realização de iterações de duração fixa.  
 - [ ] (D) exigir que todas as equipes adotem exclusivamente o método preditivo.  
