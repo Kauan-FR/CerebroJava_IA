@@ -76,8 +76,8 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 ## Blocos 2 e 3 — Projetos e Produtos (S5) · ~6 questões
 
-- [ ] 2.1 Scrum e Kanban
-- [ ] 2.2 Gestão de projeto × gestão de produto
+- [x] 2.1 Scrum e Kanban
+- [x] 2.2 Gestão de projeto × gestão de produto
 - [ ] 2.3 SAFe e ágil em escala
 - [ ] 2.4 PMBOK 7ª edição
 - [ ] 2.5 Projetos e a organização
