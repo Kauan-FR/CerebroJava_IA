@@ -100,3 +100,26 @@ SAFe = o mais pesado
 
 ---
 
+PMBOK
+
+projeto = temporário + único
+
+6ª = PROCESSOS (49/5grupos/10áreas)
+     preditiva
+7ª = PRINCÍPIOS (12/8domínios)
+     adaptativa, foco em VALOR
+
+5 GRUPOS
+ iniciação · planejamento · execução
+ monitoramento · encerramento
+ ⚠ monitoramento roda em paralelo
+
+10 ÁREAS: integração escopo cronograma
+ custo qualidade recursos comunicação
+ risco aquisição stakeholder
+
+ORGANIZAÇÃO
+ funcional=PM fraco
+ projetizada=PM forte
+
+⚠ tailoring = adaptar ao contexto
