@@ -102,24 +102,22 @@ SAFe = o mais pesado
 
 PMBOK
 
-projeto = temporário + único
-
-6ª = PROCESSOS (49/5grupos/10áreas)
-     preditiva
-7ª = PRINCÍPIOS (12/8domínios)
-     adaptativa, foco em VALOR
+6ª PROCESSOS: 49 proc, 5 grupos, 10 áreas
+   cascata
+7ª PRINCÍPIOS: 12 princ, 8 domínios
+   ágil, foco em VALOR
 
 5 GRUPOS
- iniciação · planejamento · execução
- monitoramento · encerramento
- ⚠ monitoramento roda em paralelo
+ iniciação planejamento execução
+ monit&controle(PARALELO) encerramento
 
-10 ÁREAS: integração escopo cronograma
- custo qualidade recursos comunicação
- risco aquisição stakeholder
+10 ÁREAS: integração(amarra) escopo
+ cronograma custos qualidade recursos
+ comunicações riscos aquisições
+ partes interessadas
 
-ORGANIZAÇÃO
- funcional=PM fraco
- projetizada=PM forte
+ESTRUTURA
+ funcional → GP fraco
+ projetizada → GP total
 
-⚠ tailoring = adaptar ao contexto
+termo de abertura = autoriza o projeto
