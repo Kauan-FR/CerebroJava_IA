@@ -105,8 +105,8 @@ Essas atividades pertencem ao grupo de processos de
 
 - [ ] (A) Iniciação.  
 - [ ] (B) Planejamento.  
-- [x] (C) Execução.  
-- [ ] (D) Monitoramento e Controle.  
+- [ ] (C) Execução.  
+- [x] (D) Monitoramento e Controle.  
 - [ ] (E) Encerramento.
 
 ---
