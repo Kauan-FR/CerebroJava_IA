@@ -90,7 +90,7 @@ O gerenciamento de projetos envolve grupos de processos que são realizados a pa
 A sequência correta desses grupos de processos é:
 
 - [ ] (A) Iniciação, Monitoramento e Controle, Encerramento.  
-- [ ] (B) Iniciação, Planejamento, Execução, Monitoramento e Controle, Encerramento.  
+- [x] (B) Iniciação, Planejamento, Execução, Monitoramento e Controle, Encerramento.  
 - [ ] (C) Planejamento do Escopo, Definição do Escopo, Encerramento do Escopo.  
 - [ ] (D) Planejamento, Execução, Monitoramento e Controle, Iniciação.  
 - [ ] (E) Monitoramento e Controle, Execução, Planejamento, Iniciação.
@@ -103,11 +103,11 @@ Durante a execução de um projeto, a equipe acompanha o desempenho em relação
 
 Essas atividades pertencem ao grupo de processos de
 
-(A) Iniciação.  
-(B) Planejamento.  
-(C) Execução.  
-(D) Monitoramento e Controle.  
-(E) Encerramento.
+- [ ] (A) Iniciação.  
+- [ ] (B) Planejamento.  
+- [ ] (C) Execução.  
+- [ ] (D) Monitoramento e Controle.  
+- [ ] (E) Encerramento.
 
 ---
 
