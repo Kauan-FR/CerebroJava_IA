@@ -127,7 +127,7 @@ O documento que autoriza formalmente a existência de um projeto e confere ao ge
 
 De acordo com a 6ª edição do PMBOK, o gerenciamento do escopo, do cronograma, dos custos, da qualidade, dos recursos, das comunicações, dos riscos, das aquisições, das partes interessadas e da integração constituem
 
-- [ ] (A) as áreas de conhecimento do gerenciamento de projetos.  
+- [x] (A) as áreas de conhecimento do gerenciamento de projetos.  
 - [ ] (B) os grupos de processos do gerenciamento de projetos.  
 - [ ] (C) os princípios do gerenciamento de projetos.  
 - [ ] (D) os domínios de desempenho do projeto.  
@@ -139,11 +139,11 @@ De acordo com a 6ª edição do PMBOK, o gerenciamento do escopo, do cronograma,
 
 A área de conhecimento responsável por unificar, consolidar e articular os processos e as atividades das demais áreas é o gerenciamento
 
-(A) da integração do projeto.  
-(B) do escopo do projeto.  
-(C) da qualidade do projeto.  
-(D) das comunicações do projeto.  
-(E) das aquisições do projeto.
+- [x] (A) da integração do projeto.  
+- [ ] (B) do escopo do projeto.  
+- [ ] (C) da qualidade do projeto.  
+- [ ] (D) das comunicações do projeto.  
+- [ ] (E) das aquisições do projeto.
 
 ---
 
@@ -153,11 +153,11 @@ Um gerente de projeto identificou que determinado risco, caso se concretize, com
 
 Essa decisão caracteriza uma estratégia de resposta a riscos de
 
-(A) transferência.  
-(B) mitigação.  
-(C) aceitação.  
-(D) eliminação.  
-(E) exploração.
+- [x] (A) transferência.  
+- [ ] (B) mitigação.  
+- [ ] (C) aceitação.  
+- [ ] (D) eliminação.  
+- [ ] (E) exploração.
 
 ---
 
@@ -167,11 +167,11 @@ Durante o planejamento de um projeto, a equipe decompôs as entregas em componen
 
 O artefato resultante dessa decomposição é a(o)
 
-(A) Estrutura Analítica do Projeto (EAP).  
-(B) matriz de responsabilidades (RACI).  
-(C) registro dos riscos identificados.  
-(D) diagrama de rede do cronograma.  
-(E) termo de abertura do projeto.
+- [ ] (A) Estrutura Analítica do Projeto (EAP).  
+- [ ] (B) matriz de responsabilidades (RACI).  
+- [ ] (C) registro dos riscos identificados.  
+- [ ] (D) diagrama de rede do cronograma.  
+- [ ] (E) termo de abertura do projeto.
 
 ---
 
