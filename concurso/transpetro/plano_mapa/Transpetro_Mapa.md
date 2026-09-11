@@ -79,11 +79,11 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 2.1 Scrum e Kanban
 - [x] 2.2 Gestão de projeto × gestão de produto
 - [x] 2.3 SAFe e ágil em escala
-- [ ] 2.4 PMBOK 7ª edição
-- [ ] 2.5 Projetos e a organização
+- [x] 2.4 PMBOK 7ª edição
+- [x] 2.5 Projetos e a organização
 - [ ] 2.6 Escritório de projetos (PMO)
 - [ ] 2.7 Modelos e características
-- [ ] 3. Processos, grupos de processos, áreas de conhecimento
+- [x] 3. Processos, grupos de processos, áreas de conhecimento
 
 ## Bloco 4 — Gestão e Governança de TI (S6) · ~5 questões
 
