@@ -167,7 +167,7 @@ Durante o planejamento de um projeto, a equipe decompôs as entregas em componen
 
 O artefato resultante dessa decomposição é a(o)
 
-- [ ] (A) Estrutura Analítica do Projeto (EAP).  
+- [x] (A) Estrutura Analítica do Projeto (EAP).  
 - [ ] (B) matriz de responsabilidades (RACI).  
 - [ ] (C) registro dos riscos identificados.  
 - [ ] (D) diagrama de rede do cronograma.  
@@ -179,11 +179,11 @@ O artefato resultante dessa decomposição é a(o)
 
 Em uma organização com estrutura **funcional**, o gerente de projeto
 
-(A) possui autoridade plena sobre os recursos alocados ao projeto.  
-(B) possui autoridade reduzida, uma vez que os gerentes funcionais detêm o controle sobre os recursos.  
-(C) responde diretamente ao patrocinador, sem vínculo com gerentes funcionais.  
-(D) acumula obrigatoriamente a função de gerente funcional da área.  
-(E) não é designado, sendo o projeto conduzido pelo escritório de projetos.
+- [ ] (A) possui autoridade plena sobre os recursos alocados ao projeto.  
+- [x] (B) possui autoridade reduzida, uma vez que os gerentes funcionais detêm o controle sobre os recursos.  
+- [ ] (C) responde diretamente ao patrocinador, sem vínculo com gerentes funcionais.  
+- [ ] (D) acumula obrigatoriamente a função de gerente funcional da área.  
+- [ ] (E) não é designado, sendo o projeto conduzido pelo escritório de projetos.
 
 ---
 
@@ -191,11 +191,11 @@ Em uma organização com estrutura **funcional**, o gerente de projeto
 
 Em uma organização com estrutura **projetizada**, é correto afirmar que
 
-(A) os integrantes da equipe são alocados em tempo integral ao projeto, sob autoridade do gerente de projeto.  
-(B) a autoridade permanece integralmente com os gerentes funcionais das áreas.  
-(C) os projetos são conduzidos exclusivamente por prestadores externos.  
-(D) inexiste a figura do gerente de projeto na organização.  
-(E) as equipes são dissolvidas ao término de cada fase do projeto.
+- [x] (A) os integrantes da equipe são alocados em tempo integral ao projeto, sob autoridade do gerente de projeto.  
+- [ ] (B) a autoridade permanece integralmente com os gerentes funcionais das áreas.  
+- [ ] (C) os projetos são conduzidos exclusivamente por prestadores externos.  
+- [ ] (D) inexiste a figura do gerente de projeto na organização.  
+- [ ] (E) as equipes são dissolvidas ao término de cada fase do projeto.
 
 ---
 
@@ -205,11 +205,11 @@ Uma organização adota estrutura **matricial balanceada** para a condução de 
 
 Nessa configuração,
 
-(A) a autoridade é compartilhada entre o gerente de projeto e o gerente funcional.  
-(B) o gerente funcional detém autoridade exclusiva sobre os recursos.  
-(C) o gerente de projeto detém autoridade exclusiva sobre os recursos.  
-(D) os projetos prescindem da designação de um gerente de projeto.  
-(E) os recursos são alocados exclusivamente em regime de tempo parcial.
+- [x] (A) a autoridade é compartilhada entre o gerente de projeto e o gerente funcional.  
+- [ ] (B) o gerente funcional detém autoridade exclusiva sobre os recursos.  
+- [ ] (C) o gerente de projeto detém autoridade exclusiva sobre os recursos.  
+- [ ] (D) os projetos prescindem da designação de um gerente de projeto.  
+- [ ] (E) os recursos são alocados exclusivamente em regime de tempo parcial.
 
 ---
 
@@ -217,11 +217,11 @@ Nessa configuração,
 
 A estrutura organizacional responsável por padronizar processos, fornecer metodologias, treinar equipes e apoiar o gerenciamento de projetos na organização é o
 
-(A) escritório de gerenciamento de projetos (PMO).  
-(B) comitê de controle integrado de mudanças.  
-(C) conselho de administração da organização.  
-(D) centro de operações de segurança.  
-(E) grupo de processos de iniciação.
+- [x] (A) escritório de gerenciamento de projetos (PMO).  
+- [ ] (B) comitê de controle integrado de mudanças.  
+- [ ] (C) conselho de administração da organização.  
+- [ ] (D) centro de operações de segurança.  
+- [ ] (E) grupo de processos de iniciação.
 
 ---
 
@@ -231,11 +231,11 @@ Um projeto adota ciclo de vida em que o escopo, o prazo e o custo são definidos
 
 Esse ciclo de vida é classificado como
 
-(A) preditivo.  
-(B) adaptativo.  
-(C) incremental.  
-(D) iterativo.  
-(E) híbrido.
+- [x] (A) preditivo.  
+- [ ] (B) adaptativo.  
+- [ ] (C) incremental.  
+- [ ] (D) iterativo.  
+- [ ] (E) híbrido.
 
 ---
 
@@ -245,11 +245,11 @@ A 7ª edição do PMBOK introduziu mudanças estruturais em relação à ediçã
 
 **NÃO** constitui característica da 7ª edição do PMBOK a
 
-(A) organização do conteúdo em princípios orientadores.  
-(B) definição de domínios de desempenho do projeto.  
-(C) ênfase na entrega de valor.  
-(D) estruturação do conteúdo em dez áreas de conhecimento.  
-(E) reconhecimento de abordagens preditivas, adaptativas e híbridas.
+- [ ] (A) organização do conteúdo em princípios orientadores.  
+- [ ] (B) definição de domínios de desempenho do projeto.  
+- [ ] (C) ênfase na entrega de valor.  
+- [x] (D) estruturação do conteúdo em dez áreas de conhecimento.  
+- [ ] (E) reconhecimento de abordagens preditivas, adaptativas e híbridas.
 
 ---
 
@@ -259,8 +259,8 @@ Um analista relacionou características atribuídas às estruturas organizaciona
 
 **NÃO** é característica da estrutura matricial a
 
-(A) compartilhamento de autoridade entre gerentes de projeto e funcionais.  
-(B) alocação de integrantes em projetos e em suas áreas funcionais.  
-(C) possibilidade de conflito quanto à prioridade das demandas.  
-(D) subordinação exclusiva dos integrantes ao gerente de projeto.  
-(E) existência de variações quanto ao grau de autoridade do gerente de projeto.
+- [ ] (A) compartilhamento de autoridade entre gerentes de projeto e funcionais.  
+- [ ] (B) alocação de integrantes em projetos e em suas áreas funcionais.  
+- [ ] (C) possibilidade de conflito quanto à prioridade das demandas.  
+- [x] (D) subordinação exclusiva dos integrantes ao gerente de projeto.  
+- [ ] (E) existência de variações quanto ao grau de autoridade do gerente de projeto.
