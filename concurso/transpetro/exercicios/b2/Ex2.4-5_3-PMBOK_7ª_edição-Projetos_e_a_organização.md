@@ -105,7 +105,7 @@ Essas atividades pertencem ao grupo de processos de
 
 - [ ] (A) Iniciação.  
 - [ ] (B) Planejamento.  
-- [ ] (C) Execução.  
+- [x] (C) Execução.  
 - [ ] (D) Monitoramento e Controle.  
 - [ ] (E) Encerramento.
 
@@ -115,11 +115,11 @@ Essas atividades pertencem ao grupo de processos de
 
 O documento que autoriza formalmente a existência de um projeto e confere ao gerente de projeto autoridade para aplicar recursos organizacionais é o
 
-(A) termo de abertura do projeto.  
-(B) plano de gerenciamento do projeto.  
-(C) registro das partes interessadas.  
-(D) termo de encerramento do projeto.  
-(E) relatório de desempenho do trabalho.
+- [x] (A) termo de abertura do projeto.  
+- [ ] (B) plano de gerenciamento do projeto.  
+- [ ] (C) registro das partes interessadas.  
+- [ ] (D) termo de encerramento do projeto.  
+- [ ] (E) relatório de desempenho do trabalho.
 
 ---
 
@@ -127,11 +127,11 @@ O documento que autoriza formalmente a existência de um projeto e confere ao ge
 
 De acordo com a 6ª edição do PMBOK, o gerenciamento do escopo, do cronograma, dos custos, da qualidade, dos recursos, das comunicações, dos riscos, das aquisições, das partes interessadas e da integração constituem
 
-(A) as áreas de conhecimento do gerenciamento de projetos.  
-(B) os grupos de processos do gerenciamento de projetos.  
-(C) os princípios do gerenciamento de projetos.  
-(D) os domínios de desempenho do projeto.  
-(E) as fases obrigatórias do ciclo de vida do projeto.
+- [ ] (A) as áreas de conhecimento do gerenciamento de projetos.  
+- [ ] (B) os grupos de processos do gerenciamento de projetos.  
+- [ ] (C) os princípios do gerenciamento de projetos.  
+- [ ] (D) os domínios de desempenho do projeto.  
+- [ ] (E) as fases obrigatórias do ciclo de vida do projeto.
 
 ---
 
