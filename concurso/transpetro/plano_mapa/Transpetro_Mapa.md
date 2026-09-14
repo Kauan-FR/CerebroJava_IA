@@ -81,8 +81,8 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 2.3 SAFe e ágil em escala
 - [x] 2.4 PMBOK 7ª edição
 - [x] 2.5 Projetos e a organização
-- [ ] 2.6 Escritório de projetos (PMO)
-- [ ] 2.7 Modelos e características
+- [x] 2.6 Escritório de projetos (PMO)
+- [x] 2.7 Modelos e características
 - [x] 3. Processos, grupos de processos, áreas de conhecimento
 
 ## Bloco 4 — Gestão e Governança de TI (S6) · ~5 questões
