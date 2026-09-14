@@ -99,27 +99,3 @@ outros: LeSS, Nexus, Spotify
 SAFe = o mais pesado
 
 ---
-
-PMBOK
-
-6ª PROCESSOS: 49 proc, 5 grupos, 10 áreas
-   cascata
-7ª PRINCÍPIOS: 12 princ, 8 domínios
-   ágil, foco em VALOR
-
-5 GRUPOS
- iniciação planejamento execução
- monit&controle(PARALELO) encerramento
-
-10 ÁREAS: integração(amarra) escopo
- cronograma custos qualidade recursos
- comunicações riscos aquisições
- partes interessadas
-
-ESTRUTURA
- funcional → GP fraco
- projetizada → GP total
-
-termo de abertura = autoriza o projeto
-
----
