@@ -83,9 +83,9 @@ Um projeto adota abordagem em que o escopo é definido integralmente no início,
 Esse ciclo de vida é classificado como
 
 - [ ] (A) adaptativo.  
-- [ ] (B) iterativo.  
+- [x] (B) iterativo.  
 - [ ] (C) incremental.  
-- [x] (D) preditivo.  
+- [ ] (D) preditivo.  
 - [ ] (E) emergente.
 
 ---
