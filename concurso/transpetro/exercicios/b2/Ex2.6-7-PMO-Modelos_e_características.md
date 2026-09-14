@@ -69,7 +69,7 @@ Uma organização relacionou atribuições de seu escritório de gerenciamento d
 Dentre os modelos de ciclo de vida, há o modelo em cascata, em que
 
 - [ ] (A) o levantamento de requisitos é realizado continuamente ao longo de todo o projeto.  
-- [ ] (B) as fases são executadas de forma sequencial e linear, dependendo cada uma da conclusão da anterior.  
+- [x] (B) as fases são executadas de forma sequencial e linear, dependendo cada uma da conclusão da anterior.  
 - [ ] (C) o projeto é dividido em iterações curtas e fixas, resultando cada uma em um incremento.  
 - [ ] (D) adota-se a premissa de que mudanças nos requisitos são inevitáveis e devem ser acomodadas.  
 - [ ] (E) as entregas são realizadas simultaneamente por equipes independentes entre si.
@@ -82,11 +82,11 @@ Um projeto adota abordagem em que o escopo é definido integralmente no início,
 
 Esse ciclo de vida é classificado como
 
-(A) adaptativo.  
-(B) iterativo.  
-(C) incremental.  
-(D) preditivo.  
-(E) emergente.
+- [ ] (A) adaptativo.  
+- [ ] (B) iterativo.  
+- [ ] (C) incremental.  
+- [x] (D) preditivo.  
+- [ ] (E) emergente.
 
 ---
 
@@ -96,11 +96,11 @@ Uma equipe desenvolve um protótipo inicial e o refina sucessivamente, a cada ci
 
 Esse ciclo de vida é classificado como
 
-(A) preditivo.  
-(B) iterativo.  
-(C) incremental.  
-(D) sequencial.  
-(E) em cascata.
+- [ ] (A) preditivo.  
+- [ ] (B) iterativo.  
+- [x] (C) incremental.  
+- [ ] (D) sequencial.  
+- [ ] (E) em cascata.
 
 ---
 
@@ -110,11 +110,11 @@ Uma equipe entrega, a cada ciclo, uma parte funcional e utilizável do produto, 
 
 Esse ciclo de vida é classificado como
 
-(A) preditivo.  
-(B) iterativo.  
-(C) incremental.  
-(D) em cascata.  
-(E) em espiral.
+- [ ] (A) preditivo.  
+- [x] (B) iterativo.  
+- [ ] (C) incremental.  
+- [ ] (D) em cascata.  
+- [ ] (E) em espiral.
 
 ---
 
