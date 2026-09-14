@@ -150,7 +150,7 @@ Uma organização conduz um projeto de implantação de sistema em que a infraes
 
 Esse ciclo de vida é classificado como
 
-- [ ] (A) exclusivamente preditivo.  
+- [x] (A) exclusivamente preditivo.  
 - [ ] (B) exclusivamente adaptativo.  
 - [ ] (C) híbrido.  
 - [ ] (D) matricial.  
