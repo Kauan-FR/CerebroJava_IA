@@ -56,11 +56,11 @@ Uma organização relacionou atribuições de seu escritório de gerenciamento d
 
 **NÃO** constitui atribuição típica de um PMO a
 
-(A) padronização de processos e metodologias de gerenciamento de projetos.  
-(B) capacitação das equipes em práticas de gerenciamento.  
-(C) consolidação de informações de desempenho dos projetos da organização.  
-(D) definição das especificações técnicas do produto a ser desenvolvido.  
-(E) apoio à priorização de iniciativas alinhadas à estratégia organizacional.
+- [ ] (A) padronização de processos e metodologias de gerenciamento de projetos.  
+- [ ] (B) capacitação das equipes em práticas de gerenciamento.  
+- [ ] (C) consolidação de informações de desempenho dos projetos da organização.  
+- [x] (D) definição das especificações técnicas do produto a ser desenvolvido.  
+- [ ] (E) apoio à priorização de iniciativas alinhadas à estratégia organizacional.
 
 ---
 
