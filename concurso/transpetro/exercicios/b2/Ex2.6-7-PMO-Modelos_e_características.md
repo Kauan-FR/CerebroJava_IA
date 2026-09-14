@@ -167,5 +167,5 @@ Um analista relacionou fatores que orientam a escolha do ciclo de vida mais adeq
 - [ ] (A) grau de estabilidade dos requisitos do projeto.  
 - [ ] (B) nível de incerteza e de risco envolvido.  
 - [ ] (C) necessidade de entregas antecipadas de valor ao cliente.  
-- [ ] (D) quantidade de vogais existentes no nome do projeto.  
+- [x] (D) quantidade de vogais existentes no nome do projeto.  
 - [ ] (E) grau de envolvimento esperado do cliente ao longo da execução.
