@@ -54,28 +54,3 @@ BIG DATA 5V: Volume Variedade
  Velocidade Veracidade Valor
 
 ---
-
-SCRUM / KANBAN
-
-PILARES transparência inspeção adaptação
-VALORES compromisso foco abertura
-        respeito coragem
-
-PAPÉIS
- PO   o QUÊ + prioridade
- DEVS o COMO
- SM   facilitador (não é chefe)
-
-EVENTOS sprint planning daily
-        review retro
- ⚠ review=PRODUTO · retro=PROCESSO
-
-ARTEFATOS product backlog · sprint
-          backlog · increment
- DoD = quando está pronto
-
-KANBAN fluxo contínuo · WIP limit
-
-PROJETO tem fim / PRODUTO contínuo
-
----
