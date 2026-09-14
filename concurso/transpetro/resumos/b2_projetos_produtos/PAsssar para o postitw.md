@@ -28,29 +28,3 @@ RECURSO CERTO PARA CADA OBJETIVO  [T-1.17]
    é o intruso
 
 ---
-
-IN-MEMORY / QUALIDADE / LAKE / BIG DATA
-
-in-memory: RAM, rápido
- ⚠ volátil → snapshot + log
-
-QUALIDADE
- completude · precisão · consistência
- unicidade · atualidade · validade
-
-DADOS MESTRES = referência central
- (cliente, produto)
- MDM = fonte única de verdade
-
-LAKE vs DW
- bruto/tratado · on-read/on-write
- ELT / ETL
- lake sem governança = swamp
-
-ETL transforma ANTES
-ELT transforma DEPOIS
-
-BIG DATA 5V: Volume Variedade
- Velocidade Veracidade Valor
-
----
