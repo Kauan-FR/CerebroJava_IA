@@ -122,11 +122,11 @@ Esse ciclo de vida é classificado como
 
 Uma diferença entre os ciclos de vida iterativo e incremental é que o iterativo
 
-(A) refina sucessivamente a solução, enquanto o incremental adiciona partes funcionais a cada entrega.  
-(B) adiciona partes funcionais a cada entrega, enquanto o incremental refina sucessivamente a solução.  
-(C) dispensa o levantamento de requisitos, enquanto o incremental o exige.  
-(D) aplica-se exclusivamente a projetos preditivos, enquanto o incremental é adaptativo.  
-(E) entrega o produto integralmente ao final, enquanto o incremental entrega em partes.
+- [ ] (A) refina sucessivamente a solução, enquanto o incremental adiciona partes funcionais a cada entrega.  
+- [ ] (B) adiciona partes funcionais a cada entrega, enquanto o incremental refina sucessivamente a solução.  
+- [ ] (C) dispensa o levantamento de requisitos, enquanto o incremental o exige.  
+- [ ] (D) aplica-se exclusivamente a projetos preditivos, enquanto o incremental é adaptativo.  
+- [ ] (E) entrega o produto integralmente ao final, enquanto o incremental entrega em partes.
 
 ---
 
