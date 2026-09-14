@@ -150,9 +150,9 @@ Uma organização conduz um projeto de implantação de sistema em que a infraes
 
 Esse ciclo de vida é classificado como
 
-- [x] (A) exclusivamente preditivo.  
+- [ ] (A) exclusivamente preditivo.  
 - [ ] (B) exclusivamente adaptativo.  
-- [ ] (C) híbrido.  
+- [x] (C) híbrido.  
 - [ ] (D) matricial.  
 - [ ] (E) funcional.
 
@@ -164,8 +164,8 @@ Um analista relacionou fatores que orientam a escolha do ciclo de vida mais adeq
 
 **NÃO** constitui fator relevante para essa escolha o(a)
 
-(A) grau de estabilidade dos requisitos do projeto.  
-(B) nível de incerteza e de risco envolvido.  
-(C) necessidade de entregas antecipadas de valor ao cliente.  
-(D) quantidade de vogais existentes no nome do projeto.  
-(E) grau de envolvimento esperado do cliente ao longo da execução.
+- [ ] (A) grau de estabilidade dos requisitos do projeto.  
+- [ ] (B) nível de incerteza e de risco envolvido.  
+- [ ] (C) necessidade de entregas antecipadas de valor ao cliente.  
+- [ ] (D) quantidade de vogais existentes no nome do projeto.  
+- [ ] (E) grau de envolvimento esperado do cliente ao longo da execução.
