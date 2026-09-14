@@ -68,11 +68,11 @@ Uma organização relacionou atribuições de seu escritório de gerenciamento d
 
 Dentre os modelos de ciclo de vida, há o modelo em cascata, em que
 
-(A) o levantamento de requisitos é realizado continuamente ao longo de todo o projeto.  
-(B) as fases são executadas de forma sequencial e linear, dependendo cada uma da conclusão da anterior.  
-(C) o projeto é dividido em iterações curtas e fixas, resultando cada uma em um incremento.  
-(D) adota-se a premissa de que mudanças nos requisitos são inevitáveis e devem ser acomodadas.  
-(E) as entregas são realizadas simultaneamente por equipes independentes entre si.
+- [ ] (A) o levantamento de requisitos é realizado continuamente ao longo de todo o projeto.  
+- [ ] (B) as fases são executadas de forma sequencial e linear, dependendo cada uma da conclusão da anterior.  
+- [ ] (C) o projeto é dividido em iterações curtas e fixas, resultando cada uma em um incremento.  
+- [ ] (D) adota-se a premissa de que mudanças nos requisitos são inevitáveis e devem ser acomodadas.  
+- [ ] (E) as entregas são realizadas simultaneamente por equipes independentes entre si.
 
 ---
 
