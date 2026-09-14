@@ -43,7 +43,7 @@ Um escritório de gerenciamento de projetos exige que as equipes adotem a metodo
 Esse escritório exerce grau
 
 - [ ] (A) baixo de controle, sendo classificado como PMO de suporte.  
-- [ ] (B) moderado de controle, sendo classificado como PMO de controle.  
+- [x] (B) moderado de controle, sendo classificado como PMO de controle.  
 - [ ] (C) alto de controle, sendo classificado como PMO diretivo.  
 - [ ] (D) nulo de controle, sendo classificado como PMO consultivo.  
 - [ ] (E) variável de controle, sendo classificado como PMO híbrido.
