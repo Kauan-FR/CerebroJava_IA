@@ -79,23 +79,3 @@ KANBAN fluxo contínuo · WIP limit
 PROJETO tem fim / PRODUTO contínuo
 
 ---
-
-SAFe
-
-Scaled Agile Framework
-ágil em organização GRANDE
-
-4 níveis:
- Team · Program(ART) · Large Solution
- · Portfolio
-
-ART = Agile Release Train
- 5-12 times juntos, ritmo fixo
- (o coração do SAFe)
-
-PI = Program Increment (8-12 semanas)
-
-outros: LeSS, Nexus, Spotify
-SAFe = o mais pesado
-
----
