@@ -83,9 +83,9 @@ Um projeto adota abordagem em que o escopo é definido integralmente no início,
 Esse ciclo de vida é classificado como
 
 - [ ] (A) adaptativo.  
-- [x] (B) iterativo.  
+- [ ] (B) iterativo.  
 - [ ] (C) incremental.  
-- [ ] (D) preditivo.  
+- [x] (D) preditivo.  
 - [ ] (E) emergente.
 
 ---
@@ -97,8 +97,8 @@ Uma equipe desenvolve um protótipo inicial e o refina sucessivamente, a cada ci
 Esse ciclo de vida é classificado como
 
 - [ ] (A) preditivo.  
-- [ ] (B) iterativo.  
-- [x] (C) incremental.  
+- [x] (B) iterativo.  
+- [ ] (C) incremental.  
 - [ ] (D) sequencial.  
 - [ ] (E) em cascata.
 
@@ -111,8 +111,8 @@ Uma equipe entrega, a cada ciclo, uma parte funcional e utilizável do produto, 
 Esse ciclo de vida é classificado como
 
 - [ ] (A) preditivo.  
-- [x] (B) iterativo.  
-- [ ] (C) incremental.  
+- [ ] (B) iterativo.  
+- [x] (C) incremental.  
 - [ ] (D) em cascata.  
 - [ ] (E) em espiral.
 
@@ -122,7 +122,7 @@ Esse ciclo de vida é classificado como
 
 Uma diferença entre os ciclos de vida iterativo e incremental é que o iterativo
 
-- [ ] (A) refina sucessivamente a solução, enquanto o incremental adiciona partes funcionais a cada entrega.  
+- [x] (A) refina sucessivamente a solução, enquanto o incremental adiciona partes funcionais a cada entrega.  
 - [ ] (B) adiciona partes funcionais a cada entrega, enquanto o incremental refina sucessivamente a solução.  
 - [ ] (C) dispensa o levantamento de requisitos, enquanto o incremental o exige.  
 - [ ] (D) aplica-se exclusivamente a projetos preditivos, enquanto o incremental é adaptativo.  
@@ -136,11 +136,11 @@ Um projeto adota ciclo de vida em que o escopo é detalhado progressivamente, as
 
 Esse ciclo de vida é classificado como
 
-(A) preditivo.  
-(B) adaptativo.  
-(C) sequencial.  
-(D) em cascata.  
-(E) determinístico.
+- [ ] (A) preditivo.  
+- [x] (B) adaptativo.  
+- [ ] (C) sequencial.  
+- [ ] (D) em cascata.  
+- [ ] (E) determinístico.
 
 ---
 
@@ -150,11 +150,11 @@ Uma organização conduz um projeto de implantação de sistema em que a infraes
 
 Esse ciclo de vida é classificado como
 
-(A) exclusivamente preditivo.  
-(B) exclusivamente adaptativo.  
-(C) híbrido.  
-(D) matricial.  
-(E) funcional.
+- [ ] (A) exclusivamente preditivo.  
+- [ ] (B) exclusivamente adaptativo.  
+- [ ] (C) híbrido.  
+- [ ] (D) matricial.  
+- [ ] (E) funcional.
 
 ---
 
