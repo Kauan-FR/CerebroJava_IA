@@ -123,18 +123,3 @@ ESTRUTURA
 termo de abertura = autoriza o projeto
 
 ---
-
-PMO
-
-PMO = ESTRUTURA (setor, não pessoa)
- padroniza e apoia gestão de projetos
-
-3 TIPOS (escada de controle)
- SUPORTE   templates, treino (baixo)
- CONTROLE  fiscaliza (médio)
- DIRETIVO  assume a gestão (alto)
-
-PROJETO   1, temporário
-PROGRAMA  projetos relacionados,
-          objetivo comum
-PORTFÓLIO tudo, pela estratégia
