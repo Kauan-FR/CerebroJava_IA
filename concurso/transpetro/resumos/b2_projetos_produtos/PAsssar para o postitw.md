@@ -28,3 +28,22 @@ RECURSO CERTO PARA CADA OBJETIVO  [T-1.17]
    é o intruso
 
 ---
+
+ITIL × COBIT
+
+ITIL  COMO operar serviços
+COBIT O QUE governar na TI
+
+ITIL 4: SVS + cadeia de valor + práticas
+ ⚠ 5 fases = v3 (antigo)
+ incidente = rápido / problema = causa raiz
+
+COBIT 5 domínios
+ EDM  governança (avaliar/dirigir/monitorar)
+ APO  planejar
+ BAI  construir
+ DSS  operar/suportar
+ MEA  medir/auditar
+ ⚠ só EDM é governança · sigla MEA
+
+governança = o QUÊ / gestão = o COMO
