@@ -87,7 +87,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 ## Bloco 4 — Gestão e Governança de TI (S6) · ~5 questões
 
-- [ ] 4.5 ITIL e COBIT ⭐
+- [x] 4.5 ITIL e COBIT ⭐
 - [ ] 4.6 LGPD — Lei 13.709 ⭐
 - [ ] 4.1 Conceitos e mercado de TI
 - [ ] 4.2 Economia da inovação
