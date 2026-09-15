@@ -61,11 +61,11 @@ De acordo com esse framework, cabe à governança
 
 Na ITIL, a interrupção não planejada de um serviço ou a redução de sua qualidade é denominada
 
-(A) incidente.  
-(B) problema.  
-(C) mudança.  
-(D) requisição de serviço.  
-(E) evento de configuração.
+- [ ] (A) incidente.  
+- [ ] (B) problema.  
+- [x] (C) mudança.  
+- [ ] (D) requisição de serviço.  
+- [ ] (E) evento de configuração.
 
 ---
 
@@ -73,11 +73,11 @@ Na ITIL, a interrupção não planejada de um serviço ou a redução de sua qua
 
 Na ITIL, a causa, ou causa potencial, de um ou mais incidentes é denominada
 
-(A) incidente.  
-(B) problema.  
-(C) erro conhecido.  
-(D) requisição de serviço.  
-(E) liberação.
+- [ ] (A) incidente.  
+- [x] (B) problema.  
+- [ ] (C) erro conhecido.  
+- [ ] (D) requisição de serviço.  
+- [ ] (E) liberação.
 
 ---
 
@@ -87,11 +87,11 @@ Uma organização adota a prática ITIL cujo objetivo é restaurar o serviço à
 
 Essa prática é o gerenciamento de
 
-(A) incidentes.  
-(B) problemas.  
-(C) mudanças.  
-(D) níveis de serviço.  
-(E) capacidade.
+- [x] (A) incidentes.  
+- [ ] (B) problemas.  
+- [ ] (C) mudanças.  
+- [ ] (D) níveis de serviço.  
+- [ ] (E) capacidade.
 
 ---
 
@@ -101,11 +101,11 @@ Um analista precisa diferenciar o gerenciamento de incidentes do gerenciamento d
 
 A diferença fundamental é que o gerenciamento de incidentes
 
-(A) busca restaurar o serviço rapidamente, enquanto o gerenciamento de problemas busca identificar e eliminar a causa raiz.  
-(B) busca identificar a causa raiz, enquanto o gerenciamento de problemas busca restaurar o serviço.  
-(C) aplica-se apenas a falhas de hardware, enquanto o gerenciamento de problemas se aplica a software.  
-(D) é executado pela alta direção, enquanto o gerenciamento de problemas é executado pela central de serviços.  
-(E) dispensa registro formal, enquanto o gerenciamento de problemas o exige.
+- [x] (A) busca restaurar o serviço rapidamente, enquanto o gerenciamento de problemas busca identificar e eliminar a causa raiz.  
+- [ ] (B) busca identificar a causa raiz, enquanto o gerenciamento de problemas busca restaurar o serviço.  
+- [ ] (C) aplica-se apenas a falhas de hardware, enquanto o gerenciamento de problemas se aplica a software.  
+- [ ] (D) é executado pela alta direção, enquanto o gerenciamento de problemas é executado pela central de serviços.  
+- [ ] (E) dispensa registro formal, enquanto o gerenciamento de problemas o exige.
 
 ---
 
@@ -113,11 +113,11 @@ A diferença fundamental é que o gerenciamento de incidentes
 
 Na ITIL, a prática responsável por assegurar que alterações em serviços e componentes sejam avaliadas, autorizadas e implementadas de forma controlada, minimizando riscos, é o gerenciamento de
 
-(A) mudanças.  
-(B) incidentes.  
-(C) problemas.  
-(D) configuração.  
-(E) fornecedores.
+- [ ] (A) mudanças.  
+- [ ] (B) incidentes.  
+- [ ] (C) problemas.  
+- [ ] (D) configuração.  
+- [ ] (E) fornecedores.
 
 ---
 
