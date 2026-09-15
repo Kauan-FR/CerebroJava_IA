@@ -49,8 +49,8 @@ O COBIT estabelece distinção entre governança e gestão de TI.
 
 De acordo com esse framework, cabe à governança
 
-- [ ] (A) avaliar, dirigir e monitorar, assegurando o alinhamento às necessidades das partes interessadas.  
-- [x] (B) planejar, construir, executar e monitorar as atividades operacionais de TI.  
+- [x] (A) avaliar, dirigir e monitorar, assegurando o alinhamento às necessidades das partes interessadas.  
+- [ ] (B) planejar, construir, executar e monitorar as atividades operacionais de TI.  
 - [ ] (C) executar os procedimentos de restauração de serviços após incidentes.  
 - [ ] (D) desenvolver e implantar as aplicações demandadas pelas áreas de negócio.  
 - [ ] (E) operar a central de serviços e atender às solicitações dos usuários.
@@ -61,9 +61,9 @@ De acordo com esse framework, cabe à governança
 
 Na ITIL, a interrupção não planejada de um serviço ou a redução de sua qualidade é denominada
 
-- [ ] (A) incidente.  
+- [x] (A) incidente.  
 - [ ] (B) problema.  
-- [x] (C) mudança.  
+- [ ] (C) mudança.  
 - [ ] (D) requisição de serviço.  
 - [ ] (E) evento de configuração.
 
@@ -113,7 +113,7 @@ A diferença fundamental é que o gerenciamento de incidentes
 
 Na ITIL, a prática responsável por assegurar que alterações em serviços e componentes sejam avaliadas, autorizadas e implementadas de forma controlada, minimizando riscos, é o gerenciamento de
 
-- [ ] (A) mudanças.  
+- [x] (A) mudanças.  
 - [ ] (B) incidentes.  
 - [ ] (C) problemas.  
 - [ ] (D) configuração.  
@@ -125,11 +125,11 @@ Na ITIL, a prática responsável por assegurar que alterações em serviços e c
 
 Na ITIL, o ponto único de contato entre o provedor de serviços e os usuários, responsável por registrar e encaminhar solicitações e incidentes, é o(a)
 
-(A) central de serviços (_service desk_).  
-(B) comitê consultivo de mudanças.  
-(C) banco de dados de gerenciamento de configuração.  
-(D) escritório de gerenciamento de projetos.  
-(E) centro de operações de segurança.
+- [x] (A) central de serviços (_service desk_).  
+- [ ] (B) comitê consultivo de mudanças.  
+- [ ] (C) banco de dados de gerenciamento de configuração.  
+- [ ] (D) escritório de gerenciamento de projetos.  
+- [ ] (E) centro de operações de segurança.
 
 ---
 
@@ -139,11 +139,11 @@ Uma organização firmou, com a área de negócio, um acordo formal que estabele
 
 Esse documento é denominado
 
-(A) acordo de nível de serviço (SLA).  
-(B) termo de abertura do projeto.  
-(C) plano de continuidade de negócios.  
-(D) política de segurança da informação.  
-(E) matriz de responsabilidades.
+- [x] (A) acordo de nível de serviço (SLA).  
+- [ ] (B) termo de abertura do projeto.  
+- [ ] (C) plano de continuidade de negócios.  
+- [ ] (D) política de segurança da informação.  
+- [ ] (E) matriz de responsabilidades.
 
 ---
 
@@ -153,11 +153,11 @@ A ITIL 4 estabelece quatro dimensões que devem ser consideradas de forma equili
 
 Uma dessas dimensões é
 
-(A) organizações e pessoas.  
-(B) grupos de processos de iniciação.  
-(C) domínios de desempenho do projeto.  
-(D) formas normais de estruturas de dados.  
-(E) níveis de isolamento de transações.
+- [x] (A) organizações e pessoas.  
+- [ ] (B) grupos de processos de iniciação.  
+- [ ] (C) domínios de desempenho do projeto.  
+- [ ] (D) formas normais de estruturas de dados.  
+- [ ] (E) níveis de isolamento de transações.
 
 ---
 
@@ -167,11 +167,11 @@ Os frameworks de gerenciamento e governança de TI apresentam finalidades delimi
 
 **NÃO** constitui finalidade da ITIL a
 
-(A) padronização de práticas de gerenciamento de serviços de TI.  
-(B) melhoria da qualidade percebida pelos usuários dos serviços.  
-(C) definição da linguagem de programação a ser adotada no desenvolvimento.  
-(D) alinhamento dos serviços de TI às necessidades do negócio.  
-(E) estabelecimento de práticas para tratamento de incidentes e problemas.
+- [ ] (A) padronização de práticas de gerenciamento de serviços de TI.  
+- [ ] (B) melhoria da qualidade percebida pelos usuários dos serviços.  
+- [x] (C) definição da linguagem de programação a ser adotada no desenvolvimento.  
+- [ ] (D) alinhamento dos serviços de TI às necessidades do negócio.  
+- [ ] (E) estabelecimento de práticas para tratamento de incidentes e problemas.
 
 ---
 
@@ -181,8 +181,8 @@ Um analista relacionou características atribuídas ao COBIT.
 
 **NÃO** constitui característica do COBIT a
 
-(A) separação entre atividades de governança e de gestão.  
-(B) orientação ao alinhamento entre a TI e os objetivos do negócio.  
-(C) apoio a processos de auditoria e conformidade em tecnologia da informação.  
-(D) definição detalhada dos comandos de configuração de equipamentos de rede.  
-(E) consideração das necessidades das partes interessadas na definição de objetivos.
+- [ ] (A) separação entre atividades de governança e de gestão.  
+- [ ] (B) orientação ao alinhamento entre a TI e os objetivos do negócio.  
+- [ ] (C) apoio a processos de auditoria e conformidade em tecnologia da informação.  
+- [x] (D) definição detalhada dos comandos de configuração de equipamentos de rede.  
+- [ ] (E) consideração das necessidades das partes interessadas na definição de objetivos.
