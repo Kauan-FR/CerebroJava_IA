@@ -134,5 +134,5 @@ Um analista relacionou fatores associados à economia da inovação.
 - [ ] (A) investimento em pesquisa e desenvolvimento.  
 - [ ] (B) proteção da propriedade intelectual.  
 - [ ] (C) capacidade de absorção tecnológica das organizações.  
-- [ ] (D) existência de ambiente regulatório e de incentivos.  
+- [x] (D) existência de ambiente regulatório e de incentivos.  
 - [ ] (E) padronização de todos os produtos de um setor em um único modelo.
