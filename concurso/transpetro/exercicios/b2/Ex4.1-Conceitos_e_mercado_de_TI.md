@@ -27,7 +27,7 @@ Uma organização contratou de terceiros a operação de sua central de serviço
 Essa prática é denominada
 
 - [ ] (A) _insourcing_.  
-- [ ] (B) _outsourcing_ (terceirização).  
+- [x] (B) _outsourcing_ (terceirização).  
 - [ ] (C) _benchmarking_.  
 - [ ] (D) _tailoring_.  
 - [ ] (E) _downsizing_.
@@ -40,11 +40,11 @@ Uma empresa passou a disponibilizar seu sistema de gestão por meio da internet,
 
 Esse modelo de negócio é denominado
 
-(A) IaaS.  
-(B) PaaS.  
-(C) _on-premise_.  
-(D) SaaS.  
-(E) _colocation_.
+- [ ] (A) IaaS.  
+- [ ] (B) PaaS.  
+- [ ] (C) _on-premise_.  
+- [x] (D) SaaS.  
+- [ ] (E) _colocation_.
 
 ---
 
@@ -52,11 +52,11 @@ Esse modelo de negócio é denominado
 
 A transformação digital, no contexto organizacional, caracteriza-se principalmente pela
 
-(A) reconfiguração de modelos de negócio e processos a partir do uso intensivo de tecnologias digitais.  
-(B) substituição integral do parque de equipamentos por modelos mais recentes.  
-(C) migração obrigatória de todos os sistemas para ambientes de nuvem pública.  
-(D) digitalização de documentos físicos em formato de imagem.  
-(E) adoção exclusiva de metodologias ágeis pelas equipes de desenvolvimento.
+- [ ] (A) reconfiguração de modelos de negócio e processos a partir do uso intensivo de tecnologias digitais.  
+- [ ] (B) substituição integral do parque de equipamentos por modelos mais recentes.  
+- [ ] (C) migração obrigatória de todos os sistemas para ambientes de nuvem pública.  
+- [ ] (D) digitalização de documentos físicos em formato de imagem.  
+- [ ] (E) adoção exclusiva de metodologias ágeis pelas equipes de desenvolvimento.
 
 ---
 
