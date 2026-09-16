@@ -14,7 +14,7 @@ O mercado de tecnologia da informação é usualmente segmentado em três grande
 
 - [ ] (A) governança, gestão e operação.  
 - [ ] (B) pesquisa, desenvolvimento e inovação.  
-- [ ] (C) hardware, software e serviços.  
+- [x] (C) hardware, software e serviços.  
 - [ ] (D) infraestrutura, aplicação e dados.  
 - [ ] (E) preditivo, adaptativo e híbrido.
 
@@ -26,11 +26,11 @@ Uma organização contratou de terceiros a operação de sua central de serviço
 
 Essa prática é denominada
 
-(A) _insourcing_.  
-(B) _outsourcing_ (terceirização).  
-(C) _benchmarking_.  
-(D) _tailoring_.  
-(E) _downsizing_.
+- [ ] (A) _insourcing_.  
+- [ ] (B) _outsourcing_ (terceirização).  
+- [ ] (C) _benchmarking_.  
+- [ ] (D) _tailoring_.  
+- [ ] (E) _downsizing_.
 
 ---
 
