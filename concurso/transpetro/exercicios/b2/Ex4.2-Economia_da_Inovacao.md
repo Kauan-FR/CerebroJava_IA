@@ -134,5 +134,8 @@ Um analista relacionou fatores associados à economia da inovação.
 - [ ] (A) investimento em pesquisa e desenvolvimento.  
 - [ ] (B) proteção da propriedade intelectual.  
 - [ ] (C) capacidade de absorção tecnológica das organizações.  
-- [x] (D) existência de ambiente regulatório e de incentivos.  
-- [ ] (E) padronização de todos os produtos de um setor em um único modelo.
+<font color="#ff0000">- [x] (D) existência de ambiente regulatório e de incentivos.  </font>
+<font color="#00b050">- [ ] (E) padronização de todos os produtos de um setor em um único modelo.</font>
+
+>[!fail] Questão negativa
+>A resposta é (E): **padronização de todos os produtos de um setor em um único modelo**. Isso é o oposto de inovação — uniformizar elimina diferenciação, que é justamente o que a inovação busca criar.
