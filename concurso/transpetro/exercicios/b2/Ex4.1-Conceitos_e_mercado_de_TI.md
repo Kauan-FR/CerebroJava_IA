@@ -52,7 +52,7 @@ Esse modelo de negócio é denominado
 
 A transformação digital, no contexto organizacional, caracteriza-se principalmente pela
 
-- [ ] (A) reconfiguração de modelos de negócio e processos a partir do uso intensivo de tecnologias digitais.  
+- [x] (A) reconfiguração de modelos de negócio e processos a partir do uso intensivo de tecnologias digitais.  
 - [ ] (B) substituição integral do parque de equipamentos por modelos mais recentes.  
 - [ ] (C) migração obrigatória de todos os sistemas para ambientes de nuvem pública.  
 - [ ] (D) digitalização de documentos físicos em formato de imagem.  
@@ -64,11 +64,11 @@ A transformação digital, no contexto organizacional, caracteriza-se principalm
 
 Em relação ao papel da área de TI nas organizações, observa-se uma evolução histórica que a deslocou de uma posição
 
-(A) estratégica para uma posição exclusivamente operacional.  
-(B) de inovação para uma posição de suporte administrativo.  
-(C) terceirizada para uma posição integralmente internalizada.  
-(D) consultiva para uma posição de auditoria independente.  
-(E) de suporte operacional para uma posição estratégica, integrada aos objetivos de negócio.
+- [ ] (A) estratégica para uma posição exclusivamente operacional.  
+- [ ] (B) de inovação para uma posição de suporte administrativo.  
+- [ ] (C) terceirizada para uma posição integralmente internalizada.  
+- [ ] (D) consultiva para uma posição de auditoria independente.  
+- [ ] (E) de suporte operacional para uma posição estratégica, integrada aos objetivos de negócio.
 
 ---
 
