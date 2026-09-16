@@ -64,11 +64,14 @@ A transformação digital, no contexto organizacional, caracteriza-se principalm
 
 Em relação ao papel da área de TI nas organizações, observa-se uma evolução histórica que a deslocou de uma posição
 
-- [ ] (A) estratégica para uma posição exclusivamente operacional.  
+<font color="#ff0000">- [x] (A) estratégica para uma posição exclusivamente operacional.  </font>
 - [ ] (B) de inovação para uma posição de suporte administrativo.  
 - [ ] (C) terceirizada para uma posição integralmente internalizada.  
 - [ ] (D) consultiva para uma posição de auditoria independente.  
-- [ ] (E) de suporte operacional para uma posição estratégica, integrada aos objetivos de negócio.
+<font color="#00b050">- [ ] (E) de suporte operacional para uma posição estratégica, integrada aos objetivos de negócio.</font>
+
+>[!fail] Direção invertida
+>
 
 ---
 
@@ -78,8 +81,8 @@ Um analista relacionou características do mercado de tecnologia da informação
 
 **NÃO** constitui característica desse mercado a
 
-(A) elevada velocidade de obsolescência tecnológica.  
-(B) forte presença de modelos de negócio baseados em assinatura.  
-(C) relevância crescente dos serviços em relação ao hardware.  
-(D) estabilidade dos produtos ao longo de décadas, com baixa necessidade de atualização.  
-(E) concentração de fornecedores globais em determinados segmentos.
+- [ ] (A) elevada velocidade de obsolescência tecnológica.  
+- [ ] (B) forte presença de modelos de negócio baseados em assinatura.  
+- [ ] (C) relevância crescente dos serviços em relação ao hardware.  
+- [x] (D) estabilidade dos produtos ao longo de décadas, com baixa necessidade de atualização.  
+- [ ] (E) concentração de fornecedores globais em determinados segmentos.
