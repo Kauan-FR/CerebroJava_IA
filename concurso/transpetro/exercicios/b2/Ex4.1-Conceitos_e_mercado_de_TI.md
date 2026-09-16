@@ -71,7 +71,7 @@ Em relação ao papel da área de TI nas organizações, observa-se uma evoluç�
 <font color="#00b050">- [ ] (E) de suporte operacional para uma posição estratégica, integrada aos objetivos de negócio.</font>
 
 >[!fail] Direção invertida
->
+>A TI saio de suporte operacional para integrar o objetivo de negocio
 
 ---
 
