@@ -13,7 +13,7 @@ Tipo:
 De acordo com Joseph Schumpeter, o processo pelo qual novas tecnologias e modelos de negócio substituem os anteriores, tornando-os obsoletos, é denominado
 
 - [ ] (A) equilíbrio de mercado.  
-- [ ] (B) destruição criativa.  
+- [x] (B) destruição criativa.  
 - [ ] (C) economia de escala.  
 - [ ] (D) vantagem comparativa.  
 - [ ] (E) concorrência perfeita.
@@ -26,11 +26,11 @@ Uma indústria promoveu pequenas melhorias sucessivas em seu produto, aumentando
 
 Esse tipo de inovação é classificado como
 
-(A) radical.  
-(B) disruptiva.  
-(C) organizacional.  
-(D) incremental.  
-(E) aberta.
+- [ ] (A) radical.  
+- [ ] (B) disruptiva.  
+- [ ] (C) organizacional.  
+- [x] (D) incremental.  
+- [ ] (E) aberta.
 
 ---
 
@@ -40,11 +40,11 @@ Uma empresa desenvolveu uma tecnologia inteiramente nova, que alterou de forma s
 
 Esse tipo de inovação é classificado como
 
-(A) radical.  
-(B) incremental.  
-(C) de marketing.  
-(D) de processo.  
-(E) contínua.
+- [x] (A) radical.  
+- [ ] (B) incremental.  
+- [ ] (C) de marketing.  
+- [ ] (D) de processo.  
+- [ ] (E) contínua.
 
 ---
 
@@ -52,11 +52,11 @@ Esse tipo de inovação é classificado como
 
 Segundo Clayton Christensen, a inovação disruptiva caracteriza-se por
 
-(A) exigir investimento superior ao das empresas líderes de mercado.  
-(B) ocorrer exclusivamente em setores de tecnologia da informação.  
-(C) iniciar-se em nichos menos exigentes ou de menor margem e, posteriormente, deslocar os incumbentes do mercado principal.  
-(D) substituir imediatamente os produtos líderes, desde seu lançamento.  
-(E) depender obrigatoriamente de patentes registradas.
+- [ ] (A) exigir investimento superior ao das empresas líderes de mercado.  
+- [ ] (B) ocorrer exclusivamente em setores de tecnologia da informação.  
+- [x] (C) iniciar-se em nichos menos exigentes ou de menor margem e, posteriormente, deslocar os incumbentes do mercado principal.  
+- [ ] (D) substituir imediatamente os produtos líderes, desde seu lançamento.  
+- [ ] (E) depender obrigatoriamente de patentes registradas.
 
 ---
 
@@ -66,11 +66,11 @@ O Manual de Oslo classifica as inovações em quatro tipos.
 
 Esses tipos são inovação de
 
-(A) hardware, software, serviços e dados.  
-(B) curto prazo, médio prazo, longo prazo e permanente.  
-(C) pesquisa, desenvolvimento, produção e comercialização.  
-(D) baixo, médio, alto e altíssimo impacto.  
-(E) produto, processo, marketing e organizacional.
+- [ ] (A) hardware, software, serviços e dados.  
+- [ ] (B) curto prazo, médio prazo, longo prazo e permanente.  
+- [ ] (C) pesquisa, desenvolvimento, produção e comercialização.  
+- [ ] (D) baixo, médio, alto e altíssimo impacto.  
+- [x] (E) produto, processo, marketing e organizacional.
 
 ---
 
@@ -80,11 +80,11 @@ Uma empresa reorganizou seu fluxo de produção, adotando novo método de fabric
 
 Essa iniciativa caracteriza inovação de
 
-(A) produto.  
-(B) processo.  
-(C) marketing.  
-(D) organizacional.  
-(E) radical.
+- [ ] (A) produto.  
+- [ ] (B) processo.  
+- [ ] (C) marketing.  
+- [ ] (D) organizacional.  
+- [ ] (E) radical.
 
 ---
 
