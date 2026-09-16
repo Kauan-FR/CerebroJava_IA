@@ -81,7 +81,7 @@ Uma empresa reorganizou seu fluxo de produção, adotando novo método de fabric
 Essa iniciativa caracteriza inovação de
 
 - [ ] (A) produto.  
-- [ ] (B) processo.  
+- [x] (B) processo.  
 - [ ] (C) marketing.  
 - [ ] (D) organizacional.  
 - [ ] (E) radical.
@@ -94,11 +94,11 @@ Uma organização passou a colaborar com universidades, startups e fornecedores 
 
 Esse modelo é denominado inovação
 
-(A) incremental.  
-(B) de processo.  
-(C) fechada.  
-(D) aberta (_open innovation_).  
-(E) disruptiva.
+- [ ] (A) incremental.  
+- [ ] (B) de processo.  
+- [ ] (C) fechada.  
+- [x] (D) aberta (_open innovation_).  
+- [ ] (E) disruptiva.
 
 ---
 
@@ -106,11 +106,11 @@ Esse modelo é denominado inovação
 
 O processo de valoração de uma inovação tem por finalidade principal
 
-(A) estimar o valor econômico potencial de uma tecnologia ou ativo intangível, subsidiando decisões de investimento, licenciamento ou transferência.  
-(B) determinar o custo de aquisição dos equipamentos necessários à produção.  
-(C) definir o preço final de venda ao consumidor, com base na concorrência.  
-(D) calcular a depreciação contábil dos bens tangíveis da organização.  
-(E) estabelecer a remuneração da equipe responsável pelo desenvolvimento.
+- [ ] (A) estimar o valor econômico potencial de uma tecnologia ou ativo intangível, subsidiando decisões de investimento, licenciamento ou transferência.  
+- [ ] (B) determinar o custo de aquisição dos equipamentos necessários à produção.  
+- [ ] (C) definir o preço final de venda ao consumidor, com base na concorrência.  
+- [ ] (D) calcular a depreciação contábil dos bens tangíveis da organização.  
+- [ ] (E) estabelecer a remuneração da equipe responsável pelo desenvolvimento.
 
 ---
 
