@@ -68,7 +68,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 ## Bloco 5 — Engenharia de Software (S4) · ~6 questões
 
-- [ ] 5.1 Requisitos: levantamento, análise, gerenciamento
+- [x] 5.1 Requisitos: levantamento, análise, gerenciamento
 - [ ] 5.2 Ciclo de vida e paradigmas
 - [ ] 5.3 Paradigma estruturado × orientado a objetos
 - [ ] 5.4 Verificação, validação e teste
