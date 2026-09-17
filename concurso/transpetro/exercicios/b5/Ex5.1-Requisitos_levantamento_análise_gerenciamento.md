@@ -13,7 +13,7 @@ Tipo:
 Em engenharia de software, um requisito funcional descreve
 
 - [ ] (A) o nível de desempenho esperado do sistema em condições de carga máxima.  
-- [ ] (B) uma função ou serviço que o sistema deve prover aos seus usuários.  
+- [x] (B) uma função ou serviço que o sistema deve prover aos seus usuários.  
 - [ ] (C) as restrições de tecnologia impostas pela infraestrutura disponível.  
 - [ ] (D) o padrão visual a ser adotado nas interfaces gráficas.  
 - [ ] (E) o cronograma de entrega dos módulos do sistema.
@@ -30,11 +30,11 @@ III. O sistema deve emitir a nota fiscal eletrônica após a confirmação do pe
 
 Classificam-se como requisitos funcionais os itens
 
-(A) I e II, apenas.  
-(B) I e III, apenas.  
-(C) II e III, apenas.  
-(D) I, II e III.  
-(E) II, apenas.
+- [ ] (A) I e II, apenas.  
+- [ ] (B) I e III, apenas.  
+- [ ] (C) II e III, apenas.  
+- [ ] (D) I, II e III.  
+- [ ] (E) II, apenas.
 
 ---
 
