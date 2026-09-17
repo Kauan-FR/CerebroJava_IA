@@ -14,11 +14,11 @@ Uma organização passou a processar dados junto aos dispositivos que os geram, 
 
 Essa abordagem é denominada computação
 
-(A) em nuvem pública.  
-(B) quântica.  
-(C) de borda (_edge computing_).  
-(D) serverless.  
-(E) distribuída em grade.
+- [ ] (A) em nuvem pública.  
+- [ ] (B) quântica.  
+- [ ] (C) de borda (_edge computing_).  
+- [ ] (D) serverless.  
+- [ ] (E) distribuída em grade.
 
 ---
 
