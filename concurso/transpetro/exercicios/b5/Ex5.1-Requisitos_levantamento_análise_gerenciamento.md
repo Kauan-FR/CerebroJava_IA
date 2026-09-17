@@ -57,7 +57,7 @@ Esses requisitos classificam-se como
 A técnica de levantamento de requisitos em que o analista acompanha o usuário em seu ambiente de trabalho, observando a execução real das atividades, é a
 
 - [ ] (A) entrevista estruturada.  
-- [ ] (B) observação (etnografia).  
+- [x] (B) observação (etnografia).  
 - [ ] (C) aplicação de questionário.  
 - [ ] (D) análise de documentos.  
 - [ ] (E) reunião de validação formal.
@@ -70,11 +70,11 @@ Uma equipe reuniu, em uma mesma sessão facilitada, representantes de diferentes
 
 Essa técnica é denominada
 
-(A) workshop de requisitos (JAD).  
-(B) entrevista individual.  
-(C) engenharia reversa.  
-(D) revisão por pares de código.  
-(E) teste de aceitação.
+- [x] (A) workshop de requisitos (JAD).  
+- [ ] (B) entrevista individual.  
+- [ ] (C) engenharia reversa.  
+- [ ] (D) revisão por pares de código.  
+- [ ] (E) teste de aceitação.
 
 ---
 
@@ -84,11 +84,11 @@ Uma equipe construiu uma versão preliminar e não funcional das telas do sistem
 
 Essa técnica de levantamento é a
 
-(A) prototipação.  
-(B) observação participante.  
-(C) análise de documentos legados.  
-(D) inspeção de código.  
-(E) teste de regressão.
+- [x] (A) prototipação.  
+- [ ] (B) observação participante.  
+- [ ] (C) análise de documentos legados.  
+- [ ] (D) inspeção de código.  
+- [ ] (E) teste de regressão.
 
 ---
 
@@ -98,11 +98,11 @@ Durante o levantamento de requisitos de um sistema hospitalar, o analista precis
 
 Esses requisitos, derivados do contexto de atuação da organização, são classificados como requisitos
 
-(A) de interface.  
-(B) de domínio.  
-(C) de desempenho.  
-(D) de usabilidade.  
-(E) de portabilidade.
+- [ ] (A) de interface.  
+- [x] (B) de domínio.  
+- [ ] (C) de desempenho.  
+- [ ] (D) de usabilidade.  
+- [ ] (E) de portabilidade.
 
 ---
 
@@ -112,11 +112,11 @@ Uma equipe adotou técnica de priorização que classifica os requisitos em quat
 
 Essa técnica é denominada
 
-(A) MoSCoW.  
-(B) MoSCoW invertido.  
-(C) planning poker.  
-(D) análise de Pareto.  
-(E) matriz RACI.
+- [x] (A) MoSCoW.  
+- [ ] (B) MoSCoW invertido.  
+- [ ] (C) planning poker.  
+- [ ] (D) análise de Pareto.  
+- [ ] (E) matriz RACI.
 
 ---
 
@@ -124,11 +124,11 @@ Essa técnica é denominada
 
 O processo destinado a verificar se os requisitos documentados correspondem efetivamente às necessidades reais das partes interessadas, antes do início do desenvolvimento, é a
 
-(A) validação de requisitos.  
-(B) rastreabilidade de requisitos.  
-(C) elicitação de requisitos.  
-(D) estimativa de esforço.  
-(E) implantação assistida.
+- [ ] (A) validação de requisitos.  
+- [ ] (B) rastreabilidade de requisitos.  
+- [ ] (C) elicitação de requisitos.  
+- [ ] (D) estimativa de esforço.  
+- [ ] (E) implantação assistida.
 
 ---
 
