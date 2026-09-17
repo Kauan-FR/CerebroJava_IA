@@ -136,7 +136,7 @@ O processo destinado a verificar se os requisitos documentados correspondem efet
 
 A capacidade de identificar a origem de cada requisito e de acompanhar sua realização nos artefatos de projeto, código e testes é denominada
 
-- [ ] (A) rastreabilidade de requisitos.  
+- [x] (A) rastreabilidade de requisitos.  
 - [ ] (B) volatilidade de requisitos.  
 - [ ] (C) normalização de requisitos.  
 - [ ] (D) refatoração de requisitos.  
@@ -150,11 +150,11 @@ Uma equipe congelou formalmente a especificação de requisitos aprovada, de mod
 
 Essa especificação congelada é denominada
 
-(A) linha de base (_baseline_).  
-(B) protótipo descartável.  
-(C) requisito emergente.  
-(D) matriz de rastreabilidade.  
-(E) backlog refinado.
+- [x] (A) linha de base (_baseline_).  
+- [ ] (B) protótipo descartável.  
+- [ ] (C) requisito emergente.  
+- [ ] (D) matriz de rastreabilidade.  
+- [ ] (E) backlog refinado.
 
 ---
 
@@ -164,11 +164,11 @@ Durante o desenvolvimento, uma parte interessada solicitou alteração em requis
 
 O tratamento adequado dessa solicitação, no âmbito do gerenciamento de requisitos, consiste em
 
-(A) implementar a alteração imediatamente, por se tratar de solicitação do cliente.  
-(B) avaliar o impacto em prazo, custo e demais requisitos, submetendo a solicitação à autorização formal.  
-(C) rejeitar a solicitação, uma vez que a linha de base é imutável.  
-(D) transferir a decisão integralmente à equipe de desenvolvimento.  
-(E) registrar a solicitação apenas ao final do projeto, durante o encerramento.
+- [ ] (A) implementar a alteração imediatamente, por se tratar de solicitação do cliente.  
+- [ ] (B) avaliar o impacto em prazo, custo e demais requisitos, submetendo a solicitação à autorização formal.  
+- [ ] (C) rejeitar a solicitação, uma vez que a linha de base é imutável.  
+- [ ] (D) transferir a decisão integralmente à equipe de desenvolvimento.  
+- [ ] (E) registrar a solicitação apenas ao final do projeto, durante o encerramento.
 
 ---
 
