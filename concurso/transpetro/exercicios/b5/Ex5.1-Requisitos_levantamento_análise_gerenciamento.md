@@ -45,7 +45,7 @@ Um cliente estabeleceu que o sistema deverá estar disponível 99,9% do tempo e 
 Esses requisitos classificam-se como
 
 - [ ] (A) funcionais.  
-- [ ] (B) não funcionais.  
+- [x] (B) não funcionais.  
 - [ ] (C) de domínio do negócio.  
 - [ ] (D) de interface gráfica.  
 - [ ] (E) regulatórios de conformidade.
@@ -56,11 +56,11 @@ Esses requisitos classificam-se como
 
 A técnica de levantamento de requisitos em que o analista acompanha o usuário em seu ambiente de trabalho, observando a execução real das atividades, é a
 
-(A) entrevista estruturada.  
-(B) observação (etnografia).  
-(C) aplicação de questionário.  
-(D) análise de documentos.  
-(E) reunião de validação formal.
+- [ ] (A) entrevista estruturada.  
+- [ ] (B) observação (etnografia).  
+- [ ] (C) aplicação de questionário.  
+- [ ] (D) análise de documentos.  
+- [ ] (E) reunião de validação formal.
 
 ---
 
