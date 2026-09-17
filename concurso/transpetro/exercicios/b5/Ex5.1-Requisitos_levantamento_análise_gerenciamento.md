@@ -192,11 +192,15 @@ Um requisito foi especificado nos seguintes termos: "o sistema deve ser rápido 
 
 A principal deficiência dessa especificação é que o requisito
 
-- [ ] (A) está redigido de forma ambígua e não verificável.  
+<font color="#00b050">- [ ] (A) está redigido de forma ambígua e não verificável.  </font>
 - [ ] (B) constitui requisito funcional indevidamente classificado.  
-- [ ] (C) viola a rastreabilidade em relação à origem.  
+<font color="#ff0000">- [x] (C) viola a rastreabilidade em relação à origem.  </font>
 - [ ] (D) exige a criação de uma linha de base específica.  
 - [ ] (E) impede a realização de testes de unidade.
+
+>[!fail] O defeito de "rápido e fácil de usar"
+>Como nenhum dos dois pode ser testado objetivamente, ninguém consegue afirmar se o sistema atendeu ou não. O requisito é inútil como contrato.
+>A versão corrigida seria: _"o sistema deve responder às consultas em até 2 segundos, em 95% das requisições"_ e _"um usuário sem treinamento deve concluir o cadastro em até 3 minutos"_. Agora dá para medir.
 
 ---
 
@@ -206,11 +210,11 @@ A engenharia de requisitos compreende atividades bem delimitadas.
 
 **NÃO** constitui atividade da engenharia de requisitos a
 
-(A) elicitação junto às partes interessadas.  
-(B) análise e negociação dos requisitos levantados.  
-(C) especificação e documentação dos requisitos.  
-(D) codificação dos módulos do sistema na linguagem escolhida.  
-(E) validação dos requisitos documentados.
+- [ ] (A) elicitação junto às partes interessadas.  
+- [ ] (B) análise e negociação dos requisitos levantados.  
+- [ ] (C) especificação e documentação dos requisitos.  
+- [x] (D) codificação dos módulos do sistema na linguagem escolhida.  
+- [ ] (E) validação dos requisitos documentados.
 
 ---
 
@@ -220,8 +224,8 @@ Um analista relacionou características desejáveis de um requisito bem especifi
 
 **NÃO** constitui característica desejável a
 
-(A) ausência de ambiguidade em sua redação.  
-(B) possibilidade de verificação objetiva de seu atendimento.  
-(C) rastreabilidade em relação à sua origem.  
-(D) dependência da tecnologia específica escolhida para a implementação.  
-(E) consistência em relação aos demais requisitos especificados.
+- [ ] (A) ausência de ambiguidade em sua redação.  
+- [ ] (B) possibilidade de verificação objetiva de seu atendimento.  
+- [ ] (C) rastreabilidade em relação à sua origem.  
+- [x] (D) dependência da tecnologia específica escolhida para a implementação.  
+- [ ] (E) consistência em relação aos demais requisitos especificados.
