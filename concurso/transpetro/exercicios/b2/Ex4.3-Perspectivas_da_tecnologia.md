@@ -26,11 +26,11 @@ Essa abordagem é denominada computação
 
 A tecnologia que mantém um registro distribuído, imutável e compartilhado de transações, validado por consenso entre os participantes da rede, é o(a)
 
-(A) _blockchain_.  
-(B) data warehouse.  
-(C) banco de dados em memória.  
-(D) sistema de arquivos distribuído.  
-(E) servidor de aplicação.
+- [ ] (A) _blockchain_.  
+- [ ] (B) data warehouse.  
+- [ ] (C) banco de dados em memória.  
+- [ ] (D) sistema de arquivos distribuído.  
+- [ ] (E) servidor de aplicação.
 
 ---
 
