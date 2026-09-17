@@ -92,7 +92,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 4.1 Conceitos e mercado de TI
 - [x] 4.2 Economia da inovação
 - [x] 4.3 Perspectivas da tecnologia
-- [ ] 4.4 Ciência, P&D e indústria
+- [x] 4.4 Ciência, P&D e indústria
 
 ## Bloco 9 — Segurança da Informação (S7–9) · ~7 questões
 
@@ -172,16 +172,11 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] Itens gramaticais para compreensão semântica
 
 
+### Divisão do Bloco 5
 
-
-| Rodada | Assuntos                                            | Denso?             | Por quê                                    |
-| ------ | --------------------------------------------------- | ------------------ | ------------------------------------------ |
-| **1**  | Scrum + Kanban + projeto × produto                  | Leve               | Você vive isso no trabalho e no WhatsBotAI |
-| **2**  | SAFe + ágil em escala                               | **Denso, sozinho** | Novo, framework grande                     |
-| **3**  | PMBOK — grupos de processos + áreas de conhecimento | **Denso, sozinho** | Muito vocabulário, números fixos           |
-| **4**  | PMBOK — PMO + projetos na organização               | Leve               | Complemento do anterior, curto             |
-| **5**  | ITIL                                                | **Denso, sozinho** | Ciclo de vida, decoreba pesada             |
-| **6**  | COBIT                                               | **Denso, sozinho** | Domínios e siglas                          |
-| **7**  | LGPD                                                | **Denso, sozinho** | Lei, cai muito                             |
-| **8**  | Contexto de TI (mercado, inovação, P&D)             | Leve               | Decoreba rápida, item 4.1–4.4              |
-
+|Ciclo|Subtópicos|Por quê|
+|---|---|---|
+|**1**|**5.1** Requisitos|Sozinho. Denso e alto valor — a Cesgranrio adora elicitação, funcional × não funcional e rastreabilidade|
+|**2**|**5.2 + 5.3** Ciclo de vida, paradigmas, estruturado × OO|Juntos. 5.2 lista os modelos, 5.3 é o corte estruturado/OO que atravessa esses modelos. Mesma matéria|
+|**3**|**5.4** Verificação, validação e teste|Sozinho. É o mais cobrado do bloco e o mais cheio de pares invertidos|
+|**4**|**5.5** Ambientes de desenvolvimento|Leve. Se quiser emendar no mesmo dia do 5.4, pode — mas mantenha rodada de questões própria, curta (10)|
