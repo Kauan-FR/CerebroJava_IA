@@ -91,7 +91,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] 4.6 LGPD — Lei 13.709 ⭐
 - [x] 4.1 Conceitos e mercado de TI
 - [x] 4.2 Economia da inovação
-- [ ] 4.3 Perspectivas da tecnologia
+- [x] 4.3 Perspectivas da tecnologia
 - [ ] 4.4 Ciência, P&D e indústria
 
 ## Bloco 9 — Segurança da Informação (S7–9) · ~7 questões
