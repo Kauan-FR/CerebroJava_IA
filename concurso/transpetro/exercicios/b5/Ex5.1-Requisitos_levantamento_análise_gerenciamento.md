@@ -31,7 +31,7 @@ III. O sistema deve emitir a nota fiscal eletrônica após a confirmação do pe
 Classificam-se como requisitos funcionais os itens
 
 - [ ] (A) I e II, apenas.  
-- [ ] (B) I e III, apenas.  
+- [x] (B) I e III, apenas.  
 - [ ] (C) II e III, apenas.  
 - [ ] (D) I, II e III.  
 - [ ] (E) II, apenas.
@@ -44,11 +44,11 @@ Um cliente estabeleceu que o sistema deverá estar disponível 99,9% do tempo e 
 
 Esses requisitos classificam-se como
 
-(A) funcionais.  
-(B) não funcionais.  
-(C) de domínio do negócio.  
-(D) de interface gráfica.  
-(E) regulatórios de conformidade.
+- [ ] (A) funcionais.  
+- [ ] (B) não funcionais.  
+- [ ] (C) de domínio do negócio.  
+- [ ] (D) de interface gráfica.  
+- [ ] (E) regulatórios de conformidade.
 
 ---
 
