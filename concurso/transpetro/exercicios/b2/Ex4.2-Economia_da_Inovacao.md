@@ -138,4 +138,4 @@ Um analista relacionou fatores associados à economia da inovação.
 <font color="#00b050">- [ ] (E) padronização de todos os produtos de um setor em um único modelo.</font>
 
 >[!fail] Questão negativa
->A resposta é (E): **padronização de todos os produtos de um setor em um único modelo**. Isso é o oposto de inovação — uniformizar elimina diferenciação, que é justamente o que a inovação busca criar.
+>A resposta é (E): **padronização de todos os produtos de um setor em um único modelo**. Isso é o oposto de inovação — uniformizar elimina diferenciação, que é justamente o que a inovação busca criar
