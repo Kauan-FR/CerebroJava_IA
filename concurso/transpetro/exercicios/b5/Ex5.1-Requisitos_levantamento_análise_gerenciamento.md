@@ -124,7 +124,7 @@ Essa técnica é denominada
 
 O processo destinado a verificar se os requisitos documentados correspondem efetivamente às necessidades reais das partes interessadas, antes do início do desenvolvimento, é a
 
-- [ ] (A) validação de requisitos.  
+- [x] (A) validação de requisitos.  
 - [ ] (B) rastreabilidade de requisitos.  
 - [ ] (C) elicitação de requisitos.  
 - [ ] (D) estimativa de esforço.  
@@ -136,11 +136,11 @@ O processo destinado a verificar se os requisitos documentados correspondem efet
 
 A capacidade de identificar a origem de cada requisito e de acompanhar sua realização nos artefatos de projeto, código e testes é denominada
 
-(A) rastreabilidade de requisitos.  
-(B) volatilidade de requisitos.  
-(C) normalização de requisitos.  
-(D) refatoração de requisitos.  
-(E) encapsulamento de requisitos.
+- [ ] (A) rastreabilidade de requisitos.  
+- [ ] (B) volatilidade de requisitos.  
+- [ ] (C) normalização de requisitos.  
+- [ ] (D) refatoração de requisitos.  
+- [ ] (E) encapsulamento de requisitos.
 
 ---
 
