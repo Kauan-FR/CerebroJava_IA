@@ -165,7 +165,7 @@ Durante o desenvolvimento, uma parte interessada solicitou alteração em requis
 O tratamento adequado dessa solicitação, no âmbito do gerenciamento de requisitos, consiste em
 
 - [ ] (A) implementar a alteração imediatamente, por se tratar de solicitação do cliente.  
-- [ ] (B) avaliar o impacto em prazo, custo e demais requisitos, submetendo a solicitação à autorização formal.  
+- [x] (B) avaliar o impacto em prazo, custo e demais requisitos, submetendo a solicitação à autorização formal.  
 - [ ] (C) rejeitar a solicitação, uma vez que a linha de base é imutável.  
 - [ ] (D) transferir a decisão integralmente à equipe de desenvolvimento.  
 - [ ] (E) registrar a solicitação apenas ao final do projeto, durante o encerramento.
@@ -178,11 +178,11 @@ Dois requisitos levantados para o mesmo sistema estabelecem, respectivamente, qu
 
 A situação em que o atendimento integral de um requisito prejudica o atendimento de outro caracteriza
 
-(A) conflito entre requisitos.  
-(B) ambiguidade de requisitos.  
-(C) requisito incompleto.  
-(D) requisito volátil.  
-(E) requisito implícito.
+- [x] (A) conflito entre requisitos.  
+- [ ] (B) ambiguidade de requisitos.  
+- [ ] (C) requisito incompleto.  
+- [ ] (D) requisito volátil.  
+- [ ] (E) requisito implícito.
 
 ---
 
@@ -192,11 +192,11 @@ Um requisito foi especificado nos seguintes termos: "o sistema deve ser rápido 
 
 A principal deficiência dessa especificação é que o requisito
 
-(A) está redigido de forma ambígua e não verificável.  
-(B) constitui requisito funcional indevidamente classificado.  
-(C) viola a rastreabilidade em relação à origem.  
-(D) exige a criação de uma linha de base específica.  
-(E) impede a realização de testes de unidade.
+- [ ] (A) está redigido de forma ambígua e não verificável.  
+- [ ] (B) constitui requisito funcional indevidamente classificado.  
+- [ ] (C) viola a rastreabilidade em relação à origem.  
+- [ ] (D) exige a criação de uma linha de base específica.  
+- [ ] (E) impede a realização de testes de unidade.
 
 ---
 
