@@ -24,11 +24,19 @@ O modelo de ciclo de vida em que cada fase de desenvolvimento possui uma ativida
 
 O modelo de ciclo de vida que organiza o desenvolvimento em ciclos sucessivos, cada qual contendo análise de risco antes de prosseguir para a etapa seguinte, é o modelo
 
-- [x] (A) em cascata.  
+<font color="#ff0000">- [x] (A) em cascata.  </font>
 - [ ] (B) em V.  
-- [ ] (C) em espiral.  
+<font color="#00b050">- [ ] (C) em espiral.  </font>
 - [ ] (D) linear sequencial.  
 - [ ] (E) orientado a objetos.
+
+>[!fail] modelo espiral
+>Você marcou cascata, que é o oposto em duas frentes:
+>
+>||Cascata|Espiral|
+|---|---|---|
+|Estrutura|linear, uma passagem só|ciclos que se repetem|
+|Risco|não tem tratamento próprio|**análise de risco a cada volta**|
 
 ---
 
@@ -76,11 +84,21 @@ O principal risco associado ao modelo em cascata, em projetos com requisitos ins
 
 O Manifesto Ágil estabelece quatro valores, entre os quais consta a preferência por
 
-- [x] (A) processos e ferramentas em detrimento de indivíduos e interações.  
-- [ ] (B) software em funcionamento em detrimento de documentação abrangente.  
+<font color="#ff0000">- [x] (A) processos e ferramentas em detrimento de indivíduos e interações.  </font>
+<font color="#00b050">- [ ] (B) software em funcionamento em detrimento de documentação abrangente.  </font>
 - [ ] (C) negociação de contratos em detrimento da colaboração com o cliente.  
 - [ ] (D) seguir um plano em detrimento de responder a mudanças.  
 - [ ] (E) documentação abrangente em detrimento de software em funcionamento.
+
+>[!fail] Manifesto Ágil
+>Os quatro valores, na ordem correta:
+>
+>|Mais valor|do que|
+|---|---|
+|**Indivíduos e interações**|processos e ferramentas|
+|**Software em funcionamento**|documentação abrangente|
+|**Colaboração com o cliente**|negociação de contratos|
+|**Responder a mudanças**|seguir um plano|
 
 ---
 
@@ -156,6 +174,6 @@ Um analista relacionou práticas associadas ao desenvolvimento ágil de software
 
 - [ ] (A) realização de entregas incrementais em ciclos curtos.  
 - [ ] (B) colaboração próxima e contínua com o cliente.  
-- [ ] (C) congelamento integral dos requisitos antes do início do desenvolvimento.  
+- [x] (C) congelamento integral dos requisitos antes do início do desenvolvimento.  
 - [ ] (D) refatoração contínua do código produzido.  
 - [ ] (E) automação de testes para apoiar mudanças frequentes.
