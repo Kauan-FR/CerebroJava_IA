@@ -126,7 +126,7 @@ Uma equipe adotou a prática de integrar as alterações de código ao repositó
 
 Essa prática é denominada
 
-- [ ] (A) integração contínua.  
+- [x] (A) integração contínua.  
 - [ ] (B) programação em pares.  
 - [ ] (C) prototipação evolutiva.  
 - [ ] (D) engenharia reversa.  
@@ -140,11 +140,11 @@ Os modelos de ciclo de vida de software apresentam características que os disti
 
 **NÃO** constitui característica do modelo em cascata a
 
-(A) execução sequencial das fases.  
-(B) dependência de cada fase em relação à conclusão da anterior.  
-(C) ênfase em documentação formal ao término de cada etapa.  
-(D) incorporação contínua de mudanças de requisitos ao longo da execução.  
-(E) dificuldade de retorno a fases já concluídas.
+- [ ] (A) execução sequencial das fases.  
+- [ ] (B) dependência de cada fase em relação à conclusão da anterior.  
+- [ ] (C) ênfase em documentação formal ao término de cada etapa.  
+- [x] (D) incorporação contínua de mudanças de requisitos ao longo da execução.  
+- [ ] (E) dificuldade de retorno a fases já concluídas.
 
 ---
 
@@ -154,8 +154,8 @@ Um analista relacionou práticas associadas ao desenvolvimento ágil de software
 
 **NÃO** constitui prática dessa natureza a
 
-(A) realização de entregas incrementais em ciclos curtos.  
-(B) colaboração próxima e contínua com o cliente.  
-(C) congelamento integral dos requisitos antes do início do desenvolvimento.  
-(D) refatoração contínua do código produzido.  
-(E) automação de testes para apoiar mudanças frequentes.
+- [ ] (A) realização de entregas incrementais em ciclos curtos.  
+- [ ] (B) colaboração próxima e contínua com o cliente.  
+- [ ] (C) congelamento integral dos requisitos antes do início do desenvolvimento.  
+- [ ] (D) refatoração contínua do código produzido.  
+- [ ] (E) automação de testes para apoiar mudanças frequentes.
