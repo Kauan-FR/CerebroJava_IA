@@ -13,7 +13,7 @@ Tipo:
 O modelo de ciclo de vida em que cada fase de desenvolvimento possui uma atividade de teste correspondente, associada em paralelo, é o modelo
 
 - [ ] (A) em cascata.  
-- [ ] (B) em V.  
+- [x] (B) em V.  
 - [ ] (C) em espiral.  
 - [ ] (D) incremental.  
 - [ ] (E) RAD.
@@ -24,11 +24,11 @@ O modelo de ciclo de vida em que cada fase de desenvolvimento possui uma ativida
 
 O modelo de ciclo de vida que organiza o desenvolvimento em ciclos sucessivos, cada qual contendo análise de risco antes de prosseguir para a etapa seguinte, é o modelo
 
-(A) em cascata.  
-(B) em V.  
-(C) em espiral.  
-(D) linear sequencial.  
-(E) orientado a objetos.
+- [x] (A) em cascata.  
+- [ ] (B) em V.  
+- [ ] (C) em espiral.  
+- [ ] (D) linear sequencial.  
+- [ ] (E) orientado a objetos.
 
 ---
 
@@ -38,11 +38,11 @@ Uma equipe construiu um protótipo com a finalidade exclusiva de esclarecer requ
 
 Esse tipo de prototipação é denominado
 
-(A) evolutiva.  
-(B) descartável (_throwaway_).  
-(C) vertical permanente.  
-(D) incremental contínua.  
-(E) horizontal definitiva.
+- [ ] (A) evolutiva.  
+- [ ] (B) descartável (_throwaway_).  
+- [ ] (C) vertical permanente.  
+- [ ] (D) incremental contínua.  
+- [ ] (E) horizontal definitiva.
 
 ---
 
