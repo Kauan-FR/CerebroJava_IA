@@ -12,11 +12,11 @@ Tipo:
 
 O modelo de ciclo de vida em que cada fase de desenvolvimento possui uma atividade de teste correspondente, associada em paralelo, é o modelo
 
-(A) em cascata.  
-(B) em V.  
-(C) em espiral.  
-(D) incremental.  
-(E) RAD.
+- [ ] (A) em cascata.  
+- [ ] (B) em V.  
+- [ ] (C) em espiral.  
+- [ ] (D) incremental.  
+- [ ] (E) RAD.
 
 ---
 
