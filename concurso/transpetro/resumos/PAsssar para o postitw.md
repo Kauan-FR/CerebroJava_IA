@@ -84,3 +84,51 @@ governança = o QUÊ / gestão = o COMO
 │ Problemas: volatilidade · ambiguidade ·         │
 │   inconsistência · scope creep · gold plating   │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 6 — MODELOS DE CICLO DE VIDA    [T-5.2]  │
+├─────────────────────────────────────────────────┤
+│ cascata ...... sequencial e linear, cliente vê  │
+│                só no fim, mudança caríssima     │
+│ modelo V ..... cada fase tem seu nível de teste │
+│ INCREMENTAL .. adiciona partes novas            │
+│ ITERATIVO .... refina o mesmo produto           │
+│ espiral ...... dirigido a RISCO, 4 quadrantes,  │
+│                projeto grande e arriscado       │
+│ RAD .......... prazo curto, reuso, paralelo     │
+│ RUP .......... iterativo+incremental, casos de  │
+│                uso, centrado na arquitetura     │
+│   fases: Concepção Elaboração Construção        │
+│          Transição  (C-E-C-T)                   │
+│   ⚠ fases ≠ disciplinas                         │
+│ ágil ......... mudança é BEM-VINDA              │
+└─────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 7 — ESTRUTURADO × OO / UML      [T-5.3]  │
+├─────────────────────────────────────────────────┤
+│ estruturado = FUNÇÃO, separa dado de processo   │
+│ OO = OBJETO, junta dado + comportamento         │
+│                                                 │
+│ DFD — 4 elementos: processo · fluxo ·           │
+│   depósito · entidade externa                   │
+│ contexto = DFD nível 0 (1 só processo)          │
+│ ⚠ DFD = função | DER = dados                    │
+│                                                 │
+│ UML estruturais (foto): classes · objetos ·     │
+│   componentes · implantação · pacotes ·         │
+│   estrutura composta · perfil                   │
+│ UML comportamentais (filme): casos de uso ·     │
+│   atividade · máq. de estados · sequência ·     │
+│   comunicação · tempo · visão geral             │
+│                                                 │
+│ SEQUÊNCIA = tempo | COMUNICAÇÃO = conexão       │
+│ «include» = SEMPRE | «extend» = ÀS VEZES        │
+│ agregação = losango VAZIO (parte sobrevive)     │
+│ composição = losango CHEIO (parte morre)        │
+│                                                 │
+│ upper CASE = início | lower CASE = fim          │
+│ FORWARD = modelo→código | REVERSE = código→mod. │
+└─────────────────────────────────────────────────┘
