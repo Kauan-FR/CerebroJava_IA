@@ -89,7 +89,7 @@ O Manifesto Ágil estabelece quatro valores, entre os quais consta a preferênci
 Em relação ao Manifesto Ágil, é correto afirmar que os itens situados à direita de cada valor
 
 - [ ] (A) devem ser integralmente eliminados dos projetos ágeis.  
-- [ ] (B) possuem valor, embora se atribua maior valor aos itens situados à esquerda.  
+- [x] (B) possuem valor, embora se atribua maior valor aos itens situados à esquerda.  
 - [ ] (C) aplicam-se exclusivamente a projetos preditivos.  
 - [ ] (D) substituem os itens à esquerda em projetos de grande porte.  
 - [ ] (E) referem-se apenas a contratos firmados com órgãos públicos.
@@ -100,11 +100,11 @@ Em relação ao Manifesto Ágil, é correto afirmar que os itens situados à dir
 
 A prática de desenvolvimento em que dois programadores trabalham simultaneamente na mesma estação, revezando-se entre a escrita do código e sua revisão contínua, é denominada
 
-(A) programação em pares (_pair programming_).  
-(B) integração contínua.  
-(C) refatoração.  
-(D) desenvolvimento orientado a testes.  
-(E) revisão por inspeção formal.
+- [x] (A) programação em pares (_pair programming_).  
+- [ ] (B) integração contínua.  
+- [ ] (C) refatoração.  
+- [ ] (D) desenvolvimento orientado a testes.  
+- [ ] (E) revisão por inspeção formal.
 
 ---
 
@@ -112,11 +112,11 @@ A prática de desenvolvimento em que dois programadores trabalham simultaneament
 
 A prática em que o desenvolvedor escreve primeiro o teste automatizado, observa sua falha e somente então implementa o código que o faz passar, é denominada
 
-(A) TDD (desenvolvimento orientado a testes).  
-(B) BDD orientado a comportamento de infraestrutura.  
-(C) teste de regressão manual.  
-(D) inspeção estática de código.  
-(E) integração contínua.
+- [ ] (A) TDD (desenvolvimento orientado a testes).  
+- [ ] (B) BDD orientado a comportamento de infraestrutura.  
+- [ ] (C) teste de regressão manual.  
+- [ ] (D) inspeção estática de código.  
+- [ ] (E) integração contínua.
 
 ---
 
