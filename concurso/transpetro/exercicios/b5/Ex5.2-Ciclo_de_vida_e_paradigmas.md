@@ -112,7 +112,7 @@ A prática de desenvolvimento em que dois programadores trabalham simultaneament
 
 A prática em que o desenvolvedor escreve primeiro o teste automatizado, observa sua falha e somente então implementa o código que o faz passar, é denominada
 
-- [ ] (A) TDD (desenvolvimento orientado a testes).  
+- [x] (A) TDD (desenvolvimento orientado a testes).  
 - [ ] (B) BDD orientado a comportamento de infraestrutura.  
 - [ ] (C) teste de regressão manual.  
 - [ ] (D) inspeção estática de código.  
@@ -126,11 +126,11 @@ Uma equipe adotou a prática de integrar as alterações de código ao repositó
 
 Essa prática é denominada
 
-(A) integração contínua.  
-(B) programação em pares.  
-(C) prototipação evolutiva.  
-(D) engenharia reversa.  
-(E) refatoração estrutural.
+- [ ] (A) integração contínua.  
+- [ ] (B) programação em pares.  
+- [ ] (C) prototipação evolutiva.  
+- [ ] (D) engenharia reversa.  
+- [ ] (E) refatoração estrutural.
 
 ---
 
