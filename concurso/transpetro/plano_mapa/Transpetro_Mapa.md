@@ -174,9 +174,9 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 ### Divisão do Bloco 5
 
-|Ciclo|Subtópicos|Por quê|
-|---|---|---|
-|**1**|**5.1** Requisitos|Sozinho. Denso e alto valor — a Cesgranrio adora elicitação, funcional × não funcional e rastreabilidade|
-|**2**|**5.2 + 5.3** Ciclo de vida, paradigmas, estruturado × OO|Juntos. 5.2 lista os modelos, 5.3 é o corte estruturado/OO que atravessa esses modelos. Mesma matéria|
-|**3**|**5.4** Verificação, validação e teste|Sozinho. É o mais cobrado do bloco e o mais cheio de pares invertidos|
-|**4**|**5.5** Ambientes de desenvolvimento|Leve. Se quiser emendar no mesmo dia do 5.4, pode — mas mantenha rodada de questões própria, curta (10)|
+| Ciclo | Subtópicos                                                | Por quê                                                                                                  |
+| ----- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **1** | **5.1** Requisitos                                        | Sozinho. Denso e alto valor — a Cesgranrio adora elicitação, funcional × não funcional e rastreabilidade |
+| **2** | **5.2 + 5.3** Ciclo de vida, paradigmas, estruturado × OO | Juntos. 5.2 lista os modelos, 5.3 é o corte estruturado/OO que atravessa esses modelos. Mesma matéria    |
+| **3** | **5.4** Verificação, validação e teste                    | Sozinho. É o mais cobrado do bloco e o mais cheio de pares invertidos                                    |
+| **4** | **5.5** Ambientes de desenvolvimento                      | Leve. Se quiser emendar no mesmo dia do 5.4, pode — mas mantenha rodada de questões própria, curta (10)  |
