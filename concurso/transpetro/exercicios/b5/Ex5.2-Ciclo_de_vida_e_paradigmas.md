@@ -88,11 +88,11 @@ O Manifesto Ágil estabelece quatro valores, entre os quais consta a preferênci
 
 Em relação ao Manifesto Ágil, é correto afirmar que os itens situados à direita de cada valor
 
-(A) devem ser integralmente eliminados dos projetos ágeis.  
-(B) possuem valor, embora se atribua maior valor aos itens situados à esquerda.  
-(C) aplicam-se exclusivamente a projetos preditivos.  
-(D) substituem os itens à esquerda em projetos de grande porte.  
-(E) referem-se apenas a contratos firmados com órgãos públicos.
+- [ ] (A) devem ser integralmente eliminados dos projetos ágeis.  
+- [ ] (B) possuem valor, embora se atribua maior valor aos itens situados à esquerda.  
+- [ ] (C) aplicam-se exclusivamente a projetos preditivos.  
+- [ ] (D) substituem os itens à esquerda em projetos de grande porte.  
+- [ ] (E) referem-se apenas a contratos firmados com órgãos públicos.
 
 ---
 
