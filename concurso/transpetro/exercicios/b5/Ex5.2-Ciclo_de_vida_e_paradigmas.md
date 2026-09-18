@@ -39,7 +39,7 @@ Uma equipe construiu um protótipo com a finalidade exclusiva de esclarecer requ
 Esse tipo de prototipação é denominado
 
 - [ ] (A) evolutiva.  
-- [ ] (B) descartável (_throwaway_).  
+- [x] (B) descartável (_throwaway_).  
 - [ ] (C) vertical permanente.  
 - [ ] (D) incremental contínua.  
 - [ ] (E) horizontal definitiva.
@@ -52,11 +52,11 @@ Uma equipe desenvolveu um protótipo inicial e o refinou sucessivamente, a parti
 
 Esse tipo de prototipação é denominado
 
-(A) evolutiva.  
-(B) descartável.  
-(C) sequencial.  
-(D) preditiva.  
-(E) regressiva.
+- [x] (A) evolutiva.  
+- [ ] (B) descartável.  
+- [ ] (C) sequencial.  
+- [ ] (D) preditiva.  
+- [ ] (E) regressiva.
 
 ---
 
@@ -64,11 +64,11 @@ Esse tipo de prototipação é denominado
 
 O principal risco associado ao modelo em cascata, em projetos com requisitos instáveis, é que
 
-(A) erros de requisitos tendem a ser identificados tardiamente, elevando o custo de correção.  
-(B) as fases se sobrepõem, impedindo o controle do cronograma.  
-(C) a documentação produzida torna-se insuficiente para a manutenção.  
-(D) a equipe perde a rastreabilidade entre requisitos e código.  
-(E) o cliente participa excessivamente das decisões técnicas.
+- [x] (A) erros de requisitos tendem a ser identificados tardiamente, elevando o custo de correção.  
+- [ ] (B) as fases se sobrepõem, impedindo o controle do cronograma.  
+- [ ] (C) a documentação produzida torna-se insuficiente para a manutenção.  
+- [ ] (D) a equipe perde a rastreabilidade entre requisitos e código.  
+- [ ] (E) o cliente participa excessivamente das decisões técnicas.
 
 ---
 
@@ -76,11 +76,11 @@ O principal risco associado ao modelo em cascata, em projetos com requisitos ins
 
 O Manifesto Ágil estabelece quatro valores, entre os quais consta a preferência por
 
-(A) processos e ferramentas em detrimento de indivíduos e interações.  
-(B) software em funcionamento em detrimento de documentação abrangente.  
-(C) negociação de contratos em detrimento da colaboração com o cliente.  
-(D) seguir um plano em detrimento de responder a mudanças.  
-(E) documentação abrangente em detrimento de software em funcionamento.
+- [x] (A) processos e ferramentas em detrimento de indivíduos e interações.  
+- [ ] (B) software em funcionamento em detrimento de documentação abrangente.  
+- [ ] (C) negociação de contratos em detrimento da colaboração com o cliente.  
+- [ ] (D) seguir um plano em detrimento de responder a mudanças.  
+- [ ] (E) documentação abrangente em detrimento de software em funcionamento.
 
 ---
 
