@@ -76,8 +76,8 @@ Um desenvolvedor criou, na mesma classe, três métodos com o mesmo nome, difere
 
 Esse recurso é denominado
 
-- [x] (A) sobrescrita (_override_).  
-- [ ] (B) sobrecarga (_overload_).  
+- [ ] (A) sobrescrita (_override_).  
+- [x] (B) sobrecarga (_overload_).  
 - [ ] (C) herança múltipla.  
 - [ ] (D) encapsulamento.  
 - [ ] (E) delegação.
@@ -90,11 +90,11 @@ Uma subclasse redefiniu, com implementação própria, um método já existente 
 
 Esse recurso é denominado
 
-(A) sobrecarga (_overload_).  
-(B) sobrescrita (_override_).  
-(C) agregação.  
-(D) abstração.  
-(E) instanciação.
+- [ ] (A) sobrecarga (_overload_).  
+- [x] (B) sobrescrita (_override_).  
+- [ ] (C) agregação.  
+- [ ] (D) abstração.  
+- [ ] (E) instanciação.
 
 ---
 
@@ -102,11 +102,11 @@ Esse recurso é denominado
 
 A capacidade de objetos de classes distintas responderem de formas diferentes à mesma mensagem é denominada
 
-(A) polimorfismo.  
-(B) encapsulamento.  
-(C) herança.  
-(D) coesão.  
-(E) persistência.
+- [ ] (A) polimorfismo.  
+- [ ] (B) encapsulamento.  
+- [ ] (C) herança.  
+- [ ] (D) coesão.  
+- [ ] (E) persistência.
 
 ---
 
