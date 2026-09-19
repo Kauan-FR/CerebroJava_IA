@@ -224,9 +224,12 @@ A análise e o projeto estruturados apresentam técnicas próprias.
 
 - [ ] (A) Diagrama de Fluxo de Dados.  
 - [ ] (B) dicionário de dados.  
-- [ ] (C) diagrama de sequência da UML.  
+<font color="#00b050">- [ ] (C) diagrama de sequência da UML.  </font>
 - [ ] (D) diagrama de estrutura modular.  
-- [x] (E) uso de português estruturado para especificação de processos.
+<font color="#ff0000">- [x] (E) uso de português estruturado para especificação de processos.</font>
+
+>[!fail] UML
+>UML é notação do paradigma **orientado a objetos**. Não pertence ao estruturado em nenhuma versão.
 
 ---
 
