@@ -115,7 +115,7 @@ A capacidade de objetos de classes distintas responderem de formas diferentes à
 No paradigma orientado a objetos, a relação entre classe e objeto corresponde à relação entre
 
 - [ ] (A) instância e modelo, respectivamente.  
-- [ ] (B) modelo e instância, respectivamente.  
+- [x] (B) modelo e instância, respectivamente.  
 - [ ] (C) método e atributo, respectivamente.  
 - [ ] (D) interface e implementação, respectivamente.  
 - [ ] (E) superclasse e subclasse, respectivamente.
@@ -128,11 +128,11 @@ Uma classe `Pedido` é composta por objetos da classe `ItemPedido`, de modo que 
 
 Esse tipo de relacionamento é denominado
 
-(A) composição.  
-(B) agregação.  
-(C) herança.  
-(D) dependência.  
-(E) realização.
+- [ ] (A) composição.  
+- [ ] (B) agregação.  
+- [ ] (C) herança.  
+- [ ] (D) dependência.  
+- [ ] (E) realização.
 
 ---
 
