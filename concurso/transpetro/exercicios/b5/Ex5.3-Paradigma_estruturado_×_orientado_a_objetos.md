@@ -37,7 +37,7 @@ No projeto estruturado, o grau de dependência entre os módulos de um sistema �
 Considera-se desejável, no projeto de software, que os módulos apresentem
 
 - [ ] (A) alta coesão e baixo acoplamento.  
-- [ ] (B) baixa coesão e alto acoplamento.  
+- [x] (B) baixa coesão e alto acoplamento.  
 - [ ] (C) alta coesão e alto acoplamento.  
 - [ ] (D) baixa coesão e baixo acoplamento.  
 - [ ] (E) coesão e acoplamento equivalentes entre si.
@@ -48,11 +48,11 @@ Considera-se desejável, no projeto de software, que os módulos apresentem
 
 No paradigma orientado a objetos, o mecanismo que oculta os detalhes internos de implementação, expondo apenas uma interface controlada de acesso, é denominado
 
-(A) herança.  
-(B) polimorfismo.  
-(C) encapsulamento.  
-(D) instanciação.  
-(E) agregação.
+- [ ] (A) herança.  
+- [ ] (B) polimorfismo.  
+- [x] (C) encapsulamento.  
+- [ ] (D) instanciação.  
+- [ ] (E) agregação.
 
 ---
 
