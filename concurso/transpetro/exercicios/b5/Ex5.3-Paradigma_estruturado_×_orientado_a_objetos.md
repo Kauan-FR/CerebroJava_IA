@@ -25,7 +25,7 @@ No paradigma estruturado, a técnica que representa graficamente o fluxo de dado
 No projeto estruturado, o grau de dependência entre os módulos de um sistema é denominado
 
 - [ ] (A) coesão.  
-- [ ] (B) acoplamento.  
+- [x] (B) acoplamento.  
 - [ ] (C) cardinalidade.  
 - [ ] (D) granularidade.  
 - [ ] (E) modularidade.
@@ -36,11 +36,11 @@ No projeto estruturado, o grau de dependência entre os módulos de um sistema �
 
 Considera-se desejável, no projeto de software, que os módulos apresentem
 
-(A) alta coesão e baixo acoplamento.  
-(B) baixa coesão e alto acoplamento.  
-(C) alta coesão e alto acoplamento.  
-(D) baixa coesão e baixo acoplamento.  
-(E) coesão e acoplamento equivalentes entre si.
+- [ ] (A) alta coesão e baixo acoplamento.  
+- [ ] (B) baixa coesão e alto acoplamento.  
+- [ ] (C) alta coesão e alto acoplamento.  
+- [ ] (D) baixa coesão e baixo acoplamento.  
+- [ ] (E) coesão e acoplamento equivalentes entre si.
 
 ---
 
