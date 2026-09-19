@@ -128,7 +128,7 @@ Uma classe `Pedido` é composta por objetos da classe `ItemPedido`, de modo que 
 
 Esse tipo de relacionamento é denominado
 
-- [ ] (A) composição.  
+- [x] (A) composição.  
 - [ ] (B) agregação.  
 - [ ] (C) herança.  
 - [ ] (D) dependência.  
@@ -140,11 +140,11 @@ Esse tipo de relacionamento é denominado
 
 Na UML, o diagrama que representa as classes do sistema, seus atributos, operações e os relacionamentos entre elas é o diagrama de
 
-(A) classes.  
-(B) sequência.  
-(C) atividades.  
-(D) estados.  
-(E) implantação.
+- [x] (A) classes.  
+- [ ] (B) sequência.  
+- [ ] (C) atividades.  
+- [ ] (D) estados.  
+- [ ] (E) implantação.
 
 ---
 
@@ -152,11 +152,11 @@ Na UML, o diagrama que representa as classes do sistema, seus atributos, operaç
 
 Na UML, o diagrama que representa a troca de mensagens entre objetos ao longo do tempo, evidenciando a ordem temporal das interações, é o diagrama de
 
-(A) classes.  
-(B) componentes.  
-(C) sequência.  
-(D) pacotes.  
-(E) objetos.
+- [ ] (A) classes.  
+- [ ] (B) componentes.  
+- [x] (C) sequência.  
+- [ ] (D) pacotes.  
+- [ ] (E) objetos.
 
 ---
 
@@ -164,11 +164,11 @@ Na UML, o diagrama que representa a troca de mensagens entre objetos ao longo do
 
 Na UML, classificam-se como diagramas comportamentais os diagramas de
 
-(A) classes, componentes e implantação.  
-(B) casos de uso, sequência e atividades.  
-(C) objetos, pacotes e estrutura composta.  
-(D) implantação, perfil e componentes.  
-(E) classes, objetos e pacotes.
+- [ ] (A) classes, componentes e implantação.  
+- [x] (B) casos de uso, sequência e atividades.  
+- [ ] (C) objetos, pacotes e estrutura composta.  
+- [ ] (D) implantação, perfil e componentes.  
+- [ ] (E) classes, objetos e pacotes.
 
 ---
 
@@ -178,11 +178,11 @@ Em um diagrama de casos de uso, o caso de uso "Emitir Nota Fiscal" executa obrig
 
 O relacionamento adequado entre eles é
 
-(A) _include_.  
-(B) _extend_.  
-(C) generalização.  
-(D) associação simples.  
-(E) realização.
+- [x] (A) _include_.  
+- [ ] (B) _extend_.  
+- [ ] (C) generalização.  
+- [ ] (D) associação simples.  
+- [ ] (E) realização.
 
 ---
 
@@ -192,11 +192,11 @@ Em um diagrama de casos de uso, o caso de uso "Aplicar Desconto Promocional" oco
 
 O relacionamento adequado entre eles é
 
-(A) _include_.  
-(B) _extend_.  
-(C) composição.  
-(D) agregação.  
-(E) dependência de instalação.
+- [ ] (A) _include_.  
+- [x] (B) _extend_.  
+- [ ] (C) composição.  
+- [ ] (D) agregação.  
+- [ ] (E) dependência de instalação.
 
 ---
 
@@ -204,11 +204,11 @@ O relacionamento adequado entre eles é
 
 Uma diferença entre o paradigma estruturado e o paradigma orientado a objetos é que o estruturado
 
-(A) organiza o sistema em torno de funções e do fluxo de dados, enquanto o orientado a objetos o organiza em torno de objetos que reúnem dados e comportamento.  
-(B) organiza o sistema em torno de objetos, enquanto o orientado a objetos o organiza em torno de funções.  
-(C) dispensa a modelagem de dados, enquanto o orientado a objetos a exige.  
-(D) aplica-se exclusivamente a sistemas web, enquanto o orientado a objetos se aplica a sistemas legados.  
-(E) impede a decomposição do sistema em módulos, enquanto o orientado a objetos a permite.
+- [x] (A) organiza o sistema em torno de funções e do fluxo de dados, enquanto o orientado a objetos o organiza em torno de objetos que reúnem dados e comportamento.  
+- [ ] (B) organiza o sistema em torno de objetos, enquanto o orientado a objetos o organiza em torno de funções.  
+- [ ] (C) dispensa a modelagem de dados, enquanto o orientado a objetos a exige.  
+- [ ] (D) aplica-se exclusivamente a sistemas web, enquanto o orientado a objetos se aplica a sistemas legados.  
+- [ ] (E) impede a decomposição do sistema em módulos, enquanto o orientado a objetos a permite.
 
 ---
 
@@ -218,11 +218,11 @@ A análise e o projeto estruturados apresentam técnicas próprias.
 
 **NÃO** constitui técnica do paradigma estruturado o
 
-(A) Diagrama de Fluxo de Dados.  
-(B) dicionário de dados.  
-(C) diagrama de sequência da UML.  
-(D) diagrama de estrutura modular.  
-(E) uso de português estruturado para especificação de processos.
+- [ ] (A) Diagrama de Fluxo de Dados.  
+- [ ] (B) dicionário de dados.  
+- [ ] (C) diagrama de sequência da UML.  
+- [ ] (D) diagrama de estrutura modular.  
+- [x] (E) uso de português estruturado para especificação de processos.
 
 ---
 
@@ -232,8 +232,8 @@ Um analista relacionou conceitos atribuídos ao paradigma orientado a objetos.
 
 **NÃO** constitui conceito desse paradigma a
 
-(A) herança entre classes.  
-(B) encapsulamento dos atributos.  
-(C) polimorfismo de métodos.  
-(D) decomposição funcional descendente em sub-rotinas.  
-(E) abstração de entidades do domínio em classes.
+- [ ] (A) herança entre classes.  
+- [ ] (B) encapsulamento dos atributos.  
+- [ ] (C) polimorfismo de métodos.  
+- [ ] (D) decomposição funcional descendente em sub-rotinas.  
+- [ ] (E) abstração de entidades do domínio em classes.
