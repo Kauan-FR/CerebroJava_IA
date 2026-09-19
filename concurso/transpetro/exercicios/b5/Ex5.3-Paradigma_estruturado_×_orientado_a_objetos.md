@@ -62,11 +62,11 @@ Uma classe `Gerente` foi definida a partir da classe `Funcionario`, reaproveitan
 
 Esse mecanismo é denominado
 
-(A) herança.  
-(B) encapsulamento.  
-(C) sobrecarga.  
-(D) composição.  
-(E) instanciação.
+- [x] (A) herança.  
+- [ ] (B) encapsulamento.  
+- [ ] (C) sobrecarga.  
+- [ ] (D) composição.  
+- [ ] (E) instanciação.
 
 ---
 
