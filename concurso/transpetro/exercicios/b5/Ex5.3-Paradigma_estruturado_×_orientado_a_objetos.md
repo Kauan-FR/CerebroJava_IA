@@ -102,7 +102,7 @@ Esse recurso é denominado
 
 A capacidade de objetos de classes distintas responderem de formas diferentes à mesma mensagem é denominada
 
-- [ ] (A) polimorfismo.  
+- [x] (A) polimorfismo.  
 - [ ] (B) encapsulamento.  
 - [ ] (C) herança.  
 - [ ] (D) coesão.  
@@ -114,11 +114,11 @@ A capacidade de objetos de classes distintas responderem de formas diferentes à
 
 No paradigma orientado a objetos, a relação entre classe e objeto corresponde à relação entre
 
-(A) instância e modelo, respectivamente.  
-(B) modelo e instância, respectivamente.  
-(C) método e atributo, respectivamente.  
-(D) interface e implementação, respectivamente.  
-(E) superclasse e subclasse, respectivamente.
+- [ ] (A) instância e modelo, respectivamente.  
+- [ ] (B) modelo e instância, respectivamente.  
+- [ ] (C) método e atributo, respectivamente.  
+- [ ] (D) interface e implementação, respectivamente.  
+- [ ] (E) superclasse e subclasse, respectivamente.
 
 ---
 
