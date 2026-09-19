@@ -76,11 +76,11 @@ Um desenvolvedor criou, na mesma classe, três métodos com o mesmo nome, difere
 
 Esse recurso é denominado
 
-(A) sobrescrita (_override_).  
-(B) sobrecarga (_overload_).  
-(C) herança múltipla.  
-(D) encapsulamento.  
-(E) delegação.
+- [x] (A) sobrescrita (_override_).  
+- [ ] (B) sobrecarga (_overload_).  
+- [ ] (C) herança múltipla.  
+- [ ] (D) encapsulamento.  
+- [ ] (E) delegação.
 
 ---
 
