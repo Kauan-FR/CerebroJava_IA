@@ -36,11 +36,15 @@ No projeto estruturado, o grau de dependência entre os módulos de um sistema �
 
 Considera-se desejável, no projeto de software, que os módulos apresentem
 
-- [ ] (A) alta coesão e baixo acoplamento.  
-- [x] (B) baixa coesão e alto acoplamento.  
+<font color="#00b050">- [ ] (A) alta coesão e baixo acoplamento.  </font>
+<font color="#ff0000">- [x] (B) baixa coesão e alto acoplamento.  </font>
 - [ ] (C) alta coesão e alto acoplamento.  
 - [ ] (D) baixa coesão e baixo acoplamento.  
 - [ ] (E) coesão e acoplamento equivalentes entre si.
+
+>[!fail] alta coesão e baixo acoplamento
+>**Coesão** — o quanto as responsabilidades **dentro** de um módulo pertencem uma à outra. Alta coesão significa que a classe faz uma coisa só e faz bem. É o Single Responsibility do SOLID.
+>**Acoplamento** — o quanto um módulo **depende** de outro. Baixo acoplamento significa que mudar uma classe não obriga a mudar as outras. É o que injeção de dependência e programação por interface buscam.
 
 ---
 
@@ -235,5 +239,5 @@ Um analista relacionou conceitos atribuídos ao paradigma orientado a objetos.
 - [ ] (A) herança entre classes.  
 - [ ] (B) encapsulamento dos atributos.  
 - [ ] (C) polimorfismo de métodos.  
-- [ ] (D) decomposição funcional descendente em sub-rotinas.  
+- [x] (D) decomposição funcional descendente em sub-rotinas.  
 - [ ] (E) abstração de entidades do domínio em classes.
