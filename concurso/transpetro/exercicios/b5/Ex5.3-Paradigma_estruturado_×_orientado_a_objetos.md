@@ -12,11 +12,11 @@ Tipo:
 
 No paradigma estruturado, a técnica que representa graficamente o fluxo de dados entre processos, entidades externas e depósitos de dados é o
 
-(A) Diagrama de Fluxo de Dados (DFD).  
-(B) Diagrama de Classes.  
-(C) Diagrama de Sequência.  
-(D) Modelo Entidade-Relacionamento.  
-(E) Diagrama de Casos de Uso.
+- [x] (A) Diagrama de Fluxo de Dados (DFD).  
+- [ ] (B) Diagrama de Classes.  
+- [ ] (C) Diagrama de Sequência.  
+- [ ] (D) Modelo Entidade-Relacionamento.  
+- [ ] (E) Diagrama de Casos de Uso.
 
 ---
 
@@ -24,11 +24,11 @@ No paradigma estruturado, a técnica que representa graficamente o fluxo de dado
 
 No projeto estruturado, o grau de dependência entre os módulos de um sistema é denominado
 
-(A) coesão.  
-(B) acoplamento.  
-(C) cardinalidade.  
-(D) granularidade.  
-(E) modularidade.
+- [ ] (A) coesão.  
+- [ ] (B) acoplamento.  
+- [ ] (C) cardinalidade.  
+- [ ] (D) granularidade.  
+- [ ] (E) modularidade.
 
 ---
 
