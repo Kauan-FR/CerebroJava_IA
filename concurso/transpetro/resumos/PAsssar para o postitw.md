@@ -5,43 +5,6 @@ Tipo:
 ---
 
 ┌─────────────────────────────────────────────────┐
-│ CARTÃO 4 — REQUISITOS                  [T-5.1]  │
-├─────────────────────────────────────────────────┤
-│ RF = o que o sistema FAZ (função).              │
-│ RNF = COMO faz (qualidade/restrição):           │
-│   desempenho · segurança · usabilidade ·        │
-│   disponibilidade · portabilidade               │
-│ ⚠ criptografar e tempo de resposta = RNF        │
-│                                                 │
-│ Processo: elicitação → análise → especificação  │
-│   → validação.  Gerenciamento é CONTÍNUO.       │
-│                                                 │
-│ VERIFICAÇÃO = corretamente (vs espec)           │
-│ VALIDAÇÃO   = o correto (vs necessidade)        │
-│                                                 │
-│ Gerenciamento = mudanças + rastreabilidade.     │
-│   trás → origem  |  frente → código e teste     │
-│ Baseline = versão aprovada.                     │
-│ MoSCoW: Must Should Could Won't                 │
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│ CARTÃO 5 — ELICITAÇÃO: CENÁRIO → TÉCNICA [T-5.1]│
-├─────────────────────────────────────────────────┤
-│ muitos e dispersos ........ questionário        │
-│ faz mas não explica ....... observação/etnogr.  │
-│ consenso rápido entre áreas  JAD / workshop     │
-│ cliente não sabe o que quer  prototipação       │
-│ legado, normas, formulários  análise de doc.    │
-│ a mais usada .............. entrevista          │
-│                                                 │
-│ Problemas: volatilidade · ambiguidade ·         │
-│   inconsistência · scope creep · gold plating   │
-└─────────────────────────────────────────────────┘
-
----
-
-┌─────────────────────────────────────────────────┐
 │ CARTÃO 6 — MODELOS DE CICLO DE VIDA    [T-5.2]  │
 ├─────────────────────────────────────────────────┤
 │ cascata ...... sequencial e linear, cliente vê  │
