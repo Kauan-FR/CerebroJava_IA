@@ -5,25 +5,6 @@ Tipo:
 ---
 
 ┌─────────────────────────────────────────────────┐
-│ CARTÃO 6 — MODELOS DE CICLO DE VIDA    [T-5.2]  │
-├─────────────────────────────────────────────────┤
-│ cascata ...... sequencial e linear, cliente vê  │
-│                só no fim, mudança caríssima     │
-│ modelo V ..... cada fase tem seu nível de teste │
-│ INCREMENTAL .. adiciona partes novas            │
-│ ITERATIVO .... refina o mesmo produto           │
-│ espiral ...... dirigido a RISCO, 4 quadrantes,  │
-│                projeto grande e arriscado       │
-│ RAD .......... prazo curto, reuso, paralelo     │
-│ RUP .......... iterativo+incremental, casos de  │
-│                uso, centrado na arquitetura     │
-│   fases: Concepção Elaboração Construção        │
-│          Transição  (C-E-C-T)                   │
-│   ⚠ fases ≠ disciplinas                         │
-│ ágil ......... mudança é BEM-VINDA              │
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
 │ CARTÃO 7 — ESTRUTURADO × OO / UML      [T-5.3]  │
 ├─────────────────────────────────────────────────┤
 │ estruturado = FUNÇÃO, separa dado de processo   │
