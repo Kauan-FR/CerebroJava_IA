@@ -138,7 +138,7 @@ Após a correção de um defeito em determinado módulo, a equipe reexecutou o c
 
 Esse teste é denominado teste de
 
-- [ ] (A) regressão.  
+- [x] (A) regressão.  
 - [ ] (B) unidade.  
 - [ ] (C) aceitação.  
 - [ ] (D) usabilidade.  
@@ -152,11 +152,11 @@ Uma equipe submeteu o sistema a um volume de requisições muito superior ao pre
 
 Esse teste é classificado como teste de
 
-(A) estresse.  
-(B) unidade.  
-(C) regressão.  
-(D) fumaça.  
-(E) aceitação.
+- [x] (A) estresse.  
+- [ ] (B) unidade.  
+- [ ] (C) regressão.  
+- [ ] (D) fumaça.  
+- [ ] (E) aceitação.
 
 ---
 
@@ -164,11 +164,11 @@ Esse teste é classificado como teste de
 
 O teste realizado por usuários finais, no ambiente do próprio cliente, com o produto ainda sujeito a ajustes antes do lançamento definitivo, é denominado teste
 
-(A) alfa.  
-(B) beta.  
-(C) de unidade.  
-(D) de integração.  
-(E) estrutural.
+- [ ] (A) alfa.  
+- [x] (B) beta.  
+- [ ] (C) de unidade.  
+- [ ] (D) de integração.  
+- [ ] (E) estrutural.
 
 ---
 
@@ -178,11 +178,11 @@ Em engenharia de software, estabelece-se distinção entre os conceitos de defei
 
 A manifestação externa percebida pelo usuário, quando o software se comporta de modo diverso do esperado, é denominada
 
-(A) defeito.  
-(B) falha.  
-(C) engano humano.  
-(D) risco residual.  
-(E) exceção compilada.
+- [ ] (A) defeito.  
+- [ ] (B) falha.  
+- [ ] (C) engano humano.  
+- [ ] (D) risco residual.  
+- [ ] (E) exceção compilada.
 
 ---
 
