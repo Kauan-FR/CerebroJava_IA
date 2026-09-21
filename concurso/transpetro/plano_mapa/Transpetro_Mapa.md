@@ -172,11 +172,33 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] Itens gramaticais para compreensão semântica
 
 
-### Divisão do Bloco 5
+### Bloco 6 — divisão em ciclos
 
-| Ciclo | Subtópicos                                                | Por quê                                                                                                  |
-| ----- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **5.1** Requisitos                                        | Sozinho. Denso e alto valor — a Cesgranrio adora elicitação, funcional × não funcional e rastreabilidade |
-| **2** | **5.2 + 5.3** Ciclo de vida, paradigmas, estruturado × OO | Juntos. 5.2 lista os modelos, 5.3 é o corte estruturado/OO que atravessa esses modelos. Mesma matéria    |
-| **3** | **5.4** Verificação, validação e teste                    | Sozinho. É o mais cobrado do bloco e o mais cheio de pares invertidos                                    |
-| **4** | **5.5** Ambientes de desenvolvimento                      | Leve. Se quiser emendar no mesmo dia do 5.4, pode — mas mantenha rodada de questões própria, curta (10)  |
+|Ciclo|Subtópicos|Por quê|
+|---|---|---|
+|**1**|**6.1** Acessibilidade e usabilidade|Sozinho. É o mais cobrado (heurísticas de Nielsen, WCAG, eMAG)|
+|**2**|**6.2 + 6.8 + 6.9** Histórias de usuário, MVP, prototipação|Juntos. Você já domina parte pelo Scrum|
+|**3**|**6.4 + 6.10 + 6.11** Projeto centrado no usuário, design thinking, personas|Juntos. Os três são "entender o usuário antes de construir"|
+|**4**|**6.3 + 6.7** Interação web, interoperabilidade entre navegadores|Juntos. Os dois são web|
+|**5**|**6.5 + 6.6** Storytelling com dados, relatórios e dashboards|Juntos. E já adianta os itens 7.8 e 7.10 do Bloco 7
+
+
+### Roteiro até os simulados
+
+|Período|Bloco|
+|---|---|
+|22/09 – 26/09|**6 — UX**|
+|28/09 – 17/10|**9 — Segurança** (triado)|
+|19/10 – 23/10|**8 — Lógica**|
+|24/10 – 26/10|**7 — BI** + **LGPD**|
+|27/10 em diante|Simulados|
+
+### Sobre o 9: você não precisa terminar os 21
+
+A conta é outra. São **8 questões**. Acertar 6 de 8 já é ótimo. E a Cesgranrio concentra as questões em poucos subtópicos:
+
+| Prioridade                     | Subtópicos                                                                                                                                                                                                          |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alta — caem sempre**         | Criptografia, certificado e assinatura digital · ataques (SQL injection, XSS, DDoS) · malware · firewall/IDS/IPS · autenticação, MFA, SSO, RBAC × ABAC · ISO 27002, política e classificação da informação · backup |
+| **Média**                      | SAST/DAST · VPN · ISO 31000 e 22301 · resposta a incidente (NIST) · STRIDE · pentest                                                                                                                                |
+| **Baixa — deixa pro simulado** | MITRE ATT&CK · threat hunting · MDM · CASB · IoT · nuvem · SOX                                                                                                                                                      |
