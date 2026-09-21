@@ -72,7 +72,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 5.2 Ciclo de vida e paradigmas
 - [x] 5.3 Paradigma estruturado × orientado a objetos
 - [x] 5.4 Verificação, validação e teste
-- [ ] 5.5 Ambientes de desenvolvimento
+- [x] 5.5 Ambientes de desenvolvimento
 
 ## Blocos 2 e 3 — Projetos e Produtos (S5) · ~6 questões
 
