@@ -48,8 +48,8 @@ O principal objetivo dos testes estáticos é
 
 Constituem exemplos de técnicas de teste estático
 
-- [ ] (A) a revisão por pares, a inspeção de código e a análise estática automatizada.  
-- [x] (B) o teste de unidade, o teste de integração e o teste de sistema.  
+- [x] (A) a revisão por pares, a inspeção de código e a análise estática automatizada.  
+- [ ] (B) o teste de unidade, o teste de integração e o teste de sistema.  
 - [ ] (C) o teste de carga, o teste de estresse e o teste de volume.  
 - [ ] (D) o teste alfa, o teste beta e o teste de aceitação.  
 - [ ] (E) o teste de fumaça, o teste de regressão e o teste exploratório.
@@ -234,6 +234,6 @@ Um analista relacionou características atribuídas ao teste de caixa branca.
 
 - [ ] (A) utilização do conhecimento da estrutura interna do código.  
 - [ ] (B) preocupação com a cobertura de caminhos e de condições.  
-- [ ] (C) elaboração dos casos de teste sem qualquer conhecimento da implementação.  
+- [x] (C) elaboração dos casos de teste sem qualquer conhecimento da implementação.  
 - [ ] (D) possibilidade de identificar trechos de código não executados.  
 - [ ] (E) exigência de conhecimento técnico de programação por parte do testador.
