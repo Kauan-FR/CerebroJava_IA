@@ -179,10 +179,17 @@ Em engenharia de software, estabelece-se distinção entre os conceitos de defei
 A manifestação externa percebida pelo usuário, quando o software se comporta de modo diverso do esperado, é denominada
 
 - [ ] (A) defeito.  
-- [ ] (B) falha.  
-- [x] (C) engano humano.  
+<font color="#00b050">- [ ] (B) falha.  </font>
+<font color="#ff0000">- [x] (C) engano humano.  </font>
 - [ ] (D) risco residual.  
 - [ ] (E) exceção compilada.
+
+>[!fail] erro, defeito e falha
+>|Termo|Onde está|Exemplo|
+|---|---|---|
+|**Erro / engano**|na **cabeça** do desenvolvedor|o programador entendeu errado a regra de desconto|
+|**Defeito**|no **artefato** — código, documento|`if (valor > 100)` onde deveria ser `>=`|
+|**Falha**|no **comportamento** observado|o cliente com compra de R$ 100 não recebe o desconto|
 
 ---
 
