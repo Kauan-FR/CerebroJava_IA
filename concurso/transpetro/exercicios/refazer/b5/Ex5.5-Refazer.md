@@ -14,11 +14,11 @@ Uma equipe adotou uma ferramenta que integra, em uma única interface, editor de
 
 Essa ferramenta é denominada
 
-- [ ] (A) sistema gerenciador de banco de dados.  
-- [ ] (B) servidor de aplicação.  
-- [x] (C) ambiente de desenvolvimento integrado (IDE).  
-- [ ] (D) repositório de artefatos.  
-- [ ] (E) sistema de controle de versão.
+(A) sistema gerenciador de banco de dados.  
+(B) servidor de aplicação.  
+(C) ambiente de desenvolvimento integrado (IDE).  
+(D) repositório de artefatos.  
+(E) sistema de controle de versão.
 
 ---
 
@@ -28,11 +28,11 @@ Uma equipe precisa registrar o histórico de alterações do código-fonte, perm
 
 A ferramenta adequada a essa finalidade é o(a)
 
-- [ ] (A) depurador integrado.  
-- [ ] (B) compilador cruzado.  
-- [ ] (C) analisador estático de código.  
-- [ ] (D) gerenciador de dependências.  
-- [x] (E) sistema de controle de versão.
+(A) depurador integrado.  
+(B) compilador cruzado.  
+(C) analisador estático de código.  
+(D) gerenciador de dependências.  
+(E) sistema de controle de versão.
 
 ---
 
@@ -40,11 +40,11 @@ A ferramenta adequada a essa finalidade é o(a)
 
 Em um sistema de controle de versão distribuído, como o Git, cada desenvolvedor
 
-- [ ] (A) depende de conexão permanente com o servidor central para registrar alterações.  
-- [x] (B) possui cópia local completa do repositório, incluindo todo o histórico de versões.  
-- [ ] (C) acessa apenas a versão mais recente dos arquivos, sem histórico.  
-- [ ] (D) está impedido de criar ramificações independentes.  
-- [ ] (E) compartilha um único diretório de trabalho com os demais integrantes.
+(A) depende de conexão permanente com o servidor central para registrar alterações.  
+(B) possui cópia local completa do repositório, incluindo todo o histórico de versões.  
+(C) acessa apenas a versão mais recente dos arquivos, sem histórico.  
+(D) está impedido de criar ramificações independentes.  
+(E) compartilha um único diretório de trabalho com os demais integrantes.
 
 ---
 
@@ -54,11 +54,11 @@ Um desenvolvedor criou uma linha independente de desenvolvimento para implementa
 
 As operações de criar essa linha e de incorporá-la são denominadas, respectivamente,
 
-- [ ] (A) _commit_ e _push_.  
-- [ ] (B) _clone_ e _pull_.  
-- [ ] (C) _checkout_ e _revert_.  
-- [x] (D) _branch_ e _merge_.  
-- [ ] (E) _fetch_ e _stash_.
+(A) _commit_ e _push_.  
+(B) _clone_ e _pull_.  
+(C) _checkout_ e _revert_.  
+(D) _branch_ e _merge_.  
+(E) _fetch_ e _stash_.
 
 ---
 
@@ -68,11 +68,11 @@ Uma organização mantém três ambientes distintos para seus sistemas. Em um de
 
 Esse ambiente é denominado ambiente de
 
-- [x] (A) homologação.  
-- [ ] (B) desenvolvimento.  
-- [ ] (C) produção.  
-- [ ] (D) contingência.  
-- [ ] (E) recuperação de desastres.
+(A) homologação.  
+(B) desenvolvimento.  
+(C) produção.  
+(D) contingência.  
+(E) recuperação de desastres.
 
 ---
 
@@ -82,11 +82,11 @@ Um projeto Java utiliza uma ferramenta que automatiza a compilação, a execuç�
 
 Essa ferramenta é classificada como ferramenta de
 
-- [ ] (A) controle de versão.  
-- [ ] (B) depuração.  
-- [x] (C) automação de build e gerenciamento de dependências.  
-- [ ] (D) monitoramento de infraestrutura.  
-- [ ] (E) modelagem de dados.
+(A) controle de versão.  
+(B) depuração.  
+(C) automação de build e gerenciamento de dependências.  
+(D) monitoramento de infraestrutura.  
+(E) modelagem de dados.
 
 ---
 
@@ -96,11 +96,11 @@ A separação entre os ambientes de desenvolvimento, homologação e produção 
 
 **NÃO** constitui finalidade dessa separação a
 
-- [ ] (A) redução do risco de que alterações não testadas afetem os usuários.  
-- [ ] (B) possibilidade de validar funcionalidades antes da liberação definitiva.  
-- [ ] (C) isolamento dos dados reais de produção em relação aos testes.  
-- [ ] (D) controle sobre o processo de promoção de versões entre ambientes.  
-- [x] (E) dispensa da execução de testes antes da implantação em produção.
+(A) redução do risco de que alterações não testadas afetem os usuários.  
+(B) possibilidade de validar funcionalidades antes da liberação definitiva.  
+(C) isolamento dos dados reais de produção em relação aos testes.  
+(D) controle sobre o processo de promoção de versões entre ambientes.  
+(E) dispensa da execução de testes antes da implantação em produção.
 
 ---
 
@@ -110,8 +110,8 @@ Um analista relacionou recursos oferecidos pelos sistemas de controle de versão
 
 **NÃO** constitui recurso desses sistemas a
 
-- [ ] (A) registro do histórico de alterações com autoria e data.  
-- [x] (B) compilação automática do código em linguagem de máquina.  
-- [ ] (C) comparação entre versões distintas de um mesmo arquivo.  
-- [ ] (D) recuperação de versões anteriores do código.  
-- [ ] (E) suporte ao trabalho paralelo por meio de ramificações.
+(A) registro do histórico de alterações com autoria e data.  
+(B) compilação automática do código em linguagem de máquina.  
+(C) comparação entre versões distintas de um mesmo arquivo.  
+(D) recuperação de versões anteriores do código.  
+(E) suporte ao trabalho paralelo por meio de ramificações.
