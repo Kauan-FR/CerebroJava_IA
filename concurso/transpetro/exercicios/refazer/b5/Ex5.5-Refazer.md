@@ -57,7 +57,7 @@ As operações de criar essa linha e de incorporá-la são denominadas, respecti
 - [ ] (A) _commit_ e _push_.  
 - [ ] (B) _clone_ e _pull_.  
 - [ ] (C) _checkout_ e _revert_.  
-- [ ] (D) _branch_ e _merge_.  
+- [x] (D) _branch_ e _merge_.  
 - [ ] (E) _fetch_ e _stash_.
 
 ---
@@ -68,11 +68,11 @@ Uma organização mantém três ambientes distintos para seus sistemas. Em um de
 
 Esse ambiente é denominado ambiente de
 
-(A) homologação.  
-(B) desenvolvimento.  
-(C) produção.  
-(D) contingência.  
-(E) recuperação de desastres.
+- [x] (A) homologação.  
+- [ ] (B) desenvolvimento.  
+- [ ] (C) produção.  
+- [ ] (D) contingência.  
+- [ ] (E) recuperação de desastres.
 
 ---
 
@@ -82,11 +82,11 @@ Um projeto Java utiliza uma ferramenta que automatiza a compilação, a execuç�
 
 Essa ferramenta é classificada como ferramenta de
 
-(A) controle de versão.  
-(B) depuração.  
-(C) automação de build e gerenciamento de dependências.  
-(D) monitoramento de infraestrutura.  
-(E) modelagem de dados.
+- [ ] (A) controle de versão.  
+- [ ] (B) depuração.  
+- [x] (C) automação de build e gerenciamento de dependências.  
+- [ ] (D) monitoramento de infraestrutura.  
+- [ ] (E) modelagem de dados.
 
 ---
 
@@ -96,11 +96,11 @@ A separação entre os ambientes de desenvolvimento, homologação e produção 
 
 **NÃO** constitui finalidade dessa separação a
 
-(A) redução do risco de que alterações não testadas afetem os usuários.  
-(B) possibilidade de validar funcionalidades antes da liberação definitiva.  
-(C) isolamento dos dados reais de produção em relação aos testes.  
-(D) controle sobre o processo de promoção de versões entre ambientes.  
-(E) dispensa da execução de testes antes da implantação em produção.
+- [ ] (A) redução do risco de que alterações não testadas afetem os usuários.  
+- [ ] (B) possibilidade de validar funcionalidades antes da liberação definitiva.  
+- [ ] (C) isolamento dos dados reais de produção em relação aos testes.  
+- [ ] (D) controle sobre o processo de promoção de versões entre ambientes.  
+- [x] (E) dispensa da execução de testes antes da implantação em produção.
 
 ---
 
@@ -110,8 +110,8 @@ Um analista relacionou recursos oferecidos pelos sistemas de controle de versão
 
 **NÃO** constitui recurso desses sistemas a
 
-(A) registro do histórico de alterações com autoria e data.  
-(B) compilação automática do código em linguagem de máquina.  
-(C) comparação entre versões distintas de um mesmo arquivo.  
-(D) recuperação de versões anteriores do código.  
-(E) suporte ao trabalho paralelo por meio de ramificações.
+- [ ] (A) registro do histórico de alterações com autoria e data.  
+- [x] (B) compilação automática do código em linguagem de máquina.  
+- [ ] (C) comparação entre versões distintas de um mesmo arquivo.  
+- [ ] (D) recuperação de versões anteriores do código.  
+- [ ] (E) suporte ao trabalho paralelo por meio de ramificações.
