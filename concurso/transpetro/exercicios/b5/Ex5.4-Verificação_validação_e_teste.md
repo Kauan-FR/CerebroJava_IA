@@ -124,10 +124,10 @@ Uma equipe elaborou casos de teste utilizando as técnicas de particionamento em
 
 Essas técnicas pertencem ao teste de
 
-- [ ] (A) caixa preta.  
+- [x] (A) caixa preta.  
 - [ ] (B) caixa branca.  
 - [ ] (C) mutação.  
-- [x] (D) desempenho.  
+- [ ] (D) desempenho.  
 - [ ] (E) segurança.
 
 ---
@@ -179,8 +179,8 @@ Em engenharia de software, estabelece-se distinção entre os conceitos de defei
 A manifestação externa percebida pelo usuário, quando o software se comporta de modo diverso do esperado, é denominada
 
 - [ ] (A) defeito.  
-- [ ] (B) falha.  
-- [x] (C) engano humano.  
+- [x] (B) falha.  
+- [ ] (C) engano humano.  
 - [ ] (D) risco residual.  
 - [ ] (E) exceção compilada.
 
