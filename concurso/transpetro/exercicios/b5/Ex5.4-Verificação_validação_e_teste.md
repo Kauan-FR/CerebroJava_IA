@@ -179,8 +179,8 @@ Em engenharia de software, estabelece-se distinção entre os conceitos de defei
 A manifestação externa percebida pelo usuário, quando o software se comporta de modo diverso do esperado, é denominada
 
 - [ ] (A) defeito.  
-- [x] (B) falha.  
-- [ ] (C) engano humano.  
+- [ ] (B) falha.  
+- [x] (C) engano humano.  
 - [ ] (D) risco residual.  
 - [ ] (E) exceção compilada.
 
