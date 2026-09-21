@@ -180,7 +180,7 @@ A manifestação externa percebida pelo usuário, quando o software se comporta 
 
 - [ ] (A) defeito.  
 - [ ] (B) falha.  
-- [ ] (C) engano humano.  
+- [x] (C) engano humano.  
 - [ ] (D) risco residual.  
 - [ ] (E) exceção compilada.
 
@@ -192,11 +192,11 @@ Uma equipe executou um conjunto reduzido de testes, imediatamente após a implan
 
 Esse teste é denominado teste de
 
-(A) fumaça (_smoke test_).  
-(B) estresse.  
-(C) mutação.  
-(D) carga prolongada.  
-(E) penetração.
+- [x] (A) fumaça (_smoke test_).  
+- [ ] (B) estresse.  
+- [ ] (C) mutação.  
+- [ ] (D) carga prolongada.  
+- [ ] (E) penetração.
 
 ---
 
@@ -204,11 +204,11 @@ Esse teste é denominado teste de
 
 Segundo os princípios de teste de software, é correto afirmar que o teste
 
-(A) demonstra a presença de defeitos, mas não é capaz de provar sua ausência.  
-(B) comprova definitivamente a inexistência de defeitos no software.  
-(C) deve ser iniciado apenas após a conclusão integral do desenvolvimento.  
-(D) dispensa planejamento prévio quando executado de forma automatizada.  
-(E) apresenta custo de correção constante ao longo de todo o ciclo de vida.
+- [x] (A) demonstra a presença de defeitos, mas não é capaz de provar sua ausência.  
+- [ ] (B) comprova definitivamente a inexistência de defeitos no software.  
+- [ ] (C) deve ser iniciado apenas após a conclusão integral do desenvolvimento.  
+- [ ] (D) dispensa planejamento prévio quando executado de forma automatizada.  
+- [ ] (E) apresenta custo de correção constante ao longo de todo o ciclo de vida.
 
 ---
 
@@ -218,11 +218,11 @@ As atividades de verificação e validação apresentam finalidades distintas.
 
 **NÃO** constitui atividade de verificação a
 
-(A) inspeção do documento de especificação de requisitos.  
-(B) revisão por pares do código-fonte produzido.  
-(C) análise estática automatizada em busca de violações de padrão.  
-(D) homologação do sistema pelos usuários finais do negócio.  
-(E) conferência da conformidade do projeto em relação aos requisitos documentados.
+- [ ] (A) inspeção do documento de especificação de requisitos.  
+- [ ] (B) revisão por pares do código-fonte produzido.  
+- [ ] (C) análise estática automatizada em busca de violações de padrão.  
+- [x] (D) homologação do sistema pelos usuários finais do negócio.  
+- [ ] (E) conferência da conformidade do projeto em relação aos requisitos documentados.
 
 ---
 
@@ -232,8 +232,8 @@ Um analista relacionou características atribuídas ao teste de caixa branca.
 
 **NÃO** constitui característica dessa técnica a
 
-(A) utilização do conhecimento da estrutura interna do código.  
-(B) preocupação com a cobertura de caminhos e de condições.  
-(C) elaboração dos casos de teste sem qualquer conhecimento da implementação.  
-(D) possibilidade de identificar trechos de código não executados.  
-(E) exigência de conhecimento técnico de programação por parte do testador.
+- [ ] (A) utilização do conhecimento da estrutura interna do código.  
+- [ ] (B) preocupação com a cobertura de caminhos e de condições.  
+- [ ] (C) elaboração dos casos de teste sem qualquer conhecimento da implementação.  
+- [ ] (D) possibilidade de identificar trechos de código não executados.  
+- [ ] (E) exigência de conhecimento técnico de programação por parte do testador.
