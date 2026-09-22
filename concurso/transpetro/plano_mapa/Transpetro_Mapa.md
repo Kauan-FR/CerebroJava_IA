@@ -174,13 +174,13 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 ### Bloco 6 — divisão em ciclos
 
-|Ciclo|Subtópicos|Por quê|
-|---|---|---|
-|**1**|**6.1** Acessibilidade e usabilidade|Sozinho. É o mais cobrado (heurísticas de Nielsen, WCAG, eMAG)|
-|**2**|**6.2 + 6.8 + 6.9** Histórias de usuário, MVP, prototipação|Juntos. Você já domina parte pelo Scrum|
-|**3**|**6.4 + 6.10 + 6.11** Projeto centrado no usuário, design thinking, personas|Juntos. Os três são "entender o usuário antes de construir"|
-|**4**|**6.3 + 6.7** Interação web, interoperabilidade entre navegadores|Juntos. Os dois são web|
-|**5**|**6.5 + 6.6** Storytelling com dados, relatórios e dashboards|Juntos. E já adianta os itens 7.8 e 7.10 do Bloco 7
+| Ciclo | Subtópicos                                                                   | Por quê                                                        |
+| ----- | ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **1** | **6.1** Acessibilidade e usabilidade                                         | Sozinho. É o mais cobrado (heurísticas de Nielsen, WCAG, eMAG) |
+| **2** | **6.2 + 6.8 + 6.9** Histórias de usuário, MVP, prototipação                  | Juntos. Você já domina parte pelo Scrum                        |
+| **3** | **6.4 + 6.10 + 6.11** Projeto centrado no usuário, design thinking, personas | Juntos. Os três são "entender o usuário antes de construir"    |
+| **4** | **6.3 + 6.7** Interação web, interoperabilidade entre navegadores            | Juntos. Os dois são web                                        |
+| **5** | **6.5 + 6.6** Storytelling com dados, relatórios e dashboards                | Juntos. E já adianta os itens 7.8 e 7.10 do Bloco 7            |
 
 
 ### Roteiro até os simulados
