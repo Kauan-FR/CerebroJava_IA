@@ -125,7 +125,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 ## Bloco 6 — UX (S10) · ~4 questões
 
-- [ ] 6.1 Acessibilidade e usabilidade
+- [x] 6.1 Acessibilidade e usabilidade
 - [ ] 6.2 Histórias do usuário
 - [ ] 6.3 Planejamento de interação web
 - [ ] 6.4 Projeto centrado no usuário
