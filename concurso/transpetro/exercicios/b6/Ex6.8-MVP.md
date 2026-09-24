@@ -118,7 +118,7 @@ O conceito de MVP apresenta características bem delimitadas.
 
 - [ ] (A) entrega de valor real, ainda que mínimo, ao usuário.  
 - [ ] (B) utilização para validar hipóteses sobre o produto ou o negócio.  
-- [ ] (C) incorporação de todas as funcionalidades previstas para o produto final.  
+- [x] (C) incorporação de todas as funcionalidades previstas para o produto final.  
 - [ ] (D) construção com o menor esforço necessário para gerar aprendizado.  
 - [ ] (E) associação a métricas que orientem as decisões seguintes.
 
@@ -130,8 +130,8 @@ Um analista relacionou consequências esperadas da adoção de MVPs no desenvolv
 
 **NÃO** constitui consequência esperada dessa adoção a
 
-(A) redução do risco de construir um produto que o mercado não deseja.  
-(B) antecipação do retorno dos usuários sobre a solução proposta.  
-(C) diminuição do desperdício de esforço em funcionalidades não validadas.  
-(D) garantia de que o produto final não sofrerá alterações posteriores.  
-(E) apoio à tomada de decisão com base em dados de uso reais.
+- [ ] (A) redução do risco de construir um produto que o mercado não deseja.  
+- [ ] (B) antecipação do retorno dos usuários sobre a solução proposta.  
+- [ ] (C) diminuição do desperdício de esforço em funcionalidades não validadas.  
+- [x] (D) garantia de que o produto final não sofrerá alterações posteriores.  
+- [ ] (E) apoio à tomada de decisão com base em dados de uso reais.
