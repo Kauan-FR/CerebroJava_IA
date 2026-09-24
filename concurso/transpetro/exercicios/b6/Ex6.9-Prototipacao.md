@@ -88,7 +88,7 @@ Um protótipo que apresenta muitas funcionalidades do sistema em nível superfic
 
 - [ ] (A) horizontal.  
 - [ ] (B) vertical.  
-- [ ] (C) evolutivo.  
+- [x] (C) evolutivo.  
 - [ ] (D) de produção.  
 - [ ] (E) descartável de código.
 
@@ -98,11 +98,11 @@ Um protótipo que apresenta muitas funcionalidades do sistema em nível superfic
 
 Um protótipo que implementa integralmente um número reduzido de funcionalidades, permitindo avaliar seu comportamento completo, é classificado como protótipo
 
-(A) horizontal.  
-(B) vertical.  
-(C) de baixa fidelidade.  
-(D) conceitual.  
-(E) estrutural.
+- [ ] (A) horizontal.  
+- [ ] (B) vertical.  
+- [x] (C) de baixa fidelidade.  
+- [ ] (D) conceitual.  
+- [ ] (E) estrutural.
 
 ---
 
