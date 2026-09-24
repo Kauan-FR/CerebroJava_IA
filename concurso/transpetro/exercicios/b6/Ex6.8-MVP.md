@@ -103,7 +103,7 @@ Uma equipe definiu previamente quais indicadores seriam acompanhados após a lib
 Essa prática é considerada
 
 - [ ] (A) dispensável, uma vez que o MVP não produz dados relevantes.  
-- [ ] (B) essencial, pois sem métricas não há como obter o aprendizado que justifica o MVP.  
+- [x] (B) essencial, pois sem métricas não há como obter o aprendizado que justifica o MVP.  
 - [ ] (C) inadequada, por antecipar decisões que cabem ao patrocinador.  
 - [ ] (D) aplicável somente após o lançamento da versão definitiva.  
 - [ ] (E) substitutiva da realização de testes de usabilidade.
@@ -116,11 +116,11 @@ O conceito de MVP apresenta características bem delimitadas.
 
 **NÃO** constitui característica de um MVP a
 
-(A) entrega de valor real, ainda que mínimo, ao usuário.  
-(B) utilização para validar hipóteses sobre o produto ou o negócio.  
-(C) incorporação de todas as funcionalidades previstas para o produto final.  
-(D) construção com o menor esforço necessário para gerar aprendizado.  
-(E) associação a métricas que orientem as decisões seguintes.
+- [ ] (A) entrega de valor real, ainda que mínimo, ao usuário.  
+- [ ] (B) utilização para validar hipóteses sobre o produto ou o negócio.  
+- [ ] (C) incorporação de todas as funcionalidades previstas para o produto final.  
+- [ ] (D) construção com o menor esforço necessário para gerar aprendizado.  
+- [ ] (E) associação a métricas que orientem as decisões seguintes.
 
 ---
 
