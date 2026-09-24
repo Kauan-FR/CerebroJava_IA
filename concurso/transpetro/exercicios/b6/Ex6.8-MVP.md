@@ -62,7 +62,7 @@ Essa abordagem caracteriza
 
 O ciclo associado à construção de MVPs, proposto pela abordagem _Lean Startup_, estrutura-se nas etapas de
 
-- [ ] (A) construir, medir e aprender.  
+- [x] (A) construir, medir e aprender.  
 - [ ] (B) planejar, executar e encerrar.  
 - [ ] (C) analisar, projetar e implantar.  
 - [ ] (D) elicitar, especificar e validar.  
@@ -76,11 +76,11 @@ Uma organização desenvolveu um experimento técnico restrito, com a finalidade
 
 Esse experimento é denominado
 
-(A) prova de conceito (_proof of concept_).  
-(B) mínimo produto viável.  
-(C) teste de aceitação.  
-(D) protótipo evolutivo de produção.  
-(E) piloto operacional.
+- [ ] (A) prova de conceito (_proof of concept_).  
+- [ ] (B) mínimo produto viável.  
+- [ ] (C) teste de aceitação.  
+- [ ] (D) protótipo evolutivo de produção.  
+- [ ] (E) piloto operacional.
 
 ---
 
