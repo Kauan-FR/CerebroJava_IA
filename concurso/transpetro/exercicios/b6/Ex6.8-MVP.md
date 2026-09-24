@@ -50,11 +50,11 @@ Uma equipe construiu uma versão de um aplicativo de entregas contendo apenas o 
 
 Essa abordagem caracteriza
 
-(A) um MVP.  
-(B) um protótipo descartável.  
-(C) uma prova de conceito técnica.  
-(D) um teste de estresse.  
-(E) uma linha de base do escopo.
+- [x] (A) um MVP.  
+- [ ] (B) um protótipo descartável.  
+- [ ] (C) uma prova de conceito técnica.  
+- [ ] (D) um teste de estresse.  
+- [ ] (E) uma linha de base do escopo.
 
 ---
 
@@ -62,11 +62,11 @@ Essa abordagem caracteriza
 
 O ciclo associado à construção de MVPs, proposto pela abordagem _Lean Startup_, estrutura-se nas etapas de
 
-(A) construir, medir e aprender.  
-(B) planejar, executar e encerrar.  
-(C) analisar, projetar e implantar.  
-(D) elicitar, especificar e validar.  
-(E) prever, controlar e corrigir.
+- [ ] (A) construir, medir e aprender.  
+- [ ] (B) planejar, executar e encerrar.  
+- [ ] (C) analisar, projetar e implantar.  
+- [ ] (D) elicitar, especificar e validar.  
+- [ ] (E) prever, controlar e corrigir.
 
 ---
 
