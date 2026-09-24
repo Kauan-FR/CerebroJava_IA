@@ -25,7 +25,7 @@ No desenvolvimento de produtos digitais, o Mínimo Produto Viável (MVP) é defi
 O objetivo central da construção de um MVP é
 
 - [ ] (A) reduzir o custo total de desenvolvimento do produto final.  
-- [ ] (B) maximizar o aprendizado validado sobre o usuário e o negócio com o menor esforço possível.  
+- [x] (B) maximizar o aprendizado validado sobre o usuário e o negócio com o menor esforço possível.  
 - [ ] (C) antecipar a entrega do escopo integral previsto no contrato.  
 - [ ] (D) substituir a etapa de levantamento de requisitos do projeto.  
 - [ ] (E) eliminar a necessidade de testes com usuários reais.
@@ -36,11 +36,11 @@ O objetivo central da construção de um MVP é
 
 Uma característica essencial do MVP, que o distingue de um protótipo, é que o MVP
 
-(A) é entregue a usuários reais e permite a realização efetiva da tarefa proposta.  
-(B) não possui qualquer funcionalidade operante.  
-(C) é construído exclusivamente com ferramentas de design gráfico.  
-(D) destina-se apenas à apresentação interna à equipe de desenvolvimento.  
-(E) dispensa a definição de métricas de acompanhamento.
+- [x] (A) é entregue a usuários reais e permite a realização efetiva da tarefa proposta.  
+- [ ] (B) não possui qualquer funcionalidade operante.  
+- [ ] (C) é construído exclusivamente com ferramentas de design gráfico.  
+- [ ] (D) destina-se apenas à apresentação interna à equipe de desenvolvimento.  
+- [ ] (E) dispensa a definição de métricas de acompanhamento.
 
 ---
 
