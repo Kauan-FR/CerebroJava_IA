@@ -74,7 +74,7 @@ Essa técnica é classificada como prototipação
 
 Um protótipo que representa, de forma esquemática, a estrutura e a hierarquia dos elementos de uma tela, sem detalhamento visual, é denominado
 
-- [ ] (A) _wireframe_.  
+- [x] (A) _wireframe_.  
 - [ ] (B) _mockup_ de alta fidelidade.  
 - [ ] (C) protótipo funcional de produção.  
 - [ ] (D) diagrama de sequência.  
@@ -86,11 +86,11 @@ Um protótipo que representa, de forma esquemática, a estrutura e a hierarquia 
 
 Um protótipo que apresenta muitas funcionalidades do sistema em nível superficial, permitindo avaliar a navegação geral sem que as funções estejam efetivamente implementadas, é classificado como protótipo
 
-(A) horizontal.  
-(B) vertical.  
-(C) evolutivo.  
-(D) de produção.  
-(E) descartável de código.
+- [ ] (A) horizontal.  
+- [ ] (B) vertical.  
+- [ ] (C) evolutivo.  
+- [ ] (D) de produção.  
+- [ ] (E) descartável de código.
 
 ---
 
