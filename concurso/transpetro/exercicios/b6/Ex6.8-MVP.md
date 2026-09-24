@@ -76,7 +76,7 @@ Uma organização desenvolveu um experimento técnico restrito, com a finalidade
 
 Esse experimento é denominado
 
-- [ ] (A) prova de conceito (_proof of concept_).  
+- [x] (A) prova de conceito (_proof of concept_).  
 - [ ] (B) mínimo produto viável.  
 - [ ] (C) teste de aceitação.  
 - [ ] (D) protótipo evolutivo de produção.  
@@ -88,11 +88,11 @@ Esse experimento é denominado
 
 Em relação à aplicabilidade do MVP, é correto afirmar que essa abordagem
 
-(A) aplica-se exclusivamente a startups em estágio inicial.  
-(B) pode ser adotada tanto por startups quanto por empresas já estabelecidas que desejem testar novas ideias.  
-(C) é incompatível com organizações que adotam métodos ágeis.  
-(D) destina-se apenas a produtos físicos, não se aplicando a software.  
-(E) exige aprovação prévia de órgão regulador competente.
+- [ ] (A) aplica-se exclusivamente a startups em estágio inicial.  
+- [x] (B) pode ser adotada tanto por startups quanto por empresas já estabelecidas que desejem testar novas ideias.  
+- [ ] (C) é incompatível com organizações que adotam métodos ágeis.  
+- [ ] (D) destina-se apenas a produtos físicos, não se aplicando a software.  
+- [ ] (E) exige aprovação prévia de órgão regulador competente.
 
 ---
 
@@ -102,11 +102,11 @@ Uma equipe definiu previamente quais indicadores seriam acompanhados após a lib
 
 Essa prática é considerada
 
-(A) dispensável, uma vez que o MVP não produz dados relevantes.  
-(B) essencial, pois sem métricas não há como obter o aprendizado que justifica o MVP.  
-(C) inadequada, por antecipar decisões que cabem ao patrocinador.  
-(D) aplicável somente após o lançamento da versão definitiva.  
-(E) substitutiva da realização de testes de usabilidade.
+- [ ] (A) dispensável, uma vez que o MVP não produz dados relevantes.  
+- [ ] (B) essencial, pois sem métricas não há como obter o aprendizado que justifica o MVP.  
+- [ ] (C) inadequada, por antecipar decisões que cabem ao patrocinador.  
+- [ ] (D) aplicável somente após o lançamento da versão definitiva.  
+- [ ] (E) substitutiva da realização de testes de usabilidade.
 
 ---
 
