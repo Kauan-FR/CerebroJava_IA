@@ -86,9 +86,9 @@ Um protótipo que representa, de forma esquemática, a estrutura e a hierarquia 
 
 Um protótipo que apresenta muitas funcionalidades do sistema em nível superficial, permitindo avaliar a navegação geral sem que as funções estejam efetivamente implementadas, é classificado como protótipo
 
-- [ ] (A) horizontal.  
+- [x] (A) horizontal.  
 - [ ] (B) vertical.  
-- [x] (C) evolutivo.  
+- [ ] (C) evolutivo.  
 - [ ] (D) de produção.  
 - [ ] (E) descartável de código.
 
@@ -99,8 +99,8 @@ Um protótipo que apresenta muitas funcionalidades do sistema em nível superfic
 Um protótipo que implementa integralmente um número reduzido de funcionalidades, permitindo avaliar seu comportamento completo, é classificado como protótipo
 
 - [ ] (A) horizontal.  
-- [ ] (B) vertical.  
-- [x] (C) de baixa fidelidade.  
+- [x] (B) vertical.  
+- [ ] (C) de baixa fidelidade.  
 - [ ] (D) conceitual.  
 - [ ] (E) estrutural.
 
