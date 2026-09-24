@@ -132,7 +132,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] 6.5 Storytelling com dados
 - [ ] 6.6 Relatórios e dashboards
 - [ ] 6.7 Interoperabilidade entre navegadores
-- [ ] 6.8 MVP
+- [x] 6.8 MVP
 - [ ] 6.9 Prototipação
 - [ ] 6.10 Design thinking
 - [ ] 6.11 Personas
