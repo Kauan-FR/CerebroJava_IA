@@ -2,24 +2,6 @@
 Tipo:
   - resumo
 ---
----
-
-
-┌─────────────────────────────────────────────────┐
-│ CARTÃO 13 — HISTÓRIAS DO USUÁRIO       [T-6.2]  │
-├─────────────────────────────────────────────────┤
-│ "Como [quem], quero [o quê], para que [porquê]" │
-│   → o "para quê" é o VALOR, não pode faltar     │
-│                                                 │
-│ 3 Cs: Cartão · Conversa · Confirmação           │
-│                                                 │
-│ INVEST: Independente · Negociável · Valiosa ·   │
-│   Estimável · Small (pequena) · Testável        │
-│                                                 │
-│ critério de aceitação = de UMA história         │
-│ definição de pronto   = de TODAS                │
-│ épico = grande demais, quebra em histórias      │
-└─────────────────────────────────────────────────┘
 
 
 ---
