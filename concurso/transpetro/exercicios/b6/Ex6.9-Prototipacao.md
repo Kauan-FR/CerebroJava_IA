@@ -126,11 +126,11 @@ A prototipação apresenta benefícios reconhecidos no processo de desenvolvimen
 
 Um desses benefícios é
 
-(A) a identificação antecipada de problemas de usabilidade e de entendimento de requisitos, quando o custo de correção ainda é baixo.  
-(B) a eliminação da necessidade de documentar os requisitos do sistema.  
-(C) a dispensa das atividades de teste durante o desenvolvimento.  
-(D) a garantia de cumprimento do prazo estabelecido no cronograma.  
-(E) a substituição integral da etapa de projeto arquitetural.
+- [ ] (A) a identificação antecipada de problemas de usabilidade e de entendimento de requisitos, quando o custo de correção ainda é baixo.  
+- [ ] (B) a eliminação da necessidade de documentar os requisitos do sistema.  
+- [ ] (C) a dispensa das atividades de teste durante o desenvolvimento.  
+- [ ] (D) a garantia de cumprimento do prazo estabelecido no cronograma.  
+- [ ] (E) a substituição integral da etapa de projeto arquitetural.
 
 ---
 
