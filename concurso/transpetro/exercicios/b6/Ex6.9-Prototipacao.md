@@ -112,11 +112,11 @@ Uma equipe construiu um protótipo com a finalidade exclusiva de esclarecer requ
 
 Esse protótipo é classificado como
 
-(A) descartável (_throwaway_).  
-(B) evolutivo.  
-(C) de produção.  
-(D) vertical de alta fidelidade.  
-(E) horizontal permanente.
+- [x] (A) descartável (_throwaway_).  
+- [ ] (B) evolutivo.  
+- [ ] (C) de produção.  
+- [ ] (D) vertical de alta fidelidade.  
+- [ ] (E) horizontal permanente.
 
 ---
 
