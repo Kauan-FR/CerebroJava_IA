@@ -126,7 +126,7 @@ A prototipação apresenta benefícios reconhecidos no processo de desenvolvimen
 
 Um desses benefícios é
 
-- [ ] (A) a identificação antecipada de problemas de usabilidade e de entendimento de requisitos, quando o custo de correção ainda é baixo.  
+- [x] (A) a identificação antecipada de problemas de usabilidade e de entendimento de requisitos, quando o custo de correção ainda é baixo.  
 - [ ] (B) a eliminação da necessidade de documentar os requisitos do sistema.  
 - [ ] (C) a dispensa das atividades de teste durante o desenvolvimento.  
 - [ ] (D) a garantia de cumprimento do prazo estabelecido no cronograma.  
@@ -140,11 +140,11 @@ A prototipação apresenta características próprias no processo de desenvolvim
 
 **NÃO** constitui finalidade da prototipação a
 
-(A) validação de requisitos junto às partes interessadas.  
-(B) exploração de alternativas de solução de interface.  
-(C) entrega definitiva do sistema em ambiente de produção.  
-(D) identificação antecipada de problemas de usabilidade.  
-(E) alinhamento do entendimento entre equipe e usuários.
+- [ ] (A) validação de requisitos junto às partes interessadas.  
+- [ ] (B) exploração de alternativas de solução de interface.  
+- [x] (C) entrega definitiva do sistema em ambiente de produção.  
+- [ ] (D) identificação antecipada de problemas de usabilidade.  
+- [ ] (E) alinhamento do entendimento entre equipe e usuários.
 
 ---
 
@@ -154,8 +154,8 @@ Um analista relacionou características atribuídas aos protótipos de baixa fid
 
 **NÃO** constitui característica desse tipo de protótipo a
 
-(A) rapidez de elaboração e baixo custo.  
-(B) facilidade de descarte e de alteração.  
-(C) foco na estrutura e no fluxo, em detrimento do detalhamento visual.  
-(D) reprodução fiel da tipografia, das cores e das imagens do produto final.  
-(E) estímulo à participação dos usuários na proposição de alterações.
+- [ ] (A) rapidez de elaboração e baixo custo.  
+- [ ] (B) facilidade de descarte e de alteração.  
+- [ ] (C) foco na estrutura e no fluxo, em detrimento do detalhamento visual.  
+- [ ] (D) reprodução fiel da tipografia, das cores e das imagens do produto final.  
+- [ ] (E) estímulo à participação dos usuários na proposição de alterações.
