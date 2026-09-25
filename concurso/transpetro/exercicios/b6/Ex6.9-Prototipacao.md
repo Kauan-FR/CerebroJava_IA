@@ -157,5 +157,5 @@ Um analista relacionou características atribuídas aos protótipos de baixa fid
 - [ ] (A) rapidez de elaboração e baixo custo.  
 - [ ] (B) facilidade de descarte e de alteração.  
 - [ ] (C) foco na estrutura e no fluxo, em detrimento do detalhamento visual.  
-- [ ] (D) reprodução fiel da tipografia, das cores e das imagens do produto final.  
+- [x] (D) reprodução fiel da tipografia, das cores e das imagens do produto final.  
 - [ ] (E) estímulo à participação dos usuários na proposição de alterações.
