@@ -62,7 +62,7 @@ Uma equipe envolveu os próprios usuários como participantes ativos nas sessõe
 
 Essa abordagem é denominada
 
-- [ ] (A) design participativo.  
+- [x] (A) design participativo.  
 - [ ] (B) avaliação heurística.  
 - [ ] (C) inspeção cognitiva isolada.  
 - [ ] (D) engenharia reversa de interface.  
@@ -76,11 +76,11 @@ Uma equipe mapeou graficamente todas as etapas percorridas por um usuário ao co
 
 Esse artefato é denominado
 
-(A) jornada do usuário.  
-(B) diagrama de classes.  
-(C) matriz de rastreabilidade.  
-(D) estrutura analítica do projeto.  
-(E) mapa de fluxo de dados.
+- [x] (A) jornada do usuário.  
+- [ ] (B) diagrama de classes.  
+- [ ] (C) matriz de rastreabilidade.  
+- [ ] (D) estrutura analítica do projeto.  
+- [ ] (E) mapa de fluxo de dados.
 
 ---
 
@@ -90,11 +90,11 @@ Uma organização desenvolveu um sistema priorizando a facilidade de implementa�
 
 Essa abordagem caracteriza um projeto centrado
 
-(A) no usuário.  
-(B) na tecnologia ou no sistema.  
-(C) na experiência de uso.  
-(D) na jornada do cliente.  
-(E) na acessibilidade digital.
+- [ ] (A) no usuário.  
+- [x] (B) na tecnologia ou no sistema.  
+- [ ] (C) na experiência de uso.  
+- [ ] (D) na jornada do cliente.  
+- [ ] (E) na acessibilidade digital.
 
 ---
 
@@ -102,11 +102,11 @@ Essa abordagem caracteriza um projeto centrado
 
 Um benefício frequentemente associado à adoção do projeto centrado no usuário é
 
-(A) a redução de retrabalho, uma vez que problemas de uso são identificados antes da implementação.  
-(B) a dispensa da elaboração de testes automatizados.  
-(C) a garantia de conclusão do projeto dentro do orçamento aprovado.  
-(D) a eliminação da necessidade de documentar os requisitos levantados.  
-(E) a padronização do código-fonte produzido pela equipe.
+- [x] (A) a redução de retrabalho, uma vez que problemas de uso são identificados antes da implementação.  
+- [ ] (B) a dispensa da elaboração de testes automatizados.  
+- [ ] (C) a garantia de conclusão do projeto dentro do orçamento aprovado.  
+- [ ] (D) a eliminação da necessidade de documentar os requisitos levantados.  
+- [ ] (E) a padronização do código-fonte produzido pela equipe.
 
 ---
 
@@ -116,11 +116,11 @@ O projeto centrado no usuário apresenta princípios bem delimitados.
 
 **NÃO** constitui princípio dessa abordagem a
 
-(A) compreensão explícita dos usuários, das tarefas e do contexto de uso.  
-(B) participação dos usuários ao longo do projeto e do desenvolvimento.  
-(C) refinamento da solução orientado por avaliação centrada no usuário.  
-(D) definição da interface a partir exclusivamente das preferências estéticas da equipe de projeto.  
-(E) adoção de processo iterativo ao longo do desenvolvimento.
+- [ ] (A) compreensão explícita dos usuários, das tarefas e do contexto de uso.  
+- [ ] (B) participação dos usuários ao longo do projeto e do desenvolvimento.  
+- [ ] (C) refinamento da solução orientado por avaliação centrada no usuário.  
+- [x] (D) definição da interface a partir exclusivamente das preferências estéticas da equipe de projeto.  
+- [ ] (E) adoção de processo iterativo ao longo do desenvolvimento.
 
 ---
 
@@ -130,8 +130,8 @@ Um analista relacionou práticas associadas ao projeto centrado no usuário.
 
 **NÃO** constitui prática dessa natureza a
 
-(A) realização de entrevistas e observação dos usuários em seu ambiente real.  
-(B) construção de personas a partir de dados de pesquisa.  
-(C) realização de testes de usabilidade com usuários representativos.  
-(D) definição dos requisitos exclusivamente a partir da visão da equipe técnica.  
-(E) elaboração de protótipos submetidos à avaliação dos usuários.
+- [ ] (A) realização de entrevistas e observação dos usuários em seu ambiente real.  
+- [ ] (B) construção de personas a partir de dados de pesquisa.  
+- [ ] (C) realização de testes de usabilidade com usuários representativos.  
+- [x] (D) definição dos requisitos exclusivamente a partir da visão da equipe técnica.  
+- [ ] (E) elaboração de protótipos submetidos à avaliação dos usuários.
