@@ -138,7 +138,7 @@ O uso de personas em projetos de software apresenta finalidades bem delimitadas.
 
 - [ ] (A) construção de entendimento compartilhado sobre o usuário entre os integrantes da equipe.  
 - [ ] (B) orientação das decisões de priorização de funcionalidades.  
-- [ ] (C) substituição da realização de testes de usabilidade com usuários reais.  
+- [x] (C) substituição da realização de testes de usabilidade com usuários reais.  
 - [ ] (D) apoio à redação de histórias de usuário sob a perspectiva de quem se beneficia.  
 - [ ] (E) redução de decisões de projeto baseadas em preferências pessoais da equipe.
 
@@ -150,8 +150,8 @@ Um analista relacionou elementos usualmente presentes em uma persona bem elabora
 
 **NÃO** constitui elemento dessa natureza
 
-(A) o conjunto de objetivos que o usuário pretende alcançar.  
-(B) as frustrações e dificuldades enfrentadas em seu contexto.  
-(C) o comportamento do usuário em relação à tecnologia.  
-(D) o código-fonte dos módulos que o usuário acessará no sistema.  
-(E) o contexto de uso em que o usuário interage com o produto.
+- [ ] (A) o conjunto de objetivos que o usuário pretende alcançar.  
+- [ ] (B) as frustrações e dificuldades enfrentadas em seu contexto.  
+- [ ] (C) o comportamento do usuário em relação à tecnologia.  
+- [x] (D) o código-fonte dos módulos que o usuário acessará no sistema.  
+- [ ] (E) o contexto de uso em que o usuário interage com o produto.
