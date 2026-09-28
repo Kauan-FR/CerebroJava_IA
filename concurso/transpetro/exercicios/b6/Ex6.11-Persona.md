@@ -84,7 +84,7 @@ O perfil construído para representar explicitamente o público que **não** se 
 
 O mapa de empatia é uma ferramenta utilizada para
 
-- [ ] (A) organizar visualmente o que o usuário pensa, sente, vê, ouve, fala e faz, além de suas dores e ganhos.  
+- [x] (A) organizar visualmente o que o usuário pensa, sente, vê, ouve, fala e faz, além de suas dores e ganhos.  
 - [ ] (B) representar a sequência de mensagens trocadas entre objetos do sistema.  
 - [ ] (C) decompor as entregas do projeto em componentes hierárquicos menores.  
 - [ ] (D) registrar o histórico de alterações realizadas no código-fonte.  
@@ -96,11 +96,11 @@ O mapa de empatia é uma ferramenta utilizada para
 
 No mapa de empatia, os quadrantes destinados a registrar os obstáculos, medos e dificuldades enfrentados pelo usuário e, por outro lado, seus desejos e critérios de sucesso, são denominados, respectivamente,
 
-(A) dores e ganhos.  
-(B) ver e ouvir.  
-(C) pensar e sentir.  
-(D) falar e fazer.  
-(E) contexto e resultado.
+- [ ] (A) dores e ganhos.  
+- [ ] (B) ver e ouvir.  
+- [ ] (C) pensar e sentir.  
+- [ ] (D) falar e fazer.  
+- [ ] (E) contexto e resultado.
 
 ---
 
