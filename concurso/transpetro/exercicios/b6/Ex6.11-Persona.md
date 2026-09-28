@@ -36,11 +36,11 @@ A principal finalidade da construção de personas em um projeto é
 
 Uma persona bem construída deve ser elaborada
 
-(A) a partir de dados obtidos em pesquisa com usuários reais, por meio de entrevistas, observação e análise de dados de uso.  
-(B) a partir das suposições da equipe de desenvolvimento sobre o perfil esperado.  
-(C) exclusivamente com base em dados demográficos censitários da região.  
-(D) após o encerramento do desenvolvimento, para fins de documentação.  
-(E) somente por profissionais certificados em experiência do usuário.
+- [x] (A) a partir de dados obtidos em pesquisa com usuários reais, por meio de entrevistas, observação e análise de dados de uso.  
+- [ ] (B) a partir das suposições da equipe de desenvolvimento sobre o perfil esperado.  
+- [ ] (C) exclusivamente com base em dados demográficos censitários da região.  
+- [ ] (D) após o encerramento do desenvolvimento, para fins de documentação.  
+- [ ] (E) somente por profissionais certificados em experiência do usuário.
 
 ---
 
@@ -48,11 +48,11 @@ Uma persona bem construída deve ser elaborada
 
 Além de nome, foto e dados demográficos, uma persona bem elaborada contempla, principalmente,
 
-(A) o histórico de acessos registrado nos logs do sistema.  
-(B) as credenciais de autenticação atribuídas ao perfil.  
-(C) o organograma da área em que o usuário atua.  
-(D) os objetivos, as motivações, as frustrações e o comportamento do usuário em relação ao produto.  
-(E) as especificações técnicas do dispositivo utilizado.
+- [ ] (A) o histórico de acessos registrado nos logs do sistema.  
+- [ ] (B) as credenciais de autenticação atribuídas ao perfil.  
+- [ ] (C) o organograma da área em que o usuário atua.  
+- [x] (D) os objetivos, as motivações, as frustrações e o comportamento do usuário em relação ao produto.  
+- [ ] (E) as especificações técnicas do dispositivo utilizado.
 
 ---
 
@@ -60,11 +60,11 @@ Além de nome, foto e dados demográficos, uma persona bem elaborada contempla, 
 
 Em um projeto com múltiplas personas, aquela cujas necessidades devem ser prioritariamente atendidas pelo projeto da interface é denominada persona
 
-(A) secundária.  
-(B) negativa.  
-(C) primária.  
-(D) suplementar.  
-(E) genérica.
+- [ ] (A) secundária.  
+- [ ] (B) negativa.  
+- [ ] (C) primária.  
+- [ ] (D) suplementar.  
+- [ ] (E) genérica.
 
 ---
 
