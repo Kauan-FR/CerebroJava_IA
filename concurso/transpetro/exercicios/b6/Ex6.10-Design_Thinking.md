@@ -104,7 +104,7 @@ Esses dois movimentos são denominados, respectivamente, pensamento
 
 O design thinking busca soluções situadas na interseção de três dimensões, que correspondem a
 
-- [ ] (A) desejabilidade pelas pessoas, viabilidade de negócio e exequibilidade técnica.  
+- [x] (A) desejabilidade pelas pessoas, viabilidade de negócio e exequibilidade técnica.  
 - [ ] (B) escopo, prazo e custo.  
 - [ ] (C) eficácia, eficiência e efetividade.  
 - [ ] (D) transparência, inspeção e adaptação.  
@@ -118,11 +118,11 @@ Após a definição do problema, uma equipe reformulou-o na forma de uma pergunt
 
 Essa técnica tem por finalidade
 
-(A) converter o problema identificado em um desafio aberto à ideação.  
-(B) registrar formalmente o escopo aprovado pelo patrocinador.  
-(C) estimar o esforço necessário ao desenvolvimento.  
-(D) validar a conformidade da solução com as normas técnicas.  
-(E) encerrar o ciclo de descoberta junto aos usuários.
+- [ ] (A) converter o problema identificado em um desafio aberto à ideação.  
+- [ ] (B) registrar formalmente o escopo aprovado pelo patrocinador.  
+- [ ] (C) estimar o esforço necessário ao desenvolvimento.  
+- [ ] (D) validar a conformidade da solução com as normas técnicas.  
+- [ ] (E) encerrar o ciclo de descoberta junto aos usuários.
 
 ---
 
