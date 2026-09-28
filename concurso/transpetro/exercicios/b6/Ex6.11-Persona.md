@@ -108,7 +108,7 @@ No mapa de empatia, os quadrantes destinados a registrar os obstáculos, medos e
 
 Uma diferença entre persona e papel de usuário é que o papel
 
-- [ ] (A) identifica a função exercida em relação ao sistema, enquanto a persona acrescenta características, objetivos e comportamentos de um perfil representativo.  
+- [x] (A) identifica a função exercida em relação ao sistema, enquanto a persona acrescenta características, objetivos e comportamentos de um perfil representativo.  
 - [ ] (B) descreve motivações e frustrações, enquanto a persona identifica apenas a função exercida.  
 - [ ] (C) é sempre construído a partir de pesquisa, enquanto a persona decorre de suposições.  
 - [ ] (D) aplica-se apenas a sistemas web, enquanto a persona se aplica a sistemas móveis.  
@@ -122,11 +122,11 @@ Uma equipe construiu personas rapidamente, com base no conhecimento prévio dos 
 
 Esse artefato preliminar é denominado
 
-(A) persona validada.  
-(B) proto-persona.  
-(C) antipersona.  
-(D) persona primária consolidada.  
-(E) persona regulatória.
+- [ ] (A) persona validada.  
+- [x] (B) proto-persona.  
+- [ ] (C) antipersona.  
+- [ ] (D) persona primária consolidada.  
+- [ ] (E) persona regulatória.
 
 ---
 
@@ -136,11 +136,11 @@ O uso de personas em projetos de software apresenta finalidades bem delimitadas.
 
 **NÃO** constitui finalidade do uso de personas a
 
-(A) construção de entendimento compartilhado sobre o usuário entre os integrantes da equipe.  
-(B) orientação das decisões de priorização de funcionalidades.  
-(C) substituição da realização de testes de usabilidade com usuários reais.  
-(D) apoio à redação de histórias de usuário sob a perspectiva de quem se beneficia.  
-(E) redução de decisões de projeto baseadas em preferências pessoais da equipe.
+- [ ] (A) construção de entendimento compartilhado sobre o usuário entre os integrantes da equipe.  
+- [ ] (B) orientação das decisões de priorização de funcionalidades.  
+- [ ] (C) substituição da realização de testes de usabilidade com usuários reais.  
+- [ ] (D) apoio à redação de histórias de usuário sob a perspectiva de quem se beneficia.  
+- [ ] (E) redução de decisões de projeto baseadas em preferências pessoais da equipe.
 
 ---
 
