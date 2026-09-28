@@ -62,7 +62,7 @@ Em um projeto com múltiplas personas, aquela cujas necessidades devem ser prior
 
 - [ ] (A) secundária.  
 - [ ] (B) negativa.  
-- [ ] (C) primária.  
+- [x] (C) primária.  
 - [ ] (D) suplementar.  
 - [ ] (E) genérica.
 
@@ -72,11 +72,11 @@ Em um projeto com múltiplas personas, aquela cujas necessidades devem ser prior
 
 O perfil construído para representar explicitamente o público que **não** se pretende atender com o produto é denominado
 
-(A) persona primária.  
-(B) antipersona (persona negativa).  
-(C) persona secundária.  
-(D) proto-persona validada.  
-(E) persona conservadora.
+- [ ] (A) persona primária.  
+- [x] (B) antipersona (persona negativa).  
+- [ ] (C) persona secundária.  
+- [ ] (D) proto-persona validada.  
+- [ ] (E) persona conservadora.
 
 ---
 
@@ -84,11 +84,11 @@ O perfil construído para representar explicitamente o público que **não** se 
 
 O mapa de empatia é uma ferramenta utilizada para
 
-(A) organizar visualmente o que o usuário pensa, sente, vê, ouve, fala e faz, além de suas dores e ganhos.  
-(B) representar a sequência de mensagens trocadas entre objetos do sistema.  
-(C) decompor as entregas do projeto em componentes hierárquicos menores.  
-(D) registrar o histórico de alterações realizadas no código-fonte.  
-(E) medir o tempo de resposta do sistema sob carga elevada.
+- [ ] (A) organizar visualmente o que o usuário pensa, sente, vê, ouve, fala e faz, além de suas dores e ganhos.  
+- [ ] (B) representar a sequência de mensagens trocadas entre objetos do sistema.  
+- [ ] (C) decompor as entregas do projeto em componentes hierárquicos menores.  
+- [ ] (D) registrar o histórico de alterações realizadas no código-fonte.  
+- [ ] (E) medir o tempo de resposta do sistema sob carga elevada.
 
 ---
 
