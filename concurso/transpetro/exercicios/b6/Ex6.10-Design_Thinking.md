@@ -118,7 +118,7 @@ Após a definição do problema, uma equipe reformulou-o na forma de uma pergunt
 
 Essa técnica tem por finalidade
 
-- [ ] (A) converter o problema identificado em um desafio aberto à ideação.  
+- [x] (A) converter o problema identificado em um desafio aberto à ideação.  
 - [ ] (B) registrar formalmente o escopo aprovado pelo patrocinador.  
 - [ ] (C) estimar o esforço necessário ao desenvolvimento.  
 - [ ] (D) validar a conformidade da solução com as normas técnicas.  
@@ -130,11 +130,11 @@ Essa técnica tem por finalidade
 
 Uma característica do processo de design thinking é que ele
 
-(A) é iterativo, admitindo o retorno a fases anteriores conforme os aprendizados obtidos.  
-(B) é estritamente sequencial, vedando o retorno a fases já concluídas.  
-(C) dispensa a participação dos usuários após a fase inicial.  
-(D) exige que a solução final seja definida antes da fase de ideação.  
-(E) aplica-se exclusivamente ao desenvolvimento de software.
+- [x] (A) é iterativo, admitindo o retorno a fases anteriores conforme os aprendizados obtidos.  
+- [ ] (B) é estritamente sequencial, vedando o retorno a fases já concluídas.  
+- [ ] (C) dispensa a participação dos usuários após a fase inicial.  
+- [ ] (D) exige que a solução final seja definida antes da fase de ideação.  
+- [ ] (E) aplica-se exclusivamente ao desenvolvimento de software.
 
 ---
 
@@ -144,11 +144,11 @@ O design thinking apresenta princípios bem delimitados.
 
 **NÃO** constitui princípio dessa abordagem a
 
-(A) centralidade nas necessidades reais das pessoas.  
-(B) colaboração entre participantes de diferentes perfis e áreas.  
-(C) experimentação por meio de protótipos e testes.  
-(D) definição da solução pela equipe técnica antes da compreensão do problema.  
-(E) tolerância ao erro como fonte de aprendizado.
+- [ ] (A) centralidade nas necessidades reais das pessoas.  
+- [ ] (B) colaboração entre participantes de diferentes perfis e áreas.  
+- [ ] (C) experimentação por meio de protótipos e testes.  
+- [x] (D) definição da solução pela equipe técnica antes da compreensão do problema.  
+- [ ] (E) tolerância ao erro como fonte de aprendizado.
 
 ---
 
@@ -158,8 +158,8 @@ Um analista relacionou práticas associadas às fases do design thinking.
 
 **NÃO** constitui prática dessa abordagem a
 
-(A) realização de entrevistas empáticas com usuários.  
-(B) geração colaborativa de ideias sem julgamento prévio.  
-(C) construção de protótipos para validação junto aos usuários.  
-(D) elaboração do cronograma detalhado de implantação com marcos contratuais.  
-(E) teste das soluções propostas com usuários reais.
+- [ ] (A) realização de entrevistas empáticas com usuários.  
+- [ ] (B) geração colaborativa de ideias sem julgamento prévio.  
+- [ ] (C) construção de protótipos para validação junto aos usuários.  
+- [x] (D) elaboração do cronograma detalhado de implantação com marcos contratuais.  
+- [ ] (E) teste das soluções propostas com usuários reais.

@@ -134,7 +134,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] 6.7 Interoperabilidade entre navegadores
 - [x] 6.8 MVP
 - [x] 6.9 Prototipação
-- [ ] 6.10 Design thinking
+- [x] 6.10 Design thinking
 - [ ] 6.11 Personas
 
 ## Bloco 8 — Lógica Matemática (S11) · ~3 questões
