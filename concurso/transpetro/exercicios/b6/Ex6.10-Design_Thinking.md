@@ -12,11 +12,11 @@ Tipo:
 
 O design thinking caracteriza-se como uma abordagem de resolução de problemas
 
-(A) centrada nas pessoas, que combina compreensão das necessidades reais, geração colaborativa de ideias e experimentação.  
-(B) baseada exclusivamente na análise estatística de grandes volumes de dados históricos.  
-(C) voltada à padronização de processos industriais repetitivos.  
-(D) restrita ao desenvolvimento da identidade visual de produtos.  
-(E) orientada à definição do cronograma e do orçamento de projetos.
+- [x] (A) centrada nas pessoas, que combina compreensão das necessidades reais, geração colaborativa de ideias e experimentação.  
+- [ ] (B) baseada exclusivamente na análise estatística de grandes volumes de dados históricos.  
+- [ ] (C) voltada à padronização de processos industriais repetitivos.  
+- [ ] (D) restrita ao desenvolvimento da identidade visual de produtos.  
+- [ ] (E) orientada à definição do cronograma e do orçamento de projetos.
 
 ---
 
@@ -24,11 +24,11 @@ O design thinking caracteriza-se como uma abordagem de resolução de problemas
 
 O modelo de design thinking mais difundido organiza o processo em cinco fases, que são
 
-(A) empatizar, definir, idear, prototipar e testar.  
-(B) iniciar, planejar, executar, monitorar e encerrar.  
-(C) analisar, projetar, construir, implantar e manter.  
-(D) perceber, operar, compreender, validar e robustecer.  
-(E) elicitar, especificar, priorizar, desenvolver e homologar.
+- [x] (A) empatizar, definir, idear, prototipar e testar.  
+- [ ] (B) iniciar, planejar, executar, monitorar e encerrar.  
+- [ ] (C) analisar, projetar, construir, implantar e manter.  
+- [ ] (D) perceber, operar, compreender, validar e robustecer.  
+- [ ] (E) elicitar, especificar, priorizar, desenvolver e homologar.
 
 ---
 
@@ -38,11 +38,11 @@ Na primeira fase do design thinking, a equipe busca compreender profundamente o 
 
 Essa fase é denominada
 
-(A) empatizar.  
-(B) definir.  
-(C) idear.  
-(D) prototipar.  
-(E) testar.
+- [x] (A) empatizar.  
+- [ ] (B) definir.  
+- [ ] (C) idear.  
+- [ ] (D) prototipar.  
+- [ ] (E) testar.
 
 ---
 
@@ -52,11 +52,11 @@ Após a coleta de informações sobre os usuários, a equipe sintetizou os achad
 
 Essa atividade corresponde à fase de
 
-(A) empatizar.  
-(B) definir.  
-(C) idear.  
-(D) prototipar.  
-(E) testar.
+- [ ] (A) empatizar.  
+- [x] (B) definir.  
+- [ ] (C) idear.  
+- [ ] (D) prototipar.  
+- [ ] (E) testar.
 
 ---
 
@@ -66,11 +66,11 @@ Uma equipe reuniu-se para gerar o maior número possível de ideias, sem julgame
 
 Essa técnica é denominada
 
-(A) _brainstorming_.  
-(B) análise de Pareto.  
-(C) avaliação heurística.  
-(D) revisão por pares.  
-(E) análise de valor agregado.
+- [x] (A) _brainstorming_.  
+- [ ] (B) análise de Pareto.  
+- [ ] (C) avaliação heurística.  
+- [ ] (D) revisão por pares.  
+- [ ] (E) análise de valor agregado.
 
 ---
 
@@ -78,11 +78,11 @@ Essa técnica é denominada
 
 Uma regra fundamental do _brainstorming_, na fase de ideação, é
 
-(A) adiar o julgamento das ideias, privilegiando a quantidade na etapa de geração.  
-(B) selecionar imediatamente a melhor ideia apresentada, descartando as demais.  
-(C) restringir a participação aos integrantes mais experientes da equipe.  
-(D) limitar as propostas àquelas tecnicamente viáveis no momento.  
-(E) exigir que cada ideia venha acompanhada de estimativa de custo.
+- [x] (A) adiar o julgamento das ideias, privilegiando a quantidade na etapa de geração.  
+- [ ] (B) selecionar imediatamente a melhor ideia apresentada, descartando as demais.  
+- [ ] (C) restringir a participação aos integrantes mais experientes da equipe.  
+- [ ] (D) limitar as propostas àquelas tecnicamente viáveis no momento.  
+- [ ] (E) exigir que cada ideia venha acompanhada de estimativa de custo.
 
 ---
 
@@ -92,11 +92,11 @@ O design thinking alterna momentos de exploração ampla de possibilidades com m
 
 Esses dois movimentos são denominados, respectivamente, pensamento
 
-(A) divergente e convergente.  
-(B) indutivo e dedutivo.  
-(C) preditivo e adaptativo.  
-(D) sequencial e iterativo.  
-(E) qualitativo e quantitativo.
+- [x] (A) divergente e convergente.  
+- [ ] (B) indutivo e dedutivo.  
+- [ ] (C) preditivo e adaptativo.  
+- [ ] (D) sequencial e iterativo.  
+- [ ] (E) qualitativo e quantitativo.
 
 ---
 
@@ -104,11 +104,11 @@ Esses dois movimentos são denominados, respectivamente, pensamento
 
 O design thinking busca soluções situadas na interseção de três dimensões, que correspondem a
 
-(A) desejabilidade pelas pessoas, viabilidade de negócio e exequibilidade técnica.  
-(B) escopo, prazo e custo.  
-(C) eficácia, eficiência e efetividade.  
-(D) transparência, inspeção e adaptação.  
-(E) perceptibilidade, operabilidade e robustez.
+- [ ] (A) desejabilidade pelas pessoas, viabilidade de negócio e exequibilidade técnica.  
+- [ ] (B) escopo, prazo e custo.  
+- [ ] (C) eficácia, eficiência e efetividade.  
+- [ ] (D) transparência, inspeção e adaptação.  
+- [ ] (E) perceptibilidade, operabilidade e robustez.
 
 ---
 
