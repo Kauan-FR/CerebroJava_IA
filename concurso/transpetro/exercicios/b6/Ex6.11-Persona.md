@@ -96,7 +96,7 @@ O mapa de empatia é uma ferramenta utilizada para
 
 No mapa de empatia, os quadrantes destinados a registrar os obstáculos, medos e dificuldades enfrentados pelo usuário e, por outro lado, seus desejos e critérios de sucesso, são denominados, respectivamente,
 
-- [ ] (A) dores e ganhos.  
+- [x] (A) dores e ganhos.  
 - [ ] (B) ver e ouvir.  
 - [ ] (C) pensar e sentir.  
 - [ ] (D) falar e fazer.  
@@ -108,11 +108,11 @@ No mapa de empatia, os quadrantes destinados a registrar os obstáculos, medos e
 
 Uma diferença entre persona e papel de usuário é que o papel
 
-(A) identifica a função exercida em relação ao sistema, enquanto a persona acrescenta características, objetivos e comportamentos de um perfil representativo.  
-(B) descreve motivações e frustrações, enquanto a persona identifica apenas a função exercida.  
-(C) é sempre construído a partir de pesquisa, enquanto a persona decorre de suposições.  
-(D) aplica-se apenas a sistemas web, enquanto a persona se aplica a sistemas móveis.  
-(E) substitui integralmente a persona em projetos ágeis.
+- [ ] (A) identifica a função exercida em relação ao sistema, enquanto a persona acrescenta características, objetivos e comportamentos de um perfil representativo.  
+- [ ] (B) descreve motivações e frustrações, enquanto a persona identifica apenas a função exercida.  
+- [ ] (C) é sempre construído a partir de pesquisa, enquanto a persona decorre de suposições.  
+- [ ] (D) aplica-se apenas a sistemas web, enquanto a persona se aplica a sistemas móveis.  
+- [ ] (E) substitui integralmente a persona em projetos ágeis.
 
 ---
 
