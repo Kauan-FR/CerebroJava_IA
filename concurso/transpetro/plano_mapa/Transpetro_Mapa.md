@@ -135,7 +135,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 6.8 MVP
 - [x] 6.9 Prototipação
 - [x] 6.10 Design thinking
-- [ ] 6.11 Personas
+- [x] 6.11 Personas
 
 ## Bloco 8 — Lógica Matemática (S11) · ~3 questões
 

@@ -64,3 +64,23 @@ Tipo:
 │   viabilidade (conseguimos?) ·                  │
 │   praticabilidade (sustenta como negócio?)      │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 18 — PERSONAS                  [T-6.11]  │
+├─────────────────────────────────────────────────┤
+│ persona = personagem fictício que representa    │
+│   um grupo REAL, criado a partir de PESQUISA    │
+│ ⚠ não é suposição da equipe                     │
+│                                                 │
+│ PÚBLICO-ALVO = recorte amplo e estatístico      │
+│ PERSONA = um personagem detalhado, com nome,    │
+│   contexto, DORES e OBJETIVOS                   │
+│                                                 │
+│ ATOR (UML) = papel abstrato, o que o sistema    │
+│   faz para ele                                  │
+│ PERSONA = pessoa, quem ele é                    │
+│                                                 │
+│ antipersona = quem NÃO é o alvo                 │
+└─────────────────────────────────────────────────┘
