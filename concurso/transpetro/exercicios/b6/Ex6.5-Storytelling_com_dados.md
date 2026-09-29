@@ -26,7 +26,7 @@ Uma analista explorou livremente uma base de dados, testando hipóteses e gerand
 
 Essa atividade caracteriza a análise
 
-- [ ] (A) exploratória.  
+- [x] (A) exploratória.  
 - [ ] (B) explanatória.  
 - [ ] (C) prescritiva.  
 - [ ] (D) transacional.  
@@ -40,11 +40,11 @@ Ao preparar a apresentação à diretoria, a analista selecionou apenas os achad
 
 Essa atividade caracteriza a análise
 
-(A) exploratória.  
-(B) explanatória.  
-(C) descritiva bruta.  
-(D) operacional.  
-(E) preditiva.
+- [ ] (A) exploratória.  
+- [ ] (B) explanatória.  
+- [ ] (C) descritiva bruta.  
+- [ ] (D) operacional.  
+- [ ] (E) preditiva.
 
 ---
 
