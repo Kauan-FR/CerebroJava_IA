@@ -92,11 +92,13 @@ Esse recurso apoia-se no conceito de atenção
 
 O princípio que orienta a remoção de elementos gráficos que não transmitem informação, como grades excessivas, bordas e efeitos tridimensionais, relaciona-se à
 
-- [ ] (A) maximização da razão dado-tinta.  
+<font color="#00b050">- [ ] (A) maximização da razão dado-tinta.  </font>
 - [ ] (B) ampliação da densidade de cores utilizadas.  
-- [x] (C) padronização da tipografia corporativa.  
+<font color="#ff0000">- [x] (C) padronização da tipografia corporativa.  </font>
 - [ ] (D) normalização das bases de dados de origem.  
 - [ ] (E) automação do processo de atualização.
+
+>[!fail] 
 
 ---
 
@@ -122,7 +124,7 @@ O storytelling com dados apresenta finalidades bem delimitadas.
 
 - [ ] (A) facilitação da compreensão dos achados por públicos não especializados.  
 - [ ] (B) orientação do público quanto à ação esperada a partir dos dados.  
-- [ ] (C) manipulação da representação visual para induzir conclusão não sustentada pelos dados.  
+- [x] (C) manipulação da representação visual para induzir conclusão não sustentada pelos dados.  
 - [ ] (D) redução da carga cognitiva exigida do público na leitura da informação.  
 - [ ] (E) destaque dos achados mais relevantes em meio ao conjunto analisado.
 
@@ -136,6 +138,6 @@ Um analista relacionou boas práticas na construção de visualizações de dado
 
 - [ ] (A) escolher o tipo de gráfico conforme a mensagem a ser comunicada.  
 - [ ] (B) utilizar cores com intenção, destacando apenas o que é relevante.  
-- [ ] (C) empregar efeitos tridimensionais para tornar o gráfico mais atrativo.  
+- [x] (C) empregar efeitos tridimensionais para tornar o gráfico mais atrativo.  
 - [ ] (D) rotular diretamente os elementos quando isso facilitar a leitura.  
 - [ ] (E) eliminar elementos visuais que não agregam informação.
