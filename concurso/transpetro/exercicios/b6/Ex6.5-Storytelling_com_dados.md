@@ -80,11 +80,11 @@ Uma analista destacou em cor forte apenas a barra referente ao produto com queda
 
 Esse recurso apoia-se no conceito de atenção
 
-(A) pré-atentiva.  
-(B) seletiva sequencial.  
-(C) residual.  
-(D) compensatória.  
-(E) distribuída uniformemente.
+- [x] (A) pré-atentiva.  
+- [ ] (B) seletiva sequencial.  
+- [ ] (C) residual.  
+- [ ] (D) compensatória.  
+- [ ] (E) distribuída uniformemente.
 
 ---
 
@@ -92,11 +92,11 @@ Esse recurso apoia-se no conceito de atenção
 
 O princípio que orienta a remoção de elementos gráficos que não transmitem informação, como grades excessivas, bordas e efeitos tridimensionais, relaciona-se à
 
-(A) maximização da razão dado-tinta.  
-(B) ampliação da densidade de cores utilizadas.  
-(C) padronização da tipografia corporativa.  
-(D) normalização das bases de dados de origem.  
-(E) automação do processo de atualização.
+- [ ] (A) maximização da razão dado-tinta.  
+- [ ] (B) ampliação da densidade de cores utilizadas.  
+- [ ] (C) padronização da tipografia corporativa.  
+- [ ] (D) normalização das bases de dados de origem.  
+- [ ] (E) automação do processo de atualização.
 
 ---
 
