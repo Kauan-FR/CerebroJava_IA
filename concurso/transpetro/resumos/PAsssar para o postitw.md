@@ -84,3 +84,25 @@ Tipo:
 │                                                 │
 │ antipersona = quem NÃO é o alvo                 │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 19 — INTERAÇÃO WEB              [T-6.3]  │
+├─────────────────────────────────────────────────┤
+│ IxD = como o usuário FAZ a tarefa               │
+│ AI  = como o usuário ACHA o conteúdo            │
+│   AI: organização · rotulagem · navegação ·     │
+│       busca                                     │
+│                                                 │
+│ IxD: ações · FEEDBACK · estados · fluxo         │
+│                                                 │
+│ affordance = sugere como usar                   │
+│ significante = o sinal da affordance            │
+│ modelo mental = o que o usuário acredita        │
+│ restrição = limita p/ evitar erro               │
+│                                                 │
+│ RESPONSIVO = 1 layout fluido                    │
+│ ADAPTATIVO = layouts distintos por faixa        │
+│ mobile first = menor tela primeiro              │
+└─────────────────────────────────────────────────┘
