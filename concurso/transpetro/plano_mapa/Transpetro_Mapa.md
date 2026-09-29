@@ -129,7 +129,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 6.2 Histórias do usuário
 - [x] 6.3 Planejamento de interação web
 - [x] 6.4 Projeto centrado no usuário
-- [ ] 6.5 Storytelling com dados
+- [x] 6.5 Storytelling com dados
 - [ ] 6.6 Relatórios e dashboards
 - [x] 6.7 Interoperabilidade entre navegadores
 - [x] 6.8 MVP

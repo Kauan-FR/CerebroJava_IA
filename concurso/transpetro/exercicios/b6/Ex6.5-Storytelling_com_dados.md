@@ -98,7 +98,11 @@ O princípio que orienta a remoção de elementos gráficos que não transmitem 
 - [ ] (D) normalização das bases de dados de origem.  
 - [ ] (E) automação do processo de atualização.
 
->[!fail] 
+>[!fail] Razão dado-tinta
+>- **Tinta de dados** — o que representa informação: as barras, as linhas, os pontos, os rótulos
+>- **Tinta não-dados** — o que não representa nada: grades pesadas, bordas, sombras, fundos coloridos, efeitos 3D
+>
+>A razão é `tinta de dados ÷ tinta total`. Maximizá-la significa **apagar tudo que não carrega informação**.
 
 ---
 
