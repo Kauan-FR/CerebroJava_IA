@@ -131,7 +131,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 6.4 Projeto centrado no usuário
 - [ ] 6.5 Storytelling com dados
 - [ ] 6.6 Relatórios e dashboards
-- [ ] 6.7 Interoperabilidade entre navegadores
+- [x] 6.7 Interoperabilidade entre navegadores
 - [x] 6.8 MVP
 - [x] 6.9 Prototipação
 - [x] 6.10 Design thinking
