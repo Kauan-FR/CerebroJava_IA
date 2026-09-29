@@ -106,3 +106,22 @@ Tipo:
 │ ADAPTATIVO = layouts distintos por faixa        │
 │ mobile first = menor tela primeiro              │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 20 — INTEROPERABILIDADE         [T-6.7]  │
+├─────────────────────────────────────────────────┤
+│ funcionar igual em navegadores diferentes       │
+│ causa: cada um tem seu motor de renderização    │
+│                                                 │
+│ solução = PADRÕES WEB (W3C, ECMA)               │
+│ ⚠ não é uma versão por navegador                │
+│                                                 │
+│ DEGRADAÇÃO GRACIOSA = do moderno pro antigo     │
+│ MELHORIA PROGRESSIVA = da base pro avançado     │
+│ polyfill = adiciona recurso que falta           │
+│ cross-browser = testar em cada um               │
+│                                                 │
+│ WCAG: princípio ROBUSTO                         │
+└─────────────────────────────────────────────────┘
