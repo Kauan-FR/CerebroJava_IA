@@ -52,11 +52,11 @@ Essa atividade caracteriza a análise
 
 Um dos princípios do storytelling com dados estabelece que, antes de construir qualquer visualização, é necessário
 
-(A) compreender quem é o público, o que ele precisa saber e qual ação se espera dele.  
-(B) escolher a ferramenta de BI que será utilizada na apresentação.  
-(C) definir o esquema dimensional da base de dados de origem.  
-(D) estabelecer o cronograma de atualização automática dos dados.  
-(E) determinar o nível de isolamento das transações de leitura.
+- [x] (A) compreender quem é o público, o que ele precisa saber e qual ação se espera dele.  
+- [ ] (B) escolher a ferramenta de BI que será utilizada na apresentação.  
+- [ ] (C) definir o esquema dimensional da base de dados de origem.  
+- [ ] (D) estabelecer o cronograma de atualização automática dos dados.  
+- [ ] (E) determinar o nível de isolamento das transações de leitura.
 
 ---
 
@@ -66,11 +66,11 @@ Uma analista precisa comunicar a evolução do faturamento mensal ao longo de do
 
 O tipo de gráfico mais adequado a essa mensagem é o gráfico de
 
-(A) linhas.  
-(B) pizza.  
-(C) dispersão com regressão.  
-(D) rosca segmentada.  
-(E) radar.
+- [x] (A) linhas.  
+- [ ] (B) pizza.  
+- [ ] (C) dispersão com regressão.  
+- [ ] (D) rosca segmentada.  
+- [ ] (E) radar.
 
 ---
 
