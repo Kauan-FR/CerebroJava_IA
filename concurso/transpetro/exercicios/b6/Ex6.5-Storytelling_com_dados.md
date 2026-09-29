@@ -106,7 +106,7 @@ Um gráfico de barras foi construído com o eixo vertical iniciando em um valor 
 
 Essa construção caracteriza
 
-- [ ] (A) distorção na representação dos dados, comprometendo a leitura correta.  
+- [x] (A) distorção na representação dos dados, comprometendo a leitura correta.  
 - [ ] (B) aplicação adequada do princípio da razão dado-tinta.  
 - [ ] (C) uso correto do recurso de atenção pré-atentiva.  
 - [ ] (D) adoção de escala logarítmica recomendada.  
@@ -120,11 +120,11 @@ O storytelling com dados apresenta finalidades bem delimitadas.
 
 **NÃO** constitui finalidade dessa prática a
 
-(A) facilitação da compreensão dos achados por públicos não especializados.  
-(B) orientação do público quanto à ação esperada a partir dos dados.  
-(C) manipulação da representação visual para induzir conclusão não sustentada pelos dados.  
-(D) redução da carga cognitiva exigida do público na leitura da informação.  
-(E) destaque dos achados mais relevantes em meio ao conjunto analisado.
+- [ ] (A) facilitação da compreensão dos achados por públicos não especializados.  
+- [ ] (B) orientação do público quanto à ação esperada a partir dos dados.  
+- [ ] (C) manipulação da representação visual para induzir conclusão não sustentada pelos dados.  
+- [ ] (D) redução da carga cognitiva exigida do público na leitura da informação.  
+- [ ] (E) destaque dos achados mais relevantes em meio ao conjunto analisado.
 
 ---
 
@@ -134,8 +134,8 @@ Um analista relacionou boas práticas na construção de visualizações de dado
 
 **NÃO** constitui boa prática dessa natureza
 
-(A) escolher o tipo de gráfico conforme a mensagem a ser comunicada.  
-(B) utilizar cores com intenção, destacando apenas o que é relevante.  
-(C) empregar efeitos tridimensionais para tornar o gráfico mais atrativo.  
-(D) rotular diretamente os elementos quando isso facilitar a leitura.  
-(E) eliminar elementos visuais que não agregam informação.
+- [ ] (A) escolher o tipo de gráfico conforme a mensagem a ser comunicada.  
+- [ ] (B) utilizar cores com intenção, destacando apenas o que é relevante.  
+- [ ] (C) empregar efeitos tridimensionais para tornar o gráfico mais atrativo.  
+- [ ] (D) rotular diretamente os elementos quando isso facilitar a leitura.  
+- [ ] (E) eliminar elementos visuais que não agregam informação.
