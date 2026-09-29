@@ -41,7 +41,7 @@ Ao preparar a apresentação à diretoria, a analista selecionou apenas os achad
 Essa atividade caracteriza a análise
 
 - [ ] (A) exploratória.  
-- [ ] (B) explanatória.  
+- [x] (B) explanatória.  
 - [ ] (C) descritiva bruta.  
 - [ ] (D) operacional.  
 - [ ] (E) preditiva.
