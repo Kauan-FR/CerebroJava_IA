@@ -125,3 +125,24 @@ Tipo:
 │                                                 │
 │ WCAG: princípio ROBUSTO                         │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 21 — STORYTELLING COM DADOS     [T-6.5]  │
+├─────────────────────────────────────────────────┤
+│ narrativa que leva à DECISÃO                    │
+│ tripé: DADOS · NARRATIVA · VISUAL               │
+│ estrutura: contexto → conflito → resolução      │
+│                                                 │
+│ princípios: conhecer o público · gráfico certo ·│
+│   eliminar o excesso · dirigir a atenção ·      │
+│   título com a mensagem                         │
+│ ⚠ 3D distorce | pizza só poucas fatias          │
+│                                                 │
+│ tempo → LINHA                                   │
+│ categorias → BARRA                              │
+│ parte do todo → PIZZA                           │
+│ duas variáveis → DISPERSÃO                      │
+│ distribuição → HISTOGRAMA                       │
+└─────────────────────────────────────────────────┘
