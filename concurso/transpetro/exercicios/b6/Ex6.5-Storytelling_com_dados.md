@@ -94,7 +94,7 @@ O princípio que orienta a remoção de elementos gráficos que não transmitem 
 
 - [ ] (A) maximização da razão dado-tinta.  
 - [ ] (B) ampliação da densidade de cores utilizadas.  
-- [ ] (C) padronização da tipografia corporativa.  
+- [x] (C) padronização da tipografia corporativa.  
 - [ ] (D) normalização das bases de dados de origem.  
 - [ ] (E) automação do processo de atualização.
 
@@ -106,11 +106,11 @@ Um gráfico de barras foi construído com o eixo vertical iniciando em um valor 
 
 Essa construção caracteriza
 
-(A) distorção na representação dos dados, comprometendo a leitura correta.  
-(B) aplicação adequada do princípio da razão dado-tinta.  
-(C) uso correto do recurso de atenção pré-atentiva.  
-(D) adoção de escala logarítmica recomendada.  
-(E) técnica válida de destaque narrativo.
+- [ ] (A) distorção na representação dos dados, comprometendo a leitura correta.  
+- [ ] (B) aplicação adequada do princípio da razão dado-tinta.  
+- [ ] (C) uso correto do recurso de atenção pré-atentiva.  
+- [ ] (D) adoção de escala logarítmica recomendada.  
+- [ ] (E) técnica válida de destaque narrativo.
 
 ---
 
