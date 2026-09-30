@@ -146,3 +146,21 @@ Tipo:
 │ duas variáveis → DISPERSÃO                      │
 │ distribuição → HISTOGRAMA                       │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 23 — DADO → INTELIGÊNCIA        [T-7.1]  │
+├─────────────────────────────────────────────────┤
+│ DADO = bruto, sem contexto                      │
+│ INFORMAÇÃO = dado + CONTEXTO                    │
+│ CONHECIMENTO = informação INTERPRETADA          │
+│ INTELIGÊNCIA = conhecimento aplicado à AÇÃO     │
+│                                                 │
+│ dado→info: contexto                             │
+│ info→conhec: interpretação                      │
+│ conhec→intel: decisão                           │
+│                                                 │
+│ TÁCITO = na cabeça (calado)                     │
+│ EXPLÍCITO = documentado (escrito)               │
+└─────────────────────────────────────────────────┘
