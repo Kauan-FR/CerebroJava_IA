@@ -130,7 +130,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 6.3 Planejamento de interação web
 - [x] 6.4 Projeto centrado no usuário
 - [x] 6.5 Storytelling com dados
-- [ ] 6.6 Relatórios e dashboards
+- [x] 6.6 Relatórios e dashboards
 - [x] 6.7 Interoperabilidade entre navegadores
 - [x] 6.8 MVP
 - [x] 6.9 Prototipação
@@ -173,6 +173,15 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 
 
+### Bloco 7 — BI
+
+Boa parte já está coberta: DW, OLAP, modelagem dimensional e ETL vieram no Bloco 1; dashboards e relatórios você acabou de fechar no 6.6.
+
+| Ciclo | Subtópicos                                                                                                                         | Observação                                                   |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **1** | **7.1** dado/informação/conhecimento + **7.2** conceitos de BI + **7.4** estruturados × não estruturados                           | Conceitual e leve                                            |
+| **2** | **7.5** OLAP e operações + **7.6** data warehouse + **7.7** modelagem multidimensional                                             | **Revisão** do Bloco 1 — passe rápido, vá direto às questões |
+| **3** | **7.3** fontes de dados + **7.8** dashboards em ferramentas de BI + **7.9** planilhas + **7.10** insights + **7.11** BI na decisão | Os cinco são leves e 7.8/7.10 já vieram no 6.6               |
 
 
 ### Roteiro até os simulados
