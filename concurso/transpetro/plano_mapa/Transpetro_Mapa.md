@@ -54,7 +54,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 
 ## Bloco 7 — Análise de Dados e BI (S3) · ~7 questões
 
-- [ ] 7.1 Dado, informação, conhecimento, inteligência
+- [x] 7.1 Dado, informação, conhecimento, inteligência
 - [ ] 7.2 Business Intelligence
 - [ ] 7.3 Mapeamento de fontes de dados
 - [ ] 7.4 Dados estruturados e não estruturados
