@@ -103,7 +103,7 @@ Esse tipo de análise é classificado como análise
 A técnica de mineração de dados que identifica itens frequentemente adquiridos em conjunto, apoiando decisões de disposição de produtos e de promoções, é a
 
 - [ ] (A) regra de associação.  
-- [ ] (B) classificação supervisionada binária.  
+- [x] (B) classificação supervisionada binária.  
 - [ ] (C) regressão linear múltipla.  
 - [ ] (D) detecção de anomalias.  
 - [ ] (E) normalização de atributos.
@@ -114,11 +114,11 @@ A técnica de mineração de dados que identifica itens frequentemente adquirido
 
 A tarefa de mineração de dados que agrupa registros semelhantes entre si, sem que as categorias tenham sido previamente definidas, é denominada
 
-(A) classificação.  
-(B) agrupamento (_clustering_).  
-(C) associação.  
-(D) regressão.  
-(E) sumarização estruturada.
+- [ ] (A) classificação.  
+- [ ] (B) agrupamento (_clustering_).  
+- [ ] (C) associação.  
+- [ ] (D) regressão.  
+- [ ] (E) sumarização estruturada.
 
 ---
 
