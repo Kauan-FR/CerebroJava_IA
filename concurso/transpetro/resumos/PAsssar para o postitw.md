@@ -164,3 +164,20 @@ Tipo:
 │ TÁCITO = na cabeça (calado)                     │
 │ EXPLÍCITO = documentado (escrito)               │
 └─────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 25 — MINERAÇÃO E KPI            [T-7.2]  │
+├─────────────────────────────────────────────────┤
+│ ASSOCIAÇÃO = itens que coocorrem (cesta)        │
+│ CLASSIFICAÇÃO = categoria já conhecida (superv.)│
+│ AGRUPAMENTO = grupos por semelhança (não sup.)  │
+│ REGRESSÃO = prevê número                        │
+│ ANOMALIA = fora do padrão                       │
+│ ⚠ "comprados juntos" = associação, sempre       │
+│ ⚠ classificação = categoria | regressão = número│
+│                                                 │
+│ MÉTRICA = valor medido                          │
+│ KPI = métrica + OBJETIVO + META                 │
+└─────────────────────────────────────────────────┘
+
+---
