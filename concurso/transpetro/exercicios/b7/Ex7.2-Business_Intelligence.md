@@ -34,7 +34,7 @@ Uma diferença fundamental entre sistemas OLTP e sistemas OLAP é que os sistema
 
 Em uma arquitetura típica de Business Intelligence, a sequência adequada dos componentes é
 
-- [ ] (A) sistemas de origem, processo de ETL, data warehouse, ferramentas de análise e apresentação.  
+- [x] (A) sistemas de origem, processo de ETL, data warehouse, ferramentas de análise e apresentação.  
 - [ ] (B) data warehouse, sistemas de origem, ferramentas de análise, processo de ETL.  
 - [ ] (C) ferramentas de análise, data warehouse, sistemas de origem, processo de ETL.  
 - [ ] (D) processo de ETL, ferramentas de análise, sistemas de origem, data warehouse.  
@@ -48,11 +48,11 @@ Um relatório apresenta o total de vendas por região no trimestre encerrado, de
 
 Esse tipo de análise é classificado como análise
 
-(A) descritiva.  
-(B) diagnóstica.  
-(C) preditiva.  
-(D) prescritiva.  
-(E) transacional.
+- [x] (A) descritiva.  
+- [ ] (B) diagnóstica.  
+- [ ] (C) preditiva.  
+- [ ] (D) prescritiva.  
+- [ ] (E) transacional.
 
 ---
 
@@ -62,11 +62,11 @@ Uma equipe investigou as causas da queda de vendas em determinada região, cruza
 
 Esse tipo de análise é classificado como análise
 
-(A) descritiva.  
-(B) diagnóstica.  
-(C) preditiva.  
-(D) prescritiva.  
-(E) operacional.
+- [ ] (A) descritiva.  
+- [x] (B) diagnóstica.  
+- [ ] (C) preditiva.  
+- [ ] (D) prescritiva.  
+- [ ] (E) operacional.
 
 ---
 
@@ -76,11 +76,11 @@ Um modelo estimou a probabilidade de cada cliente cancelar o serviço nos próxi
 
 Esse tipo de análise é classificado como análise
 
-(A) descritiva.  
-(B) diagnóstica.  
-(C) preditiva.  
-(D) prescritiva.  
-(E) exploratória bruta.
+- [ ] (A) descritiva.  
+- [ ] (B) diagnóstica.  
+- [x] (C) preditiva.  
+- [ ] (D) prescritiva.  
+- [ ] (E) exploratória bruta.
 
 ---
 
@@ -90,11 +90,11 @@ Um sistema recomendou, para cada cliente com alto risco de cancelamento, qual of
 
 Esse tipo de análise é classificado como análise
 
-(A) descritiva.  
-(B) diagnóstica.  
-(C) preditiva.  
-(D) prescritiva.  
-(E) retrospectiva.
+- [ ] (A) descritiva.  
+- [ ] (B) diagnóstica.  
+- [ ] (C) preditiva.  
+- [x] (D) prescritiva.  
+- [ ] (E) retrospectiva.
 
 ---
 
@@ -102,11 +102,11 @@ Esse tipo de análise é classificado como análise
 
 A técnica de mineração de dados que identifica itens frequentemente adquiridos em conjunto, apoiando decisões de disposição de produtos e de promoções, é a
 
-(A) regra de associação.  
-(B) classificação supervisionada binária.  
-(C) regressão linear múltipla.  
-(D) detecção de anomalias.  
-(E) normalização de atributos.
+- [ ] (A) regra de associação.  
+- [ ] (B) classificação supervisionada binária.  
+- [ ] (C) regressão linear múltipla.  
+- [ ] (D) detecção de anomalias.  
+- [ ] (E) normalização de atributos.
 
 ---
 
