@@ -126,7 +126,7 @@ A tarefa de mineração de dados que agrupa registros semelhantes entre si, sem 
 
 Em um ambiente de Business Intelligence, um indicador-chave de desempenho (KPI) distingue-se de uma métrica comum porque o KPI
 
-- [ ] (A) está diretamente vinculado a um objetivo estratégico, servindo de referência para avaliar seu alcance.  
+- [x] (A) está diretamente vinculado a um objetivo estratégico, servindo de referência para avaliar seu alcance.  
 - [ ] (B) é calculado exclusivamente a partir de dados não estruturados.  
 - [ ] (C) dispensa a definição de meta ou valor de referência.  
 - [ ] (D) é atualizado apenas ao final de cada exercício financeiro.  
