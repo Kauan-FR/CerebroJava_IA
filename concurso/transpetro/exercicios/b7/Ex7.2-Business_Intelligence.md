@@ -140,11 +140,11 @@ O Business Intelligence apresenta características bem delimitadas.
 
 **NÃO** constitui característica de um ambiente de BI a
 
-(A) consolidação de dados provenientes de múltiplas fontes.  
-(B) orientação à análise histórica e à identificação de tendências.  
-(C) otimização para o registro de transações operacionais em tempo real.  
-(D) disponibilização de informações para apoio à decisão.  
-(E) organização dos dados em estruturas voltadas à consulta analítica.
+- [ ] (A) consolidação de dados provenientes de múltiplas fontes.  
+- [ ] (B) orientação à análise histórica e à identificação de tendências.  
+- [ ] (C) otimização para o registro de transações operacionais em tempo real.  
+- [ ] (D) disponibilização de informações para apoio à decisão.  
+- [ ] (E) organização dos dados em estruturas voltadas à consulta analítica.
 
 ---
 
