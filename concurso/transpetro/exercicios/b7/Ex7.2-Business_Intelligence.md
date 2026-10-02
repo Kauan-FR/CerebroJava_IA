@@ -115,7 +115,7 @@ A técnica de mineração de dados que identifica itens frequentemente adquirido
 A tarefa de mineração de dados que agrupa registros semelhantes entre si, sem que as categorias tenham sido previamente definidas, é denominada
 
 - [ ] (A) classificação.  
-- [ ] (B) agrupamento (_clustering_).  
+- [x] (B) agrupamento (_clustering_).  
 - [ ] (C) associação.  
 - [ ] (D) regressão.  
 - [ ] (E) sumarização estruturada.
@@ -126,11 +126,11 @@ A tarefa de mineração de dados que agrupa registros semelhantes entre si, sem 
 
 Em um ambiente de Business Intelligence, um indicador-chave de desempenho (KPI) distingue-se de uma métrica comum porque o KPI
 
-(A) está diretamente vinculado a um objetivo estratégico, servindo de referência para avaliar seu alcance.  
-(B) é calculado exclusivamente a partir de dados não estruturados.  
-(C) dispensa a definição de meta ou valor de referência.  
-(D) é atualizado apenas ao final de cada exercício financeiro.  
-(E) aplica-se somente a processos de natureza financeira.
+- [ ] (A) está diretamente vinculado a um objetivo estratégico, servindo de referência para avaliar seu alcance.  
+- [ ] (B) é calculado exclusivamente a partir de dados não estruturados.  
+- [ ] (C) dispensa a definição de meta ou valor de referência.  
+- [ ] (D) é atualizado apenas ao final de cada exercício financeiro.  
+- [ ] (E) aplica-se somente a processos de natureza financeira.
 
 ---
 
