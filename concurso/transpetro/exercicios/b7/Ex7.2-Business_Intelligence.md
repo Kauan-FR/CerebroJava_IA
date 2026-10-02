@@ -102,11 +102,20 @@ Esse tipo de análise é classificado como análise
 
 A técnica de mineração de dados que identifica itens frequentemente adquiridos em conjunto, apoiando decisões de disposição de produtos e de promoções, é a
 
-- [ ] (A) regra de associação.  
-- [x] (B) classificação supervisionada binária.  
+<font color="#00b050">- [ ] (A) regra de associação.  </font>
+<font color="#ff0000">- [x] (B) classificação supervisionada binária.  </font>
 - [ ] (C) regressão linear múltipla.  
 - [ ] (D) detecção de anomalias.  
 - [ ] (E) normalização de atributos.
+
+>[!fail] 
+>|Técnica|O que faz|Precisa de rótulo prévio?|
+|---|---|---|
+|**Associação**|encontra itens que **coocorrem**|não|
+|**Classificação**|atribui registro a uma **categoria conhecida**|**sim**|
+|**Agrupamento**|forma grupos por **semelhança**|não|
+|**Regressão**|prevê **valor numérico**|sim|
+
 
 ---
 
