@@ -142,7 +142,7 @@ O Business Intelligence apresenta características bem delimitadas.
 
 - [ ] (A) consolidação de dados provenientes de múltiplas fontes.  
 - [ ] (B) orientação à análise histórica e à identificação de tendências.  
-- [ ] (C) otimização para o registro de transações operacionais em tempo real.  
+- [x] (C) otimização para o registro de transações operacionais em tempo real.  
 - [ ] (D) disponibilização de informações para apoio à decisão.  
 - [ ] (E) organização dos dados em estruturas voltadas à consulta analítica.
 
@@ -154,8 +154,8 @@ Um analista relacionou benefícios atribuídos à adoção de soluções de Busi
 
 **NÃO** constitui benefício dessa natureza a
 
-(A) redução da dependência de relatórios construídos manualmente em planilhas isoladas.  
-(B) ampliação da consistência das informações utilizadas pelas diferentes áreas.  
-(C) agilidade na identificação de tendências e desvios de desempenho.  
-(D) eliminação da necessidade de definir regras de negócio e indicadores.  
-(E) apoio à decisão baseada em dados em substituição à decisão baseada apenas em percepção.
+- [ ] (A) redução da dependência de relatórios construídos manualmente em planilhas isoladas.  
+- [ ] (B) ampliação da consistência das informações utilizadas pelas diferentes áreas.  
+- [ ] (C) agilidade na identificação de tendências e desvios de desempenho.  
+- [x] (D) eliminação da necessidade de definir regras de negócio e indicadores.  
+- [ ] (E) apoio à decisão baseada em dados em substituição à decisão baseada apenas em percepção.
