@@ -12,11 +12,11 @@ Tipo:
 
 Dados estruturados caracterizam-se por
 
-- [ ] (A) estarem organizados em esquema predefinido, com campos e tipos bem delimitados, como tabelas relacionais.
-- [ ] (B) não possuírem qualquer organização interna identificável.
-- [ ] (C) exigirem processamento por algoritmos de visão computacional.
-- [ ] (D) serem armazenados exclusivamente em arquivos de texto simples.
-- [ ] (E) dispensarem a definição de tipos de dados em seus campos.
+(A) estarem organizados em esquema predefinido, com campos e tipos bem delimitados, como tabelas relacionais.
+(B) não possuírem qualquer organização interna identificável.
+(C) exigirem processamento por algoritmos de visão computacional.
+(D) serem armazenados exclusivamente em arquivos de texto simples.
+(E) dispensarem a definição de tipos de dados em seus campos.
 
 ---
 
