@@ -181,3 +181,19 @@ Tipo:
 └─────────────────────────────────────────────────┘
 
 ---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 26 — TIPOS DE DADOS             [T-7.4]  │
+├─────────────────────────────────────────────────┤
+│ ESTRUTURADO = linhas e colunas, esquema rígido  │
+│ SEMIESTRUTURADO = tem MARCADOR, sem esquema fixo│
+│   → JSON, XML, HTML, log                        │
+│ NÃO ESTRUTURADO = sem organização nenhuma       │
+│   → texto livre, imagem, áudio, vídeo           │
+│   → exige PLN e IA; é a MAIORIA do dado         │
+│                                                 │
+│ ⚠ JSON e XML = SEMI, não "não estruturado"      │
+│                                                 │
+│ DW = tratado, schema-on-WRITE                   │
+│ DATA LAKE = bruto, schema-on-READ               │
+└─────────────────────────────────────────────────┘
