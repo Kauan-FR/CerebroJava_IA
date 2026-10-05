@@ -54,7 +54,7 @@ Essa necessidade decorre da característica de
 - [ ] (B) não volatilidade.
 - [ ] (C) variação no tempo.
 - [ ] (D) orientação a assunto.
-- [ ] (E) volatilidade controlada.
+- [x] (E) volatilidade controlada.
 
 ---
 
@@ -62,11 +62,11 @@ Essa necessidade decorre da característica de
 
 A característica de um data warehouse segundo a qual os dados são armazenados com referência temporal, permitindo análises históricas e comparações entre períodos, é denominada
 
-(A) orientação a assunto.
-(B) integração.
-(C) não volatilidade.
-(D) variação no tempo.
-(E) atualidade transacional.
+- [ ] (A) orientação a assunto.
+- [ ] (B) integração.
+- [ ] (C) não volatilidade.
+- [x] (D) variação no tempo.
+- [ ] (E) atualidade transacional.
 
 ---
 
@@ -74,11 +74,11 @@ A característica de um data warehouse segundo a qual os dados são armazenados 
 
 Na abordagem proposta por Inmon, a construção do ambiente analítico parte
 
-(A) do data warehouse corporativo, a partir do qual são derivados os data marts departamentais.
-(B) dos data marts departamentais, posteriormente integrados por dimensões conformadas.
-(C) do data lake, convertido progressivamente em cubos multidimensionais.
-(D) dos sistemas transacionais, replicados integralmente sem transformação.
-(E) das planilhas mantidas pelas áreas de negócio.
+- [ ] (A) do data warehouse corporativo, a partir do qual são derivados os data marts departamentais.
+- [ ] (B) dos data marts departamentais, posteriormente integrados por dimensões conformadas.
+- [ ] (C) do data lake, convertido progressivamente em cubos multidimensionais.
+- [ ] (D) dos sistemas transacionais, replicados integralmente sem transformação.
+- [ ] (E) das planilhas mantidas pelas áreas de negócio.
 
 ---
 
