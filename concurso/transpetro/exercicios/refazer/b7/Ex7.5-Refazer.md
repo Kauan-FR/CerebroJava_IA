@@ -96,7 +96,7 @@ Um analista, examinando o cubo de vendas, passou a consultar também o cubo de e
 
 Essa operação é denominada
 
-- [ ] (A) drill across.
+- [x] (A) drill across.
 - [ ] (B) drill through.
 - [ ] (C) roll up.
 - [ ] (D) slice.
@@ -110,11 +110,11 @@ Ao identificar um valor atípico em um indicador agregado, um analista acessou o
 
 Essa operação é denominada
 
-(A) roll up.
-(B) dice.
-(C) drill through.
-(D) slice.
-(E) pivot.
+- [ ] (A) roll up.
+- [ ] (B) dice.
+- [x] (C) drill through.
+- [ ] (D) slice.
+- [ ] (E) pivot.
 
 ---
 
@@ -124,11 +124,11 @@ Uma solução OLAP armazena os dados detalhados no banco relacional e mantém os
 
 Essa arquitetura é classificada como
 
-(A) ROLAP.
-(B) MOLAP.
-(C) OLTP distribuído.
-(D) HOLAP.
-(E) DOLAP isolado.
+- [ ] (A) ROLAP.
+- [ ] (B) MOLAP.
+- [ ] (C) OLTP distribuído.
+- [x] (D) HOLAP.
+- [ ] (E) DOLAP isolado.
 
 ---
 
@@ -138,8 +138,8 @@ As operações OLAP apresentam finalidades bem delimitadas.
 
 **NÃO** constitui operação OLAP a
 
-(A) agregação dos dados a um nível hierárquico superior.
-(B) detalhamento dos dados a um nível hierárquico inferior.
-(C) seleção de um subconjunto do cubo por fixação de dimensão.
-(D) rotação das dimensões apresentadas no relatório.
-(E) normalização das tabelas de dimensão até a Terceira Forma Normal.
+- [ ] (A) agregação dos dados a um nível hierárquico superior.
+- [ ] (B) detalhamento dos dados a um nível hierárquico inferior.
+- [ ] (C) seleção de um subconjunto do cubo por fixação de dimensão.
+- [ ] (D) rotação das dimensões apresentadas no relatório.
+- [ ] (E) normalização das tabelas de dimensão até a Terceira Forma Normal.
