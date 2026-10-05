@@ -142,4 +142,4 @@ As operações OLAP apresentam finalidades bem delimitadas.
 - [ ] (B) detalhamento dos dados a um nível hierárquico inferior.
 - [ ] (C) seleção de um subconjunto do cubo por fixação de dimensão.
 - [ ] (D) rotação das dimensões apresentadas no relatório.
-- [ ] (E) normalização das tabelas de dimensão até a Terceira Forma Normal.
+- [x] (E) normalização das tabelas de dimensão até a Terceira Forma Normal.
