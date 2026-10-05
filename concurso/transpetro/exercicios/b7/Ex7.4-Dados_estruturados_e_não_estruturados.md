@@ -62,11 +62,11 @@ Uma organização precisa armazenar, em formato original, grandes volumes de arq
 
 O repositório adequado a esse cenário é o
 
-(A) data warehouse corporativo.
-(B) data lake.
-(C) banco de dados relacional normalizado.
-(D) cubo multidimensional pré-calculado.
-(E) sistema OLTP transacional.
+- [ ] (A) data warehouse corporativo.
+- [x] (B) data lake.
+- [ ] (C) banco de dados relacional normalizado.
+- [ ] (D) cubo multidimensional pré-calculado.
+- [ ] (E) sistema OLTP transacional.
 
 ---
 
@@ -76,11 +76,11 @@ Uma organização pretende analisar o conteúdo de reclamações registradas em 
 
 A técnica adequada a essa finalidade é
 
-(A) mineração de texto (*text mining*).
-(B) normalização até a Terceira Forma Normal.
-(C) modelagem dimensional em esquema estrela.
-(D) controle de concorrência otimista.
-(E) particionamento horizontal da tabela.
+- [ ] (A) mineração de texto (*text mining*).
+- [ ] (B) normalização até a Terceira Forma Normal.
+- [ ] (C) modelagem dimensional em esquema estrela.
+- [ ] (D) controle de concorrência otimista.
+- [ ] (E) particionamento horizontal da tabela.
 
 ---
 
