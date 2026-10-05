@@ -1,6 +1,3 @@
----
-Data:
----
 # PROMPT DE MENTOR — Exercícios de Programação Java & Arquitetura
 
 ## QUEM É O ALUNO
