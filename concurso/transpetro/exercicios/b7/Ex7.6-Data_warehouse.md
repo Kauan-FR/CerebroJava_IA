@@ -54,7 +54,7 @@ Essa necessidade decorre da característica de
 - [ ] (B) não volatilidade.
 - [ ] (C) variação no tempo.
 - [ ] (D) orientação a assunto.
-- [x] (E) volatilidade controlada.
+- [ ] (E) volatilidade controlada.
 
 ---
 
@@ -128,6 +128,6 @@ O data warehouse apresenta características bem delimitadas.
 
 - [ ] (A) consolidação de dados provenientes de múltiplas fontes.
 - [ ] (B) manutenção de dados históricos para análise de tendências.
-- [ ] (C) atualização dos registros pelos usuários durante as consultas analíticas.
+- [x] (C) atualização dos registros pelos usuários durante as consultas analíticas.
 - [ ] (D) organização dos dados em torno dos assuntos relevantes ao negócio.
-- [x] (E) padronização de formatos e domínios durante o processo de carga.
+- [ ] (E) padronização de formatos e domínios durante o processo de carga.
