@@ -100,7 +100,7 @@ Uma equipe disponibilizou, aos analistas, uma estrutura que reproduz parcialment
 
 Essa estrutura é denominada
 
-- [ ] (A) data mart departamental.
+- [x] (A) data mart departamental.
 - [ ] (B) ODS (*operational data store*).
 - [ ] (C) cubo MOLAP pré-calculado.
 - [ ] (D) área de estágio do ETL.
@@ -112,11 +112,11 @@ Essa estrutura é denominada
 
 Uma diferença entre o data warehouse e os sistemas transacionais é que o data warehouse
 
-(A) adota modelagem orientada à consulta analítica, com dados históricos consolidados, enquanto os sistemas transacionais são normalizados e voltados ao registro de operações correntes.
-(B) adota modelagem normalizada voltada ao registro de operações, enquanto os sistemas transacionais são dimensionais.
-(C) armazena apenas dados do dia corrente, enquanto os sistemas transacionais mantêm o histórico completo.
-(D) dispensa processos de carga, por se conectar diretamente às origens.
-(E) destina-se ao nível operacional, enquanto os sistemas transacionais atendem à alta direção.
+- [ ] (A) adota modelagem orientada à consulta analítica, com dados históricos consolidados, enquanto os sistemas transacionais são normalizados e voltados ao registro de operações correntes.
+- [ ] (B) adota modelagem normalizada voltada ao registro de operações, enquanto os sistemas transacionais são dimensionais.
+- [ ] (C) armazena apenas dados do dia corrente, enquanto os sistemas transacionais mantêm o histórico completo.
+- [ ] (D) dispensa processos de carga, por se conectar diretamente às origens.
+- [ ] (E) destina-se ao nível operacional, enquanto os sistemas transacionais atendem à alta direção.
 
 ---
 
