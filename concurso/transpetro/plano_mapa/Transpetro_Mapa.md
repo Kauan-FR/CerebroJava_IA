@@ -59,7 +59,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] 7.3 Mapeamento de fontes de dados
 - [x] 7.4 Dados estruturados e não estruturados
 - [x] 7.5 OLAP e operações
-- [ ] 7.6 Data warehouse
+- [x] 7.6 Data warehouse
 - [ ] 7.7 Modelagem multidimensional
 - [ ] 7.8 Relatórios e dashboards
 - [ ] 7.9 Manipulação em planilhas

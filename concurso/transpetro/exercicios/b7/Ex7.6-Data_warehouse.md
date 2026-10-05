@@ -50,13 +50,11 @@ Durante a carga de um data warehouse, constatou-se que o campo "sexo" era repres
 
 Essa necessidade decorre da característica de
 
-<font color="#00b050">- [ ] (A) integração.</font>
+- [x] (A) integração.
 - [ ] (B) não volatilidade.
 - [ ] (C) variação no tempo.
 - [ ] (D) orientação a assunto.
-<font color="#ff0000">- [x] (E) volatilidade controlada.</font>
-
->[!fail] 
+- [ ] (E) volatilidade controlada.
 
 ---
 
@@ -102,11 +100,20 @@ Uma equipe disponibilizou, aos analistas, uma estrutura que reproduz parcialment
 
 Essa estrutura é denominada
 
-- [x] (A) data mart departamental.
-- [ ] (B) ODS (*operational data store*).
+<font color="#ff0000">- [x] (A) data mart departamental.</font>
+<font color="#00b050">- [ ] (B) ODS (*operational data store*).</font>
 - [ ] (C) cubo MOLAP pré-calculado.
 - [ ] (D) área de estágio do ETL.
 - [ ] (E) data lakehouse.
+
+>[!fail] ODS
+>||ODS|Data mart|
+|---|---|---|
+|Propósito|consulta **operacional** integrada|análise **departamental**|
+|Latência|baixa — quase tempo real|carga periódica|
+|Histórico|raso, dados correntes|profundo|
+|Modelagem|próxima da origem, normalizada|dimensional|
+|Volatilidade|**volátil** — dados são atualizados|não volátil|
 
 ---
 
