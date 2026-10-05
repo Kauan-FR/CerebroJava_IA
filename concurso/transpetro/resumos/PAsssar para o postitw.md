@@ -197,3 +197,26 @@ Tipo:
 │ DW = tratado, schema-on-WRITE                   │
 │ DATA LAKE = bruto, schema-on-READ               │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 27 — OLAP                       [T-7.5]  │
+├─────────────────────────────────────────────────┤
+│ cubo: fato · medida · dimensão · HIERARQUIA     │
+│                                                 │
+│ OLTP = Transação, escrita, normalizado, atual   │
+│ OLAP = Análise, leitura, dimensional, histórico │
+│                                                 │
+│ DRILL-DOWN desce (detalha)                      │
+│ ROLL-UP sobe (consolida)                        │
+│ SLICE = uma dimensão                            │
+│ DICE = várias dimensões                         │
+│ PIVOT = gira o cubo                             │
+│ DRILL-ACROSS = outro fato                       │
+│ DRILL-THROUGH = dado de origem                  │
+│                                                 │
+│ ROLAP = Relacional (escala, lento)              │
+│ MOLAP = cubo (rápido, limitado)                 │
+│ HOLAP = híbrido                                 │
+└─────────────────────────────────────────────────┘
