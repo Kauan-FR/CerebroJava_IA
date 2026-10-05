@@ -50,11 +50,13 @@ Durante a carga de um data warehouse, constatou-se que o campo "sexo" era repres
 
 Essa necessidade decorre da característica de
 
-- [ ] (A) integração.
+<font color="#00b050">- [ ] (A) integração.</font>
 - [ ] (B) não volatilidade.
 - [ ] (C) variação no tempo.
 - [ ] (D) orientação a assunto.
-- [ ] (E) volatilidade controlada.
+<font color="#ff0000">- [x] (E) volatilidade controlada.</font>
+
+>[!fail] 
 
 ---
 
