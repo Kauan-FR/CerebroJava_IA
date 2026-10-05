@@ -112,7 +112,7 @@ Essa estrutura é denominada
 
 Uma diferença entre o data warehouse e os sistemas transacionais é que o data warehouse
 
-- [ ] (A) adota modelagem orientada à consulta analítica, com dados históricos consolidados, enquanto os sistemas transacionais são normalizados e voltados ao registro de operações correntes.
+- [x] (A) adota modelagem orientada à consulta analítica, com dados históricos consolidados, enquanto os sistemas transacionais são normalizados e voltados ao registro de operações correntes.
 - [ ] (B) adota modelagem normalizada voltada ao registro de operações, enquanto os sistemas transacionais são dimensionais.
 - [ ] (C) armazena apenas dados do dia corrente, enquanto os sistemas transacionais mantêm o histórico completo.
 - [ ] (D) dispensa processos de carga, por se conectar diretamente às origens.
@@ -126,8 +126,8 @@ O data warehouse apresenta características bem delimitadas.
 
 **NÃO** constitui característica de um data warehouse a
 
-(A) consolidação de dados provenientes de múltiplas fontes.
-(B) manutenção de dados históricos para análise de tendências.
-(C) atualização dos registros pelos usuários durante as consultas analíticas.
-(D) organização dos dados em torno dos assuntos relevantes ao negócio.
-(E) padronização de formatos e domínios durante o processo de carga.
+- [ ] (A) consolidação de dados provenientes de múltiplas fontes.
+- [ ] (B) manutenção de dados históricos para análise de tendências.
+- [ ] (C) atualização dos registros pelos usuários durante as consultas analíticas.
+- [ ] (D) organização dos dados em torno dos assuntos relevantes ao negócio.
+- [x] (E) padronização de formatos e domínios durante o processo de carga.
