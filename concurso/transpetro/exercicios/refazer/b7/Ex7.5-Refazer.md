@@ -40,7 +40,7 @@ Um gestor analisava o faturamento consolidado por região e passou a examinar o 
 
 Essa operação é denominada
 
-- [ ] (A) drill down.
+- [x] (A) drill down.
 - [ ] (B) roll up.
 - [ ] (C) slice.
 - [ ] (D) pivot.
@@ -54,11 +54,11 @@ Em um cubo com as dimensões Tempo, Produto e Região, um analista fixou a dimen
 
 Essa operação é denominada
 
-(A) roll up.
-(B) dice.
-(C) pivot.
-(D) slice.
-(E) drill through.
+- [ ] (A) roll up.
+- [ ] (B) dice.
+- [ ] (C) pivot.
+- [ ] (D) slice.
+- [ ] (E) drill through.
 
 ---
 
