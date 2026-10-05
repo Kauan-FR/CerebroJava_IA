@@ -57,7 +57,7 @@ Essa operação é denominada
 - [ ] (A) roll up.
 - [ ] (B) dice.
 - [ ] (C) pivot.
-- [ ] (D) slice.
+- [x] (D) slice.
 - [ ] (E) drill through.
 
 ---
@@ -68,11 +68,11 @@ Em um cubo com as dimensões Tempo, Produto e Região, um analista selecionou si
 
 Essa operação é denominada
 
-(A) slice.
-(B) dice.
-(C) roll up.
-(D) drill down.
-(E) drill across.
+- [ ] (A) slice.
+- [x] (B) dice.
+- [ ] (C) roll up.
+- [ ] (D) drill down.
+- [ ] (E) drill across.
 
 ---
 
@@ -82,11 +82,11 @@ Um analista reorganizou a apresentação do relatório, trocando as dimensões e
 
 Essa operação é denominada
 
-(A) roll up.
-(B) slice.
-(C) dice.
-(D) drill down.
-(E) pivot (rotação).
+- [ ] (A) roll up.
+- [ ] (B) slice.
+- [ ] (C) dice.
+- [ ] (D) drill down.
+- [x] (E) pivot (rotação).
 
 ---
 
@@ -96,11 +96,11 @@ Um analista, examinando o cubo de vendas, passou a consultar também o cubo de e
 
 Essa operação é denominada
 
-(A) drill across.
-(B) drill through.
-(C) roll up.
-(D) slice.
-(E) pivot.
+- [ ] (A) drill across.
+- [ ] (B) drill through.
+- [ ] (C) roll up.
+- [ ] (D) slice.
+- [ ] (E) pivot.
 
 ---
 
