@@ -12,7 +12,7 @@ Tipo:
 
 Dados estruturados caracterizam-se por
 
-- [ ] (A) estarem organizados em esquema predefinido, com campos e tipos bem delimitados, como tabelas relacionais.
+- [x] (A) estarem organizados em esquema predefinido, com campos e tipos bem delimitados, como tabelas relacionais.
 - [ ] (B) não possuírem qualquer organização interna identificável.
 - [ ] (C) exigirem processamento por algoritmos de visão computacional.
 - [ ] (D) serem armazenados exclusivamente em arquivos de texto simples.
@@ -24,11 +24,11 @@ Dados estruturados caracterizam-se por
 
 Constituem exemplos de dados não estruturados
 
-(A) tabelas de um banco relacional e planilhas padronizadas.
-(B) documentos de texto, imagens, áudios e vídeos.
-(C) arquivos XML com esquema validado.
-(D) registros de um sistema de folha de pagamento.
-(E) chaves primárias e estrangeiras de um banco de dados.
+- [ ] (A) tabelas de um banco relacional e planilhas padronizadas.
+- [x] (B) documentos de texto, imagens, áudios e vídeos.
+- [ ] (C) arquivos XML com esquema validado.
+- [ ] (D) registros de um sistema de folha de pagamento.
+- [ ] (E) chaves primárias e estrangeiras de um banco de dados.
 
 ---
 
@@ -36,11 +36,11 @@ Constituem exemplos de dados não estruturados
 
 Arquivos nos formatos JSON e XML, que possuem marcadores e hierarquia próprios, mas não se ajustam a um esquema tabular rígido, são classificados como dados
 
-(A) estruturados.
-(B) semiestruturados.
-(C) não estruturados.
-(D) transacionais puros.
-(E) dimensionais agregados.
+- [ ] (A) estruturados.
+- [x] (B) semiestruturados.
+- [ ] (C) não estruturados.
+- [ ] (D) transacionais puros.
+- [ ] (E) dimensionais agregados.
 
 ---
 
@@ -48,11 +48,11 @@ Arquivos nos formatos JSON e XML, que possuem marcadores e hierarquia próprios,
 
 Estima-se que a maior parte do volume de dados gerado atualmente pelas organizações seja composta por dados
 
-(A) estruturados armazenados em bancos relacionais.
-(B) não estruturados, como textos, imagens e vídeos.
-(C) dimensionais mantidos em data warehouses.
-(D) de catálogo registrados nos SGBDs.
-(E) de log de transações.
+- [ ] (A) estruturados armazenados em bancos relacionais.
+- [x] (B) não estruturados, como textos, imagens e vídeos.
+- [ ] (C) dimensionais mantidos em data warehouses.
+- [ ] (D) de catálogo registrados nos SGBDs.
+- [ ] (E) de log de transações.
 
 ---
 
