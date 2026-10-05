@@ -74,7 +74,7 @@ A característica de um data warehouse segundo a qual os dados são armazenados 
 
 Na abordagem proposta por Inmon, a construção do ambiente analítico parte
 
-- [ ] (A) do data warehouse corporativo, a partir do qual são derivados os data marts departamentais.
+- [x] (A) do data warehouse corporativo, a partir do qual são derivados os data marts departamentais.
 - [ ] (B) dos data marts departamentais, posteriormente integrados por dimensões conformadas.
 - [ ] (C) do data lake, convertido progressivamente em cubos multidimensionais.
 - [ ] (D) dos sistemas transacionais, replicados integralmente sem transformação.
@@ -86,11 +86,11 @@ Na abordagem proposta por Inmon, a construção do ambiente analítico parte
 
 Na abordagem proposta por Kimball, a construção do ambiente analítico parte
 
-(A) do data warehouse corporativo normalizado até a Terceira Forma Normal.
-(B) dos data marts orientados a processos de negócio, integrados por meio de dimensões conformadas.
-(C) do data lake com esquema aplicado na leitura.
-(D) da replicação dos bancos transacionais em ambiente separado.
-(E) da consolidação manual de relatórios departamentais.
+- [ ] (A) do data warehouse corporativo normalizado até a Terceira Forma Normal.
+- [x] (B) dos data marts orientados a processos de negócio, integrados por meio de dimensões conformadas.
+- [ ] (C) do data lake com esquema aplicado na leitura.
+- [ ] (D) da replicação dos bancos transacionais em ambiente separado.
+- [ ] (E) da consolidação manual de relatórios departamentais.
 
 ---
 
@@ -100,11 +100,11 @@ Uma equipe disponibilizou, aos analistas, uma estrutura que reproduz parcialment
 
 Essa estrutura é denominada
 
-(A) data mart departamental.
-(B) ODS (*operational data store*).
-(C) cubo MOLAP pré-calculado.
-(D) área de estágio do ETL.
-(E) data lakehouse.
+- [ ] (A) data mart departamental.
+- [ ] (B) ODS (*operational data store*).
+- [ ] (C) cubo MOLAP pré-calculado.
+- [ ] (D) área de estágio do ETL.
+- [ ] (E) data lakehouse.
 
 ---
 
