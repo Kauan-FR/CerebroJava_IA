@@ -223,4 +223,24 @@ Tipo:
 
 ---
 
-
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 28 — DATA WAREHOUSE             [T-7.6]  │
+├─────────────────────────────────────────────────┤
+│ INMON — 4 características (O-I-N-V):            │
+│   Orientado a assunto · Integrado ·             │
+│   NÃO VOLÁTIL · Variante no tempo               │
+│ ⚠ não volátil = sem UPDATE nem DELETE           │
+│                                                 │
+│ DW = organização inteira                        │
+│ DATA MART = um departamento (recorte do DW)     │
+│                                                 │
+│ INMON = top-down (DW → marts)                   │
+│ KIMBALL = bottom-up (marts → DW)                │
+│                                                 │
+│ staging = limpeza temporária antes da carga     │
+│ ODS = atual e volátil | DW = histórico          │
+│                                                 │
+│ DW: tratado, schema-on-WRITE, ETL               │
+│ LAKE: bruto, schema-on-READ, ELT                │
+│   sem governança = data swamp                   │
+└─────────────────────────────────────────────────┘
