@@ -91,7 +91,7 @@ Uma medida pode ser somada ao longo das dimensões Produto e Loja, mas não pode
 Essa medida é classificada como
 
 - [ ] (A) aditiva.
-- [ ] (B) semiaditiva.
+- [x] (B) semiaditiva.
 - [ ] (C) não aditiva.
 - [ ] (D) degenerada.
 - [ ] (E) derivada.
