@@ -76,7 +76,7 @@ Essa estrutura é denominada
 
 Em um projeto de data warehouse, a definição de que cada linha da tabela de fato representará um item de uma nota fiscal, e não o total da nota, corresponde à escolha
 
-- [ ] (A) da granularidade da tabela de fato.
+- [x] (A) da granularidade da tabela de fato.
 - [ ] (B) da estratégia de particionamento físico.
 - [ ] (C) do tipo de dimensão de variação lenta.
 - [ ] (D) da cardinalidade das dimensões envolvidas.
