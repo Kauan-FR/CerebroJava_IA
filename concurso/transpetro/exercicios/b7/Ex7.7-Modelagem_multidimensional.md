@@ -120,9 +120,17 @@ A dimensão Corretor deve ser tratada como dimensão de variação lenta do tipo
 
 - [ ] (A) 0, mantendo-se o valor original inalterado.
 - [ ] (B) 1, sobrescrevendo-se o valor anterior.
-- [ ] (C) 2, criando-se novo registro a cada alteração, com chave substituta distinta.
-- [ ] (D) 3, mantendo-se apenas o valor atual e o imediatamente anterior.
+<font color="#00b050">- [ ] (C) 2, criando-se novo registro a cada alteração, com chave substituta distinta.</font>
+<font color="#ff0000">- [x] (D) 3, mantendo-se apenas o valor atual e o imediatamente anterior.</font>
 - [ ] (E) 4, migrando-se os atributos para a tabela de fato.
+
+>[!fail] SCD tipo 2, e por que não o 3
+>
+>|SCD 3 — o que você marcou|SCD 2 — a resposta|
+|---|---|
+|guarda em **colunas**: `regional_atual` e `regional_anterior`|cria uma **linha nova** a cada mudança|
+|suporta **uma** mudança|suporta **todas**|
+|não vincula a mudança a uma data|cada versão tem vigência própria|
 
 ---
 
@@ -135,5 +143,5 @@ A modelagem dimensional apresenta características bem delimitadas.
 - [ ] (A) desnormalização das tabelas de dimensão em favor do desempenho de consulta.
 - [ ] (B) definição explícita da granularidade da tabela de fato.
 - [ ] (C) utilização de chaves substitutas nas tabelas de dimensão.
-- [ ] (D) eliminação integral da redundância entre os dados armazenados.
+- [x] (D) eliminação integral da redundância entre os dados armazenados.
 - [ ] (E) orientação a processos de negócio passíveis de análise.
