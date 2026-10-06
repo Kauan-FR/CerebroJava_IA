@@ -65,7 +65,7 @@ Um ambiente analítico possui várias tabelas de fato que compartilham as mesmas
 Essa estrutura é denominada
 
 - [ ] (A) esquema estrela isolado.
-- [ ] (B) constelação de fatos.
+- [x] (B) constelação de fatos.
 - [ ] (C) floco de neve simples.
 - [ ] (D) cubo degenerado.
 - [ ] (E) área de estágio consolidada.
