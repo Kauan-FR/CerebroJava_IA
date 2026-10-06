@@ -105,7 +105,7 @@ O número do pedido foi mantido na própria tabela de fato, sem criação de tab
 Esse atributo é classificado como dimensão
 
 - [ ] (A) conformada.
-- [ ] (B) degenerada.
+- [x] (B) degenerada.
 - [ ] (C) lixo.
 - [ ] (D) papel.
 - [ ] (E) de variação lenta do tipo 1.
