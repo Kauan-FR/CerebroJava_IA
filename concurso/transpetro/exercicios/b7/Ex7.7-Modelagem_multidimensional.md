@@ -24,7 +24,7 @@ Na modelagem dimensional, a tabela que armazena as medidas quantitativas de um p
 
 As tabelas de dimensão, em um esquema dimensional, caracterizam-se por
 
-- [ ] (A) armazenar atributos descritivos que qualificam as medidas, sendo usualmente desnormalizadas.
+- [x] (A) armazenar atributos descritivos que qualificam as medidas, sendo usualmente desnormalizadas.
 - [ ] (B) conter exclusivamente medidas numéricas aditivas.
 - [ ] (C) estar sempre normalizadas até a Forma Normal de Boyce-Codd.
 - [ ] (D) possuir chave primária composta pelas chaves das demais dimensões.
@@ -36,7 +36,7 @@ As tabelas de dimensão, em um esquema dimensional, caracterizam-se por
 
 Um esquema dimensional em que as tabelas de dimensão se conectam diretamente à tabela de fato, sem decomposição em tabelas auxiliares, é denominado esquema
 
-- [ ] (A) estrela.
+- [x] (A) estrela.
 - [ ] (B) floco de neve.
 - [ ] (C) constelação normalizada.
 - [ ] (D) relacional transacional.
@@ -51,7 +51,7 @@ Uma equipe decompôs a dimensão Produto em tabelas adicionais de Categoria e De
 O esquema resultante é denominado
 
 - [ ] (A) estrela.
-- [ ] (B) floco de neve.
+- [x] (B) floco de neve.
 - [ ] (C) estrela degenerada.
 - [ ] (D) dimensional plano.
 - [ ] (E) multivalorado.
