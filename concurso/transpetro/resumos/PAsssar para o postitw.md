@@ -244,3 +244,28 @@ Tipo:
 │ LAKE: bruto, schema-on-READ, ELT                │
 │   sem governança = data swamp                   │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 29 — MODELAGEM DIMENSIONAL      [T-7.7]  │
+├─────────────────────────────────────────────────┤
+│ FATO = medidas + FKs (muitas linhas)            │
+│ DIMENSÃO = atributos descritivos                │
+│ GRANULARIDADE = nível de detalhe do fato        │
+│                                                 │
+│ ESTRELA = desnormalizada, poucos joins, RÁPIDA  │
+│ FLOCO = normalizada, muitos joins, lenta        │
+│ CONSTELAÇÃO = vários fatos, dim. conformadas    │
+│                                                 │
+│ aditiva = soma em tudo                          │
+│ SEMIaditiva = soma em algumas, NÃO no tempo     │
+│ não aditiva = percentual, média                 │
+│                                                 │
+│ degenerada = fica no fato (nº cupom)            │
+│ PAPEL = várias vezes no MESMO fato              │
+│ CONFORMADA = em fatos DIFERENTES                │
+│ lixo = flags de baixa cardinalidade juntas      │
+│                                                 │
+│ SCD 1 sobrescreve | SCD 2 cria linha            │
+└─────────────────────────────────────────────────┘
