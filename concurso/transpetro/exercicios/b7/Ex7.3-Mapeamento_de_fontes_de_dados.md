@@ -66,7 +66,7 @@ Durante o mapeamento, constatou-se que o mesmo cliente possui identificadores di
 
 O desafio caracterizado nessa situação é a
 
-- [ ] (A) integração e reconciliação de identificadores entre as fontes.
+- [x] (A) integração e reconciliação de identificadores entre as fontes.
 - [ ] (B) violação da integridade de entidade do data warehouse.
 - [ ] (C) ausência de granularidade definida para a tabela de fato.
 - [ ] (D) necessidade de desnormalizar as tabelas de dimensão.
