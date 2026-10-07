@@ -106,7 +106,7 @@ Esse registro corresponde à
 
 Ao avaliar as fontes candidatas a alimentar o ambiente analítico, uma equipe deve considerar, entre outros aspectos,
 
-- [ ] (A) a confiabilidade, a completude, a atualidade e a disponibilidade de acesso aos dados.
+- [x] (A) a confiabilidade, a completude, a atualidade e a disponibilidade de acesso aos dados.
 - [ ] (B) exclusivamente o volume de registros existente em cada fonte.
 - [ ] (C) apenas a linguagem de programação utilizada no sistema de origem.
 - [ ] (D) somente a quantidade de usuários cadastrados em cada sistema.
@@ -120,7 +120,7 @@ Durante o mapeamento, identificou-se que determinada informação está disponí
 
 A providência adequada consiste em
 
-- [ ] (A) definir, junto às áreas de negócio, qual é a fonte autoritativa para aquela informação.
+- [x] (A) definir, junto às áreas de negócio, qual é a fonte autoritativa para aquela informação.
 - [ ] (B) carregar as duas fontes simultaneamente, mantendo os valores divergentes.
 - [ ] (C) descartar ambas as fontes e excluir a informação do escopo analítico.
 - [ ] (D) adotar automaticamente a fonte com maior volume de registros.
