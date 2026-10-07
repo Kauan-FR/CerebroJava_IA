@@ -80,7 +80,7 @@ Uma equipe precisa capturar, de forma incremental, apenas os registros alterados
 
 A técnica adequada a essa finalidade é
 
-- [ ] (A) a captura de dados alterados (*change data capture*).
+- [x] (A) a captura de dados alterados (*change data capture*).
 - [ ] (B) a replicação integral diária da base de origem.
 - [ ] (C) o particionamento vertical das tabelas de destino.
 - [ ] (D) a criação de índices sobre as colunas de origem.
@@ -94,7 +94,7 @@ Ao mapear as fontes, a equipe registrou, para cada campo, sua origem, as transfo
 
 Esse registro corresponde à
 
-- [ ] (A) linhagem de dados (*data lineage*).
+- [x] (A) linhagem de dados (*data lineage*).
 - [ ] (B) política de retenção de dados.
 - [ ] (C) matriz de responsabilidades do projeto.
 - [ ] (D) estrutura analítica do projeto.
