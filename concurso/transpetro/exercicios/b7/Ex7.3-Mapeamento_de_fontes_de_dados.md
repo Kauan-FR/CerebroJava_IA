@@ -137,5 +137,5 @@ O mapeamento de fontes de dados apresenta finalidades bem delimitadas.
 - [ ] (A) identificação dos sistemas que contêm os dados necessários ao projeto.
 - [ ] (B) documentação das regras de transformação a serem aplicadas na carga.
 - [ ] (C) avaliação da qualidade e da confiabilidade das fontes candidatas.
-- [ ] (D) definição da identidade visual dos painéis disponibilizados aos usuários.
+- [x] (D) definição da identidade visual dos painéis disponibilizados aos usuários.
 - [ ] (E) subsídio ao dimensionamento do esforço de integração necessário.
