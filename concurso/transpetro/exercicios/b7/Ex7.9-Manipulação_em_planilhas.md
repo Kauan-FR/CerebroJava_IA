@@ -15,7 +15,7 @@ Uma analista precisa consolidar uma base com milhares de registros de vendas, ag
 O recurso adequado a essa finalidade é
 
 - [ ] (A) a formatação condicional aplicada ao intervalo.
-- [ ] (B) a tabela dinâmica.
+- [x] (B) a tabela dinâmica.
 - [ ] (C) a validação de dados por lista suspensa.
 - [ ] (D) o congelamento de painéis.
 - [ ] (E) a proteção da planilha por senha.
@@ -30,7 +30,7 @@ A função adequada a essa finalidade é
 
 - [ ] (A) SOMA.
 - [ ] (B) CONT.SE.
-- [ ] (C) PROCV (ou PROCX).
+- [x] (C) PROCV (ou PROCX).
 - [ ] (D) ARRED.
 - [ ] (E) CONCATENAR.
 
@@ -42,7 +42,7 @@ Uma analista precisa exibir temporariamente apenas as linhas referentes à regi�
 
 O recurso adequado é
 
-- [ ] (A) o filtro.
+- [x] (A) o filtro.
 - [ ] (B) a remoção de duplicatas.
 - [ ] (C) a tabela dinâmica.
 - [ ] (D) a mesclagem de células.
@@ -56,7 +56,7 @@ Uma analista deseja que as células com valores abaixo da meta sejam destacadas 
 
 O recurso adequado é
 
-- [ ] (A) a classificação personalizada.
+- [x] (A) a classificação personalizada.
 - [ ] (B) o preenchimento relâmpago.
 - [ ] (C) a validação de dados.
 - [ ] (D) a formatação condicional.
@@ -70,7 +70,7 @@ Após a importação de uma base de clientes, constatou-se que diversos registro
 
 O recurso adequado para eliminar essas repetições é
 
-- [ ] (A) a filtragem avançada por critério.
+- [x] (A) a filtragem avançada por critério.
 - [ ] (B) a remoção de duplicatas.
 - [ ] (C) a proteção do intervalo selecionado.
 - [ ] (D) a conversão para intervalo nomeado.
