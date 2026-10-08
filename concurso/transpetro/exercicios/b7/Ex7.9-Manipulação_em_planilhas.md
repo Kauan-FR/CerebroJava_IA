@@ -98,7 +98,7 @@ Ao copiar uma fórmula para outras células, uma analista precisa que a referên
 
 Para tanto, deve utilizar uma referência
 
-- [ ] (A) absoluta, com o uso do cifrão antes da coluna e da linha.
+- [x] (A) absoluta, com o uso do cifrão antes da coluna e da linha.
 - [ ] (B) relativa, sem qualquer marcação adicional.
 - [ ] (C) circular entre as células envolvidas.
 - [ ] (D) tridimensional entre pastas de trabalho distintas.
@@ -112,7 +112,7 @@ Uma analista precisa impedir que os usuários digitem valores fora de uma relaç
 
 O recurso adequado é
 
-- [ ] (A) a formatação condicional.
+- [x] (A) a formatação condicional.
 - [ ] (B) a tabela dinâmica.
 - [ ] (C) o filtro automático.
 - [ ] (D) a remoção de duplicatas.
@@ -125,7 +125,7 @@ O recurso adequado é
 Uma limitação frequentemente apontada no uso de planilhas como repositório corporativo de dados é
 
 - [ ] (A) a impossibilidade de aplicar fórmulas sobre os valores armazenados.
-- [ ] (B) a dificuldade de controle de versão e de garantia de consistência quando múltiplas cópias circulam entre as áreas.
+- [x] (B) a dificuldade de controle de versão e de garantia de consistência quando múltiplas cópias circulam entre as áreas.
 - [ ] (C) a incapacidade de representar dados numéricos com casas decimais.
 - [ ] (D) a exigência de linguagem de consulta estruturada para leitura dos dados.
 - [ ] (E) a impossibilidade de exportar o conteúdo para outros formatos.
