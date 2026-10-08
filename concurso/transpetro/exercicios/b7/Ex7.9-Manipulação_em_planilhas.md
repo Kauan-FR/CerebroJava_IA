@@ -30,7 +30,7 @@ A função adequada a essa finalidade é
 
 - [ ] (A) SOMA.
 - [ ] (B) CONT.SE.
-- [x] (C) PROCV (ou PROCX).
+- [ ] (C) PROCV (ou PROCX).
 - [ ] (D) ARRED.
 - [ ] (E) CONCATENAR.
 
@@ -56,10 +56,10 @@ Uma analista deseja que as células com valores abaixo da meta sejam destacadas 
 
 O recurso adequado é
 
-- [x] (A) a classificação personalizada.
+- [ ] (A) a classificação personalizada.
 - [ ] (B) o preenchimento relâmpago.
 - [ ] (C) a validação de dados.
-- [ ] (D) a formatação condicional.
+- [x] (D) a formatação condicional.
 - [ ] (E) a auditoria de fórmulas.
 
 ---
@@ -70,8 +70,8 @@ Após a importação de uma base de clientes, constatou-se que diversos registro
 
 O recurso adequado para eliminar essas repetições é
 
-- [x] (A) a filtragem avançada por critério.
-- [ ] (B) a remoção de duplicatas.
+- [ ] (A) a filtragem avançada por critério.
+- [x] (B) a remoção de duplicatas.
 - [ ] (C) a proteção do intervalo selecionado.
 - [ ] (D) a conversão para intervalo nomeado.
 - [ ] (E) o agrupamento de linhas.
@@ -84,11 +84,15 @@ Uma analista precisa somar os valores da coluna de vendas, considerando apenas a
 
 A função adequada a essa finalidade é
 
-- [x] (A) SOMA.
+<font color="#ff0000">- [x] (A) SOMA.</font>
 - [ ] (B) MÉDIA.
-- [ ] (C) SOMASE (ou SOMASES).
+<font color="#00b050">- [ ] (C) SOMASE (ou SOMASES).</font>
 - [ ] (D) MÁXIMO.
 - [ ] (E) CONT.NÚM.
+
+>[!fail] soma com condição
+>`SOMA` soma tudo que estiver no intervalo, sem filtrar nada. Quem aplica critério é `SOMASE`:
+>E `SOMASES` quando há mais de um critério — região Sul **e** ano 2026, por exemplo.
 
 ---
 
@@ -112,11 +116,11 @@ Uma analista precisa impedir que os usuários digitem valores fora de uma relaç
 
 O recurso adequado é
 
-- [x] (A) a formatação condicional.
+- [ ] (A) a formatação condicional.
 - [ ] (B) a tabela dinâmica.
 - [ ] (C) o filtro automático.
 - [ ] (D) a remoção de duplicatas.
-- [ ] (E) a validação de dados.
+- [x] (E) a validação de dados.
 
 ---
 
@@ -141,5 +145,5 @@ A manipulação de dados em planilhas apoia-se em recursos bem delimitados.
 - [ ] (A) classificação dos registros segundo uma ou mais colunas.
 - [ ] (B) aplicação de funções de agregação sobre intervalos selecionados.
 - [ ] (C) criação de tabelas dinâmicas para sumarização dos dados.
-- [ ] (D) definição de índices sobre colunas para otimização do plano de execução.
+- [x] (D) definição de índices sobre colunas para otimização do plano de execução.
 - [ ] (E) utilização de funções de busca para recuperar valores correspondentes.

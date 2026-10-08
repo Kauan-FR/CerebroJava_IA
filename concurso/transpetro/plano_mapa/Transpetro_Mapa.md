@@ -62,7 +62,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [x] 7.6 Data warehouse
 - [x] 7.7 Modelagem multidimensional
 - [x] 7.8 Relatórios e dashboards
-- [ ] 7.9 Manipulação em planilhas
+- [x] 7.9 Manipulação em planilhas
 - [ ] 7.10 Geração de insights
 - [ ] 7.11 BI na tomada de decisão
 
