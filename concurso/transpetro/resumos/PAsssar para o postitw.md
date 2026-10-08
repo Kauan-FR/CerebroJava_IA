@@ -269,3 +269,67 @@ Tipo:
 │                                                 │
 │ SCD 1 sobrescreve | SCD 2 cria linha            │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 30 — FONTES DE DADOS            [T-7.3]  │
+├─────────────────────────────────────────────────┤
+│ mapear = de onde vem cada dado (antes do ETL)   │
+│ documentar: origem · responsável · formato ·    │
+│   FREQUÊNCIA · volume · qualidade               │
+│                                                 │
+│ LINHAGEM = caminho da origem até o relatório    │
+│ METADADO = dado sobre o dado                    │
+│                                                 │
+│ qualidade: completude · acurácia ·              │
+│   consistência · atualidade · unicidade         │
+│ fonte única de verdade = quem é o DONO do dado  │
+│ ⚠ garbage in, garbage out                       │
+└─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 31 — PLANILHAS                  [T-7.9]  │
+├─────────────────────────────────────────────────┤
+│ A1 relativa | $A$1 absoluta                     │
+│ $A1 trava coluna | A$1 trava linha               │
+│ ⚠ o $ trava o que vem depois                    │
+│                                                 │
+│ PROCV: 1ª coluna, retorna à DIREITA             │
+│   último argumento FALSO/0 = exato              │
+│ ⚠ PROCV não busca à ESQUERDA                    │
+│   → aí é ÍNDICE + CORRESP                       │
+│                                                 │
+│ CONT.SE conta | SOMASE soma | ...SES = vários   │
+│ ⚠ SOMASE: soma por ÚLTIMO                       │
+│   SOMASES: soma por PRIMEIRO                    │
+│                                                 │
+│ tabela dinâmica = resume sem alterar a origem   │
+│ FILTRO oculta | CLASSIFICAÇÃO reordena          │
+│                                                 │
+│ #N/D não achou · #REF! célula excluída          │
+│ #VALOR! tipo errado · #NOME? função errada      │
+└─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 32 — INSIGHTS                  [T-7.10]  │
+├─────────────────────────────────────────────────┤
+│ INSIGHT = descoberta relevante e ACIONÁVEL      │
+│ informação DESCREVE | insight EXPLICA e AGE     │
+│                                                 │
+│ 3 critérios: relevante · ACIONÁVEL · novo       │
+│                                                 │
+│ caminho: observar → questionar → investigar →   │
+│   concluir → agir                               │
+│ (descritiva → diagnóstica)                      │
+│                                                 │
+│ procurar: tendência · sazonalidade · outlier ·  │
+│   correlação · concentração (Pareto)            │
+│                                                 │
+│ ⚠⚠ CORRELAÇÃO ≠ CAUSALIDADE                     │
+│ viés de confirmação = só ver o que confirma     │
+└─────────────────────────────────────────────────┘
