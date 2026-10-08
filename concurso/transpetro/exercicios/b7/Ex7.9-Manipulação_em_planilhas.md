@@ -84,7 +84,7 @@ Uma analista precisa somar os valores da coluna de vendas, considerando apenas a
 
 A função adequada a essa finalidade é
 
-- [ ] (A) SOMA.
+- [x] (A) SOMA.
 - [ ] (B) MÉDIA.
 - [ ] (C) SOMASE (ou SOMASES).
 - [ ] (D) MÁXIMO.
