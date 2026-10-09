@@ -6,27 +6,6 @@ Tipo:
 
 
 ┌─────────────────────────────────────────────────┐
-│ CARTÃO 17 — DESIGN THINKING           [T-6.10]  │
-├─────────────────────────────────────────────────┤
-│ colaborativo, iterativo, centrado nas pessoas   │
-│                                                 │
-│ 5 etapas (E-D-I-P-T):                           │
-│   EMPATIZAR · DEFINIR · IDEAR ·                 │
-│   PROTOTIPAR · TESTAR                           │
-│ ⚠ não é linear — volta a qualquer etapa         │
-│                                                 │
-│ DIVERGENTE = abre, gera opções                  │
-│ CONVERGENTE = fecha, escolhe                    │
-│ duplo diamante = alterna os dois                │
-│                                                 │
-│ 3 critérios: desejabilidade (querem?) ·         │
-│   viabilidade (conseguimos?) ·                  │
-│   praticabilidade (sustenta como negócio?)      │
-└─────────────────────────────────────────────────┘
-
----
-
-┌─────────────────────────────────────────────────┐
 │ CARTÃO 18 — PERSONAS                  [T-6.11]  │
 ├─────────────────────────────────────────────────┤
 │ persona = personagem fictício que representa    │
