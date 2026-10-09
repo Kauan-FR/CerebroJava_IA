@@ -4,25 +4,6 @@ Tipo:
 ---
 ---
 
-┌─────────────────────────────────────────────────┐
-│ CARTÃO 16 — DCU                        [T-6.4]  │
-├─────────────────────────────────────────────────┤
-│ DCU = usuário guia as decisões · ISO 9241-210   │
-│                                                 │
-│ centrado na TECNOLOGIA: "onde aplico isso?"     │
-│ centrado no USUÁRIO: "o que atende à meta?"     │
-│                                                 │
-│ Ciclo (4, iterativo):                           │
-│   1 contexto de uso                             │
-│   2 requisitos do usuário                       │
-│   3 produzir soluções                           │
-│   4 avaliar com usuários → volta ao 1           │
-│                                                 │
-│ ⚠ usuário participa DESDE O INÍCIO,             │
-│   não só na validação final                     │
-└─────────────────────────────────────────────────┘
-
----
 
 ┌─────────────────────────────────────────────────┐
 │ CARTÃO 17 — DESIGN THINKING           [T-6.10]  │
