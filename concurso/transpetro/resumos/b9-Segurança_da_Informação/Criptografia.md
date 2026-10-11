@@ -7,5 +7,15 @@ Tipo:
   - resumo
 ---
 ---
-## O que é 
+## Criptografia Simetrica
+
+Ultiliza a mesma chave para criptografar e descriptografar
+
+## Criptografia Assimetrica
+
+Introduz o uso de um par de chave (publica e privada)
+
+
+
+
 
