@@ -172,28 +172,6 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] Itens gramaticais para compreensão semântica
 
 
-
-### Bloco 7 — BI
-
-Boa parte já está coberta: DW, OLAP, modelagem dimensional e ETL vieram no Bloco 1; dashboards e relatórios você acabou de fechar no 6.6.
-
-| Ciclo | Subtópicos                                                                                                                         | Observação                                                   |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **1** | **7.1** dado/informação/conhecimento + **7.2** conceitos de BI + **7.4** estruturados × não estruturados                           | Conceitual e leve                                            |
-| **2** | **7.5** OLAP e operações + **7.6** data warehouse + **7.7** modelagem multidimensional                                             | **Revisão** do Bloco 1 — passe rápido, vá direto às questões |
-| **3** | **7.3** fontes de dados + **7.8** dashboards em ferramentas de BI + **7.9** planilhas + **7.10** insights + **7.11** BI na decisão | Os cinco são leves e 7.8/7.10 já vieram no 6.6               |
-
-
-### Roteiro até os simulados
-
-|Período|Bloco|
-|---|---|
-|22/09 – 26/09|**6 — UX**|
-|28/09 – 17/10|**9 — Segurança** (triado)|
-|19/10 – 23/10|**8 — Lógica**|
-|24/10 – 26/10|**7 — BI** + **LGPD**|
-|27/10 em diante|Simulados|
-
 ### Sobre o 9: você não precisa terminar os 21
 
 A conta é outra. São **8 questões**. Acertar 6 de 8 já é ótimo. E a Cesgranrio concentra as questões em poucos subtópicos:
