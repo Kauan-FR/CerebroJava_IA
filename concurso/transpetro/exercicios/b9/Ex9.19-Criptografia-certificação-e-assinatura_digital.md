@@ -84,7 +84,7 @@ Uma função de resumo criptográfico (*hash*) caracteriza-se por
 
 A propriedade de uma função de resumo segundo a qual é inviável encontrar duas entradas distintas que produzam o mesmo resumo é denominada resistência
 
-- [ ] (A) à colisão.
+- [x] (A) à colisão.
 - [ ] (B) à força bruta.
 - [ ] (C) à engenharia reversa de chave.
 - [ ] (D) ao desgaste criptográfico.
@@ -98,7 +98,7 @@ Em um sistema de autenticação, recomenda-se armazenar as senhas dos usuários
 
 - [ ] (A) em texto claro, protegidas por controle de acesso ao banco.
 - [ ] (B) cifradas com algoritmo simétrico reversível.
-- [ ] (C) como resumo criptográfico gerado com função específica para senhas e valor aleatório adicional (*salt*).
+- [x] (C) como resumo criptográfico gerado com função específica para senhas e valor aleatório adicional (*salt*).
 - [ ] (D) codificadas em Base64 antes da gravação.
 - [ ] (E) assinadas digitalmente com a chave privada do servidor.
 
