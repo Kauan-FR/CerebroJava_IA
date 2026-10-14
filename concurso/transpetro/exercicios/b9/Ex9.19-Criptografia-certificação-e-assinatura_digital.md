@@ -144,7 +144,7 @@ Para verificar uma assinatura digital, o destinatário utiliza
 
 No envelope digital, o conteúdo da mensagem é cifrado com uma chave
 
-- [ ] (A) simétrica, gerada para aquela comunicação, a qual é então cifrada com a chave pública do destinatário.
+- [x] (A) simétrica, gerada para aquela comunicação, a qual é então cifrada com a chave pública do destinatário.
 - [ ] (B) assimétrica pública do destinatário, dispensando qualquer chave simétrica.
 - [ ] (C) privada do remetente, decifrada pela chave privada do destinatário.
 - [ ] (D) de resumo criptográfico, verificada pela autoridade certificadora.
@@ -156,7 +156,7 @@ No envelope digital, o conteúdo da mensagem é cifrado com uma chave
 
 A adoção do envelope digital justifica-se porque ele
 
-- [ ] (A) combina o desempenho da criptografia simétrica com a segurança da distribuição de chaves da assimétrica.
+- [x] (A) combina o desempenho da criptografia simétrica com a segurança da distribuição de chaves da assimétrica.
 - [ ] (B) dispensa o uso de certificados digitais na comunicação.
 - [ ] (C) elimina a necessidade de verificar a integridade da mensagem.
 - [ ] (D) substitui a assinatura digital na garantia do não repúdio.
@@ -168,7 +168,7 @@ A adoção do envelope digital justifica-se porque ele
 
 Um certificado digital tem por finalidade
 
-- [ ] (A) vincular uma chave pública à identidade de seu titular, atestada por uma autoridade certificadora.
+- [x] (A) vincular uma chave pública à identidade de seu titular, atestada por uma autoridade certificadora.
 - [ ] (B) armazenar a chave privada do titular em repositório público.
 - [ ] (C) cifrar o conteúdo das mensagens trocadas entre as partes.
 - [ ] (D) gerar resumos criptográficos dos documentos assinados.
@@ -181,7 +181,7 @@ Um certificado digital tem por finalidade
 Na Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), a entidade responsável por verificar presencialmente a identidade do solicitante e encaminhar o pedido de emissão do certificado é a
 
 - [ ] (A) Autoridade Certificadora (AC).
-- [ ] (B) Autoridade de Registro (AR).
+- [x] (B) Autoridade de Registro (AR).
 - [ ] (C) Autoridade Certificadora Raiz.
 - [ ] (D) Lista de Certificados Revogados (LCR).
 - [ ] (E) Autoridade Nacional de Proteção de Dados.
@@ -197,5 +197,5 @@ Os mecanismos criptográficos apresentam finalidades bem delimitadas.
 - [ ] (A) comprovação da autoria do documento assinado.
 - [ ] (B) detecção de alterações no conteúdo após a assinatura.
 - [ ] (C) impossibilidade de o signatário negar a autoria posteriormente.
-- [ ] (D) garantia de que o conteúdo do documento permanecerá sigiloso durante a transmissão.
+- [x] (D) garantia de que o conteúdo do documento permanecerá sigiloso durante a transmissão.
 - [ ] (E) vinculação da assinatura a um par de chaves associado ao signatário.
