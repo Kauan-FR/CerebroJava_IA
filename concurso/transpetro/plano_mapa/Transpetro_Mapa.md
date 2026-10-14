@@ -119,7 +119,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] 9.16 ISO 31000, ISO 22301, Sarbanes-Oxley
 - [ ] 9.17 Políticas de segurança
 - [ ] 9.18 Classificação de informações
-- [ ] 9.19 ISO 27002, criptografia, certificado e assinatura digital
+- [x] 9.19 ISO 27002, criptografia, certificado e assinatura digital
 - [ ] 9.20 Segurança em nuvem
 - [ ] 9.21 Segurança em IoT
 

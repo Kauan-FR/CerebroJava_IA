@@ -96,11 +96,17 @@ A propriedade de uma função de resumo segundo a qual é inviável encontrar du
 
 Em um sistema de autenticação, recomenda-se armazenar as senhas dos usuários
 
-- [ ] (A) em texto claro, protegidas por controle de acesso ao banco.
+<font color="#00b050">- [ ] (A) em texto claro, protegidas por controle de acesso ao banco.</font>
 - [ ] (B) cifradas com algoritmo simétrico reversível.
-- [x] (C) como resumo criptográfico gerado com função específica para senhas e valor aleatório adicional (*salt*).
+<font color="#ff0000">- [x] (C) como resumo criptográfico gerado com função específica para senhas e valor aleatório adicional (*salt*).</font>
 - [ ] (D) codificadas em Base64 antes da gravação.
 - [ ] (E) assinadas digitalmente com a chave privada do servidor.
+
+>[!fail] o que exatamente se assina
+>|Objetivo|Cifra com|Decifra com|
+|---|---|---|
+|**Sigilo**|chave **pública** do destinatário|chave privada do destinatário|
+>|**Assinatura**|chave **privada** do signatário|chave pública do signatário|
 
 ---
 
