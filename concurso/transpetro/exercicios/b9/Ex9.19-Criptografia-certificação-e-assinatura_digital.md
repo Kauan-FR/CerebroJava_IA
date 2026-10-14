@@ -132,7 +132,7 @@ A assinatura digital assegura, principalmente,
 
 Para verificar uma assinatura digital, o destinatário utiliza
 
-- [ ] (A) a chave pública do signatário, comparando o resumo obtido com o resumo calculado sobre o documento recebido.
+- [x] (A) a chave pública do signatário, comparando o resumo obtido com o resumo calculado sobre o documento recebido.
 - [ ] (B) a chave privada do signatário, recalculando o documento integral.
 - [ ] (C) sua própria chave privada, decifrando o documento original.
 - [ ] (D) uma chave simétrica previamente compartilhada com o signatário.
