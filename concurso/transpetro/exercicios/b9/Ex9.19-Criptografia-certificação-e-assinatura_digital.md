@@ -109,7 +109,7 @@ Em um sistema de autenticação, recomenda-se armazenar as senhas dos usuários
 A assinatura digital de um documento é gerada, essencialmente, por meio da cifragem
 
 - [ ] (A) do resumo criptográfico do documento com a chave privada do signatário.
-- [ ] (B) do documento integral com a chave pública do destinatário.
+- [x] (B) do documento integral com a chave pública do destinatário.
 - [ ] (C) do resumo criptográfico do documento com a chave pública do signatário.
 - [ ] (D) do documento integral com uma chave simétrica compartilhada.
 - [ ] (E) da chave privada do signatário com o resumo do documento.
@@ -121,7 +121,7 @@ A assinatura digital de um documento é gerada, essencialmente, por meio da cifr
 A assinatura digital assegura, principalmente,
 
 - [ ] (A) a confidencialidade do conteúdo transmitido.
-- [ ] (B) a autenticidade, a integridade e o não repúdio do documento.
+- [x] (B) a autenticidade, a integridade e o não repúdio do documento.
 - [ ] (C) a disponibilidade do serviço ao destinatário.
 - [ ] (D) a anonimização dos dados pessoais contidos no documento.
 - [ ] (E) a compressão do conteúdo antes da transmissão.
