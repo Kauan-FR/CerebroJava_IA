@@ -104,7 +104,7 @@ Um usuário autenticado em um sistema bancário acessou, em outra aba, uma pági
 
 Esse ataque é denominado
 
-- [ ] (A) cross-site request forgery (CSRF).
+- [x] (A) cross-site request forgery (CSRF).
 - [ ] (B) cross-site scripting armazenado.
 - [ ] (C) SQL injection cega.
 - [ ] (D) negação de serviço distribuída.
@@ -116,7 +116,7 @@ Esse ataque é denominado
 
 A principal medida de prevenção contra ataques de CSRF é
 
-- [ ] (A) a utilização de token antifalsificação, único por sessão ou requisição, validado pelo servidor.
+- [x] (A) a utilização de token antifalsificação, único por sessão ou requisição, validado pelo servidor.
 - [ ] (B) a codificação da saída apresentada ao navegador.
 - [ ] (C) o uso de consultas parametrizadas no acesso ao banco de dados.
 - [ ] (D) a limitação do tamanho dos arquivos enviados pelo usuário.
@@ -128,7 +128,7 @@ A principal medida de prevenção contra ataques de CSRF é
 
 Uma diferença entre XSS e CSRF é que o XSS
 
-- [ ] (A) executa código malicioso no navegador da vítima, enquanto o CSRF induz o navegador da vítima a enviar requisição legítima não autorizada pelo usuário.
+- [x] (A) executa código malicioso no navegador da vítima, enquanto o CSRF induz o navegador da vítima a enviar requisição legítima não autorizada pelo usuário.
 - [ ] (B) induz o envio de requisições não autorizadas, enquanto o CSRF executa scripts no navegador.
 - [ ] (C) explora falhas no banco de dados, enquanto o CSRF explora falhas no sistema operacional.
 - [ ] (D) exige autenticação prévia da vítima, enquanto o CSRF dispensa sessão ativa.
@@ -142,7 +142,7 @@ Um atacante manipulou o parâmetro de nome de arquivo em uma requisição, infor
 
 Esse ataque é denominado
 
-- [ ] (A) path traversal (travessia de diretório).
+- [x] (A) path traversal (travessia de diretório).
 - [ ] (B) SQL injection.
 - [ ] (C) cross-site scripting.
 - [ ] (D) negação de serviço.
