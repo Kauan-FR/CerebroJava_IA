@@ -90,7 +90,7 @@ Esse ataque é denominado XSS
 
 Constituem medidas de prevenção contra ataques de cross-site scripting
 
-- [ ] (A) a codificação da saída (*output encoding*) e a validação da entrada fornecida pelo usuário.
+- [x] (A) a codificação da saída (*output encoding*) e a validação da entrada fornecida pelo usuário.
 - [ ] (B) o aumento da capacidade de processamento do servidor web.
 - [ ] (C) a desativação dos índices do banco de dados.
 - [ ] (D) a replicação assíncrona entre os nós da aplicação.
