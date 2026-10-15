@@ -195,7 +195,7 @@ Um atacante interceptou a comunicação entre o usuário e o servidor, passando 
 Esse ataque é denominado
 
 - [ ] (A) *man-in-the-middle*.
-- [ ] (B) *buffer overflow*.
+- [x] (B) *buffer overflow*.
 - [ ] (C) *phishing* direcionado.
 - [ ] (D) *privilege escalation*.
 - [ ] (E) *session fixation* por token estático.
