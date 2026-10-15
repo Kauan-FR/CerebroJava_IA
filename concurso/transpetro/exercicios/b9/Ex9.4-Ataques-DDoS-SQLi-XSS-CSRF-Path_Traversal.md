@@ -79,7 +79,7 @@ Um atacante enviou à vítima um link contendo código malicioso no parâmetro d
 Esse ataque é denominado XSS
 
 - [ ] (A) armazenado.
-- [ ] (B) refletido.
+- [x] (B) refletido.
 - [ ] (C) baseado em DOM exclusivamente.
 - [ ] (D) persistente de segundo nível.
 - [ ] (E) encadeado por sessão.
