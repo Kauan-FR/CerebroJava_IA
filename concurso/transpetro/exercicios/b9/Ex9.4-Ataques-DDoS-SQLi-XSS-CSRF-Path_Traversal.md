@@ -24,7 +24,7 @@ Um ataque em que o agente malicioso envia volume massivo de requisições a part
 
 A principal diferença entre um ataque DoS e um ataque DDoS é que o DDoS
 
-- [ ] (A) parte de múltiplas origens distribuídas, usualmente máquinas comprometidas que compõem uma botnet.
+- [x] (A) parte de múltiplas origens distribuídas, usualmente máquinas comprometidas que compõem uma botnet.
 - [ ] (B) explora vulnerabilidades no código-fonte da aplicação.
 - [ ] (C) tem por objetivo a exfiltração de dados sigilosos.
 - [ ] (D) depende necessariamente da obtenção prévia de credenciais válidas.
@@ -39,7 +39,7 @@ Um atacante inseriu, em um campo de formulário, a expressão `' OR '1'='1`, obt
 Esse ataque é denominado
 
 - [ ] (A) cross-site scripting.
-- [ ] (B) SQL injection.
+- [x] (B) SQL injection.
 - [ ] (C) path traversal.
 - [ ] (D) negação de serviço.
 - [ ] (E) sequestro de sessão por força bruta.
@@ -50,7 +50,7 @@ Esse ataque é denominado
 
 A principal medida de prevenção contra ataques de SQL injection é
 
-- [ ] (A) a utilização de consultas parametrizadas (*prepared statements*) com vinculação de parâmetros.
+- [x] (A) a utilização de consultas parametrizadas (*prepared statements*) com vinculação de parâmetros.
 - [ ] (B) o aumento do tempo de expiração das sessões de usuário.
 - [ ] (C) a compressão das respostas enviadas pelo servidor.
 - [ ] (D) a adoção de certificado digital emitido por autoridade credenciada.
@@ -65,7 +65,7 @@ Um atacante conseguiu inserir código de script em um campo de comentário de um
 Esse ataque é denominado
 
 - [ ] (A) SQL injection.
-- [ ] (B) cross-site scripting (XSS) armazenado.
+- [x] (B) cross-site scripting (XSS) armazenado.
 - [ ] (C) cross-site request forgery.
 - [ ] (D) path traversal.
 - [ ] (E) ataque de força bruta.
