@@ -194,11 +194,17 @@ Um atacante interceptou a comunicação entre o usuário e o servidor, passando 
 
 Esse ataque é denominado
 
-- [ ] (A) *man-in-the-middle*.
-- [x] (B) *buffer overflow*.
+<font color="#00b050">- [ ] (A) *man-in-the-middle*.</font>
+<font color="#ff0000">- [x] (B) *buffer overflow*.</font>
 - [ ] (C) *phishing* direcionado.
 - [ ] (D) *privilege escalation*.
 - [ ] (E) *session fixation* por token estático.
+
+>[!fail] man-in-the-middle x buffer overflow
+>||Onde age|Como funciona|
+|---|---|---|
+|**MITM**|**no caminho** entre as partes|o atacante se posiciona entre cliente e servidor e retransmite o tráfego, lendo ou alterando|
+|**Buffer overflow**|**na memória** do processo|grava mais dados que o buffer comporta, sobrescrevendo >áreas adjacentes para desviar a execução|
 
 ---
 

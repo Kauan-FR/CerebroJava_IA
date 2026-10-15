@@ -100,7 +100,7 @@ Fonte: https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/22/
 - [ ] 9.1 Segurança física e lógica
 - [ ] 9.2 Firewall, Proxy, IPS/IDS, DLP, CASB, SIEM, EDR, WAF
 - [ ] 9.3 Malware: ransomware, vírus, worm, spyware, rootkit
-- [ ] 9.4 Ataques: DDoS, SQLi, XSS, CSRF, Path Traversal
+- [x] 9.4 Ataques: DDoS, SQLi, XSS, CSRF, Path Traversal
 - [ ] 9.5 Desenvolvimento seguro, SAST/DAST/IAST
 - [ ] 9.6 VPN
 - [ ] 9.7 MDM
