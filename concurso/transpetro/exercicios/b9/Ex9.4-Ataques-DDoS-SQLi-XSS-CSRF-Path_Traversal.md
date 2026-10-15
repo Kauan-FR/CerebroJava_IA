@@ -210,6 +210,6 @@ Os ataques a aplicações web apresentam características bem delimitadas.
 
 - [ ] (A) exploração da ausência de tratamento adequado da entrada fornecida pelo usuário.
 - [ ] (B) possibilidade de leitura, alteração ou exclusão de dados não autorizados.
-- [ ] (C) execução de código no navegador dos demais usuários da aplicação.
+- [x] (C) execução de código no navegador dos demais usuários da aplicação.
 - [ ] (D) possibilidade de contornar mecanismos de autenticação da aplicação.
 - [ ] (E) prevenção por meio do uso de consultas parametrizadas.
