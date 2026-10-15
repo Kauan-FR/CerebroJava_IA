@@ -271,3 +271,78 @@ Tipo:
 │ ⚠⚠ CORRELAÇÃO ≠ CAUSALIDADE                     │
 │ viés de confirmação = só ver o que confirma     │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 33 — CRIPTOGRAFIA               [T-9.19] │
+├─────────────────────────────────────────────────┤
+│ SIMÉTRICA: 1 chave, RÁPIDA, AES/DES/3DES        │
+│   problema = distribuir a chave                 │
+│ ASSIMÉTRICA: par, LENTA, RSA/ECC/Diffie-Hellman │
+│ HÍBRIDA = assimétrica troca, simétrica cifra    │
+│                                                 │
+│ ⚠⚠ QUAL CHAVE:                                  │
+│   esconder → PÚBLICA DO DESTINATÁRIO            │
+│   assinar  → PRIVADA DO REMETENTE               │
+│                                                 │
+│ confidencialidade = criptografia                │
+│ integridade = HASH                              │
+│ autenticidade e NÃO REPÚDIO = ASSINATURA        │
+└─────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 34 — HASH, ASSINATURA E CERT.   [T-9.19] │
+├─────────────────────────────────────────────────┤
+│ HASH: unidirecional, tamanho fixo,              │
+│   efeito avalanche, resistente a colisão        │
+│   seguros: SHA-256, SHA-3                       │
+│   quebrados: MD5, SHA-1                         │
+│ ⚠ hash não se decifra                           │
+│                                                 │
+│ ASSINATURA: cifra o HASH com a PRIVADA          │
+│   dá integridade + autenticidade + não repúdio  │
+│   NÃO dá confidencialidade                      │
+│ ⚠ digital ≠ digitalizada (imagem escaneada)     │
+│                                                 │
+│ CERTIFICADO: liga chave pública a identidade    │
+│   padrão X.509                                  │
+│   AC EMITE | AR IDENTIFICA | LCR = revogados    │
+│   Brasil: ICP-Brasil, AC-Raiz = ITI             │
+└─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 35 — ATAQUES I                   [T-9.4] │
+├─────────────────────────────────────────────────┤
+│ DoS = 1 origem | DDoS = botnet (zumbis)         │
+│   atinge DISPONIBILIDADE                        │
+│                                                 │
+│ SQLi = altera a ESTRUTURA da consulta           │
+│   ⚠ defesa = CONSULTA PARAMETRIZADA             │
+│                                                 │
+│ XSS = script no navegador de OUTRO usuário      │
+│   refletido = no link, não fica                 │
+│   armazenado = no servidor, atinge todos        │
+│   defesa = output encoding, CSP, HttpOnly       │
+│                                                 │
+│ PATH TRAVERSAL = ../ sai do diretório           │
+└─────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 36 — XSS × CSRF                  [T-9.4] │
+├─────────────────────────────────────────────────┤
+│ XSS  → INJETA código (script no navegador)      │
+│ CSRF → FORÇA ação (requisição em nome da vítima)│
+│                                                 │
+│ XSS explora a confiança do USUÁRIO no site      │
+│ CSRF explora a confiança do SITE no usuário     │
+│   autenticado (precisa de sessão ativa)         │
+│                                                 │
+│ defesa XSS  = encoding de saída, CSP            │
+│ defesa CSRF = TOKEN anti-CSRF, SameSite         │
+│                                                 │
+│ zero-day = falha sem correção                   │
+│ phishing = engenharia social                    │
+└─────────────────────────────────────────────────┘
