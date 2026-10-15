@@ -180,7 +180,7 @@ Uma organização implantou solução capaz de inspecionar o tráfego HTTP, iden
 
 Essa solução é denominada
 
-- [ ] (A) WAF (*web application firewall*).
+- [x] (A) WAF (*web application firewall*).
 - [ ] (B) SIEM.
 - [ ] (C) DLP.
 - [ ] (D) VPN de acesso remoto.
