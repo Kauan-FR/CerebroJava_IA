@@ -154,7 +154,7 @@ Esse ataque é denominado
 
 A prevenção contra ataques de path traversal apoia-se principalmente
 
-- [ ] (A) na validação e na normalização dos caminhos informados, restringindo o acesso a um diretório previamente autorizado.
+- [x] (A) na validação e na normalização dos caminhos informados, restringindo o acesso a um diretório previamente autorizado.
 - [ ] (B) no aumento do número de réplicas do servidor de aplicação.
 - [ ] (C) na adoção de algoritmos de resumo criptográfico mais robustos.
 - [ ] (D) na redução do tempo de expiração dos certificados digitais.
@@ -166,7 +166,7 @@ A prevenção contra ataques de path traversal apoia-se principalmente
 
 Um conjunto de computadores infectados e controlados remotamente por um atacante, utilizado para desferir ataques coordenados, é denominado
 
-- [ ] (A) botnet.
+- [x] (A) botnet.
 - [ ] (B) honeypot.
 - [ ] (C) sandbox.
 - [ ] (D) bastion host.
