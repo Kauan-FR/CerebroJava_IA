@@ -346,3 +346,27 @@ Tipo:
 │ zero-day = falha sem correção                   │
 │ phishing = engenharia social                    │
 └─────────────────────────────────────────────────┘
+
+---
+
+┌─────────────────────────────────────────────────┐
+│ CARTÃO 37 — MALWARE                     [T-9.3] │
+├─────────────────────────────────────────────────┤
+│ VÍRUS = precisa de hospedeiro E de ação do      │
+│   usuário (pega carona)                         │
+│ WORM = autônomo, autopropaga pela rede          │
+│                                                 │
+│ ransomware = cifra e cobra → defesa é BACKUP    │
+│ spyware = espiona | keylogger = teclas          │
+│ rootkit = privilégio + ESCONDE (kernel)         │
+│ trojan = disfarça, NÃO replica                  │
+│ backdoor = porta p/ acesso futuro               │
+│ bot/zumbi → botnet                              │
+│                                                 │
+│ ⚠ rootkit ESCONDE | backdoor ABRE               │
+│                                                 │
+│ exploit = código que explora a falha            │
+│ zero-day = falha sem correção                   │
+│ vulnerabilidade(fraqueza) · ameaça(agente) ·    │
+│   risco(probabilidade × impacto)                │
+└─────────────────────────────────────────────────┘
